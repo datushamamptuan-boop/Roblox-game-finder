@@ -18,6 +18,7 @@ Notes:
 
 import json
 import os
+import uuid
 import requests
 from datetime import datetime, timezone
 
@@ -55,13 +56,16 @@ def save_state(state):
 def get_seed_universe_ids():
     """Pull candidate universe IDs from Roblox's chronological 'New' discovery feed."""
     ids = set()
+    session_id = str(uuid.uuid4())
     try:
         r = requests.get(
             "https://apis.roblox.com/explore-api/v1/get-sorts",
+            params={"sessionId": session_id},
             headers=HEADERS, timeout=15,
         )
         r.raise_for_status()
         sorts = r.json().get("sorts", [])
+        print(f"Available sort names: {[s.get('sortDisplayName') for s in sorts]}")
 
         # Find any sort that looks like a "new" / chronological feed
         candidate_sorts = [
@@ -73,7 +77,7 @@ def get_seed_universe_ids():
             try:
                 r2 = requests.get(
                     "https://apis.roblox.com/explore-api/v1/get-sort-content",
-                    params={"sortId": s["sortId"]},
+                    params={"sessionId": session_id, "sortId": s["sortId"]},
                     headers=HEADERS, timeout=15,
                 )
                 r2.raise_for_status()

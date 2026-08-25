@@ -67,10 +67,10 @@ def get_seed_universe_ids():
         sorts = r.json().get("sorts", [])
         print(f"Available sort names: {[s.get('sortDisplayName') for s in sorts]}")
 
-        # Find any sort that looks like a "new" / chronological feed
+        # Match against the real category names Roblox uses
         candidate_sorts = [
             s for s in sorts
-            if any(kw in (s.get("sortDisplayName") or "").lower() for kw in ["new", "rising", "recent"])
+            if any(kw in (s.get("sortDisplayName") or "").lower() for kw in ["up-and-coming", "up and coming", "trending"])
         ]
 
         for s in candidate_sorts:

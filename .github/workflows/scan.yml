@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Pull latest before scanning
+        run: git pull origin main
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -28,5 +31,4 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git diff --staged --quiet || git commit -m "Scan update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git pull --rebase origin main
           git push

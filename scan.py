@@ -28,10 +28,11 @@ RESULTS_FILE = "data/results.json"
 
 # --- Tune these to match your team's criteria ---
 CCU_MIN = 10
-CCU_MAX_HARD = 2000        # absolute ceiling (early-algorithm allowance)
-CCU_SMALL_CEILING = 200    # "small, pre-algorithm" ceiling
+CCU_SMALL_CEILING = 200      # ceiling for "small, pre-algorithm" games in general
+CCU_RAPID_GROWTH_CEILING = 2000   # higher allowance, but only for very new games (see below)
+RAPID_GROWTH_MAX_AGE_DAYS = 7     # "brand new... grown rapidly in the last few days"
 VISITS_MAX = 200_000
-MAX_AGE_DAYS = 60          # "less than 2 months old"
+MAX_AGE_DAYS = 60          # "less than 2 months old" — overall age cutoff for any match
 HISTORY_CAP = 300          # max snapshots kept per game
 
 HEADERS = {
@@ -176,9 +177,10 @@ def passes_filters(game):
 
     if visits > VISITS_MAX:
         return False
-    if not (CCU_MIN <= ccu <= CCU_MAX_HARD):
+    if ccu < CCU_MIN:
         return False
 
+    age_days = None
     created = game.get("created")
     if created:
         try:
@@ -188,6 +190,16 @@ def passes_filters(game):
                 return False
         except ValueError:
             pass  # if we can't parse the date, don't filter it out on that basis
+
+    # Very new games showing rapid growth get more room (up to 2K CCU).
+    # Everything else has to stay under the small/pre-algorithm ceiling.
+    if age_days is not None and age_days <= RAPID_GROWTH_MAX_AGE_DAYS:
+        ccu_ceiling = CCU_RAPID_GROWTH_CEILING
+    else:
+        ccu_ceiling = CCU_SMALL_CEILING
+
+    if ccu > ccu_ceiling:
+        return False
 
     return True
 

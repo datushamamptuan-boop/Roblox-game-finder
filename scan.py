@@ -27,12 +27,9 @@ STATE_FILE = "data/state.json"
 RESULTS_FILE = "data/results.json"
 
 # --- Tune these to match your team's criteria ---
-CCU_MIN = 10
-CCU_SMALL_CEILING = 200      # ceiling for "small, pre-algorithm" games in general
-CCU_RAPID_GROWTH_CEILING = 2000   # higher allowance, but only for very new games (see below)
-RAPID_GROWTH_MAX_AGE_DAYS = 7     # "brand new... grown rapidly in the last few days"
+CCU_MIN = 3                # just a sanity floor to skip dead/empty games
 VISITS_MAX = 200_000
-MAX_AGE_DAYS = 60          # "less than 2 months old" — overall age cutoff for any match
+MAX_AGE_DAYS = 60          # "less than 2 months old"
 HISTORY_CAP = 300          # max snapshots kept per game
 
 HEADERS = {
@@ -180,7 +177,6 @@ def passes_filters(game):
     if ccu < CCU_MIN:
         return False
 
-    age_days = None
     created = game.get("created")
     if created:
         try:
@@ -191,17 +187,59 @@ def passes_filters(game):
         except ValueError:
             pass  # if we can't parse the date, don't filter it out on that basis
 
-    # Very new games showing rapid growth get more room (up to 2K CCU).
-    # Everything else has to stay under the small/pre-algorithm ceiling.
-    if age_days is not None and age_days <= RAPID_GROWTH_MAX_AGE_DAYS:
-        ccu_ceiling = CCU_RAPID_GROWTH_CEILING
-    else:
-        ccu_ceiling = CCU_SMALL_CEILING
-
-    if ccu > ccu_ceiling:
-        return False
-
     return True
+
+
+def compute_trend(history):
+    """Score the overall shape of a game's CCU history — is this a real
+    sustained/accelerating climb (like the Rotrends example), flat, or
+    declining? Uses the whole curve, not just two endpoints, so a single
+    noisy snapshot doesn't swing the result.
+
+    This isn't a real AI judgment call — it's a transparent heuristic
+    standing in for one, since running an actual model per-game would cost
+    real money via the Anthropic API. It targets the same thing though:
+    curve shape, not a fixed CCU number.
+    """
+    MIN_POINTS = 4
+    ccus = [h["ccu"] for h in history]
+    n = len(ccus)
+
+    if n < MIN_POINTS:
+        return {"score": None, "label": "insufficient_data", "growth_ratio": None}
+
+    # Overall slope via simple linear regression (no numpy dependency)
+    xs = list(range(n))
+    xbar = sum(xs) / n
+    ybar = sum(ccus) / n
+    num = sum((x - xbar) * (y - ybar) for x, y in zip(xs, ccus))
+    den = sum((x - xbar) ** 2 for x in xs) or 1
+    slope = num / den                    # CCU change per snapshot
+    relative_slope = slope / max(ybar, 1)  # normalized so it's comparable across game sizes
+
+    # Compare the average of the first half vs second half — smoother
+    # than just comparing endpoints, less swayed by one lucky/unlucky snapshot
+    half = n // 2
+    early_avg = sum(ccus[:half]) / half
+    late_avg = sum(ccus[half:]) / (n - half)
+    growth_ratio = late_avg / max(early_avg, 1)
+
+    # Combine both signals into a 0-100 score, centered at 50 (flat)
+    score = 50
+    score += min(max(relative_slope * 500, -40), 40)
+    score += min(max((growth_ratio - 1) * 40, -30), 40)
+    score = round(max(0, min(100, score)), 1)
+
+    if score >= 70:
+        label = "strong_upward"
+    elif score >= 55:
+        label = "mild_upward"
+    elif score <= 30:
+        label = "declining"
+    else:
+        label = "flat_or_mixed"
+
+    return {"score": score, "label": label, "growth_ratio": round(growth_ratio, 2)}
 
 
 def main():
@@ -238,8 +276,12 @@ def main():
         entry["history"] = entry["history"][-HISTORY_CAP:]
         entry["latest_ccu"] = ccu
         entry["latest_visits"] = visits
-        entry["small_pre_algorithm"] = ccu <= CCU_SMALL_CEILING
         entry["last_seen"] = now_iso
+
+        trend = compute_trend(entry["history"])
+        entry["trend_score"] = trend["score"]
+        entry["trend_label"] = trend["label"]
+        entry["growth_ratio"] = trend["growth_ratio"]
 
         known_games[uid] = entry
         matched += 1
@@ -247,10 +289,11 @@ def main():
     state["known_games"] = known_games
     save_state(state)
 
-    # Flat results file for the dashboard to consume, newest-matched first
+    # Flat results file for the dashboard to consume — best trend shape first,
+    # with undetermined (not enough history yet) games sorted after scored ones
     results_list = sorted(
         known_games.values(),
-        key=lambda g: g.get("last_seen", ""),
+        key=lambda g: (g.get("trend_score") is not None, g.get("trend_score") or 0),
         reverse=True,
     )
     os.makedirs(os.path.dirname(RESULTS_FILE), exist_ok=True)

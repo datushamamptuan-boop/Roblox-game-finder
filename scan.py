@@ -53,10 +53,34 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
+def extract_universe_ids(obj, found=None):
+    """Recursively pull any universeId values out of an arbitrarily-shaped
+    JSON response. Used because these endpoints are undocumented and their
+    exact structure can vary between categories/search results."""
+    if found is None:
+        found = set()
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            if k.lower() == "universeid" and isinstance(v, int):
+                found.add(v)
+            else:
+                extract_universe_ids(v, found)
+    elif isinstance(obj, list):
+        for item in obj:
+            extract_universe_ids(item, found)
+    return found
+
+
+GENRE_SEARCH_TERMS = ["simulator", "tycoon", "obby", "clicker", "roleplay tycoon"]
+
+
 def get_seed_universe_ids():
-    """Pull candidate universe IDs from Roblox's chronological 'New' discovery feed."""
+    """Pull candidate universe IDs from every Discover category, plus
+    genre-targeted searches for simulator/tycoon-style games."""
     ids = set()
     session_id = str(uuid.uuid4())
+
+    # --- 1. Every Discover category, not just "new"-sounding ones ---
     try:
         r = requests.get(
             "https://apis.roblox.com/explore-api/v1/get-sorts",
@@ -67,31 +91,42 @@ def get_seed_universe_ids():
         sorts = r.json().get("sorts", [])
         print(f"Available sort names: {[s.get('sortDisplayName') for s in sorts]}")
 
-        # Match against the real category names Roblox uses
-        candidate_sorts = [
-            s for s in sorts
-            if any(kw in (s.get("sortDisplayName") or "").lower() for kw in ["up-and-coming", "up and coming", "trending"])
-        ]
-
-        for s in candidate_sorts:
+        for s in sorts:
+            sort_id = s.get("sortId")
+            if not sort_id:
+                continue
             try:
                 r2 = requests.get(
                     "https://apis.roblox.com/explore-api/v1/get-sort-content",
-                    params={"sessionId": session_id, "sortId": s["sortId"]},
+                    params={"sessionId": session_id, "sortId": sort_id},
                     headers=HEADERS, timeout=15,
                 )
                 r2.raise_for_status()
-                for game in r2.json().get("games", []):
-                    uid = game.get("universeId")
-                    if uid:
-                        ids.add(uid)
+                found = extract_universe_ids(r2.json())
+                print(f"  sort '{s.get('sortDisplayName')}': {len(found)} ids")
+                ids |= found
             except Exception as e:
                 print(f"  sort '{s.get('sortDisplayName')}' failed (non-fatal): {e}")
-
     except Exception as e:
-        print(f"Seed fetch failed entirely this run (non-fatal): {e}")
+        print(f"Sort-based seed fetch failed entirely this run (non-fatal): {e}")
 
-    print(f"Seeded {len(ids)} candidate universe IDs this run")
+    # --- 2. Genre-targeted search, since discover categories alone won't
+    #        reliably surface simulator/tycoon games specifically ---
+    for term in GENRE_SEARCH_TERMS:
+        try:
+            r3 = requests.get(
+                "https://apis.roblox.com/search-api/omni-search",
+                params={"SearchQuery": term, "SessionId": session_id},
+                headers=HEADERS, timeout=15,
+            )
+            r3.raise_for_status()
+            found = extract_universe_ids(r3.json())
+            print(f"  search '{term}': {len(found)} ids")
+            ids |= found
+        except Exception as e:
+            print(f"  search '{term}' failed (non-fatal): {e}")
+
+    print(f"Seeded {len(ids)} total candidate universe IDs this run")
     return ids
 
 

@@ -2,7 +2,7 @@ name: Roblox Game Scout
 
 on:
   schedule:
-    - cron: "0 * * * *"   # runs every hour, on the hour (UTC)
+    - cron: "*/10 * * * *"   # runs every 10 minutes
   workflow_dispatch: {}    # lets you trigger it manually from the Actions tab too
 
 permissions:

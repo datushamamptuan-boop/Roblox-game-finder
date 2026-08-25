@@ -69,6 +69,9 @@ def get_with_retry(url, params, max_retries=3):
             if attempt == max_retries - 1:
                 raise
     raise Exception("exhausted retries")
+
+
+def extract_universe_ids(obj, found=None):
     """Recursively pull any universeId values out of an arbitrarily-shaped
     JSON response. Used because these endpoints are undocumented and their
     exact structure can vary between categories/search results."""

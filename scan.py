@@ -18,6 +18,7 @@ Notes:
 
 import json
 import os
+import time
 import uuid
 import requests
 from datetime import datetime, timezone
@@ -107,6 +108,7 @@ def get_seed_universe_ids():
                 ids |= found
             except Exception as e:
                 print(f"  sort '{s.get('sortDisplayName')}' failed (non-fatal): {e}")
+            time.sleep(1)
     except Exception as e:
         print(f"Sort-based seed fetch failed entirely this run (non-fatal): {e}")
 
@@ -125,6 +127,7 @@ def get_seed_universe_ids():
             ids |= found
         except Exception as e:
             print(f"  search '{term}' failed (non-fatal): {e}")
+        time.sleep(2)  # avoid tripping Roblox's rate limit between search calls
 
     print(f"Seeded {len(ids)} total candidate universe IDs this run")
     return ids

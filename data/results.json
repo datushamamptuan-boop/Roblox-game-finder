@@ -1,5 +1,27 @@
 {
-  "generated_at": "2026-08-25T03:28:36.518837+00:00",
-  "count": 0,
-  "games": []
+  "generated_at": "2026-08-25T03:30:52.481143+00:00",
+  "count": 1,
+  "games": [
+    {
+      "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
+      "universeId": "10571722689",
+      "rootPlaceId": 130641102725850,
+      "description": "\ud83d\udd25 MOG OR DIE \n\nLIKE GOAL = 300 LIKES FOR CODE\n\nStart as a tiny SUB5 and build yourself into the ultimate MOGGER.\n\n\ud83e\udd5b Drink Milk to grow taller  \n\ud83d\udd28 Collect Hammers to improve your Face  \n\ud83d\uddbc\ufe0f Find Picture Frames to build your Frame  \n\ud83d\udca7 Collect Water to lower your Bodyfat  \n\nChallenge NPCs and real players in MOG BATTLES where your Face, Frame, Height, and Bodyfat are compared.\n\nWin the battle and choo",
+      "genre": "All",
+      "created": "2026-07-26T11:02:04.911Z",
+      "creatorName": "Build a Ore Farm",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-25T03:30:52.481143+00:00",
+          "ccu": 507,
+          "visits": 161403
+        }
+      ],
+      "latest_ccu": 507,
+      "latest_visits": 161403,
+      "small_pre_algorithm": false,
+      "last_seen": "2026-08-25T03:30:52.481143+00:00"
+    }
+  ]
 }

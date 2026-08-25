@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-08-25T19:52:13.379273+00:00",
+  "generated_at": "2026-08-25T21:03:03.511753+00:00",
   "count": 2,
   "games": [
-    {
-      "name": "[New Rebirth] Pay Your Debts!",
-      "universeId": "10647180866",
-      "rootPlaceId": 76717770497649,
-      "description": "\ud83d\udca1 Join the LightBULB Creates! group to receive sneak peaks on upcoming updates! \ud83d\udca1\n\n \ud83d\udc16 Welcome to Pay Your Debts | Smash Piggy Banks! \ud83d\udc16 \n\n\ud83c\udfe0 Work hard, earn money, and keep your bills paid!\n\ud83d\udd28 Upgrade your hammers, and beat the final boss!\n\ud83d\udcb8  Money is everything... but one missed payment and you go bankrupt!\n\ud83d\udc65 Compete with friends and other players to see who can beat the game the quickest!\n\n\ud83c\udfa7 Relaxi",
-      "genre": "All",
-      "created": "2026-08-07T09:08:55.341Z",
-      "creatorName": "LightBULB Creates!",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-08-25T10:26:33.096662+00:00",
-          "ccu": 421,
-          "visits": 121915
-        },
-        {
-          "t": "2026-08-25T11:51:11.043102+00:00",
-          "ccu": 539,
-          "visits": 123481
-        },
-        {
-          "t": "2026-08-25T14:30:21.277566+00:00",
-          "ccu": 654,
-          "visits": 127006
-        },
-        {
-          "t": "2026-08-25T16:22:08.266308+00:00",
-          "ccu": 697,
-          "visits": 129749
-        },
-        {
-          "t": "2026-08-25T18:02:13.326273+00:00",
-          "ccu": 756,
-          "visits": 132465
-        },
-        {
-          "t": "2026-08-25T19:52:13.379273+00:00",
-          "ccu": 792,
-          "visits": 135823
-        }
-      ],
-      "latest_ccu": 792,
-      "latest_visits": 135823,
-      "last_seen": "2026-08-25T19:52:13.379273+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.39
-    },
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
       "universeId": "10571722689",
@@ -114,15 +66,73 @@
           "t": "2026-08-25T19:52:13.379273+00:00",
           "ccu": 947,
           "visits": 186370
+        },
+        {
+          "t": "2026-08-25T21:03:03.511753+00:00",
+          "ccu": 1345,
+          "visits": 190749
         }
       ],
-      "latest_ccu": 947,
-      "latest_visits": 186370,
+      "latest_ccu": 1345,
+      "latest_visits": 190749,
       "small_pre_algorithm": false,
-      "last_seen": "2026-08-25T19:52:13.379273+00:00",
-      "trend_score": 77.9,
+      "last_seen": "2026-08-25T21:03:03.511753+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.09
+      "growth_ratio": 1.56
+    },
+    {
+      "name": "[New Rebirth] Pay Your Debts!",
+      "universeId": "10647180866",
+      "rootPlaceId": 76717770497649,
+      "description": "\ud83d\udca1 Join the LightBULB Creates! group to receive sneak peaks on upcoming updates! \ud83d\udca1\n\n \ud83d\udc16 Welcome to Pay Your Debts | Smash Piggy Banks! \ud83d\udc16 \n\n\ud83c\udfe0 Work hard, earn money, and keep your bills paid!\n\ud83d\udd28 Upgrade your hammers, and beat the final boss!\n\ud83d\udcb8  Money is everything... but one missed payment and you go bankrupt!\n\ud83d\udc65 Compete with friends and other players to see who can beat the game the quickest!\n\n\ud83c\udfa7 Relaxi",
+      "genre": "All",
+      "created": "2026-08-07T09:08:55.341Z",
+      "creatorName": "LightBULB Creates!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-25T10:26:33.096662+00:00",
+          "ccu": 421,
+          "visits": 121915
+        },
+        {
+          "t": "2026-08-25T11:51:11.043102+00:00",
+          "ccu": 539,
+          "visits": 123481
+        },
+        {
+          "t": "2026-08-25T14:30:21.277566+00:00",
+          "ccu": 654,
+          "visits": 127006
+        },
+        {
+          "t": "2026-08-25T16:22:08.266308+00:00",
+          "ccu": 697,
+          "visits": 129749
+        },
+        {
+          "t": "2026-08-25T18:02:13.326273+00:00",
+          "ccu": 756,
+          "visits": 132465
+        },
+        {
+          "t": "2026-08-25T19:52:13.379273+00:00",
+          "ccu": 792,
+          "visits": 135823
+        },
+        {
+          "t": "2026-08-25T21:03:03.511753+00:00",
+          "ccu": 783,
+          "visits": 139011
+        }
+      ],
+      "latest_ccu": 783,
+      "latest_visits": 139011,
+      "last_seen": "2026-08-25T21:03:03.511753+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.41
     }
   ]
 }

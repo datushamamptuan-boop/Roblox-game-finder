@@ -64,15 +64,20 @@
           "t": "2026-08-25T19:52:13.379273+00:00",
           "ccu": 947,
           "visits": 186370
+        },
+        {
+          "t": "2026-08-25T21:03:03.511753+00:00",
+          "ccu": 1345,
+          "visits": 190749
         }
       ],
-      "latest_ccu": 947,
-      "latest_visits": 186370,
+      "latest_ccu": 1345,
+      "latest_visits": 190749,
       "small_pre_algorithm": false,
-      "last_seen": "2026-08-25T19:52:13.379273+00:00",
-      "trend_score": 77.9,
+      "last_seen": "2026-08-25T21:03:03.511753+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.09
+      "growth_ratio": 1.56
     },
     "10647180866": {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -113,14 +118,19 @@
           "t": "2026-08-25T19:52:13.379273+00:00",
           "ccu": 792,
           "visits": 135823
+        },
+        {
+          "t": "2026-08-25T21:03:03.511753+00:00",
+          "ccu": 783,
+          "visits": 139011
         }
       ],
-      "latest_ccu": 792,
-      "latest_visits": 135823,
-      "last_seen": "2026-08-25T19:52:13.379273+00:00",
+      "latest_ccu": 783,
+      "latest_visits": 139011,
+      "last_seen": "2026-08-25T21:03:03.511753+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.39
+      "growth_ratio": 1.41
     }
   }
 }

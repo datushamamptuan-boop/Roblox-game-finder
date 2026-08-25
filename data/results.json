@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T10:22:19.090442+00:00",
-  "count": 1,
+  "generated_at": "2026-08-25T10:26:33.096662+00:00",
+  "count": 2,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -36,12 +36,43 @@
           "t": "2026-08-25T04:06:51.709608+00:00",
           "ccu": 476,
           "visits": 162420
+        },
+        {
+          "t": "2026-08-25T10:26:33.096662+00:00",
+          "ccu": 274,
+          "visits": 169260
         }
       ],
-      "latest_ccu": 476,
-      "latest_visits": 162420,
+      "latest_ccu": 274,
+      "latest_visits": 169260,
       "small_pre_algorithm": false,
-      "last_seen": "2026-08-25T04:06:51.709608+00:00"
+      "last_seen": "2026-08-25T10:26:33.096662+00:00",
+      "trend_score": 2.3,
+      "trend_label": "declining",
+      "growth_ratio": 0.81
+    },
+    {
+      "name": "[New Rebirth] Pay Your Debts!",
+      "universeId": "10647180866",
+      "rootPlaceId": 76717770497649,
+      "description": "\ud83d\udca1 Join the LightBULB Creates! group to receive sneak peaks on upcoming updates! \ud83d\udca1\n\n \ud83d\udc16 Welcome to Pay Your Debts | Smash Piggy Banks! \ud83d\udc16 \n\n\ud83c\udfe0 Work hard, earn money, and keep your bills paid!\n\ud83d\udd28 Upgrade your hammers, and beat the final boss!\n\ud83d\udcb8  Money is everything... but one missed payment and you go bankrupt!\n\ud83d\udc65 Compete with friends and other players to see who can beat the game the quickest!\n\n\ud83c\udfa7 Relaxi",
+      "genre": "All",
+      "created": "2026-08-07T09:08:55.341Z",
+      "creatorName": "LightBULB Creates!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-25T10:26:33.096662+00:00",
+          "ccu": 421,
+          "visits": 121915
+        }
+      ],
+      "latest_ccu": 421,
+      "latest_visits": 121915,
+      "last_seen": "2026-08-25T10:26:33.096662+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   ]
 }

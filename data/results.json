@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:22:08.266308+00:00",
+  "generated_at": "2026-08-25T18:02:13.326273+00:00",
   "count": 2,
   "games": [
     {
@@ -31,14 +31,19 @@
           "t": "2026-08-25T16:22:08.266308+00:00",
           "ccu": 697,
           "visits": 129749
+        },
+        {
+          "t": "2026-08-25T18:02:13.326273+00:00",
+          "ccu": 756,
+          "visits": 132465
         }
       ],
-      "latest_ccu": 697,
-      "latest_visits": 129749,
-      "last_seen": "2026-08-25T16:22:08.266308+00:00",
+      "latest_ccu": 756,
+      "latest_visits": 132465,
+      "last_seen": "2026-08-25T18:02:13.326273+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.41
+      "growth_ratio": 1.46
     },
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -94,15 +99,20 @@
           "t": "2026-08-25T16:22:08.266308+00:00",
           "ccu": 542,
           "visits": 177161
+        },
+        {
+          "t": "2026-08-25T18:02:13.326273+00:00",
+          "ccu": 675,
+          "visits": 180853
         }
       ],
-      "latest_ccu": 542,
-      "latest_visits": 177161,
+      "latest_ccu": 675,
+      "latest_visits": 180853,
       "small_pre_algorithm": false,
-      "last_seen": "2026-08-25T16:22:08.266308+00:00",
-      "trend_score": 32.2,
+      "last_seen": "2026-08-25T18:02:13.326273+00:00",
+      "trend_score": 52.0,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.83
+      "growth_ratio": 0.92
     }
   ]
 }

@@ -54,7 +54,23 @@ def save_state(state):
         json.dump(state, f, indent=2)
 
 
-def extract_universe_ids(obj, found=None):
+def get_with_retry(url, params, max_retries=3):
+    """GET with backoff on 429s — flat delays weren't enough since Roblox's
+    limit here is stricter than expected, especially from shared CI IPs."""
+    for attempt in range(max_retries):
+        try:
+            r = requests.get(url, params=params, headers=HEADERS, timeout=15)
+            if r.status_code == 429:
+                wait = 8 * (attempt + 1)
+                print(f"    rate limited, waiting {wait}s before retry {attempt + 1}/{max_retries}")
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            return r
+        except requests.exceptions.HTTPError:
+            if attempt == max_retries - 1:
+                raise
+    raise Exception("exhausted retries")
     """Recursively pull any universeId values out of an arbitrarily-shaped
     JSON response. Used because these endpoints are undocumented and their
     exact structure can vary between categories/search results."""
@@ -72,7 +88,7 @@ def extract_universe_ids(obj, found=None):
     return found
 
 
-GENRE_SEARCH_TERMS = ["simulator", "tycoon", "obby", "clicker", "roleplay tycoon"]
+GENRE_SEARCH_TERMS = ["simulator", "tycoon", "obby"]
 
 
 def get_seed_universe_ids():
@@ -116,18 +132,16 @@ def get_seed_universe_ids():
     #        reliably surface simulator/tycoon games specifically ---
     for term in GENRE_SEARCH_TERMS:
         try:
-            r3 = requests.get(
+            r3 = get_with_retry(
                 "https://apis.roblox.com/search-api/omni-search",
                 params={"SearchQuery": term, "SessionId": session_id},
-                headers=HEADERS, timeout=15,
             )
-            r3.raise_for_status()
             found = extract_universe_ids(r3.json())
             print(f"  search '{term}': {len(found)} ids")
             ids |= found
         except Exception as e:
             print(f"  search '{term}' failed (non-fatal): {e}")
-        time.sleep(2)  # avoid tripping Roblox's rate limit between search calls
+        time.sleep(3)
 
     print(f"Seeded {len(ids)} total candidate universe IDs this run")
     return ids

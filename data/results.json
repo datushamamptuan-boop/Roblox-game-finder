@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:29:27.986830+00:00",
+  "generated_at": "2026-08-28T22:49:14.444822+00:00",
   "count": 4,
   "games": [
     {
@@ -85,6 +85,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.78
+    },
+    {
+      "name": "Strikeborn",
+      "universeId": "10761884278",
+      "rootPlaceId": 80167904212435,
+      "description": "[GAME IS IN EARLY ACCESS]\nLike and favorite the game for more updates\n\nDevices Supported:\nController, PC, and Mobile\n\nThis game includes randomized rewards (emotes and spins). All items rate are displayed in-game.",
+      "genre": "All",
+      "created": "2026-08-26T04:01:44.2547088Z",
+      "creatorName": "SSSStudio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-28T21:54:28.603443+00:00",
+          "ccu": 1447,
+          "visits": 138592
+        },
+        {
+          "t": "2026-08-28T22:10:00.426794+00:00",
+          "ccu": 1504,
+          "visits": 140015
+        },
+        {
+          "t": "2026-08-28T22:29:27.986830+00:00",
+          "ccu": 1495,
+          "visits": 141875
+        },
+        {
+          "t": "2026-08-28T22:49:14.444822+00:00",
+          "ccu": 1484,
+          "visits": 143712
+        }
+      ],
+      "latest_ccu": 1484,
+      "latest_visits": 143712,
+      "last_seen": "2026-08-28T22:49:14.444822+00:00",
+      "trend_score": 53.8,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -203,47 +241,19 @@
           "t": "2026-08-28T22:29:27.986830+00:00",
           "ccu": 940,
           "visits": 166753
-        }
-      ],
-      "latest_ccu": 940,
-      "latest_visits": 166753,
-      "last_seen": "2026-08-28T22:29:27.986830+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Strikeborn",
-      "universeId": "10761884278",
-      "rootPlaceId": 80167904212435,
-      "description": "[GAME IS IN EARLY ACCESS]\nLike and favorite the game for more updates\n\nDevices Supported:\nController, PC, and Mobile\n\nThis game includes randomized rewards (emotes and spins). All items rate are displayed in-game.",
-      "genre": "All",
-      "created": "2026-08-26T04:01:44.2547088Z",
-      "creatorName": "SSSStudio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-08-28T21:54:28.603443+00:00",
-          "ccu": 1447,
-          "visits": 138592
         },
         {
-          "t": "2026-08-28T22:10:00.426794+00:00",
-          "ccu": 1504,
-          "visits": 140015
-        },
-        {
-          "t": "2026-08-28T22:29:27.986830+00:00",
-          "ccu": 1495,
-          "visits": 141875
+          "t": "2026-08-28T22:49:14.444822+00:00",
+          "ccu": 888,
+          "visits": 168161
         }
       ],
-      "latest_ccu": 1495,
-      "latest_visits": 141875,
-      "last_seen": "2026-08-28T22:29:27.986830+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 888,
+      "latest_visits": 168161,
+      "last_seen": "2026-08-28T22:49:14.444822+00:00",
+      "trend_score": 42.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.98
     }
   ]
 }

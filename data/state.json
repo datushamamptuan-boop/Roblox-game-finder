@@ -590,6 +590,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10762724957": {
+      "name": "Zee [FIXED!]",
+      "universeId": "10762724957",
+      "rootPlaceId": 134743974543044,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udccc Commands:\n\u2022 / rejoin \u2014 Rejoin the server\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u26a1 Energy:\nEnergy can be lost by sprinting.\n\n\ud83d\udd2b Gun Saves:\nGun saves save after dying or leaving while KO\u2019d.\n\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-08-26T17:41:58.7704264Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-29T20:29:21.945087+00:00",
+          "ccu": 1050,
+          "visits": 168126
+        }
+      ],
+      "latest_ccu": 1050,
+      "latest_visits": 168126,
+      "last_seen": "2026-08-29T20:29:21.945087+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

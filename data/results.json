@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:29:15.731224+00:00",
+  "generated_at": "2026-08-29T22:49:24.199616+00:00",
   "count": 6,
   "games": [
     {
@@ -225,59 +225,6 @@
       "growth_ratio": 1.17
     },
     {
-      "name": "Zee [FIXED!]",
-      "universeId": "10762724957",
-      "rootPlaceId": 134743974543044,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udccc Commands:\n\u2022 / rejoin \u2014 Rejoin the server\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u26a1 Energy:\nEnergy can be lost by sprinting.\n\n\ud83d\udd2b Gun Saves:\nGun saves save after dying or leaving while KO\u2019d.\n\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-08-26T17:41:58.7704264Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-08-29T20:29:21.945087+00:00",
-          "ccu": 1050,
-          "visits": 168126
-        },
-        {
-          "t": "2026-08-29T20:49:25.863650+00:00",
-          "ccu": 1069,
-          "visits": 169901
-        },
-        {
-          "t": "2026-08-29T21:10:02.766644+00:00",
-          "ccu": 1159,
-          "visits": 171726
-        },
-        {
-          "t": "2026-08-29T21:29:18.625548+00:00",
-          "ccu": 1129,
-          "visits": 173423
-        },
-        {
-          "t": "2026-08-29T21:49:24.707180+00:00",
-          "ccu": 1114,
-          "visits": 175216
-        },
-        {
-          "t": "2026-08-29T22:09:59.280842+00:00",
-          "ccu": 1139,
-          "visits": 177081
-        },
-        {
-          "t": "2026-08-29T22:29:15.731224+00:00",
-          "ccu": 1112,
-          "visits": 178783
-        }
-      ],
-      "latest_ccu": 1112,
-      "latest_visits": 178783,
-      "last_seen": "2026-08-29T22:29:15.731224+00:00",
-      "trend_score": 55.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.03
-    },
-    {
       "name": "[New Rebirth] Pay Your Debts!",
       "universeId": "10647180866",
       "rootPlaceId": 76717770497649,
@@ -369,6 +316,64 @@
       "trend_score": 51.5,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.01
+    },
+    {
+      "name": "Zee [FIXED!]",
+      "universeId": "10762724957",
+      "rootPlaceId": 134743974543044,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\n\ud83d\udccc Commands:\n\u2022 / rejoin \u2014 Rejoin the server\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u26a1 Energy:\nEnergy can be lost by sprinting.\n\n\ud83d\udd2b Gun Saves:\nGun saves save after dying or leaving while KO\u2019d.\n\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-08-26T17:41:58.7704264Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-29T20:29:21.945087+00:00",
+          "ccu": 1050,
+          "visits": 168126
+        },
+        {
+          "t": "2026-08-29T20:49:25.863650+00:00",
+          "ccu": 1069,
+          "visits": 169901
+        },
+        {
+          "t": "2026-08-29T21:10:02.766644+00:00",
+          "ccu": 1159,
+          "visits": 171726
+        },
+        {
+          "t": "2026-08-29T21:29:18.625548+00:00",
+          "ccu": 1129,
+          "visits": 173423
+        },
+        {
+          "t": "2026-08-29T21:49:24.707180+00:00",
+          "ccu": 1114,
+          "visits": 175216
+        },
+        {
+          "t": "2026-08-29T22:09:59.280842+00:00",
+          "ccu": 1139,
+          "visits": 177081
+        },
+        {
+          "t": "2026-08-29T22:29:15.731224+00:00",
+          "ccu": 1112,
+          "visits": 178783
+        },
+        {
+          "t": "2026-08-29T22:49:24.199616+00:00",
+          "ccu": 1038,
+          "visits": 180562
+        }
+      ],
+      "latest_ccu": 1038,
+      "latest_visits": 180562,
+      "last_seen": "2026-08-29T22:49:24.199616+00:00",
+      "trend_score": 50.3,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.0
     },
     {
       "name": "Strikeborn",

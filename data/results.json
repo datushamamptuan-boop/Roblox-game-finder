@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:10:00.313476+00:00",
+  "generated_at": "2026-08-29T00:29:27.808727+00:00",
   "count": 4,
   "games": [
     {
@@ -85,64 +85,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.78
-    },
-    {
-      "name": "Strikeborn",
-      "universeId": "10761884278",
-      "rootPlaceId": 80167904212435,
-      "description": "[GAME IS IN EARLY ACCESS]\nLike and favorite the game for more updates\n\nDevices Supported:\nController, PC, and Mobile\n\nThis game includes randomized rewards (emotes and spins). All items rate are displayed in-game.",
-      "genre": "All",
-      "created": "2026-08-26T04:01:44.2547088Z",
-      "creatorName": "SSSStudio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-08-28T21:54:28.603443+00:00",
-          "ccu": 1447,
-          "visits": 138592
-        },
-        {
-          "t": "2026-08-28T22:10:00.426794+00:00",
-          "ccu": 1504,
-          "visits": 140015
-        },
-        {
-          "t": "2026-08-28T22:29:27.986830+00:00",
-          "ccu": 1495,
-          "visits": 141875
-        },
-        {
-          "t": "2026-08-28T22:49:14.444822+00:00",
-          "ccu": 1484,
-          "visits": 143712
-        },
-        {
-          "t": "2026-08-28T23:09:19.852724+00:00",
-          "ccu": 1480,
-          "visits": 145557
-        },
-        {
-          "t": "2026-08-28T23:29:21.280923+00:00",
-          "ccu": 1523,
-          "visits": 147378
-        },
-        {
-          "t": "2026-08-28T23:49:30.432019+00:00",
-          "ccu": 1494,
-          "visits": 149152
-        },
-        {
-          "t": "2026-08-29T00:10:00.313476+00:00",
-          "ccu": 1491,
-          "visits": 150943
-        }
-      ],
-      "latest_ccu": 1491,
-      "latest_visits": 150943,
-      "last_seen": "2026-08-29T00:10:00.313476+00:00",
-      "trend_score": 51.7,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.01
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -238,6 +180,69 @@
       "growth_ratio": 1.01
     },
     {
+      "name": "Strikeborn",
+      "universeId": "10761884278",
+      "rootPlaceId": 80167904212435,
+      "description": "[GAME IS IN EARLY ACCESS]\nLike and favorite the game for more updates\n\nDevices Supported:\nController, PC, and Mobile\n\nThis game includes randomized rewards (emotes and spins). All items rate are displayed in-game.",
+      "genre": "All",
+      "created": "2026-08-26T04:01:44.2547088Z",
+      "creatorName": "SSSStudio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-28T21:54:28.603443+00:00",
+          "ccu": 1447,
+          "visits": 138592
+        },
+        {
+          "t": "2026-08-28T22:10:00.426794+00:00",
+          "ccu": 1504,
+          "visits": 140015
+        },
+        {
+          "t": "2026-08-28T22:29:27.986830+00:00",
+          "ccu": 1495,
+          "visits": 141875
+        },
+        {
+          "t": "2026-08-28T22:49:14.444822+00:00",
+          "ccu": 1484,
+          "visits": 143712
+        },
+        {
+          "t": "2026-08-28T23:09:19.852724+00:00",
+          "ccu": 1480,
+          "visits": 145557
+        },
+        {
+          "t": "2026-08-28T23:29:21.280923+00:00",
+          "ccu": 1523,
+          "visits": 147378
+        },
+        {
+          "t": "2026-08-28T23:49:30.432019+00:00",
+          "ccu": 1494,
+          "visits": 149152
+        },
+        {
+          "t": "2026-08-29T00:10:00.313476+00:00",
+          "ccu": 1491,
+          "visits": 150943
+        },
+        {
+          "t": "2026-08-29T00:29:27.808727+00:00",
+          "ccu": 1497,
+          "visits": 152691
+        }
+      ],
+      "latest_ccu": 1497,
+      "latest_visits": 152691,
+      "last_seen": "2026-08-29T00:29:27.808727+00:00",
+      "trend_score": 51.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
+    },
+    {
       "name": "[\ud83e\udd0d] Chiidoku",
       "universeId": "10628006421",
       "rootPlaceId": 139705352041000,
@@ -286,14 +291,19 @@
           "t": "2026-08-29T00:10:00.313476+00:00",
           "ccu": 872,
           "visits": 173531
+        },
+        {
+          "t": "2026-08-29T00:29:27.808727+00:00",
+          "ccu": 990,
+          "visits": 174889
         }
       ],
-      "latest_ccu": 872,
-      "latest_visits": 173531,
-      "last_seen": "2026-08-29T00:10:00.313476+00:00",
-      "trend_score": 42.0,
+      "latest_ccu": 990,
+      "latest_visits": 174889,
+      "last_seen": "2026-08-29T00:29:27.808727+00:00",
+      "trend_score": 48.0,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.95
+      "growth_ratio": 0.97
     }
   ]
 }

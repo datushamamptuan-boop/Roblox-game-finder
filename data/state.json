@@ -236,14 +236,19 @@
           "t": "2026-08-29T00:50:07.667077+00:00",
           "ccu": 982,
           "visits": 176377
+        },
+        {
+          "t": "2026-08-29T01:10:07.119437+00:00",
+          "ccu": 1024,
+          "visits": 177889
         }
       ],
-      "latest_ccu": 982,
-      "latest_visits": 176377,
-      "last_seen": "2026-08-29T00:50:07.667077+00:00",
-      "trend_score": 51.7,
+      "latest_ccu": 1024,
+      "latest_visits": 177889,
+      "last_seen": "2026-08-29T01:10:07.119437+00:00",
+      "trend_score": 54.7,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.01
+      "growth_ratio": 1.03
     },
     "10761884278": {
       "name": "Strikeborn",
@@ -304,12 +309,17 @@
           "t": "2026-08-29T00:50:07.667077+00:00",
           "ccu": 1540,
           "visits": 154501
+        },
+        {
+          "t": "2026-08-29T01:10:07.119437+00:00",
+          "ccu": 1484,
+          "visits": 156206
         }
       ],
-      "latest_ccu": 1540,
-      "latest_visits": 154501,
-      "last_seen": "2026-08-29T00:50:07.667077+00:00",
-      "trend_score": 52.4,
+      "latest_ccu": 1484,
+      "latest_visits": 156206,
+      "last_seen": "2026-08-29T01:10:07.119437+00:00",
+      "trend_score": 51.7,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.02
     }

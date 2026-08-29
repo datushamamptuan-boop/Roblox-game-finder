@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:30:12.357298+00:00",
+  "generated_at": "2026-08-29T04:49:30.949941+00:00",
   "count": 4,
   "games": [
     {
@@ -200,12 +200,17 @@
           "t": "2026-08-29T04:30:12.357298+00:00",
           "ccu": 1154,
           "visits": 193825
+        },
+        {
+          "t": "2026-08-29T04:49:30.949941+00:00",
+          "ccu": 1122,
+          "visits": 195460
         }
       ],
-      "latest_ccu": 1154,
-      "latest_visits": 193825,
-      "last_seen": "2026-08-29T04:30:12.357298+00:00",
-      "trend_score": 65.2,
+      "latest_ccu": 1122,
+      "latest_visits": 195460,
+      "last_seen": "2026-08-29T04:49:30.949941+00:00",
+      "trend_score": 64.7,
       "trend_label": "mild_upward",
       "growth_ratio": 1.2
     },
@@ -416,14 +421,19 @@
           "t": "2026-08-29T04:30:12.357298+00:00",
           "ccu": 1285,
           "visits": 171670
+        },
+        {
+          "t": "2026-08-29T04:49:30.949941+00:00",
+          "ccu": 1236,
+          "visits": 172878
         }
       ],
-      "latest_ccu": 1285,
-      "latest_visits": 171670,
-      "last_seen": "2026-08-29T04:30:12.357298+00:00",
-      "trend_score": 44.4,
+      "latest_ccu": 1236,
+      "latest_visits": 172878,
+      "last_seen": "2026-08-29T04:49:30.949941+00:00",
+      "trend_score": 43.3,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.94
+      "growth_ratio": 0.92
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T14:29:23.745460+00:00",
-  "count": 4,
+  "generated_at": "2026-08-29T14:50:01.155950+00:00",
+  "count": 5,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -569,6 +569,29 @@
       "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.54
+    },
+    {
+      "name": "The Cosalazo 2 ",
+      "universeId": "10739137760",
+      "rootPlaceId": 133473642879498,
+      "description": "\ud83c\udfdc\ufe0f The Cosalazo 2 \ud83c\udf35 \n\nWelcome to El Cosalazo 2! An experience inspired by Cosal\u00e1 \ud83c\uddf2\ud83c\uddfd\n\nExplore roads, mountains, rivers and off-road areas while enjoying different vehicles, routes, trailers and music with other players.\n\n\ud83d\ude99 Off-road routes and trails \n\ud83d\udefb Vehicles and trailers \n\ud83c\udf04 Places inspired by Cosal\u00e1 \n\ud83c\udfb5 Music during your tours \n\ud83d\udc65 Play and explore with friends \n\ud83d\udd04 New zones and content coming soon ",
+      "genre": "All",
+      "created": "2026-08-19T03:01:30.901Z",
+      "creatorName": "Roke Studio\u2019s",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-08-29T14:50:01.155950+00:00",
+          "ccu": 353,
+          "visits": 183392
+        }
+      ],
+      "latest_ccu": 353,
+      "latest_visits": 183392,
+      "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   ]
 }

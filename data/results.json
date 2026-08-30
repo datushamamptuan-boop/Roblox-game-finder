@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:30:04.205970+00:00",
+  "generated_at": "2026-08-30T00:49:28.137068+00:00",
   "count": 6,
   "games": [
     {
@@ -391,14 +391,19 @@
           "t": "2026-08-30T00:30:04.205970+00:00",
           "ccu": 1038,
           "visits": 189314
+        },
+        {
+          "t": "2026-08-30T00:49:28.137068+00:00",
+          "ccu": 1010,
+          "visits": 191028
         }
       ],
-      "latest_ccu": 1038,
-      "latest_visits": 189314,
-      "last_seen": "2026-08-30T00:30:04.205970+00:00",
-      "trend_score": 46.0,
+      "latest_ccu": 1010,
+      "latest_visits": 191028,
+      "last_seen": "2026-08-30T00:49:28.137068+00:00",
+      "trend_score": 44.9,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.96
+      "growth_ratio": 0.94
     },
     {
       "name": "Strikeborn",

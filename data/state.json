@@ -953,14 +953,19 @@
           "t": "2026-09-02T22:34:29.276525+00:00",
           "ccu": 703,
           "visits": 101446
+        },
+        {
+          "t": "2026-09-02T22:50:15.908991+00:00",
+          "ccu": 694,
+          "visits": 102325
         }
       ],
-      "latest_ccu": 703,
-      "latest_visits": 101446,
-      "last_seen": "2026-09-02T22:34:29.276525+00:00",
-      "trend_score": 84.0,
+      "latest_ccu": 694,
+      "latest_visits": 102325,
+      "last_seen": "2026-09-02T22:50:15.908991+00:00",
+      "trend_score": 85.8,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.61
+      "growth_ratio": 1.64
     }
   }
 }

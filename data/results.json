@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:50:15.908991+00:00",
+  "generated_at": "2026-09-02T23:15:11.398234+00:00",
   "count": 7,
   "games": [
     {
@@ -340,14 +340,19 @@
           "t": "2026-09-02T22:50:15.908991+00:00",
           "ccu": 694,
           "visits": 102325
+        },
+        {
+          "t": "2026-09-02T23:15:11.398234+00:00",
+          "ccu": 694,
+          "visits": 103678
         }
       ],
       "latest_ccu": 694,
-      "latest_visits": 102325,
-      "last_seen": "2026-09-02T22:50:15.908991+00:00",
-      "trend_score": 85.8,
+      "latest_visits": 103678,
+      "last_seen": "2026-09-02T23:15:11.398234+00:00",
+      "trend_score": 87.6,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.64
+      "growth_ratio": 1.68
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",

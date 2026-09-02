@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T05:16:12.518214+00:00",
-  "count": 6,
+  "generated_at": "2026-09-02T05:36:05.026220+00:00",
+  "count": 7,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -702,6 +702,29 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[Beta] Bloxrooms",
+      "universeId": "10605173611",
+      "rootPlaceId": 127943464865693,
+      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
+      "genre": "All",
+      "created": "2026-07-31T18:17:42.655Z",
+      "creatorName": "Bloxrooms Corporation",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-02T05:36:05.026220+00:00",
+          "ccu": 330,
+          "visits": 71382
+        }
+      ],
+      "latest_ccu": 330,
+      "latest_visits": 71382,
+      "last_seen": "2026-09-02T05:36:05.026220+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -703,6 +703,29 @@
       "trend_score": 47.6,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.97
+    },
+    "10605173611": {
+      "name": "[Beta] Bloxrooms",
+      "universeId": "10605173611",
+      "rootPlaceId": 127943464865693,
+      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
+      "genre": "All",
+      "created": "2026-07-31T18:17:42.655Z",
+      "creatorName": "Bloxrooms Corporation",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-02T05:36:05.026220+00:00",
+          "ccu": 330,
+          "visits": 71382
+        }
+      ],
+      "latest_ccu": 330,
+      "latest_visits": 71382,
+      "last_seen": "2026-09-02T05:36:05.026220+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:55:17.270123+00:00",
+  "generated_at": "2026-09-02T07:17:29.179216+00:00",
   "count": 7,
   "games": [
     {
@@ -431,44 +431,6 @@
       "growth_ratio": 0.97
     },
     {
-      "name": "[Beta] Bloxrooms",
-      "universeId": "10605173611",
-      "rootPlaceId": 127943464865693,
-      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
-      "genre": "All",
-      "created": "2026-07-31T18:17:42.655Z",
-      "creatorName": "Bloxrooms Corporation",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-02T05:36:05.026220+00:00",
-          "ccu": 330,
-          "visits": 71382
-        },
-        {
-          "t": "2026-09-02T05:52:04.201716+00:00",
-          "ccu": 331,
-          "visits": 71743
-        },
-        {
-          "t": "2026-09-02T06:27:07.392425+00:00",
-          "ccu": 338,
-          "visits": 72542
-        },
-        {
-          "t": "2026-09-02T06:55:17.270123+00:00",
-          "ccu": 297,
-          "visits": 73167
-        }
-      ],
-      "latest_ccu": 297,
-      "latest_visits": 73167,
-      "last_seen": "2026-09-02T06:55:17.270123+00:00",
-      "trend_score": 34.2,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.96
-    },
-    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -720,6 +682,49 @@
       "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.54
+    },
+    {
+      "name": "[Beta] Bloxrooms",
+      "universeId": "10605173611",
+      "rootPlaceId": 127943464865693,
+      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
+      "genre": "All",
+      "created": "2026-07-31T18:17:42.655Z",
+      "creatorName": "Bloxrooms Corporation",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-02T05:36:05.026220+00:00",
+          "ccu": 330,
+          "visits": 71382
+        },
+        {
+          "t": "2026-09-02T05:52:04.201716+00:00",
+          "ccu": 331,
+          "visits": 71743
+        },
+        {
+          "t": "2026-09-02T06:27:07.392425+00:00",
+          "ccu": 338,
+          "visits": 72542
+        },
+        {
+          "t": "2026-09-02T06:55:17.270123+00:00",
+          "ccu": 297,
+          "visits": 73167
+        },
+        {
+          "t": "2026-09-02T07:17:29.179216+00:00",
+          "ccu": 264,
+          "visits": 73600
+        }
+      ],
+      "latest_ccu": 264,
+      "latest_visits": 73600,
+      "last_seen": "2026-09-02T07:17:29.179216+00:00",
+      "trend_score": 19.7,
+      "trend_label": "declining",
+      "growth_ratio": 0.91
     },
     {
       "name": "The Cosalazo 2 ",

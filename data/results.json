@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:35:00.078377+00:00",
+  "generated_at": "2026-09-02T09:52:07.626929+00:00",
   "count": 7,
   "games": [
     {
@@ -431,6 +431,89 @@
       "growth_ratio": 0.97
     },
     {
+      "name": "[Beta] Bloxrooms",
+      "universeId": "10605173611",
+      "rootPlaceId": 127943464865693,
+      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
+      "genre": "All",
+      "created": "2026-07-31T18:17:42.655Z",
+      "creatorName": "Bloxrooms Corporation",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-02T05:36:05.026220+00:00",
+          "ccu": 330,
+          "visits": 71382
+        },
+        {
+          "t": "2026-09-02T05:52:04.201716+00:00",
+          "ccu": 331,
+          "visits": 71743
+        },
+        {
+          "t": "2026-09-02T06:27:07.392425+00:00",
+          "ccu": 338,
+          "visits": 72542
+        },
+        {
+          "t": "2026-09-02T06:55:17.270123+00:00",
+          "ccu": 297,
+          "visits": 73167
+        },
+        {
+          "t": "2026-09-02T07:17:29.179216+00:00",
+          "ccu": 264,
+          "visits": 73600
+        },
+        {
+          "t": "2026-09-02T07:34:10.356173+00:00",
+          "ccu": 210,
+          "visits": 73951
+        },
+        {
+          "t": "2026-09-02T07:52:05.599398+00:00",
+          "ccu": 221,
+          "visits": 74290
+        },
+        {
+          "t": "2026-09-02T08:19:15.063031+00:00",
+          "ccu": 214,
+          "visits": 74767
+        },
+        {
+          "t": "2026-09-02T08:36:16.126859+00:00",
+          "ccu": 194,
+          "visits": 75064
+        },
+        {
+          "t": "2026-09-02T08:52:20.300694+00:00",
+          "ccu": 237,
+          "visits": 75417
+        },
+        {
+          "t": "2026-09-02T09:18:11.691790+00:00",
+          "ccu": 239,
+          "visits": 75899
+        },
+        {
+          "t": "2026-09-02T09:35:00.078377+00:00",
+          "ccu": 259,
+          "visits": 76229
+        },
+        {
+          "t": "2026-09-02T09:52:07.626929+00:00",
+          "ccu": 266,
+          "visits": 76548
+        }
+      ],
+      "latest_ccu": 266,
+      "latest_visits": 76548,
+      "last_seen": "2026-09-02T09:52:07.626929+00:00",
+      "trend_score": 26.3,
+      "trend_label": "declining",
+      "growth_ratio": 0.79
+    },
+    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -682,84 +765,6 @@
       "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.54
-    },
-    {
-      "name": "[Beta] Bloxrooms",
-      "universeId": "10605173611",
-      "rootPlaceId": 127943464865693,
-      "description": "Endless rooms. Levels built from misremembered games, twisted into something that was never supposed to exist. Entities that don't follow the rules you think you know.\n\nExplore corrupted levels inspired by games you almost remember, scavenge for artifacts worth cash, and upgrade your gear to survive whatever's hunting you.\n\nThe deeper you go, the less anything makes sense. Nothing here is quite ho",
-      "genre": "All",
-      "created": "2026-07-31T18:17:42.655Z",
-      "creatorName": "Bloxrooms Corporation",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-02T05:36:05.026220+00:00",
-          "ccu": 330,
-          "visits": 71382
-        },
-        {
-          "t": "2026-09-02T05:52:04.201716+00:00",
-          "ccu": 331,
-          "visits": 71743
-        },
-        {
-          "t": "2026-09-02T06:27:07.392425+00:00",
-          "ccu": 338,
-          "visits": 72542
-        },
-        {
-          "t": "2026-09-02T06:55:17.270123+00:00",
-          "ccu": 297,
-          "visits": 73167
-        },
-        {
-          "t": "2026-09-02T07:17:29.179216+00:00",
-          "ccu": 264,
-          "visits": 73600
-        },
-        {
-          "t": "2026-09-02T07:34:10.356173+00:00",
-          "ccu": 210,
-          "visits": 73951
-        },
-        {
-          "t": "2026-09-02T07:52:05.599398+00:00",
-          "ccu": 221,
-          "visits": 74290
-        },
-        {
-          "t": "2026-09-02T08:19:15.063031+00:00",
-          "ccu": 214,
-          "visits": 74767
-        },
-        {
-          "t": "2026-09-02T08:36:16.126859+00:00",
-          "ccu": 194,
-          "visits": 75064
-        },
-        {
-          "t": "2026-09-02T08:52:20.300694+00:00",
-          "ccu": 237,
-          "visits": 75417
-        },
-        {
-          "t": "2026-09-02T09:18:11.691790+00:00",
-          "ccu": 239,
-          "visits": 75899
-        },
-        {
-          "t": "2026-09-02T09:35:00.078377+00:00",
-          "ccu": 259,
-          "visits": 76229
-        }
-      ],
-      "latest_ccu": 259,
-      "latest_visits": 76229,
-      "last_seen": "2026-09-02T09:35:00.078377+00:00",
-      "trend_score": 20.9,
-      "trend_label": "declining",
-      "growth_ratio": 0.77
     },
     {
       "name": "The Cosalazo 2 ",

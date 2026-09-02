@@ -723,11 +723,16 @@
           "t": "2026-09-02T05:52:04.201716+00:00",
           "ccu": 331,
           "visits": 71743
+        },
+        {
+          "t": "2026-09-02T06:27:07.392425+00:00",
+          "ccu": 338,
+          "visits": 72542
         }
       ],
-      "latest_ccu": 331,
-      "latest_visits": 71743,
-      "last_seen": "2026-09-02T05:52:04.201716+00:00",
+      "latest_ccu": 338,
+      "latest_visits": 72542,
+      "last_seen": "2026-09-02T06:27:07.392425+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T20:50:15.857994+00:00",
-  "count": 7,
+  "generated_at": "2026-09-03T21:17:10.443483+00:00",
+  "count": 8,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -1025,6 +1025,29 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[SANDWORM] Journey to the Watchtower",
+      "universeId": "10694025593",
+      "rootPlaceId": 80124268479430,
+      "description": "The Watchtower is waiting.\n\nCross the desert, survive the deadly light, and make it farther with every attempt.\n\n\u26a1 Survive the Watchtower\u2019s attacks\n\ud83c\udf00 Roll powerful Spirits & Sins\n\ud83d\udcc8 Upgrade your stamina, speed, and Insanity gain\n\u267b\ufe0f Rebirth to become permanently stronger\n\ud83c\udfc6 Reach the Watchtower\n\nEvery death makes the next journey easier. How far can you make it?",
+      "genre": "All",
+      "created": "2026-08-13T08:07:14.817Z",
+      "creatorName": "Brian's Youtube Gang",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-03T21:17:10.443483+00:00",
+          "ccu": 595,
+          "visits": 83022
+        }
+      ],
+      "latest_ccu": 595,
+      "latest_visits": 83022,
+      "last_seen": "2026-09-03T21:17:10.443483+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

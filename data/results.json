@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:49:58.038154+00:00",
+  "generated_at": "2026-09-04T18:19:14.827656+00:00",
   "count": 10,
   "games": [
     {
@@ -608,12 +608,17 @@
           "t": "2026-09-04T17:49:58.038154+00:00",
           "ccu": 1775,
           "visits": 179256
+        },
+        {
+          "t": "2026-09-04T18:19:14.827656+00:00",
+          "ccu": 1772,
+          "visits": 181793
         }
       ],
-      "latest_ccu": 1775,
-      "latest_visits": 179256,
-      "last_seen": "2026-09-04T17:49:58.038154+00:00",
-      "trend_score": 63.4,
+      "latest_ccu": 1772,
+      "latest_visits": 181793,
+      "last_seen": "2026-09-04T18:19:14.827656+00:00",
+      "trend_score": 63.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.23
     },
@@ -1473,14 +1478,19 @@
           "t": "2026-09-04T17:49:58.038154+00:00",
           "ccu": 466,
           "visits": 122552
+        },
+        {
+          "t": "2026-09-04T18:19:14.827656+00:00",
+          "ccu": 495,
+          "visits": 123710
         }
       ],
-      "latest_ccu": 466,
-      "latest_visits": 122552,
-      "last_seen": "2026-09-04T17:49:58.038154+00:00",
-      "trend_score": 32.5,
+      "latest_ccu": 495,
+      "latest_visits": 123710,
+      "last_seen": "2026-09-04T18:19:14.827656+00:00",
+      "trend_score": 33.4,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.7
+      "growth_ratio": 0.71
     },
     {
       "name": "Strikeborn",

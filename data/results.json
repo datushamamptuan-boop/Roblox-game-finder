@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:35:00.671304+00:00",
+  "generated_at": "2026-09-04T09:53:10.573499+00:00",
   "count": 10,
   "games": [
     {
@@ -548,6 +548,99 @@
       "growth_ratio": 1.17
     },
     {
+      "name": "Dropshipping Tycoon",
+      "universeId": "10666108087",
+      "rootPlaceId": 139186643787547,
+      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
+      "genre": "All",
+      "created": "2026-08-09T17:46:43.515Z",
+      "creatorName": "DragonT Gaming",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 1570,
+          "visits": 111405
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 1493,
+          "visits": 113148
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 1432,
+          "visits": 114343
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 1311,
+          "visits": 116936
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 1398,
+          "visits": 119032
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 1406,
+          "visits": 121447
+        },
+        {
+          "t": "2026-09-04T07:16:59.345142+00:00",
+          "ccu": 1428,
+          "visits": 122907
+        },
+        {
+          "t": "2026-09-04T07:34:09.409384+00:00",
+          "ccu": 1442,
+          "visits": 124108
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 1458,
+          "visits": 125383
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 1411,
+          "visits": 127254
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 1455,
+          "visits": 128537
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 1507,
+          "visits": 129719
+        },
+        {
+          "t": "2026-09-04T09:18:04.412613+00:00",
+          "ccu": 1510,
+          "visits": 131460
+        },
+        {
+          "t": "2026-09-04T09:35:00.671304+00:00",
+          "ccu": 1449,
+          "visits": 132801
+        },
+        {
+          "t": "2026-09-04T09:53:10.573499+00:00",
+          "ccu": 1571,
+          "visits": 134172
+        }
+      ],
+      "latest_ccu": 1571,
+      "latest_visits": 134172,
+      "last_seen": "2026-09-04T09:53:10.573499+00:00",
+      "trend_score": 52.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.03
+    },
+    {
       "name": "[New Rebirth] Pay Your Debts!",
       "universeId": "10647180866",
       "rootPlaceId": 76717770497649,
@@ -639,94 +732,6 @@
       "trend_score": 51.5,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.01
-    },
-    {
-      "name": "Dropshipping Tycoon",
-      "universeId": "10666108087",
-      "rootPlaceId": 139186643787547,
-      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
-      "genre": "All",
-      "created": "2026-08-09T17:46:43.515Z",
-      "creatorName": "DragonT Gaming",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 1570,
-          "visits": 111405
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 1493,
-          "visits": 113148
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 1432,
-          "visits": 114343
-        },
-        {
-          "t": "2026-09-04T05:51:05.707852+00:00",
-          "ccu": 1311,
-          "visits": 116936
-        },
-        {
-          "t": "2026-09-04T06:21:59.920132+00:00",
-          "ccu": 1398,
-          "visits": 119032
-        },
-        {
-          "t": "2026-09-04T06:55:09.643626+00:00",
-          "ccu": 1406,
-          "visits": 121447
-        },
-        {
-          "t": "2026-09-04T07:16:59.345142+00:00",
-          "ccu": 1428,
-          "visits": 122907
-        },
-        {
-          "t": "2026-09-04T07:34:09.409384+00:00",
-          "ccu": 1442,
-          "visits": 124108
-        },
-        {
-          "t": "2026-09-04T07:52:26.108559+00:00",
-          "ccu": 1458,
-          "visits": 125383
-        },
-        {
-          "t": "2026-09-04T08:19:06.812844+00:00",
-          "ccu": 1411,
-          "visits": 127254
-        },
-        {
-          "t": "2026-09-04T08:37:09.636216+00:00",
-          "ccu": 1455,
-          "visits": 128537
-        },
-        {
-          "t": "2026-09-04T08:54:05.296549+00:00",
-          "ccu": 1507,
-          "visits": 129719
-        },
-        {
-          "t": "2026-09-04T09:18:04.412613+00:00",
-          "ccu": 1510,
-          "visits": 131460
-        },
-        {
-          "t": "2026-09-04T09:35:00.671304+00:00",
-          "ccu": 1449,
-          "visits": 132801
-        }
-      ],
-      "latest_ccu": 1449,
-      "latest_visits": 132801,
-      "last_seen": "2026-09-04T09:35:00.671304+00:00",
-      "trend_score": 51.2,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.02
     },
     {
       "name": "Zee [FIXED!]",
@@ -975,14 +980,19 @@
           "t": "2026-09-04T09:35:00.671304+00:00",
           "ccu": 496,
           "visits": 185205
+        },
+        {
+          "t": "2026-09-04T09:53:10.573499+00:00",
+          "ccu": 484,
+          "visits": 185845
         }
       ],
-      "latest_ccu": 496,
-      "latest_visits": 185205,
-      "last_seen": "2026-09-04T09:35:00.671304+00:00",
-      "trend_score": 23.8,
+      "latest_ccu": 484,
+      "latest_visits": 185845,
+      "last_seen": "2026-09-04T09:53:10.573499+00:00",
+      "trend_score": 25.2,
       "trend_label": "declining",
-      "growth_ratio": 0.69
+      "growth_ratio": 0.71
     },
     {
       "name": "Strikeborn",
@@ -1426,14 +1436,19 @@
           "t": "2026-09-04T09:35:00.671304+00:00",
           "ccu": 228,
           "visits": 108601
+        },
+        {
+          "t": "2026-09-04T09:53:10.573499+00:00",
+          "ccu": 215,
+          "visits": 108851
         }
       ],
-      "latest_ccu": 228,
-      "latest_visits": 108601,
-      "last_seen": "2026-09-04T09:35:00.671304+00:00",
-      "trend_score": 12.0,
+      "latest_ccu": 215,
+      "latest_visits": 108851,
+      "last_seen": "2026-09-04T09:53:10.573499+00:00",
+      "trend_score": 11.8,
       "trend_label": "declining",
-      "growth_ratio": 0.49
+      "growth_ratio": 0.48
     },
     {
       "name": "The Cosalazo 2 ",

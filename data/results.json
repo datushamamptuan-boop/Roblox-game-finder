@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:17:04.209993+00:00",
+  "generated_at": "2026-09-04T20:33:35.309320+00:00",
   "count": 10,
   "games": [
     {
@@ -781,14 +781,19 @@
           "t": "2026-09-04T20:17:04.209993+00:00",
           "ccu": 1666,
           "visits": 192104
+        },
+        {
+          "t": "2026-09-04T20:33:35.309320+00:00",
+          "ccu": 1672,
+          "visits": 193432
         }
       ],
-      "latest_ccu": 1666,
-      "latest_visits": 192104,
-      "last_seen": "2026-09-04T20:17:04.209993+00:00",
-      "trend_score": 58.5,
+      "latest_ccu": 1672,
+      "latest_visits": 193432,
+      "last_seen": "2026-09-04T20:33:35.309320+00:00",
+      "trend_score": 57.7,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.15
+      "growth_ratio": 1.13
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -1543,14 +1548,19 @@
           "t": "2026-09-04T20:17:04.209993+00:00",
           "ccu": 554,
           "visits": 129053
+        },
+        {
+          "t": "2026-09-04T20:33:35.309320+00:00",
+          "ccu": 572,
+          "visits": 129799
         }
       ],
-      "latest_ccu": 554,
-      "latest_visits": 129053,
-      "last_seen": "2026-09-04T20:17:04.209993+00:00",
-      "trend_score": 41.7,
+      "latest_ccu": 572,
+      "latest_visits": 129799,
+      "last_seen": "2026-09-04T20:33:35.309320+00:00",
+      "trend_score": 43.6,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.85
+      "growth_ratio": 0.89
     },
     {
       "name": "Strikeborn",

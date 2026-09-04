@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:51:23.069525+00:00",
+  "generated_at": "2026-09-04T04:17:25.834518+00:00",
   "count": 9,
   "games": [
     {
@@ -862,77 +862,19 @@
           "t": "2026-09-04T03:51:23.069525+00:00",
           "ccu": 403,
           "visits": 101916
+        },
+        {
+          "t": "2026-09-04T04:17:25.834518+00:00",
+          "ccu": 379,
+          "visits": 102689
         }
       ],
-      "latest_ccu": 403,
-      "latest_visits": 101916,
-      "last_seen": "2026-09-04T03:51:23.069525+00:00",
-      "trend_score": 29.1,
+      "latest_ccu": 379,
+      "latest_visits": 102689,
+      "last_seen": "2026-09-04T04:17:25.834518+00:00",
+      "trend_score": 27.8,
       "trend_label": "declining",
-      "growth_ratio": 0.76
-    },
-    {
-      "name": "bug fixes",
-      "universeId": "10666192800",
-      "rootPlaceId": 100971017807798,
-      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
-      "genre": "All",
-      "created": "2026-08-09T17:59:21.832Z",
-      "creatorName": "captainwoodlegs",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-04T01:14:14.605648+00:00",
-          "ccu": 825,
-          "visits": 162453
-        },
-        {
-          "t": "2026-09-04T01:31:25.894832+00:00",
-          "ccu": 825,
-          "visits": 163605
-        },
-        {
-          "t": "2026-09-04T01:51:11.735569+00:00",
-          "ccu": 813,
-          "visits": 164915
-        },
-        {
-          "t": "2026-09-04T02:16:59.926752+00:00",
-          "ccu": 798,
-          "visits": 166569
-        },
-        {
-          "t": "2026-09-04T02:33:33.261835+00:00",
-          "ccu": 776,
-          "visits": 167581
-        },
-        {
-          "t": "2026-09-04T02:50:59.471755+00:00",
-          "ccu": 731,
-          "visits": 168571
-        },
-        {
-          "t": "2026-09-04T03:17:15.944547+00:00",
-          "ccu": 671,
-          "visits": 170051
-        },
-        {
-          "t": "2026-09-04T03:34:19.700091+00:00",
-          "ccu": 647,
-          "visits": 170961
-        },
-        {
-          "t": "2026-09-04T03:51:23.069525+00:00",
-          "ccu": 628,
-          "visits": 171886
-        }
-      ],
-      "latest_ccu": 628,
-      "latest_visits": 171886,
-      "last_seen": "2026-09-04T03:51:23.069525+00:00",
-      "trend_score": 25.2,
-      "trend_label": "declining",
-      "growth_ratio": 0.85
+      "growth_ratio": 0.74
     },
     {
       "name": "Strikeborn",
@@ -1186,6 +1128,74 @@
       "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.54
+    },
+    {
+      "name": "bug fixes",
+      "universeId": "10666192800",
+      "rootPlaceId": 100971017807798,
+      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
+      "genre": "All",
+      "created": "2026-08-09T17:59:21.832Z",
+      "creatorName": "captainwoodlegs",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 825,
+          "visits": 162453
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 825,
+          "visits": 163605
+        },
+        {
+          "t": "2026-09-04T01:51:11.735569+00:00",
+          "ccu": 813,
+          "visits": 164915
+        },
+        {
+          "t": "2026-09-04T02:16:59.926752+00:00",
+          "ccu": 798,
+          "visits": 166569
+        },
+        {
+          "t": "2026-09-04T02:33:33.261835+00:00",
+          "ccu": 776,
+          "visits": 167581
+        },
+        {
+          "t": "2026-09-04T02:50:59.471755+00:00",
+          "ccu": 731,
+          "visits": 168571
+        },
+        {
+          "t": "2026-09-04T03:17:15.944547+00:00",
+          "ccu": 671,
+          "visits": 170051
+        },
+        {
+          "t": "2026-09-04T03:34:19.700091+00:00",
+          "ccu": 647,
+          "visits": 170961
+        },
+        {
+          "t": "2026-09-04T03:51:23.069525+00:00",
+          "ccu": 628,
+          "visits": 171886
+        },
+        {
+          "t": "2026-09-04T04:17:25.834518+00:00",
+          "ccu": 543,
+          "visits": 172992
+        }
+      ],
+      "latest_ccu": 543,
+      "latest_visits": 172992,
+      "last_seen": "2026-09-04T04:17:25.834518+00:00",
+      "trend_score": 20.3,
+      "trend_label": "declining",
+      "growth_ratio": 0.8
     },
     {
       "name": "The Cosalazo 2 ",

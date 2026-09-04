@@ -1196,14 +1196,19 @@
           "t": "2026-09-04T08:19:06.812844+00:00",
           "ccu": 247,
           "visits": 107491
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 230,
+          "visits": 107782
         }
       ],
-      "latest_ccu": 247,
-      "latest_visits": 107491,
-      "last_seen": "2026-09-04T08:19:06.812844+00:00",
-      "trend_score": 14.2,
+      "latest_ccu": 230,
+      "latest_visits": 107782,
+      "last_seen": "2026-09-04T08:37:09.636216+00:00",
+      "trend_score": 13.8,
       "trend_label": "declining",
-      "growth_ratio": 0.54
+      "growth_ratio": 0.53
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1319,14 +1324,19 @@
           "t": "2026-09-04T08:19:06.812844+00:00",
           "ccu": 459,
           "visits": 182368
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 474,
+          "visits": 183020
         }
       ],
-      "latest_ccu": 459,
-      "latest_visits": 182368,
-      "last_seen": "2026-09-04T08:19:06.812844+00:00",
-      "trend_score": 18.6,
+      "latest_ccu": 474,
+      "latest_visits": 183020,
+      "last_seen": "2026-09-04T08:37:09.636216+00:00",
+      "trend_score": 20.0,
       "trend_label": "declining",
-      "growth_ratio": 0.66
+      "growth_ratio": 0.67
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1387,12 +1397,17 @@
           "t": "2026-09-04T08:19:06.812844+00:00",
           "ccu": 1411,
           "visits": 127254
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 1455,
+          "visits": 128537
         }
       ],
-      "latest_ccu": 1411,
-      "latest_visits": 127254,
-      "last_seen": "2026-09-04T08:19:06.812844+00:00",
-      "trend_score": 47.0,
+      "latest_ccu": 1455,
+      "latest_visits": 128537,
+      "last_seen": "2026-09-04T08:37:09.636216+00:00",
+      "trend_score": 48.1,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.99
     }

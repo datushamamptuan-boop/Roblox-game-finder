@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T03:34:19.700091+00:00",
+  "generated_at": "2026-09-04T03:51:23.069525+00:00",
   "count": 9,
   "games": [
     {
@@ -857,14 +857,19 @@
           "t": "2026-09-04T03:34:19.700091+00:00",
           "ccu": 396,
           "visits": 101385
+        },
+        {
+          "t": "2026-09-04T03:51:23.069525+00:00",
+          "ccu": 403,
+          "visits": 101916
         }
       ],
-      "latest_ccu": 396,
-      "latest_visits": 101385,
-      "last_seen": "2026-09-04T03:34:19.700091+00:00",
-      "trend_score": 30.7,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.78
+      "latest_ccu": 403,
+      "latest_visits": 101916,
+      "last_seen": "2026-09-04T03:51:23.069525+00:00",
+      "trend_score": 29.1,
+      "trend_label": "declining",
+      "growth_ratio": 0.76
     },
     {
       "name": "bug fixes",
@@ -915,14 +920,19 @@
           "t": "2026-09-04T03:34:19.700091+00:00",
           "ccu": 647,
           "visits": 170961
+        },
+        {
+          "t": "2026-09-04T03:51:23.069525+00:00",
+          "ccu": 628,
+          "visits": 171886
         }
       ],
-      "latest_ccu": 647,
-      "latest_visits": 170961,
-      "last_seen": "2026-09-04T03:34:19.700091+00:00",
-      "trend_score": 26.8,
+      "latest_ccu": 628,
+      "latest_visits": 171886,
+      "last_seen": "2026-09-04T03:51:23.069525+00:00",
+      "trend_score": 25.2,
       "trend_label": "declining",
-      "growth_ratio": 0.87
+      "growth_ratio": 0.85
     },
     {
       "name": "Strikeborn",

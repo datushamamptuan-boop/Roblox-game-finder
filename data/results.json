@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:52:26.108559+00:00",
+  "generated_at": "2026-09-04T08:19:06.812844+00:00",
   "count": 10,
   "games": [
     {
@@ -807,14 +807,19 @@
           "t": "2026-09-04T07:52:26.108559+00:00",
           "ccu": 1458,
           "visits": 125383
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 1411,
+          "visits": 127254
         }
       ],
-      "latest_ccu": 1458,
-      "latest_visits": 125383,
-      "last_seen": "2026-09-04T07:52:26.108559+00:00",
-      "trend_score": 46.3,
+      "latest_ccu": 1411,
+      "latest_visits": 127254,
+      "last_seen": "2026-09-04T08:19:06.812844+00:00",
+      "trend_score": 47.0,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.98
+      "growth_ratio": 0.99
     },
     {
       "name": "Strikeborn",
@@ -1178,14 +1183,19 @@
           "t": "2026-09-04T07:52:26.108559+00:00",
           "ccu": 493,
           "visits": 181349
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 459,
+          "visits": 182368
         }
       ],
-      "latest_ccu": 493,
-      "latest_visits": 181349,
-      "last_seen": "2026-09-04T07:52:26.108559+00:00",
-      "trend_score": 18.0,
+      "latest_ccu": 459,
+      "latest_visits": 182368,
+      "last_seen": "2026-09-04T08:19:06.812844+00:00",
+      "trend_score": 18.6,
       "trend_label": "declining",
-      "growth_ratio": 0.67
+      "growth_ratio": 0.66
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -1351,14 +1361,19 @@
           "t": "2026-09-04T07:52:26.108559+00:00",
           "ccu": 222,
           "visits": 107086
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 247,
+          "visits": 107491
         }
       ],
-      "latest_ccu": 222,
-      "latest_visits": 107086,
-      "last_seen": "2026-09-04T07:52:26.108559+00:00",
-      "trend_score": 15.0,
+      "latest_ccu": 247,
+      "latest_visits": 107491,
+      "last_seen": "2026-09-04T08:19:06.812844+00:00",
+      "trend_score": 14.2,
       "trend_label": "declining",
-      "growth_ratio": 0.56
+      "growth_ratio": 0.54
     },
     {
       "name": "The Cosalazo 2 ",

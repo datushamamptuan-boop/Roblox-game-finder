@@ -1236,12 +1236,17 @@
           "t": "2026-09-04T10:52:17.258673+00:00",
           "ccu": 270,
           "visits": 109823
+        },
+        {
+          "t": "2026-09-04T11:17:08.312324+00:00",
+          "ccu": 284,
+          "visits": 110363
         }
       ],
-      "latest_ccu": 270,
-      "latest_visits": 109823,
-      "last_seen": "2026-09-04T10:52:17.258673+00:00",
-      "trend_score": 12.2,
+      "latest_ccu": 284,
+      "latest_visits": 110363,
+      "last_seen": "2026-09-04T11:17:08.312324+00:00",
+      "trend_score": 12.8,
       "trend_label": "declining",
       "growth_ratio": 0.47
     },
@@ -1399,14 +1404,19 @@
           "t": "2026-09-04T10:52:17.258673+00:00",
           "ccu": 608,
           "visits": 188473
+        },
+        {
+          "t": "2026-09-04T11:17:08.312324+00:00",
+          "ccu": 573,
+          "visits": 189762
         }
       ],
-      "latest_ccu": 608,
-      "latest_visits": 188473,
-      "last_seen": "2026-09-04T10:52:17.258673+00:00",
-      "trend_score": 31.2,
+      "latest_ccu": 573,
+      "latest_visits": 189762,
+      "last_seen": "2026-09-04T11:17:08.312324+00:00",
+      "trend_score": 33.2,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.76
+      "growth_ratio": 0.79
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1507,14 +1517,19 @@
           "t": "2026-09-04T10:52:17.258673+00:00",
           "ccu": 1801,
           "visits": 139128
+        },
+        {
+          "t": "2026-09-04T11:17:08.312324+00:00",
+          "ccu": 1845,
+          "visits": 141616
         }
       ],
-      "latest_ccu": 1801,
-      "latest_visits": 139128,
-      "last_seen": "2026-09-04T10:52:17.258673+00:00",
-      "trend_score": 57.7,
+      "latest_ccu": 1845,
+      "latest_visits": 141616,
+      "last_seen": "2026-09-04T11:17:08.312324+00:00",
+      "trend_score": 59.6,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.08
+      "growth_ratio": 1.1
     }
   }
 }

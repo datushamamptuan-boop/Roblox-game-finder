@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:17:08.312324+00:00",
+  "generated_at": "2026-09-04T11:33:25.860851+00:00",
   "count": 10,
   "games": [
     {
@@ -410,6 +410,124 @@
       "growth_ratio": 1.89
     },
     {
+      "name": "Dropshipping Tycoon",
+      "universeId": "10666108087",
+      "rootPlaceId": 139186643787547,
+      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
+      "genre": "All",
+      "created": "2026-08-09T17:46:43.515Z",
+      "creatorName": "DragonT Gaming",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 1570,
+          "visits": 111405
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 1493,
+          "visits": 113148
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 1432,
+          "visits": 114343
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 1311,
+          "visits": 116936
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 1398,
+          "visits": 119032
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 1406,
+          "visits": 121447
+        },
+        {
+          "t": "2026-09-04T07:16:59.345142+00:00",
+          "ccu": 1428,
+          "visits": 122907
+        },
+        {
+          "t": "2026-09-04T07:34:09.409384+00:00",
+          "ccu": 1442,
+          "visits": 124108
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 1458,
+          "visits": 125383
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 1411,
+          "visits": 127254
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 1455,
+          "visits": 128537
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 1507,
+          "visits": 129719
+        },
+        {
+          "t": "2026-09-04T09:18:04.412613+00:00",
+          "ccu": 1510,
+          "visits": 131460
+        },
+        {
+          "t": "2026-09-04T09:35:00.671304+00:00",
+          "ccu": 1449,
+          "visits": 132801
+        },
+        {
+          "t": "2026-09-04T09:53:10.573499+00:00",
+          "ccu": 1571,
+          "visits": 134172
+        },
+        {
+          "t": "2026-09-04T10:18:11.548502+00:00",
+          "ccu": 1618,
+          "visits": 136244
+        },
+        {
+          "t": "2026-09-04T10:35:07.163620+00:00",
+          "ccu": 1646,
+          "visits": 137638
+        },
+        {
+          "t": "2026-09-04T10:52:17.258673+00:00",
+          "ccu": 1801,
+          "visits": 139128
+        },
+        {
+          "t": "2026-09-04T11:17:08.312324+00:00",
+          "ccu": 1845,
+          "visits": 141616
+        },
+        {
+          "t": "2026-09-04T11:33:25.860851+00:00",
+          "ccu": 1909,
+          "visits": 143249
+        }
+      ],
+      "latest_ccu": 1909,
+      "latest_visits": 143249,
+      "last_seen": "2026-09-04T11:33:25.860851+00:00",
+      "trend_score": 62.1,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.14
+    },
+    {
       "name": "[\ud83e\udd0d] Chiidoku",
       "universeId": "10628006421",
       "rootPlaceId": 139705352041000,
@@ -546,119 +664,6 @@
       "trend_score": 62.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.17
-    },
-    {
-      "name": "Dropshipping Tycoon",
-      "universeId": "10666108087",
-      "rootPlaceId": 139186643787547,
-      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
-      "genre": "All",
-      "created": "2026-08-09T17:46:43.515Z",
-      "creatorName": "DragonT Gaming",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 1570,
-          "visits": 111405
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 1493,
-          "visits": 113148
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 1432,
-          "visits": 114343
-        },
-        {
-          "t": "2026-09-04T05:51:05.707852+00:00",
-          "ccu": 1311,
-          "visits": 116936
-        },
-        {
-          "t": "2026-09-04T06:21:59.920132+00:00",
-          "ccu": 1398,
-          "visits": 119032
-        },
-        {
-          "t": "2026-09-04T06:55:09.643626+00:00",
-          "ccu": 1406,
-          "visits": 121447
-        },
-        {
-          "t": "2026-09-04T07:16:59.345142+00:00",
-          "ccu": 1428,
-          "visits": 122907
-        },
-        {
-          "t": "2026-09-04T07:34:09.409384+00:00",
-          "ccu": 1442,
-          "visits": 124108
-        },
-        {
-          "t": "2026-09-04T07:52:26.108559+00:00",
-          "ccu": 1458,
-          "visits": 125383
-        },
-        {
-          "t": "2026-09-04T08:19:06.812844+00:00",
-          "ccu": 1411,
-          "visits": 127254
-        },
-        {
-          "t": "2026-09-04T08:37:09.636216+00:00",
-          "ccu": 1455,
-          "visits": 128537
-        },
-        {
-          "t": "2026-09-04T08:54:05.296549+00:00",
-          "ccu": 1507,
-          "visits": 129719
-        },
-        {
-          "t": "2026-09-04T09:18:04.412613+00:00",
-          "ccu": 1510,
-          "visits": 131460
-        },
-        {
-          "t": "2026-09-04T09:35:00.671304+00:00",
-          "ccu": 1449,
-          "visits": 132801
-        },
-        {
-          "t": "2026-09-04T09:53:10.573499+00:00",
-          "ccu": 1571,
-          "visits": 134172
-        },
-        {
-          "t": "2026-09-04T10:18:11.548502+00:00",
-          "ccu": 1618,
-          "visits": 136244
-        },
-        {
-          "t": "2026-09-04T10:35:07.163620+00:00",
-          "ccu": 1646,
-          "visits": 137638
-        },
-        {
-          "t": "2026-09-04T10:52:17.258673+00:00",
-          "ccu": 1801,
-          "visits": 139128
-        },
-        {
-          "t": "2026-09-04T11:17:08.312324+00:00",
-          "ccu": 1845,
-          "visits": 141616
-        }
-      ],
-      "latest_ccu": 1845,
-      "latest_visits": 141616,
-      "last_seen": "2026-09-04T11:17:08.312324+00:00",
-      "trend_score": 59.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.1
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -1025,14 +1030,19 @@
           "t": "2026-09-04T11:17:08.312324+00:00",
           "ccu": 573,
           "visits": 189762
+        },
+        {
+          "t": "2026-09-04T11:33:25.860851+00:00",
+          "ccu": 620,
+          "visits": 190565
         }
       ],
-      "latest_ccu": 573,
-      "latest_visits": 189762,
-      "last_seen": "2026-09-04T11:17:08.312324+00:00",
-      "trend_score": 33.2,
+      "latest_ccu": 620,
+      "latest_visits": 190565,
+      "last_seen": "2026-09-04T11:33:25.860851+00:00",
+      "trend_score": 34.6,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.79
+      "growth_ratio": 0.8
     },
     {
       "name": "Strikeborn",
@@ -1501,12 +1511,17 @@
           "t": "2026-09-04T11:17:08.312324+00:00",
           "ccu": 284,
           "visits": 110363
+        },
+        {
+          "t": "2026-09-04T11:33:25.860851+00:00",
+          "ccu": 241,
+          "visits": 110742
         }
       ],
-      "latest_ccu": 284,
-      "latest_visits": 110363,
-      "last_seen": "2026-09-04T11:17:08.312324+00:00",
-      "trend_score": 12.8,
+      "latest_ccu": 241,
+      "latest_visits": 110742,
+      "last_seen": "2026-09-04T11:33:25.860851+00:00",
+      "trend_score": 12.9,
       "trend_label": "declining",
       "growth_ratio": 0.47
     },

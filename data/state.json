@@ -1146,14 +1146,19 @@
           "t": "2026-09-04T04:34:31.054457+00:00",
           "ccu": 365,
           "visits": 103127
+        },
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 335,
+          "visits": 103597
         }
       ],
-      "latest_ccu": 365,
-      "latest_visits": 103127,
-      "last_seen": "2026-09-04T04:34:31.054457+00:00",
-      "trend_score": 26.3,
+      "latest_ccu": 335,
+      "latest_visits": 103597,
+      "last_seen": "2026-09-04T04:52:01.971413+00:00",
+      "trend_score": 25.0,
       "trend_label": "declining",
-      "growth_ratio": 0.72
+      "growth_ratio": 0.71
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1219,14 +1224,42 @@
           "t": "2026-09-04T04:34:31.054457+00:00",
           "ccu": 531,
           "visits": 173646
+        },
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 506,
+          "visits": 174320
         }
       ],
-      "latest_ccu": 531,
-      "latest_visits": 173646,
-      "last_seen": "2026-09-04T04:34:31.054457+00:00",
-      "trend_score": 18.1,
+      "latest_ccu": 506,
+      "latest_visits": 174320,
+      "last_seen": "2026-09-04T04:52:01.971413+00:00",
+      "trend_score": 16.0,
       "trend_label": "declining",
-      "growth_ratio": 0.77
+      "growth_ratio": 0.74
+    },
+    "10666108087": {
+      "name": "Dropshipping Tycoon",
+      "universeId": "10666108087",
+      "rootPlaceId": 139186643787547,
+      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
+      "genre": "All",
+      "created": "2026-08-09T17:46:43.515Z",
+      "creatorName": "DragonT Gaming",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 1570,
+          "visits": 111405
+        }
+      ],
+      "latest_ccu": 1570,
+      "latest_visits": 111405,
+      "last_seen": "2026-09-04T04:52:01.971413+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:16:13.442986+00:00",
+  "generated_at": "2026-09-04T05:32:59.516030+00:00",
   "count": 10,
   "games": [
     {
@@ -882,14 +882,19 @@
           "t": "2026-09-04T05:16:13.442986+00:00",
           "ccu": 311,
           "visits": 104173
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 322,
+          "visits": 104520
         }
       ],
-      "latest_ccu": 311,
-      "latest_visits": 104173,
-      "last_seen": "2026-09-04T05:16:13.442986+00:00",
-      "trend_score": 23.2,
+      "latest_ccu": 322,
+      "latest_visits": 104520,
+      "last_seen": "2026-09-04T05:32:59.516030+00:00",
+      "trend_score": 22.3,
       "trend_label": "declining",
-      "growth_ratio": 0.68
+      "growth_ratio": 0.67
     },
     {
       "name": "Strikeborn",
@@ -1218,14 +1223,19 @@
           "t": "2026-09-04T05:16:13.442986+00:00",
           "ccu": 480,
           "visits": 175211
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 465,
+          "visits": 175826
         }
       ],
-      "latest_ccu": 480,
-      "latest_visits": 175211,
-      "last_seen": "2026-09-04T05:16:13.442986+00:00",
-      "trend_score": 14.6,
+      "latest_ccu": 465,
+      "latest_visits": 175826,
+      "last_seen": "2026-09-04T05:32:59.516030+00:00",
+      "trend_score": 13.6,
       "trend_label": "declining",
-      "growth_ratio": 0.72
+      "growth_ratio": 0.7
     },
     {
       "name": "The Cosalazo 2 ",
@@ -1269,11 +1279,16 @@
           "t": "2026-09-04T05:16:13.442986+00:00",
           "ccu": 1493,
           "visits": 113148
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 1432,
+          "visits": 114343
         }
       ],
-      "latest_ccu": 1493,
-      "latest_visits": 113148,
-      "last_seen": "2026-09-04T05:16:13.442986+00:00",
+      "latest_ccu": 1432,
+      "latest_visits": 114343,
+      "last_seen": "2026-09-04T05:32:59.516030+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

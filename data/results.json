@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:34:09.409384+00:00",
+  "generated_at": "2026-09-04T07:52:26.108559+00:00",
   "count": 10,
   "games": [
     {
@@ -802,12 +802,17 @@
           "t": "2026-09-04T07:34:09.409384+00:00",
           "ccu": 1442,
           "visits": 124108
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 1458,
+          "visits": 125383
         }
       ],
-      "latest_ccu": 1442,
-      "latest_visits": 124108,
-      "last_seen": "2026-09-04T07:34:09.409384+00:00",
-      "trend_score": 44.1,
+      "latest_ccu": 1458,
+      "latest_visits": 125383,
+      "last_seen": "2026-09-04T07:52:26.108559+00:00",
+      "trend_score": 46.3,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.98
     },
@@ -1168,14 +1173,19 @@
           "t": "2026-09-04T07:34:09.409384+00:00",
           "ccu": 471,
           "visits": 180701
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 493,
+          "visits": 181349
         }
       ],
-      "latest_ccu": 471,
-      "latest_visits": 180701,
-      "last_seen": "2026-09-04T07:34:09.409384+00:00",
-      "trend_score": 16.2,
+      "latest_ccu": 493,
+      "latest_visits": 181349,
+      "last_seen": "2026-09-04T07:52:26.108559+00:00",
+      "trend_score": 18.0,
       "trend_label": "declining",
-      "growth_ratio": 0.65
+      "growth_ratio": 0.67
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -1336,14 +1346,19 @@
           "t": "2026-09-04T07:34:09.409384+00:00",
           "ccu": 229,
           "visits": 106776
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 222,
+          "visits": 107086
         }
       ],
-      "latest_ccu": 229,
-      "latest_visits": 106776,
-      "last_seen": "2026-09-04T07:34:09.409384+00:00",
-      "trend_score": 15.8,
+      "latest_ccu": 222,
+      "latest_visits": 107086,
+      "last_seen": "2026-09-04T07:52:26.108559+00:00",
+      "trend_score": 15.0,
       "trend_label": "declining",
-      "growth_ratio": 0.57
+      "growth_ratio": 0.56
     },
     {
       "name": "The Cosalazo 2 ",

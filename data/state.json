@@ -1166,14 +1166,19 @@
           "t": "2026-09-04T05:51:05.707852+00:00",
           "ccu": 295,
           "visits": 104927
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 279,
+          "visits": 105564
         }
       ],
-      "latest_ccu": 295,
-      "latest_visits": 104927,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 21.1,
+      "latest_ccu": 279,
+      "latest_visits": 105564,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 20.1,
       "trend_label": "declining",
-      "growth_ratio": 0.65
+      "growth_ratio": 0.64
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1259,14 +1264,19 @@
           "t": "2026-09-04T05:51:05.707852+00:00",
           "ccu": 459,
           "visits": 176490
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 467,
+          "visits": 177459
         }
       ],
-      "latest_ccu": 459,
-      "latest_visits": 176490,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 13.4,
+      "latest_ccu": 467,
+      "latest_visits": 177459,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 13.5,
       "trend_label": "declining",
-      "growth_ratio": 0.69
+      "growth_ratio": 0.67
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1297,12 +1307,17 @@
           "t": "2026-09-04T05:51:05.707852+00:00",
           "ccu": 1311,
           "visits": 116936
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 1398,
+          "visits": 119032
         }
       ],
-      "latest_ccu": 1311,
-      "latest_visits": 116936,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 17.0,
+      "latest_ccu": 1398,
+      "latest_visits": 119032,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 27.8,
       "trend_label": "declining",
       "growth_ratio": 0.9
     }

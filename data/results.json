@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:51:05.707852+00:00",
+  "generated_at": "2026-09-04T06:21:59.920132+00:00",
   "count": 10,
   "games": [
     {
@@ -754,6 +754,49 @@
       "growth_ratio": 0.97
     },
     {
+      "name": "Dropshipping Tycoon",
+      "universeId": "10666108087",
+      "rootPlaceId": 139186643787547,
+      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
+      "genre": "All",
+      "created": "2026-08-09T17:46:43.515Z",
+      "creatorName": "DragonT Gaming",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 1570,
+          "visits": 111405
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 1493,
+          "visits": 113148
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 1432,
+          "visits": 114343
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 1311,
+          "visits": 116936
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 1398,
+          "visits": 119032
+        }
+      ],
+      "latest_ccu": 1398,
+      "latest_visits": 119032,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 27.8,
+      "trend_label": "declining",
+      "growth_ratio": 0.9
+    },
+    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -1145,52 +1188,19 @@
           "t": "2026-09-04T05:51:05.707852+00:00",
           "ccu": 295,
           "visits": 104927
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 279,
+          "visits": 105564
         }
       ],
-      "latest_ccu": 295,
-      "latest_visits": 104927,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 21.1,
+      "latest_ccu": 279,
+      "latest_visits": 105564,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 20.1,
       "trend_label": "declining",
-      "growth_ratio": 0.65
-    },
-    {
-      "name": "Dropshipping Tycoon",
-      "universeId": "10666108087",
-      "rootPlaceId": 139186643787547,
-      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
-      "genre": "All",
-      "created": "2026-08-09T17:46:43.515Z",
-      "creatorName": "DragonT Gaming",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 1570,
-          "visits": 111405
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 1493,
-          "visits": 113148
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 1432,
-          "visits": 114343
-        },
-        {
-          "t": "2026-09-04T05:51:05.707852+00:00",
-          "ccu": 1311,
-          "visits": 116936
-        }
-      ],
-      "latest_ccu": 1311,
-      "latest_visits": 116936,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 17.0,
-      "trend_label": "declining",
-      "growth_ratio": 0.9
+      "growth_ratio": 0.64
     },
     {
       "name": "bug fixes",
@@ -1276,14 +1286,19 @@
           "t": "2026-09-04T05:51:05.707852+00:00",
           "ccu": 459,
           "visits": 176490
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 467,
+          "visits": 177459
         }
       ],
-      "latest_ccu": 459,
-      "latest_visits": 176490,
-      "last_seen": "2026-09-04T05:51:05.707852+00:00",
-      "trend_score": 13.4,
+      "latest_ccu": 467,
+      "latest_visits": 177459,
+      "last_seen": "2026-09-04T06:21:59.920132+00:00",
+      "trend_score": 13.5,
       "trend_label": "declining",
-      "growth_ratio": 0.69
+      "growth_ratio": 0.67
     },
     {
       "name": "The Cosalazo 2 ",

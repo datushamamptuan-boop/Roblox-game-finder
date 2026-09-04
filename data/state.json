@@ -1271,14 +1271,19 @@
           "t": "2026-09-04T13:35:00.817944+00:00",
           "ccu": 366,
           "visits": 113862
+        },
+        {
+          "t": "2026-09-04T13:53:04.012080+00:00",
+          "ccu": 364,
+          "visits": 114364
         }
       ],
-      "latest_ccu": 366,
-      "latest_visits": 113862,
-      "last_seen": "2026-09-04T13:35:00.817944+00:00",
-      "trend_score": 17.2,
+      "latest_ccu": 364,
+      "latest_visits": 114364,
+      "last_seen": "2026-09-04T13:53:04.012080+00:00",
+      "trend_score": 18.4,
       "trend_label": "declining",
-      "growth_ratio": 0.5
+      "growth_ratio": 0.51
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1469,14 +1474,19 @@
           "t": "2026-09-04T13:35:00.817944+00:00",
           "ccu": 747,
           "visits": 197464
+        },
+        {
+          "t": "2026-09-04T13:53:04.012080+00:00",
+          "ccu": 785,
+          "visits": 198553
         }
       ],
-      "latest_ccu": 747,
-      "latest_visits": 197464,
-      "last_seen": "2026-09-04T13:35:00.817944+00:00",
-      "trend_score": 45.6,
+      "latest_ccu": 785,
+      "latest_visits": 198553,
+      "last_seen": "2026-09-04T13:53:04.012080+00:00",
+      "trend_score": 47.1,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.94
+      "growth_ratio": 0.96
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1612,14 +1622,19 @@
           "t": "2026-09-04T13:35:00.817944+00:00",
           "ccu": 1944,
           "visits": 155435
+        },
+        {
+          "t": "2026-09-04T13:53:04.012080+00:00",
+          "ccu": 1855,
+          "visits": 157188
         }
       ],
-      "latest_ccu": 1944,
-      "latest_visits": 155435,
-      "last_seen": "2026-09-04T13:35:00.817944+00:00",
-      "trend_score": 67.1,
+      "latest_ccu": 1855,
+      "latest_visits": 157188,
+      "last_seen": "2026-09-04T13:53:04.012080+00:00",
+      "trend_score": 67.3,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.23
+      "growth_ratio": 1.24
     }
   }
 }

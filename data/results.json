@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:22:30.901671+00:00",
+  "generated_at": "2026-09-04T12:55:08.417426+00:00",
   "count": 10,
   "games": [
     {
@@ -528,14 +528,19 @@
           "t": "2026-09-04T12:22:30.901671+00:00",
           "ccu": 1887,
           "visits": 148316
+        },
+        {
+          "t": "2026-09-04T12:55:08.417426+00:00",
+          "ccu": 1870,
+          "visits": 151557
         }
       ],
-      "latest_ccu": 1887,
-      "latest_visits": 148316,
-      "last_seen": "2026-09-04T12:22:30.901671+00:00",
-      "trend_score": 65.3,
+      "latest_ccu": 1870,
+      "latest_visits": 151557,
+      "last_seen": "2026-09-04T12:55:08.417426+00:00",
+      "trend_score": 65.6,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.19
+      "growth_ratio": 1.2
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",
@@ -1055,14 +1060,19 @@
           "t": "2026-09-04T12:22:30.901671+00:00",
           "ccu": 685,
           "visits": 193261
+        },
+        {
+          "t": "2026-09-04T12:55:08.417426+00:00",
+          "ccu": 751,
+          "visits": 195146
         }
       ],
-      "latest_ccu": 685,
-      "latest_visits": 193261,
-      "last_seen": "2026-09-04T12:22:30.901671+00:00",
-      "trend_score": 38.8,
+      "latest_ccu": 751,
+      "latest_visits": 195146,
+      "last_seen": "2026-09-04T12:55:08.417426+00:00",
+      "trend_score": 41.6,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.85
+      "growth_ratio": 0.89
     },
     {
       "name": "Strikeborn",
@@ -1546,14 +1556,19 @@
           "t": "2026-09-04T12:22:30.901671+00:00",
           "ccu": 302,
           "visits": 111911
+        },
+        {
+          "t": "2026-09-04T12:55:08.417426+00:00",
+          "ccu": 338,
+          "visits": 112751
         }
       ],
-      "latest_ccu": 302,
-      "latest_visits": 111911,
-      "last_seen": "2026-09-04T12:22:30.901671+00:00",
-      "trend_score": 14.2,
+      "latest_ccu": 338,
+      "latest_visits": 112751,
+      "last_seen": "2026-09-04T12:55:08.417426+00:00",
+      "trend_score": 15.2,
       "trend_label": "declining",
-      "growth_ratio": 0.47
+      "growth_ratio": 0.48
     },
     {
       "name": "The Cosalazo 2 ",

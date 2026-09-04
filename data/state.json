@@ -1171,14 +1171,19 @@
           "t": "2026-09-04T06:21:59.920132+00:00",
           "ccu": 279,
           "visits": 105564
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 236,
+          "visits": 106142
         }
       ],
-      "latest_ccu": 279,
-      "latest_visits": 105564,
-      "last_seen": "2026-09-04T06:21:59.920132+00:00",
-      "trend_score": 20.1,
+      "latest_ccu": 236,
+      "latest_visits": 106142,
+      "last_seen": "2026-09-04T06:55:09.643626+00:00",
+      "trend_score": 18.5,
       "trend_label": "declining",
-      "growth_ratio": 0.64
+      "growth_ratio": 0.62
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1269,14 +1274,19 @@
           "t": "2026-09-04T06:21:59.920132+00:00",
           "ccu": 467,
           "visits": 177459
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 474,
+          "visits": 178628
         }
       ],
-      "latest_ccu": 467,
-      "latest_visits": 177459,
-      "last_seen": "2026-09-04T06:21:59.920132+00:00",
-      "trend_score": 13.5,
+      "latest_ccu": 474,
+      "latest_visits": 178628,
+      "last_seen": "2026-09-04T06:55:09.643626+00:00",
+      "trend_score": 14.4,
       "trend_label": "declining",
-      "growth_ratio": 0.67
+      "growth_ratio": 0.66
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1312,14 +1322,19 @@
           "t": "2026-09-04T06:21:59.920132+00:00",
           "ccu": 1398,
           "visits": 119032
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 1406,
+          "visits": 121447
         }
       ],
-      "latest_ccu": 1398,
-      "latest_visits": 119032,
-      "last_seen": "2026-09-04T06:21:59.920132+00:00",
-      "trend_score": 27.8,
-      "trend_label": "declining",
-      "growth_ratio": 0.9
+      "latest_ccu": 1406,
+      "latest_visits": 121447,
+      "last_seen": "2026-09-04T06:55:09.643626+00:00",
+      "trend_score": 34.4,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.92
     }
   }
 }

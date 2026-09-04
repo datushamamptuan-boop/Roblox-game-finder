@@ -1096,14 +1096,19 @@
           "t": "2026-09-04T01:14:14.605648+00:00",
           "ccu": 554,
           "visits": 96007
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 515,
+          "visits": 96799
         }
       ],
-      "latest_ccu": 554,
-      "latest_visits": 96007,
-      "last_seen": "2026-09-04T01:14:14.605648+00:00",
-      "trend_score": 51.7,
+      "latest_ccu": 515,
+      "latest_visits": 96799,
+      "last_seen": "2026-09-04T01:31:25.894832+00:00",
+      "trend_score": 47.5,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.03
+      "growth_ratio": 1.0
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1119,11 +1124,16 @@
           "t": "2026-09-04T01:14:14.605648+00:00",
           "ccu": 825,
           "visits": 162453
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 825,
+          "visits": 163605
         }
       ],
       "latest_ccu": 825,
-      "latest_visits": 162453,
-      "last_seen": "2026-09-04T01:14:14.605648+00:00",
+      "latest_visits": 163605,
+      "last_seen": "2026-09-04T01:31:25.894832+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:51:11.735569+00:00",
+  "generated_at": "2026-09-04T02:16:59.926752+00:00",
   "count": 9,
   "games": [
     {
@@ -754,6 +754,44 @@
       "growth_ratio": 0.97
     },
     {
+      "name": "bug fixes",
+      "universeId": "10666192800",
+      "rootPlaceId": 100971017807798,
+      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
+      "genre": "All",
+      "created": "2026-08-09T17:59:21.832Z",
+      "creatorName": "captainwoodlegs",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 825,
+          "visits": 162453
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 825,
+          "visits": 163605
+        },
+        {
+          "t": "2026-09-04T01:51:11.735569+00:00",
+          "ccu": 813,
+          "visits": 164915
+        },
+        {
+          "t": "2026-09-04T02:16:59.926752+00:00",
+          "ccu": 798,
+          "visits": 166569
+        }
+      ],
+      "latest_ccu": 798,
+      "latest_visits": 166569,
+      "last_seen": "2026-09-04T02:16:59.926752+00:00",
+      "trend_score": 43.4,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.98
+    },
+    {
       "name": "[SANDWORM] Journey to the Watchtower",
       "universeId": "10694025593",
       "rootPlaceId": 80124268479430,
@@ -832,14 +870,19 @@
           "t": "2026-09-04T01:51:11.735569+00:00",
           "ccu": 498,
           "visits": 97644
+        },
+        {
+          "t": "2026-09-04T02:16:59.926752+00:00",
+          "ccu": 528,
+          "visits": 98690
         }
       ],
-      "latest_ccu": 498,
-      "latest_visits": 97644,
-      "last_seen": "2026-09-04T01:51:11.735569+00:00",
-      "trend_score": 43.7,
+      "latest_ccu": 528,
+      "latest_visits": 98690,
+      "last_seen": "2026-09-04T02:16:59.926752+00:00",
+      "trend_score": 42.3,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.97
+      "growth_ratio": 0.95
     },
     {
       "name": "Strikeborn",
@@ -1113,39 +1156,6 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "bug fixes",
-      "universeId": "10666192800",
-      "rootPlaceId": 100971017807798,
-      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
-      "genre": "All",
-      "created": "2026-08-09T17:59:21.832Z",
-      "creatorName": "captainwoodlegs",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-04T01:14:14.605648+00:00",
-          "ccu": 825,
-          "visits": 162453
-        },
-        {
-          "t": "2026-09-04T01:31:25.894832+00:00",
-          "ccu": 825,
-          "visits": 163605
-        },
-        {
-          "t": "2026-09-04T01:51:11.735569+00:00",
-          "ccu": 813,
-          "visits": 164915
-        }
-      ],
-      "latest_ccu": 813,
-      "latest_visits": 164915,
-      "last_seen": "2026-09-04T01:51:11.735569+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

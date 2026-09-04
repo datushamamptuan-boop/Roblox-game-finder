@@ -1226,14 +1226,19 @@
           "t": "2026-09-04T10:18:11.548502+00:00",
           "ccu": 233,
           "visits": 109268
+        },
+        {
+          "t": "2026-09-04T10:35:07.163620+00:00",
+          "ccu": 242,
+          "visits": 109515
         }
       ],
-      "latest_ccu": 233,
-      "latest_visits": 109268,
-      "last_seen": "2026-09-04T10:18:11.548502+00:00",
-      "trend_score": 11.8,
+      "latest_ccu": 242,
+      "latest_visits": 109515,
+      "last_seen": "2026-09-04T10:35:07.163620+00:00",
+      "trend_score": 12.0,
       "trend_label": "declining",
-      "growth_ratio": 0.48
+      "growth_ratio": 0.47
     },
     "10666192800": {
       "name": "bug fixes",
@@ -1379,14 +1384,19 @@
           "t": "2026-09-04T10:18:11.548502+00:00",
           "ccu": 555,
           "visits": 186883
+        },
+        {
+          "t": "2026-09-04T10:35:07.163620+00:00",
+          "ccu": 606,
+          "visits": 187654
         }
       ],
-      "latest_ccu": 555,
-      "latest_visits": 186883,
-      "last_seen": "2026-09-04T10:18:11.548502+00:00",
-      "trend_score": 26.8,
+      "latest_ccu": 606,
+      "latest_visits": 187654,
+      "last_seen": "2026-09-04T10:35:07.163620+00:00",
+      "trend_score": 29.5,
       "trend_label": "declining",
-      "growth_ratio": 0.72
+      "growth_ratio": 0.75
     },
     "10666108087": {
       "name": "Dropshipping Tycoon",
@@ -1477,14 +1487,19 @@
           "t": "2026-09-04T10:18:11.548502+00:00",
           "ccu": 1618,
           "visits": 136244
+        },
+        {
+          "t": "2026-09-04T10:35:07.163620+00:00",
+          "ccu": 1646,
+          "visits": 137638
         }
       ],
-      "latest_ccu": 1618,
-      "latest_visits": 136244,
-      "last_seen": "2026-09-04T10:18:11.548502+00:00",
-      "trend_score": 54.1,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.04
+      "latest_ccu": 1646,
+      "latest_visits": 137638,
+      "last_seen": "2026-09-04T10:35:07.163620+00:00",
+      "trend_score": 55.3,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.05
     }
   }
 }

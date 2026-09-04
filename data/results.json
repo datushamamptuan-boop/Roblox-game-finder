@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T00:53:24.981606+00:00",
-  "count": 8,
+  "generated_at": "2026-09-04T01:14:14.605648+00:00",
+  "count": 9,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -611,14 +611,19 @@
           "t": "2026-09-04T00:53:24.981606+00:00",
           "ccu": 558,
           "visits": 95124
+        },
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 554,
+          "visits": 96007
         }
       ],
-      "latest_ccu": 558,
-      "latest_visits": 95124,
-      "last_seen": "2026-09-04T00:53:24.981606+00:00",
-      "trend_score": 56.2,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.06
+      "latest_ccu": 554,
+      "latest_visits": 96007,
+      "last_seen": "2026-09-04T01:14:14.605648+00:00",
+      "trend_score": 51.7,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.03
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -1098,6 +1103,29 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "bug fixes",
+      "universeId": "10666192800",
+      "rootPlaceId": 100971017807798,
+      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
+      "genre": "All",
+      "created": "2026-08-09T17:59:21.832Z",
+      "creatorName": "captainwoodlegs",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 825,
+          "visits": 162453
+        }
+      ],
+      "latest_ccu": 825,
+      "latest_visits": 162453,
+      "last_seen": "2026-09-04T01:14:14.605648+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

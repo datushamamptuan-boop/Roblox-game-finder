@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:53:04.012080+00:00",
+  "generated_at": "2026-09-04T14:17:11.584289+00:00",
   "count": 10,
   "games": [
     {
@@ -548,12 +548,17 @@
           "t": "2026-09-04T13:53:04.012080+00:00",
           "ccu": 1855,
           "visits": 157188
+        },
+        {
+          "t": "2026-09-04T14:17:11.584289+00:00",
+          "ccu": 1847,
+          "visits": 159434
         }
       ],
-      "latest_ccu": 1855,
-      "latest_visits": 157188,
-      "last_seen": "2026-09-04T13:53:04.012080+00:00",
-      "trend_score": 67.3,
+      "latest_ccu": 1847,
+      "latest_visits": 159434,
+      "last_seen": "2026-09-04T14:17:11.584289+00:00",
+      "trend_score": 67.1,
       "trend_label": "mild_upward",
       "growth_ratio": 1.24
     },
@@ -1606,14 +1611,19 @@
           "t": "2026-09-04T13:53:04.012080+00:00",
           "ccu": 364,
           "visits": 114364
+        },
+        {
+          "t": "2026-09-04T14:17:11.584289+00:00",
+          "ccu": 399,
+          "visits": 115062
         }
       ],
-      "latest_ccu": 364,
-      "latest_visits": 114364,
-      "last_seen": "2026-09-04T13:53:04.012080+00:00",
-      "trend_score": 18.4,
+      "latest_ccu": 399,
+      "latest_visits": 115062,
+      "last_seen": "2026-09-04T14:17:11.584289+00:00",
+      "trend_score": 19.5,
       "trend_label": "declining",
-      "growth_ratio": 0.51
+      "growth_ratio": 0.52
     },
     {
       "name": "The Cosalazo 2 ",

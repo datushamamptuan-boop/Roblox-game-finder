@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:54:05.296549+00:00",
+  "generated_at": "2026-09-04T09:18:04.412613+00:00",
   "count": 10,
   "games": [
     {
@@ -709,14 +709,19 @@
           "t": "2026-09-04T08:54:05.296549+00:00",
           "ccu": 1507,
           "visits": 129719
+        },
+        {
+          "t": "2026-09-04T09:18:04.412613+00:00",
+          "ccu": 1510,
+          "visits": 131460
         }
       ],
-      "latest_ccu": 1507,
-      "latest_visits": 129719,
-      "last_seen": "2026-09-04T08:54:05.296549+00:00",
-      "trend_score": 50.1,
+      "latest_ccu": 1510,
+      "latest_visits": 131460,
+      "last_seen": "2026-09-04T09:18:04.412613+00:00",
+      "trend_score": 51.2,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.01
+      "growth_ratio": 1.02
     },
     {
       "name": "Zee [FIXED!]",
@@ -830,6 +835,144 @@
       "trend_score": 47.6,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.97
+    },
+    {
+      "name": "bug fixes",
+      "universeId": "10666192800",
+      "rootPlaceId": 100971017807798,
+      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
+      "genre": "All",
+      "created": "2026-08-09T17:59:21.832Z",
+      "creatorName": "captainwoodlegs",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 825,
+          "visits": 162453
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 825,
+          "visits": 163605
+        },
+        {
+          "t": "2026-09-04T01:51:11.735569+00:00",
+          "ccu": 813,
+          "visits": 164915
+        },
+        {
+          "t": "2026-09-04T02:16:59.926752+00:00",
+          "ccu": 798,
+          "visits": 166569
+        },
+        {
+          "t": "2026-09-04T02:33:33.261835+00:00",
+          "ccu": 776,
+          "visits": 167581
+        },
+        {
+          "t": "2026-09-04T02:50:59.471755+00:00",
+          "ccu": 731,
+          "visits": 168571
+        },
+        {
+          "t": "2026-09-04T03:17:15.944547+00:00",
+          "ccu": 671,
+          "visits": 170051
+        },
+        {
+          "t": "2026-09-04T03:34:19.700091+00:00",
+          "ccu": 647,
+          "visits": 170961
+        },
+        {
+          "t": "2026-09-04T03:51:23.069525+00:00",
+          "ccu": 628,
+          "visits": 171886
+        },
+        {
+          "t": "2026-09-04T04:17:25.834518+00:00",
+          "ccu": 543,
+          "visits": 172992
+        },
+        {
+          "t": "2026-09-04T04:34:31.054457+00:00",
+          "ccu": 531,
+          "visits": 173646
+        },
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 506,
+          "visits": 174320
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 480,
+          "visits": 175211
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 465,
+          "visits": 175826
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 459,
+          "visits": 176490
+        },
+        {
+          "t": "2026-09-04T06:21:59.920132+00:00",
+          "ccu": 467,
+          "visits": 177459
+        },
+        {
+          "t": "2026-09-04T06:55:09.643626+00:00",
+          "ccu": 474,
+          "visits": 178628
+        },
+        {
+          "t": "2026-09-04T07:16:59.345142+00:00",
+          "ccu": 485,
+          "visits": 180049
+        },
+        {
+          "t": "2026-09-04T07:34:09.409384+00:00",
+          "ccu": 471,
+          "visits": 180701
+        },
+        {
+          "t": "2026-09-04T07:52:26.108559+00:00",
+          "ccu": 493,
+          "visits": 181349
+        },
+        {
+          "t": "2026-09-04T08:19:06.812844+00:00",
+          "ccu": 459,
+          "visits": 182368
+        },
+        {
+          "t": "2026-09-04T08:37:09.636216+00:00",
+          "ccu": 474,
+          "visits": 183020
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 493,
+          "visits": 183665
+        },
+        {
+          "t": "2026-09-04T09:18:04.412613+00:00",
+          "ccu": 497,
+          "visits": 184592
+        }
+      ],
+      "latest_ccu": 497,
+      "latest_visits": 184592,
+      "last_seen": "2026-09-04T09:18:04.412613+00:00",
+      "trend_score": 22.8,
+      "trend_label": "declining",
+      "growth_ratio": 0.69
     },
     {
       "name": "Strikeborn",
@@ -1085,139 +1228,6 @@
       "growth_ratio": 0.54
     },
     {
-      "name": "bug fixes",
-      "universeId": "10666192800",
-      "rootPlaceId": 100971017807798,
-      "description": "is honor truly dead\n\nx to bow or sheath\nb to pray\ne, q, f for directional cuts\nr to change stance\n= to take off hat\ng to displace\n\n\n\n\neaster eggs:\nsay \"kurosawa\" for cinematic mode\n\nno full console or mobile support yet\nmobile/console game support is currently intended for people with keyboard attachments",
-      "genre": "All",
-      "created": "2026-08-09T17:59:21.832Z",
-      "creatorName": "captainwoodlegs",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-04T01:14:14.605648+00:00",
-          "ccu": 825,
-          "visits": 162453
-        },
-        {
-          "t": "2026-09-04T01:31:25.894832+00:00",
-          "ccu": 825,
-          "visits": 163605
-        },
-        {
-          "t": "2026-09-04T01:51:11.735569+00:00",
-          "ccu": 813,
-          "visits": 164915
-        },
-        {
-          "t": "2026-09-04T02:16:59.926752+00:00",
-          "ccu": 798,
-          "visits": 166569
-        },
-        {
-          "t": "2026-09-04T02:33:33.261835+00:00",
-          "ccu": 776,
-          "visits": 167581
-        },
-        {
-          "t": "2026-09-04T02:50:59.471755+00:00",
-          "ccu": 731,
-          "visits": 168571
-        },
-        {
-          "t": "2026-09-04T03:17:15.944547+00:00",
-          "ccu": 671,
-          "visits": 170051
-        },
-        {
-          "t": "2026-09-04T03:34:19.700091+00:00",
-          "ccu": 647,
-          "visits": 170961
-        },
-        {
-          "t": "2026-09-04T03:51:23.069525+00:00",
-          "ccu": 628,
-          "visits": 171886
-        },
-        {
-          "t": "2026-09-04T04:17:25.834518+00:00",
-          "ccu": 543,
-          "visits": 172992
-        },
-        {
-          "t": "2026-09-04T04:34:31.054457+00:00",
-          "ccu": 531,
-          "visits": 173646
-        },
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 506,
-          "visits": 174320
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 480,
-          "visits": 175211
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 465,
-          "visits": 175826
-        },
-        {
-          "t": "2026-09-04T05:51:05.707852+00:00",
-          "ccu": 459,
-          "visits": 176490
-        },
-        {
-          "t": "2026-09-04T06:21:59.920132+00:00",
-          "ccu": 467,
-          "visits": 177459
-        },
-        {
-          "t": "2026-09-04T06:55:09.643626+00:00",
-          "ccu": 474,
-          "visits": 178628
-        },
-        {
-          "t": "2026-09-04T07:16:59.345142+00:00",
-          "ccu": 485,
-          "visits": 180049
-        },
-        {
-          "t": "2026-09-04T07:34:09.409384+00:00",
-          "ccu": 471,
-          "visits": 180701
-        },
-        {
-          "t": "2026-09-04T07:52:26.108559+00:00",
-          "ccu": 493,
-          "visits": 181349
-        },
-        {
-          "t": "2026-09-04T08:19:06.812844+00:00",
-          "ccu": 459,
-          "visits": 182368
-        },
-        {
-          "t": "2026-09-04T08:37:09.636216+00:00",
-          "ccu": 474,
-          "visits": 183020
-        },
-        {
-          "t": "2026-09-04T08:54:05.296549+00:00",
-          "ccu": 493,
-          "visits": 183665
-        }
-      ],
-      "latest_ccu": 493,
-      "latest_visits": 183665,
-      "last_seen": "2026-09-04T08:54:05.296549+00:00",
-      "trend_score": 21.1,
-      "trend_label": "declining",
-      "growth_ratio": 0.67
-    },
-    {
       "name": "[SANDWORM] Journey to the Watchtower",
       "universeId": "10694025593",
       "rootPlaceId": 80124268479430,
@@ -1396,14 +1406,19 @@
           "t": "2026-09-04T08:54:05.296549+00:00",
           "ccu": 205,
           "visits": 108027
+        },
+        {
+          "t": "2026-09-04T09:18:04.412613+00:00",
+          "ccu": 208,
+          "visits": 108356
         }
       ],
-      "latest_ccu": 205,
-      "latest_visits": 108027,
-      "last_seen": "2026-09-04T08:54:05.296549+00:00",
-      "trend_score": 12.8,
+      "latest_ccu": 208,
+      "latest_visits": 108356,
+      "last_seen": "2026-09-04T09:18:04.412613+00:00",
+      "trend_score": 12.4,
       "trend_label": "declining",
-      "growth_ratio": 0.51
+      "growth_ratio": 0.5
     },
     {
       "name": "The Cosalazo 2 ",

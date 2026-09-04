@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:18:04.412613+00:00",
+  "generated_at": "2026-09-04T09:35:00.671304+00:00",
   "count": 10,
   "games": [
     {
@@ -714,11 +714,16 @@
           "t": "2026-09-04T09:18:04.412613+00:00",
           "ccu": 1510,
           "visits": 131460
+        },
+        {
+          "t": "2026-09-04T09:35:00.671304+00:00",
+          "ccu": 1449,
+          "visits": 132801
         }
       ],
-      "latest_ccu": 1510,
-      "latest_visits": 131460,
-      "last_seen": "2026-09-04T09:18:04.412613+00:00",
+      "latest_ccu": 1449,
+      "latest_visits": 132801,
+      "last_seen": "2026-09-04T09:35:00.671304+00:00",
       "trend_score": 51.2,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.02
@@ -965,12 +970,17 @@
           "t": "2026-09-04T09:18:04.412613+00:00",
           "ccu": 497,
           "visits": 184592
+        },
+        {
+          "t": "2026-09-04T09:35:00.671304+00:00",
+          "ccu": 496,
+          "visits": 185205
         }
       ],
-      "latest_ccu": 497,
-      "latest_visits": 184592,
-      "last_seen": "2026-09-04T09:18:04.412613+00:00",
-      "trend_score": 22.8,
+      "latest_ccu": 496,
+      "latest_visits": 185205,
+      "last_seen": "2026-09-04T09:35:00.671304+00:00",
+      "trend_score": 23.8,
       "trend_label": "declining",
       "growth_ratio": 0.69
     },
@@ -1411,14 +1421,19 @@
           "t": "2026-09-04T09:18:04.412613+00:00",
           "ccu": 208,
           "visits": 108356
+        },
+        {
+          "t": "2026-09-04T09:35:00.671304+00:00",
+          "ccu": 228,
+          "visits": 108601
         }
       ],
-      "latest_ccu": 208,
-      "latest_visits": 108356,
-      "last_seen": "2026-09-04T09:18:04.412613+00:00",
-      "trend_score": 12.4,
+      "latest_ccu": 228,
+      "latest_visits": 108601,
+      "last_seen": "2026-09-04T09:35:00.671304+00:00",
+      "trend_score": 12.0,
       "trend_label": "declining",
-      "growth_ratio": 0.5
+      "growth_ratio": 0.49
     },
     {
       "name": "The Cosalazo 2 ",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T08:37:09.636216+00:00",
+  "generated_at": "2026-09-04T08:54:05.296549+00:00",
   "count": 10,
   "games": [
     {
@@ -704,14 +704,19 @@
           "t": "2026-09-04T08:37:09.636216+00:00",
           "ccu": 1455,
           "visits": 128537
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 1507,
+          "visits": 129719
         }
       ],
-      "latest_ccu": 1455,
-      "latest_visits": 128537,
-      "last_seen": "2026-09-04T08:37:09.636216+00:00",
-      "trend_score": 48.1,
+      "latest_ccu": 1507,
+      "latest_visits": 129719,
+      "last_seen": "2026-09-04T08:54:05.296549+00:00",
+      "trend_score": 50.1,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.99
+      "growth_ratio": 1.01
     },
     {
       "name": "Zee [FIXED!]",
@@ -1198,12 +1203,17 @@
           "t": "2026-09-04T08:37:09.636216+00:00",
           "ccu": 474,
           "visits": 183020
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 493,
+          "visits": 183665
         }
       ],
-      "latest_ccu": 474,
-      "latest_visits": 183020,
-      "last_seen": "2026-09-04T08:37:09.636216+00:00",
-      "trend_score": 20.0,
+      "latest_ccu": 493,
+      "latest_visits": 183665,
+      "last_seen": "2026-09-04T08:54:05.296549+00:00",
+      "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.67
     },
@@ -1381,14 +1391,19 @@
           "t": "2026-09-04T08:37:09.636216+00:00",
           "ccu": 230,
           "visits": 107782
+        },
+        {
+          "t": "2026-09-04T08:54:05.296549+00:00",
+          "ccu": 205,
+          "visits": 108027
         }
       ],
-      "latest_ccu": 230,
-      "latest_visits": 107782,
-      "last_seen": "2026-09-04T08:37:09.636216+00:00",
-      "trend_score": 13.8,
+      "latest_ccu": 205,
+      "latest_visits": 108027,
+      "last_seen": "2026-09-04T08:54:05.296549+00:00",
+      "trend_score": 12.8,
       "trend_label": "declining",
-      "growth_ratio": 0.53
+      "growth_ratio": 0.51
     },
     {
       "name": "The Cosalazo 2 ",

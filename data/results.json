@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T05:32:59.516030+00:00",
+  "generated_at": "2026-09-04T05:51:05.707852+00:00",
   "count": 10,
   "games": [
     {
@@ -754,149 +754,6 @@
       "growth_ratio": 0.97
     },
     {
-      "name": "[SANDWORM] Journey to the Watchtower",
-      "universeId": "10694025593",
-      "rootPlaceId": 80124268479430,
-      "description": "The Watchtower is waiting.\n\nCross the desert, survive the deadly light, and make it farther with every attempt.\n\n\u26a1 Survive the Watchtower\u2019s attacks\n\ud83c\udf00 Roll powerful Spirits & Sins\n\ud83d\udcc8 Upgrade your stamina, speed, and Insanity gain\n\u267b\ufe0f Rebirth to become permanently stronger\n\ud83c\udfc6 Reach the Watchtower\n\nEvery death makes the next journey easier. How far can you make it?",
-      "genre": "All",
-      "created": "2026-08-13T08:07:14.817Z",
-      "creatorName": "Brian's Youtube Gang",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-03T21:17:10.443483+00:00",
-          "ccu": 595,
-          "visits": 83022
-        },
-        {
-          "t": "2026-09-03T21:32:32.783162+00:00",
-          "ccu": 591,
-          "visits": 83787
-        },
-        {
-          "t": "2026-09-03T21:49:27.331444+00:00",
-          "ccu": 580,
-          "visits": 84655
-        },
-        {
-          "t": "2026-09-03T22:16:57.810972+00:00",
-          "ccu": 617,
-          "visits": 86187
-        },
-        {
-          "t": "2026-09-03T22:32:12.300609+00:00",
-          "ccu": 674,
-          "visits": 86972
-        },
-        {
-          "t": "2026-09-03T22:50:02.232577+00:00",
-          "ccu": 639,
-          "visits": 88074
-        },
-        {
-          "t": "2026-09-03T23:15:00.113674+00:00",
-          "ccu": 641,
-          "visits": 89472
-        },
-        {
-          "t": "2026-09-03T23:29:21.014852+00:00",
-          "ccu": 708,
-          "visits": 90337
-        },
-        {
-          "t": "2026-09-03T23:49:21.705869+00:00",
-          "ccu": 780,
-          "visits": 91645
-        },
-        {
-          "t": "2026-09-04T00:25:08.270324+00:00",
-          "ccu": 576,
-          "visits": 93862
-        },
-        {
-          "t": "2026-09-04T00:53:24.981606+00:00",
-          "ccu": 558,
-          "visits": 95124
-        },
-        {
-          "t": "2026-09-04T01:14:14.605648+00:00",
-          "ccu": 554,
-          "visits": 96007
-        },
-        {
-          "t": "2026-09-04T01:31:25.894832+00:00",
-          "ccu": 515,
-          "visits": 96799
-        },
-        {
-          "t": "2026-09-04T01:51:11.735569+00:00",
-          "ccu": 498,
-          "visits": 97644
-        },
-        {
-          "t": "2026-09-04T02:16:59.926752+00:00",
-          "ccu": 528,
-          "visits": 98690
-        },
-        {
-          "t": "2026-09-04T02:33:33.261835+00:00",
-          "ccu": 496,
-          "visits": 99304
-        },
-        {
-          "t": "2026-09-04T02:50:59.471755+00:00",
-          "ccu": 464,
-          "visits": 99978
-        },
-        {
-          "t": "2026-09-04T03:17:15.944547+00:00",
-          "ccu": 438,
-          "visits": 100883
-        },
-        {
-          "t": "2026-09-04T03:34:19.700091+00:00",
-          "ccu": 396,
-          "visits": 101385
-        },
-        {
-          "t": "2026-09-04T03:51:23.069525+00:00",
-          "ccu": 403,
-          "visits": 101916
-        },
-        {
-          "t": "2026-09-04T04:17:25.834518+00:00",
-          "ccu": 379,
-          "visits": 102689
-        },
-        {
-          "t": "2026-09-04T04:34:31.054457+00:00",
-          "ccu": 365,
-          "visits": 103127
-        },
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 335,
-          "visits": 103597
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 311,
-          "visits": 104173
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 322,
-          "visits": 104520
-        }
-      ],
-      "latest_ccu": 322,
-      "latest_visits": 104520,
-      "last_seen": "2026-09-04T05:32:59.516030+00:00",
-      "trend_score": 22.3,
-      "trend_label": "declining",
-      "growth_ratio": 0.67
-    },
-    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -1150,6 +1007,192 @@
       "growth_ratio": 0.54
     },
     {
+      "name": "[SANDWORM] Journey to the Watchtower",
+      "universeId": "10694025593",
+      "rootPlaceId": 80124268479430,
+      "description": "The Watchtower is waiting.\n\nCross the desert, survive the deadly light, and make it farther with every attempt.\n\n\u26a1 Survive the Watchtower\u2019s attacks\n\ud83c\udf00 Roll powerful Spirits & Sins\n\ud83d\udcc8 Upgrade your stamina, speed, and Insanity gain\n\u267b\ufe0f Rebirth to become permanently stronger\n\ud83c\udfc6 Reach the Watchtower\n\nEvery death makes the next journey easier. How far can you make it?",
+      "genre": "All",
+      "created": "2026-08-13T08:07:14.817Z",
+      "creatorName": "Brian's Youtube Gang",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-03T21:17:10.443483+00:00",
+          "ccu": 595,
+          "visits": 83022
+        },
+        {
+          "t": "2026-09-03T21:32:32.783162+00:00",
+          "ccu": 591,
+          "visits": 83787
+        },
+        {
+          "t": "2026-09-03T21:49:27.331444+00:00",
+          "ccu": 580,
+          "visits": 84655
+        },
+        {
+          "t": "2026-09-03T22:16:57.810972+00:00",
+          "ccu": 617,
+          "visits": 86187
+        },
+        {
+          "t": "2026-09-03T22:32:12.300609+00:00",
+          "ccu": 674,
+          "visits": 86972
+        },
+        {
+          "t": "2026-09-03T22:50:02.232577+00:00",
+          "ccu": 639,
+          "visits": 88074
+        },
+        {
+          "t": "2026-09-03T23:15:00.113674+00:00",
+          "ccu": 641,
+          "visits": 89472
+        },
+        {
+          "t": "2026-09-03T23:29:21.014852+00:00",
+          "ccu": 708,
+          "visits": 90337
+        },
+        {
+          "t": "2026-09-03T23:49:21.705869+00:00",
+          "ccu": 780,
+          "visits": 91645
+        },
+        {
+          "t": "2026-09-04T00:25:08.270324+00:00",
+          "ccu": 576,
+          "visits": 93862
+        },
+        {
+          "t": "2026-09-04T00:53:24.981606+00:00",
+          "ccu": 558,
+          "visits": 95124
+        },
+        {
+          "t": "2026-09-04T01:14:14.605648+00:00",
+          "ccu": 554,
+          "visits": 96007
+        },
+        {
+          "t": "2026-09-04T01:31:25.894832+00:00",
+          "ccu": 515,
+          "visits": 96799
+        },
+        {
+          "t": "2026-09-04T01:51:11.735569+00:00",
+          "ccu": 498,
+          "visits": 97644
+        },
+        {
+          "t": "2026-09-04T02:16:59.926752+00:00",
+          "ccu": 528,
+          "visits": 98690
+        },
+        {
+          "t": "2026-09-04T02:33:33.261835+00:00",
+          "ccu": 496,
+          "visits": 99304
+        },
+        {
+          "t": "2026-09-04T02:50:59.471755+00:00",
+          "ccu": 464,
+          "visits": 99978
+        },
+        {
+          "t": "2026-09-04T03:17:15.944547+00:00",
+          "ccu": 438,
+          "visits": 100883
+        },
+        {
+          "t": "2026-09-04T03:34:19.700091+00:00",
+          "ccu": 396,
+          "visits": 101385
+        },
+        {
+          "t": "2026-09-04T03:51:23.069525+00:00",
+          "ccu": 403,
+          "visits": 101916
+        },
+        {
+          "t": "2026-09-04T04:17:25.834518+00:00",
+          "ccu": 379,
+          "visits": 102689
+        },
+        {
+          "t": "2026-09-04T04:34:31.054457+00:00",
+          "ccu": 365,
+          "visits": 103127
+        },
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 335,
+          "visits": 103597
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 311,
+          "visits": 104173
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 322,
+          "visits": 104520
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 295,
+          "visits": 104927
+        }
+      ],
+      "latest_ccu": 295,
+      "latest_visits": 104927,
+      "last_seen": "2026-09-04T05:51:05.707852+00:00",
+      "trend_score": 21.1,
+      "trend_label": "declining",
+      "growth_ratio": 0.65
+    },
+    {
+      "name": "Dropshipping Tycoon",
+      "universeId": "10666108087",
+      "rootPlaceId": 139186643787547,
+      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
+      "genre": "All",
+      "created": "2026-08-09T17:46:43.515Z",
+      "creatorName": "DragonT Gaming",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-04T04:52:01.971413+00:00",
+          "ccu": 1570,
+          "visits": 111405
+        },
+        {
+          "t": "2026-09-04T05:16:13.442986+00:00",
+          "ccu": 1493,
+          "visits": 113148
+        },
+        {
+          "t": "2026-09-04T05:32:59.516030+00:00",
+          "ccu": 1432,
+          "visits": 114343
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 1311,
+          "visits": 116936
+        }
+      ],
+      "latest_ccu": 1311,
+      "latest_visits": 116936,
+      "last_seen": "2026-09-04T05:51:05.707852+00:00",
+      "trend_score": 17.0,
+      "trend_label": "declining",
+      "growth_ratio": 0.9
+    },
+    {
       "name": "bug fixes",
       "universeId": "10666192800",
       "rootPlaceId": 100971017807798,
@@ -1228,14 +1271,19 @@
           "t": "2026-09-04T05:32:59.516030+00:00",
           "ccu": 465,
           "visits": 175826
+        },
+        {
+          "t": "2026-09-04T05:51:05.707852+00:00",
+          "ccu": 459,
+          "visits": 176490
         }
       ],
-      "latest_ccu": 465,
-      "latest_visits": 175826,
-      "last_seen": "2026-09-04T05:32:59.516030+00:00",
-      "trend_score": 13.6,
+      "latest_ccu": 459,
+      "latest_visits": 176490,
+      "last_seen": "2026-09-04T05:51:05.707852+00:00",
+      "trend_score": 13.4,
       "trend_label": "declining",
-      "growth_ratio": 0.7
+      "growth_ratio": 0.69
     },
     {
       "name": "The Cosalazo 2 ",
@@ -1256,39 +1304,6 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Dropshipping Tycoon",
-      "universeId": "10666108087",
-      "rootPlaceId": 139186643787547,
-      "description": "\ud83d\udce6 Build your own dropshipping business and grow it into a massive automated company!\n\nFind winning products, order stock, create ads, process customer orders and reinvest your profits. Expand your warehouse, build a multi-floor headquarters, hire employees and unlock a huge factory with forklifts, conveyors and B2B contracts.\n\n\ud83d\udcbc BUILD YOUR BUSINESS\n\ud83d\udcf1 Find products, run ads and manage orders\n\ud83d\udce6 Expa",
-      "genre": "All",
-      "created": "2026-08-09T17:46:43.515Z",
-      "creatorName": "DragonT Gaming",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-04T04:52:01.971413+00:00",
-          "ccu": 1570,
-          "visits": 111405
-        },
-        {
-          "t": "2026-09-04T05:16:13.442986+00:00",
-          "ccu": 1493,
-          "visits": 113148
-        },
-        {
-          "t": "2026-09-04T05:32:59.516030+00:00",
-          "ccu": 1432,
-          "visits": 114343
-        }
-      ],
-      "latest_ccu": 1432,
-      "latest_visits": 114343,
-      "last_seen": "2026-09-04T05:32:59.516030+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

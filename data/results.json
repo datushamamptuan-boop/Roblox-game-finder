@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:25:08.270324+00:00",
+  "generated_at": "2026-09-04T00:53:24.981606+00:00",
   "count": 8,
   "games": [
     {
@@ -410,74 +410,6 @@
       "growth_ratio": 1.89
     },
     {
-      "name": "[SANDWORM] Journey to the Watchtower",
-      "universeId": "10694025593",
-      "rootPlaceId": 80124268479430,
-      "description": "The Watchtower is waiting.\n\nCross the desert, survive the deadly light, and make it farther with every attempt.\n\n\u26a1 Survive the Watchtower\u2019s attacks\n\ud83c\udf00 Roll powerful Spirits & Sins\n\ud83d\udcc8 Upgrade your stamina, speed, and Insanity gain\n\u267b\ufe0f Rebirth to become permanently stronger\n\ud83c\udfc6 Reach the Watchtower\n\nEvery death makes the next journey easier. How far can you make it?",
-      "genre": "All",
-      "created": "2026-08-13T08:07:14.817Z",
-      "creatorName": "Brian's Youtube Gang",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-03T21:17:10.443483+00:00",
-          "ccu": 595,
-          "visits": 83022
-        },
-        {
-          "t": "2026-09-03T21:32:32.783162+00:00",
-          "ccu": 591,
-          "visits": 83787
-        },
-        {
-          "t": "2026-09-03T21:49:27.331444+00:00",
-          "ccu": 580,
-          "visits": 84655
-        },
-        {
-          "t": "2026-09-03T22:16:57.810972+00:00",
-          "ccu": 617,
-          "visits": 86187
-        },
-        {
-          "t": "2026-09-03T22:32:12.300609+00:00",
-          "ccu": 674,
-          "visits": 86972
-        },
-        {
-          "t": "2026-09-03T22:50:02.232577+00:00",
-          "ccu": 639,
-          "visits": 88074
-        },
-        {
-          "t": "2026-09-03T23:15:00.113674+00:00",
-          "ccu": 641,
-          "visits": 89472
-        },
-        {
-          "t": "2026-09-03T23:29:21.014852+00:00",
-          "ccu": 708,
-          "visits": 90337
-        },
-        {
-          "t": "2026-09-03T23:49:21.705869+00:00",
-          "ccu": 780,
-          "visits": 91645
-        },
-        {
-          "t": "2026-09-04T00:25:08.270324+00:00",
-          "ccu": 576,
-          "visits": 93862
-        }
-      ],
-      "latest_ccu": 576,
-      "latest_visits": 93862,
-      "last_seen": "2026-09-04T00:25:08.270324+00:00",
-      "trend_score": 62.4,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.09
-    },
-    {
       "name": "[\ud83e\udd0d] Chiidoku",
       "universeId": "10628006421",
       "rootPlaceId": 139705352041000,
@@ -614,6 +546,79 @@
       "trend_score": 62.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.17
+    },
+    {
+      "name": "[SANDWORM] Journey to the Watchtower",
+      "universeId": "10694025593",
+      "rootPlaceId": 80124268479430,
+      "description": "The Watchtower is waiting.\n\nCross the desert, survive the deadly light, and make it farther with every attempt.\n\n\u26a1 Survive the Watchtower\u2019s attacks\n\ud83c\udf00 Roll powerful Spirits & Sins\n\ud83d\udcc8 Upgrade your stamina, speed, and Insanity gain\n\u267b\ufe0f Rebirth to become permanently stronger\n\ud83c\udfc6 Reach the Watchtower\n\nEvery death makes the next journey easier. How far can you make it?",
+      "genre": "All",
+      "created": "2026-08-13T08:07:14.817Z",
+      "creatorName": "Brian's Youtube Gang",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-03T21:17:10.443483+00:00",
+          "ccu": 595,
+          "visits": 83022
+        },
+        {
+          "t": "2026-09-03T21:32:32.783162+00:00",
+          "ccu": 591,
+          "visits": 83787
+        },
+        {
+          "t": "2026-09-03T21:49:27.331444+00:00",
+          "ccu": 580,
+          "visits": 84655
+        },
+        {
+          "t": "2026-09-03T22:16:57.810972+00:00",
+          "ccu": 617,
+          "visits": 86187
+        },
+        {
+          "t": "2026-09-03T22:32:12.300609+00:00",
+          "ccu": 674,
+          "visits": 86972
+        },
+        {
+          "t": "2026-09-03T22:50:02.232577+00:00",
+          "ccu": 639,
+          "visits": 88074
+        },
+        {
+          "t": "2026-09-03T23:15:00.113674+00:00",
+          "ccu": 641,
+          "visits": 89472
+        },
+        {
+          "t": "2026-09-03T23:29:21.014852+00:00",
+          "ccu": 708,
+          "visits": 90337
+        },
+        {
+          "t": "2026-09-03T23:49:21.705869+00:00",
+          "ccu": 780,
+          "visits": 91645
+        },
+        {
+          "t": "2026-09-04T00:25:08.270324+00:00",
+          "ccu": 576,
+          "visits": 93862
+        },
+        {
+          "t": "2026-09-04T00:53:24.981606+00:00",
+          "ccu": 558,
+          "visits": 95124
+        }
+      ],
+      "latest_ccu": 558,
+      "latest_visits": 95124,
+      "last_seen": "2026-09-04T00:53:24.981606+00:00",
+      "trend_score": 56.2,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.06
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",

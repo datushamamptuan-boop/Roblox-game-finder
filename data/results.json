@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:51:16.629789+00:00",
+  "generated_at": "2026-09-04T12:22:30.901671+00:00",
   "count": 10,
   "games": [
     {
@@ -523,14 +523,19 @@
           "t": "2026-09-04T11:51:16.629789+00:00",
           "ccu": 2008,
           "visits": 145012
+        },
+        {
+          "t": "2026-09-04T12:22:30.901671+00:00",
+          "ccu": 1887,
+          "visits": 148316
         }
       ],
-      "latest_ccu": 2008,
-      "latest_visits": 145012,
-      "last_seen": "2026-09-04T11:51:16.629789+00:00",
-      "trend_score": 64.0,
+      "latest_ccu": 1887,
+      "latest_visits": 148316,
+      "last_seen": "2026-09-04T12:22:30.901671+00:00",
+      "trend_score": 65.3,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.16
+      "growth_ratio": 1.19
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",
@@ -1045,14 +1050,19 @@
           "t": "2026-09-04T11:51:16.629789+00:00",
           "ccu": 680,
           "visits": 191484
+        },
+        {
+          "t": "2026-09-04T12:22:30.901671+00:00",
+          "ccu": 685,
+          "visits": 193261
         }
       ],
-      "latest_ccu": 680,
-      "latest_visits": 191484,
-      "last_seen": "2026-09-04T11:51:16.629789+00:00",
-      "trend_score": 37.2,
+      "latest_ccu": 685,
+      "latest_visits": 193261,
+      "last_seen": "2026-09-04T12:22:30.901671+00:00",
+      "trend_score": 38.8,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.83
+      "growth_ratio": 0.85
     },
     {
       "name": "Strikeborn",
@@ -1531,12 +1541,17 @@
           "t": "2026-09-04T11:51:16.629789+00:00",
           "ccu": 295,
           "visits": 111135
+        },
+        {
+          "t": "2026-09-04T12:22:30.901671+00:00",
+          "ccu": 302,
+          "visits": 111911
         }
       ],
-      "latest_ccu": 295,
-      "latest_visits": 111135,
-      "last_seen": "2026-09-04T11:51:16.629789+00:00",
-      "trend_score": 13.6,
+      "latest_ccu": 302,
+      "latest_visits": 111911,
+      "last_seen": "2026-09-04T12:22:30.901671+00:00",
+      "trend_score": 14.2,
       "trend_label": "declining",
       "growth_ratio": 0.47
     },

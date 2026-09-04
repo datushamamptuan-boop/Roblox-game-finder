@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T14:17:11.584289+00:00",
+  "generated_at": "2026-09-04T14:34:12.500668+00:00",
   "count": 10,
   "games": [
     {
@@ -553,14 +553,19 @@
           "t": "2026-09-04T14:17:11.584289+00:00",
           "ccu": 1847,
           "visits": 159434
+        },
+        {
+          "t": "2026-09-04T14:34:12.500668+00:00",
+          "ccu": 1872,
+          "visits": 161057
         }
       ],
-      "latest_ccu": 1847,
-      "latest_visits": 159434,
-      "last_seen": "2026-09-04T14:17:11.584289+00:00",
-      "trend_score": 67.1,
+      "latest_ccu": 1872,
+      "latest_visits": 161057,
+      "last_seen": "2026-09-04T14:34:12.500668+00:00",
+      "trend_score": 67.7,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.24
+      "growth_ratio": 1.26
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",
@@ -1616,14 +1621,19 @@
           "t": "2026-09-04T14:17:11.584289+00:00",
           "ccu": 399,
           "visits": 115062
+        },
+        {
+          "t": "2026-09-04T14:34:12.500668+00:00",
+          "ccu": 431,
+          "visits": 115618
         }
       ],
-      "latest_ccu": 399,
-      "latest_visits": 115062,
-      "last_seen": "2026-09-04T14:17:11.584289+00:00",
-      "trend_score": 19.5,
+      "latest_ccu": 431,
+      "latest_visits": 115618,
+      "last_seen": "2026-09-04T14:34:12.500668+00:00",
+      "trend_score": 20.9,
       "trend_label": "declining",
-      "growth_ratio": 0.52
+      "growth_ratio": 0.53
     },
     {
       "name": "The Cosalazo 2 ",

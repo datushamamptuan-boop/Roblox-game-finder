@@ -1506,14 +1506,19 @@
           "t": "2026-09-05T05:32:02.728921+00:00",
           "ccu": 403,
           "visits": 153856
+        },
+        {
+          "t": "2026-09-05T05:50:06.875352+00:00",
+          "ccu": 337,
+          "visits": 154365
         }
       ],
-      "latest_ccu": 403,
-      "latest_visits": 153856,
-      "last_seen": "2026-09-05T05:32:02.728921+00:00",
-      "trend_score": 61.7,
+      "latest_ccu": 337,
+      "latest_visits": 154365,
+      "last_seen": "2026-09-05T05:50:06.875352+00:00",
+      "trend_score": 61.2,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.27
+      "growth_ratio": 1.26
     },
     "10666192800": {
       "name": "bug fixes",

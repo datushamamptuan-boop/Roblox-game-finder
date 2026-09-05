@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:50:08.075334+00:00",
+  "generated_at": "2026-09-05T17:15:03.637019+00:00",
   "count": 11,
   "games": [
     {
@@ -558,14 +558,19 @@
           "t": "2026-09-05T16:50:08.075334+00:00",
           "ccu": 386,
           "visits": 171360
+        },
+        {
+          "t": "2026-09-05T17:15:03.637019+00:00",
+          "ccu": 729,
+          "visits": 172993
         }
       ],
-      "latest_ccu": 386,
-      "latest_visits": 171360,
-      "last_seen": "2026-09-05T16:50:08.075334+00:00",
-      "trend_score": 69.3,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.3
+      "latest_ccu": 729,
+      "latest_visits": 172993,
+      "last_seen": "2026-09-05T17:15:03.637019+00:00",
+      "trend_score": 70.9,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.32
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -1211,14 +1216,19 @@
           "t": "2026-09-05T16:33:14.489253+00:00",
           "ccu": 514,
           "visits": 183226
+        },
+        {
+          "t": "2026-09-05T17:15:03.637019+00:00",
+          "ccu": 516,
+          "visits": 186700
         }
       ],
-      "latest_ccu": 514,
-      "latest_visits": 183226,
-      "last_seen": "2026-09-05T16:33:14.489253+00:00",
-      "trend_score": 62.8,
+      "latest_ccu": 516,
+      "latest_visits": 186700,
+      "last_seen": "2026-09-05T17:15:03.637019+00:00",
+      "trend_score": 62.5,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.29
+      "growth_ratio": 1.28
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",

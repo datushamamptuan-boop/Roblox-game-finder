@@ -1531,12 +1531,17 @@
           "t": "2026-09-05T07:15:13.046952+00:00",
           "ccu": 378,
           "visits": 156803
+        },
+        {
+          "t": "2026-09-05T07:31:20.264614+00:00",
+          "ccu": 382,
+          "visits": 157269
         }
       ],
-      "latest_ccu": 378,
-      "latest_visits": 156803,
-      "last_seen": "2026-09-05T07:15:13.046952+00:00",
-      "trend_score": 60.5,
+      "latest_ccu": 382,
+      "latest_visits": 157269,
+      "last_seen": "2026-09-05T07:31:20.264614+00:00",
+      "trend_score": 60.3,
       "trend_label": "mild_upward",
       "growth_ratio": 1.25
     },

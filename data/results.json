@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:31:08.695373+00:00",
+  "generated_at": "2026-09-05T13:49:58.352139+00:00",
   "count": 11,
   "games": [
     {
@@ -410,6 +410,119 @@
       "growth_ratio": 1.89
     },
     {
+      "name": "Zee [TEMP!]",
+      "universeId": "10764730172",
+      "rootPlaceId": 113476710204306,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-01T14:29:12.7527551Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-05T07:49:26.788691+00:00",
+          "ccu": 426,
+          "visits": 143824
+        },
+        {
+          "t": "2026-09-05T08:17:13.537980+00:00",
+          "ccu": 440,
+          "visits": 144723
+        },
+        {
+          "t": "2026-09-05T08:33:08.617864+00:00",
+          "ccu": 447,
+          "visits": 145243
+        },
+        {
+          "t": "2026-09-05T08:50:02.461286+00:00",
+          "ccu": 429,
+          "visits": 145775
+        },
+        {
+          "t": "2026-09-05T09:16:09.378315+00:00",
+          "ccu": 406,
+          "visits": 146819
+        },
+        {
+          "t": "2026-09-05T09:32:09.530296+00:00",
+          "ccu": 445,
+          "visits": 147311
+        },
+        {
+          "t": "2026-09-05T09:50:04.036615+00:00",
+          "ccu": 460,
+          "visits": 147910
+        },
+        {
+          "t": "2026-09-05T10:15:58.513336+00:00",
+          "ccu": 438,
+          "visits": 148937
+        },
+        {
+          "t": "2026-09-05T10:31:12.720965+00:00",
+          "ccu": 435,
+          "visits": 149472
+        },
+        {
+          "t": "2026-09-05T10:49:56.871174+00:00",
+          "ccu": 430,
+          "visits": 150256
+        },
+        {
+          "t": "2026-09-05T11:14:58.791990+00:00",
+          "ccu": 449,
+          "visits": 151251
+        },
+        {
+          "t": "2026-09-05T11:30:57.726869+00:00",
+          "ccu": 469,
+          "visits": 151866
+        },
+        {
+          "t": "2026-09-05T11:50:05.095024+00:00",
+          "ccu": 438,
+          "visits": 152587
+        },
+        {
+          "t": "2026-09-05T12:20:09.323112+00:00",
+          "ccu": 474,
+          "visits": 153904
+        },
+        {
+          "t": "2026-09-05T12:39:04.201022+00:00",
+          "ccu": 496,
+          "visits": 154707
+        },
+        {
+          "t": "2026-09-05T12:53:58.936005+00:00",
+          "ccu": 529,
+          "visits": 155308
+        },
+        {
+          "t": "2026-09-05T13:15:11.213438+00:00",
+          "ccu": 546,
+          "visits": 156252
+        },
+        {
+          "t": "2026-09-05T13:31:08.695373+00:00",
+          "ccu": 553,
+          "visits": 157025
+        },
+        {
+          "t": "2026-09-05T13:49:58.352139+00:00",
+          "ccu": 580,
+          "visits": 157953
+        }
+      ],
+      "latest_ccu": 580,
+      "latest_visits": 157953,
+      "last_seen": "2026-09-05T13:49:58.352139+00:00",
+      "trend_score": 63.3,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.14
+    },
+    {
       "name": "[\ud83e\udd0d] Chiidoku",
       "universeId": "10628006421",
       "rootPlaceId": 139705352041000,
@@ -546,114 +659,6 @@
       "trend_score": 62.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.17
-    },
-    {
-      "name": "Zee [TEMP!]",
-      "universeId": "10764730172",
-      "rootPlaceId": 113476710204306,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-09-01T14:29:12.7527551Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-05T07:49:26.788691+00:00",
-          "ccu": 426,
-          "visits": 143824
-        },
-        {
-          "t": "2026-09-05T08:17:13.537980+00:00",
-          "ccu": 440,
-          "visits": 144723
-        },
-        {
-          "t": "2026-09-05T08:33:08.617864+00:00",
-          "ccu": 447,
-          "visits": 145243
-        },
-        {
-          "t": "2026-09-05T08:50:02.461286+00:00",
-          "ccu": 429,
-          "visits": 145775
-        },
-        {
-          "t": "2026-09-05T09:16:09.378315+00:00",
-          "ccu": 406,
-          "visits": 146819
-        },
-        {
-          "t": "2026-09-05T09:32:09.530296+00:00",
-          "ccu": 445,
-          "visits": 147311
-        },
-        {
-          "t": "2026-09-05T09:50:04.036615+00:00",
-          "ccu": 460,
-          "visits": 147910
-        },
-        {
-          "t": "2026-09-05T10:15:58.513336+00:00",
-          "ccu": 438,
-          "visits": 148937
-        },
-        {
-          "t": "2026-09-05T10:31:12.720965+00:00",
-          "ccu": 435,
-          "visits": 149472
-        },
-        {
-          "t": "2026-09-05T10:49:56.871174+00:00",
-          "ccu": 430,
-          "visits": 150256
-        },
-        {
-          "t": "2026-09-05T11:14:58.791990+00:00",
-          "ccu": 449,
-          "visits": 151251
-        },
-        {
-          "t": "2026-09-05T11:30:57.726869+00:00",
-          "ccu": 469,
-          "visits": 151866
-        },
-        {
-          "t": "2026-09-05T11:50:05.095024+00:00",
-          "ccu": 438,
-          "visits": 152587
-        },
-        {
-          "t": "2026-09-05T12:20:09.323112+00:00",
-          "ccu": 474,
-          "visits": 153904
-        },
-        {
-          "t": "2026-09-05T12:39:04.201022+00:00",
-          "ccu": 496,
-          "visits": 154707
-        },
-        {
-          "t": "2026-09-05T12:53:58.936005+00:00",
-          "ccu": 529,
-          "visits": 155308
-        },
-        {
-          "t": "2026-09-05T13:15:11.213438+00:00",
-          "ccu": 546,
-          "visits": 156252
-        },
-        {
-          "t": "2026-09-05T13:31:08.695373+00:00",
-          "ccu": 553,
-          "visits": 157025
-        }
-      ],
-      "latest_ccu": 553,
-      "latest_visits": 157025,
-      "last_seen": "2026-09-05T13:31:08.695373+00:00",
-      "trend_score": 61.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.12
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -1254,14 +1259,19 @@
           "t": "2026-09-05T13:31:08.695373+00:00",
           "ccu": 618,
           "visits": 169319
+        },
+        {
+          "t": "2026-09-05T13:49:58.352139+00:00",
+          "ccu": 601,
+          "visits": 170420
         }
       ],
-      "latest_ccu": 618,
-      "latest_visits": 169319,
-      "last_seen": "2026-09-05T13:31:08.695373+00:00",
-      "trend_score": 59.1,
+      "latest_ccu": 601,
+      "latest_visits": 170420,
+      "last_seen": "2026-09-05T13:49:58.352139+00:00",
+      "trend_score": 59.4,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.22
+      "growth_ratio": 1.23
     },
     {
       "name": "Dropshipping Tycoon",

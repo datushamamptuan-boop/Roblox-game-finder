@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:17:13.537980+00:00",
+  "generated_at": "2026-09-05T08:33:08.617864+00:00",
   "count": 11,
   "games": [
     {
@@ -1066,12 +1066,17 @@
           "t": "2026-09-05T08:17:13.537980+00:00",
           "ccu": 352,
           "visits": 158494
+        },
+        {
+          "t": "2026-09-05T08:33:08.617864+00:00",
+          "ccu": 339,
+          "visits": 158880
         }
       ],
-      "latest_ccu": 352,
-      "latest_visits": 158494,
-      "last_seen": "2026-09-05T08:17:13.537980+00:00",
-      "trend_score": 59.6,
+      "latest_ccu": 339,
+      "latest_visits": 158880,
+      "last_seen": "2026-09-05T08:33:08.617864+00:00",
+      "trend_score": 59.2,
       "trend_label": "mild_upward",
       "growth_ratio": 1.23
     },
@@ -2047,11 +2052,16 @@
           "t": "2026-09-05T08:17:13.537980+00:00",
           "ccu": 440,
           "visits": 144723
+        },
+        {
+          "t": "2026-09-05T08:33:08.617864+00:00",
+          "ccu": 447,
+          "visits": 145243
         }
       ],
-      "latest_ccu": 440,
-      "latest_visits": 144723,
-      "last_seen": "2026-09-05T08:17:13.537980+00:00",
+      "latest_ccu": 447,
+      "latest_visits": 145243,
+      "last_seen": "2026-09-05T08:33:08.617864+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -2295,14 +2295,19 @@
           "t": "2026-09-05T16:33:14.489253+00:00",
           "ccu": 426,
           "visits": 168736
+        },
+        {
+          "t": "2026-09-05T16:50:08.075334+00:00",
+          "ccu": 386,
+          "visits": 171360
         }
       ],
-      "latest_ccu": 426,
-      "latest_visits": 168736,
-      "last_seen": "2026-09-05T16:33:14.489253+00:00",
-      "trend_score": 72.0,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.32
+      "latest_ccu": 386,
+      "latest_visits": 171360,
+      "last_seen": "2026-09-05T16:50:08.075334+00:00",
+      "trend_score": 69.3,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.3
     }
   }
 }

@@ -1536,14 +1536,19 @@
           "t": "2026-09-05T07:31:20.264614+00:00",
           "ccu": 382,
           "visits": 157269
+        },
+        {
+          "t": "2026-09-05T07:49:26.788691+00:00",
+          "ccu": 385,
+          "visits": 157737
         }
       ],
-      "latest_ccu": 382,
-      "latest_visits": 157269,
-      "last_seen": "2026-09-05T07:31:20.264614+00:00",
-      "trend_score": 60.3,
+      "latest_ccu": 385,
+      "latest_visits": 157737,
+      "last_seen": "2026-09-05T07:49:26.788691+00:00",
+      "trend_score": 60.0,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.25
+      "growth_ratio": 1.24
     },
     "10666192800": {
       "name": "bug fixes",
@@ -2015,6 +2020,29 @@
       "trend_score": 55.2,
       "trend_label": "mild_upward",
       "growth_ratio": 1.09
+    },
+    "10764730172": {
+      "name": "Zee [TEMP!]",
+      "universeId": "10764730172",
+      "rootPlaceId": 113476710204306,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-01T14:29:12.7527551Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-05T07:49:26.788691+00:00",
+          "ccu": 426,
+          "visits": 143824
+        }
+      ],
+      "latest_ccu": 426,
+      "latest_visits": 143824,
+      "last_seen": "2026-09-05T07:49:26.788691+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

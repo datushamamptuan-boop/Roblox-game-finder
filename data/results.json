@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T06:20:59.364441+00:00",
+  "generated_at": "2026-09-05T06:39:15.382556+00:00",
   "count": 10,
   "games": [
     {
@@ -1036,14 +1036,19 @@
           "t": "2026-09-05T06:20:59.364441+00:00",
           "ccu": 370,
           "visits": 155268
+        },
+        {
+          "t": "2026-09-05T06:39:15.382556+00:00",
+          "ccu": 385,
+          "visits": 155801
         }
       ],
-      "latest_ccu": 370,
-      "latest_visits": 155268,
-      "last_seen": "2026-09-05T06:20:59.364441+00:00",
-      "trend_score": 61.3,
+      "latest_ccu": 385,
+      "latest_visits": 155801,
+      "last_seen": "2026-09-05T06:39:15.382556+00:00",
+      "trend_score": 61.0,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.27
+      "growth_ratio": 1.26
     },
     {
       "name": "Dropshipping Tycoon",

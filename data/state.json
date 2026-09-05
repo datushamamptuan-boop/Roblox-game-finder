@@ -1561,12 +1561,17 @@
           "t": "2026-09-05T09:16:09.378315+00:00",
           "ccu": 371,
           "visits": 160034
+        },
+        {
+          "t": "2026-09-05T09:32:09.530296+00:00",
+          "ccu": 382,
+          "visits": 160476
         }
       ],
-      "latest_ccu": 371,
-      "latest_visits": 160034,
-      "last_seen": "2026-09-05T09:16:09.378315+00:00",
-      "trend_score": 58.8,
+      "latest_ccu": 382,
+      "latest_visits": 160476,
+      "last_seen": "2026-09-05T09:32:09.530296+00:00",
+      "trend_score": 58.7,
       "trend_label": "mild_upward",
       "growth_ratio": 1.22
     },
@@ -2075,14 +2080,19 @@
           "t": "2026-09-05T09:16:09.378315+00:00",
           "ccu": 406,
           "visits": 146819
+        },
+        {
+          "t": "2026-09-05T09:32:09.530296+00:00",
+          "ccu": 445,
+          "visits": 147311
         }
       ],
-      "latest_ccu": 406,
-      "latest_visits": 146819,
-      "last_seen": "2026-09-05T09:16:09.378315+00:00",
-      "trend_score": 43.5,
+      "latest_ccu": 445,
+      "latest_visits": 147311,
+      "last_seen": "2026-09-05T09:32:09.530296+00:00",
+      "trend_score": 48.2,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.99
+      "growth_ratio": 0.97
     }
   }
 }

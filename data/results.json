@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:33:08.617864+00:00",
+  "generated_at": "2026-09-05T08:50:02.461286+00:00",
   "count": 11,
   "games": [
     {
@@ -1071,14 +1071,19 @@
           "t": "2026-09-05T08:33:08.617864+00:00",
           "ccu": 339,
           "visits": 158880
+        },
+        {
+          "t": "2026-09-05T08:50:02.461286+00:00",
+          "ccu": 360,
+          "visits": 159283
         }
       ],
-      "latest_ccu": 339,
-      "latest_visits": 158880,
-      "last_seen": "2026-09-05T08:33:08.617864+00:00",
-      "trend_score": 59.2,
+      "latest_ccu": 360,
+      "latest_visits": 159283,
+      "last_seen": "2026-09-05T08:50:02.461286+00:00",
+      "trend_score": 59.1,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.23
+      "growth_ratio": 1.22
     },
     {
       "name": "Dropshipping Tycoon",
@@ -1347,6 +1352,44 @@
       "trend_score": 55.2,
       "trend_label": "mild_upward",
       "growth_ratio": 1.09
+    },
+    {
+      "name": "Zee [TEMP!]",
+      "universeId": "10764730172",
+      "rootPlaceId": 113476710204306,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-01T14:29:12.7527551Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-05T07:49:26.788691+00:00",
+          "ccu": 426,
+          "visits": 143824
+        },
+        {
+          "t": "2026-09-05T08:17:13.537980+00:00",
+          "ccu": 440,
+          "visits": 144723
+        },
+        {
+          "t": "2026-09-05T08:33:08.617864+00:00",
+          "ccu": 447,
+          "visits": 145243
+        },
+        {
+          "t": "2026-09-05T08:50:02.461286+00:00",
+          "ccu": 429,
+          "visits": 145775
+        }
+      ],
+      "latest_ccu": 429,
+      "latest_visits": 145775,
+      "last_seen": "2026-09-05T08:50:02.461286+00:00",
+      "trend_score": 52.3,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -2029,39 +2072,6 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Zee [TEMP!]",
-      "universeId": "10764730172",
-      "rootPlaceId": 113476710204306,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-09-01T14:29:12.7527551Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-05T07:49:26.788691+00:00",
-          "ccu": 426,
-          "visits": 143824
-        },
-        {
-          "t": "2026-09-05T08:17:13.537980+00:00",
-          "ccu": 440,
-          "visits": 144723
-        },
-        {
-          "t": "2026-09-05T08:33:08.617864+00:00",
-          "ccu": 447,
-          "visits": 145243
-        }
-      ],
-      "latest_ccu": 447,
-      "latest_visits": 145243,
-      "last_seen": "2026-09-05T08:33:08.617864+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1551,14 +1551,19 @@
           "t": "2026-09-05T08:33:08.617864+00:00",
           "ccu": 339,
           "visits": 158880
+        },
+        {
+          "t": "2026-09-05T08:50:02.461286+00:00",
+          "ccu": 360,
+          "visits": 159283
         }
       ],
-      "latest_ccu": 339,
-      "latest_visits": 158880,
-      "last_seen": "2026-09-05T08:33:08.617864+00:00",
-      "trend_score": 59.2,
+      "latest_ccu": 360,
+      "latest_visits": 159283,
+      "last_seen": "2026-09-05T08:50:02.461286+00:00",
+      "trend_score": 59.1,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.23
+      "growth_ratio": 1.22
     },
     "10666192800": {
       "name": "bug fixes",
@@ -2055,14 +2060,19 @@
           "t": "2026-09-05T08:33:08.617864+00:00",
           "ccu": 447,
           "visits": 145243
+        },
+        {
+          "t": "2026-09-05T08:50:02.461286+00:00",
+          "ccu": 429,
+          "visits": 145775
         }
       ],
-      "latest_ccu": 447,
-      "latest_visits": 145243,
-      "last_seen": "2026-09-05T08:33:08.617864+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 429,
+      "latest_visits": 145775,
+      "last_seen": "2026-09-05T08:50:02.461286+00:00",
+      "trend_score": 52.3,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
     }
   }
 }

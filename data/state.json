@@ -2375,14 +2375,19 @@
           "t": "2026-09-05T19:50:05.769874+00:00",
           "ccu": 1034,
           "visits": 184971
+        },
+        {
+          "t": "2026-09-05T20:17:02.390036+00:00",
+          "ccu": 1032,
+          "visits": 187458
         }
       ],
-      "latest_ccu": 1034,
-      "latest_visits": 184971,
-      "last_seen": "2026-09-05T19:50:05.769874+00:00",
-      "trend_score": 87.1,
+      "latest_ccu": 1032,
+      "latest_visits": 187458,
+      "last_seen": "2026-09-05T20:17:02.390036+00:00",
+      "trend_score": 88.4,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.6
+      "growth_ratio": 1.63
     }
   }
 }

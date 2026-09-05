@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:16:12.717017+00:00",
+  "generated_at": "2026-09-05T15:31:59.940626+00:00",
   "count": 11,
   "games": [
     {
@@ -533,14 +533,19 @@
           "t": "2026-09-05T15:16:12.717017+00:00",
           "ccu": 675,
           "visits": 162661
+        },
+        {
+          "t": "2026-09-05T15:31:59.940626+00:00",
+          "ccu": 651,
+          "visits": 163637
         }
       ],
-      "latest_ccu": 675,
-      "latest_visits": 162661,
-      "last_seen": "2026-09-05T15:16:12.717017+00:00",
-      "trend_score": 70.9,
+      "latest_ccu": 651,
+      "latest_visits": 163637,
+      "last_seen": "2026-09-05T15:31:59.940626+00:00",
+      "trend_score": 72.2,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.26
+      "growth_ratio": 1.29
     },
     {
       "name": "[\ud83e\udd0d] Chiidoku",
@@ -1304,12 +1309,17 @@
           "t": "2026-09-05T15:16:12.717017+00:00",
           "ccu": 840,
           "visits": 175974
+        },
+        {
+          "t": "2026-09-05T15:31:59.940626+00:00",
+          "ccu": 842,
+          "visits": 177069
         }
       ],
-      "latest_ccu": 840,
-      "latest_visits": 175974,
-      "last_seen": "2026-09-05T15:16:12.717017+00:00",
-      "trend_score": 61.5,
+      "latest_ccu": 842,
+      "latest_visits": 177069,
+      "last_seen": "2026-09-05T15:31:59.940626+00:00",
+      "trend_score": 62.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.27
     },

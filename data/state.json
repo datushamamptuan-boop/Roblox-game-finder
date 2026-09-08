@@ -2448,14 +2448,19 @@
           "t": "2026-09-08T06:55:58.822966+00:00",
           "ccu": 437,
           "visits": 163149
+        },
+        {
+          "t": "2026-09-08T07:19:11.223815+00:00",
+          "ccu": 404,
+          "visits": 163972
         }
       ],
-      "latest_ccu": 437,
-      "latest_visits": 163149,
-      "last_seen": "2026-09-08T06:55:58.822966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 404,
+      "latest_visits": 163972,
+      "last_seen": "2026-09-08T07:19:11.223815+00:00",
+      "trend_score": 23.8,
+      "trend_label": "declining",
+      "growth_ratio": 0.89
     }
   }
 }

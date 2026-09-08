@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T06:55:58.822966+00:00",
+  "generated_at": "2026-09-08T07:19:11.223815+00:00",
   "count": 12,
   "games": [
     {
@@ -2151,6 +2151,44 @@
       "growth_ratio": 0.96
     },
     {
+      "name": "Zee ",
+      "universeId": "10765344821",
+      "rootPlaceId": 85002796582175,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-06T02:41:30.3384625Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-08T05:53:24.099043+00:00",
+          "ccu": 451,
+          "visits": 160615
+        },
+        {
+          "t": "2026-09-08T06:23:06.118994+00:00",
+          "ccu": 491,
+          "visits": 161833
+        },
+        {
+          "t": "2026-09-08T06:55:58.822966+00:00",
+          "ccu": 437,
+          "visits": 163149
+        },
+        {
+          "t": "2026-09-08T07:19:11.223815+00:00",
+          "ccu": 404,
+          "visits": 163972
+        }
+      ],
+      "latest_ccu": 404,
+      "latest_visits": 163972,
+      "last_seen": "2026-09-08T07:19:11.223815+00:00",
+      "trend_score": 23.8,
+      "trend_label": "declining",
+      "growth_ratio": 0.89
+    },
+    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -2422,39 +2460,6 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Zee ",
-      "universeId": "10765344821",
-      "rootPlaceId": 85002796582175,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-09-06T02:41:30.3384625Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-08T05:53:24.099043+00:00",
-          "ccu": 451,
-          "visits": 160615
-        },
-        {
-          "t": "2026-09-08T06:23:06.118994+00:00",
-          "ccu": 491,
-          "visits": 161833
-        },
-        {
-          "t": "2026-09-08T06:55:58.822966+00:00",
-          "ccu": 437,
-          "visits": 163149
-        }
-      ],
-      "latest_ccu": 437,
-      "latest_visits": 163149,
-      "last_seen": "2026-09-08T06:55:58.822966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T05:35:26.680929+00:00",
-  "count": 11,
+  "generated_at": "2026-09-08T05:53:24.099043+00:00",
+  "count": 12,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -2422,6 +2422,29 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Zee ",
+      "universeId": "10765344821",
+      "rootPlaceId": 85002796582175,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-06T02:41:30.3384625Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-08T05:53:24.099043+00:00",
+          "ccu": 451,
+          "visits": 160615
+        }
+      ],
+      "latest_ccu": 451,
+      "latest_visits": 160615,
+      "last_seen": "2026-09-08T05:53:24.099043+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

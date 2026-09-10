@@ -2581,6 +2581,29 @@
       "trend_score": 57.5,
       "trend_label": "mild_upward",
       "growth_ratio": 1.11
+    },
+    "10765699106": {
+      "name": "Zee",
+      "universeId": "10765699106",
+      "rootPlaceId": 71136648011095,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-08T17:03:33.1287687Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-10T23:31:08.979410+00:00",
+          "ccu": 679,
+          "visits": 113575
+        }
+      ],
+      "latest_ccu": 679,
+      "latest_visits": 113575,
+      "last_seen": "2026-09-10T23:31:08.979410+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

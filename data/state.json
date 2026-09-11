@@ -2606,14 +2606,19 @@
           "t": "2026-09-11T00:25:10.777182+00:00",
           "ccu": 776,
           "visits": 116782
+        },
+        {
+          "t": "2026-09-11T00:53:04.976776+00:00",
+          "ccu": 789,
+          "visits": 118599
         }
       ],
-      "latest_ccu": 776,
-      "latest_visits": 116782,
-      "last_seen": "2026-09-11T00:25:10.777182+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 789,
+      "latest_visits": 118599,
+      "last_seen": "2026-09-11T00:53:04.976776+00:00",
+      "trend_score": 83.1,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.14
     }
   }
 }

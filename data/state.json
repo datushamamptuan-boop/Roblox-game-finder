@@ -2771,14 +2771,19 @@
           "t": "2026-09-11T11:51:11.867044+00:00",
           "ccu": 321,
           "visits": 144560
+        },
+        {
+          "t": "2026-09-11T12:23:02.276443+00:00",
+          "ccu": 359,
+          "visits": 145472
         }
       ],
-      "latest_ccu": 321,
-      "latest_visits": 144560,
-      "last_seen": "2026-09-11T11:51:11.867044+00:00",
-      "trend_score": 13.6,
+      "latest_ccu": 359,
+      "latest_visits": 145472,
+      "last_seen": "2026-09-11T12:23:02.276443+00:00",
+      "trend_score": 14.2,
       "trend_label": "declining",
-      "growth_ratio": 0.5
+      "growth_ratio": 0.51
     }
   }
 }

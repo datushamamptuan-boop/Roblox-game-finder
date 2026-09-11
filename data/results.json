@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:52:11.725305+00:00",
+  "generated_at": "2026-09-11T02:18:10.462308+00:00",
   "count": 13,
   "games": [
     {
@@ -1336,59 +1336,6 @@
       "growth_ratio": 1.35
     },
     {
-      "name": "Zee",
-      "universeId": "10765699106",
-      "rootPlaceId": 71136648011095,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-09-08T17:03:33.1287687Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-10T23:31:08.979410+00:00",
-          "ccu": 679,
-          "visits": 113575
-        },
-        {
-          "t": "2026-09-10T23:49:28.230965+00:00",
-          "ccu": 699,
-          "visits": 114552
-        },
-        {
-          "t": "2026-09-11T00:25:10.777182+00:00",
-          "ccu": 776,
-          "visits": 116782
-        },
-        {
-          "t": "2026-09-11T00:53:04.976776+00:00",
-          "ccu": 789,
-          "visits": 118599
-        },
-        {
-          "t": "2026-09-11T01:16:06.901197+00:00",
-          "ccu": 765,
-          "visits": 120133
-        },
-        {
-          "t": "2026-09-11T01:32:57.997537+00:00",
-          "ccu": 805,
-          "visits": 121167
-        },
-        {
-          "t": "2026-09-11T01:52:11.725305+00:00",
-          "ccu": 777,
-          "visits": 122510
-        }
-      ],
-      "latest_ccu": 777,
-      "latest_visits": 122510,
-      "last_seen": "2026-09-11T01:52:11.725305+00:00",
-      "trend_score": 65.4,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.09
-    },
-    {
       "name": "[\ud83e\udd0d] Chiidoku",
       "universeId": "10628006421",
       "rootPlaceId": 139705352041000,
@@ -1525,6 +1472,64 @@
       "trend_score": 62.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.17
+    },
+    {
+      "name": "Zee",
+      "universeId": "10765699106",
+      "rootPlaceId": 71136648011095,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-08T17:03:33.1287687Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-10T23:31:08.979410+00:00",
+          "ccu": 679,
+          "visits": 113575
+        },
+        {
+          "t": "2026-09-10T23:49:28.230965+00:00",
+          "ccu": 699,
+          "visits": 114552
+        },
+        {
+          "t": "2026-09-11T00:25:10.777182+00:00",
+          "ccu": 776,
+          "visits": 116782
+        },
+        {
+          "t": "2026-09-11T00:53:04.976776+00:00",
+          "ccu": 789,
+          "visits": 118599
+        },
+        {
+          "t": "2026-09-11T01:16:06.901197+00:00",
+          "ccu": 765,
+          "visits": 120133
+        },
+        {
+          "t": "2026-09-11T01:32:57.997537+00:00",
+          "ccu": 805,
+          "visits": 121167
+        },
+        {
+          "t": "2026-09-11T01:52:11.725305+00:00",
+          "ccu": 777,
+          "visits": 122510
+        },
+        {
+          "t": "2026-09-11T02:18:10.462308+00:00",
+          "ccu": 734,
+          "visits": 124129
+        }
+      ],
+      "latest_ccu": 734,
+      "latest_visits": 124129,
+      "last_seen": "2026-09-11T02:18:10.462308+00:00",
+      "trend_score": 58.5,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.05
     },
     {
       "name": "Zee ",

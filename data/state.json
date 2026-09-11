@@ -2781,12 +2781,17 @@
           "t": "2026-09-11T12:54:32.445565+00:00",
           "ccu": 364,
           "visits": 146414
+        },
+        {
+          "t": "2026-09-11T13:18:00.714869+00:00",
+          "ccu": 373,
+          "visits": 147219
         }
       ],
-      "latest_ccu": 364,
-      "latest_visits": 146414,
-      "last_seen": "2026-09-11T12:54:32.445565+00:00",
-      "trend_score": 14.9,
+      "latest_ccu": 373,
+      "latest_visits": 147219,
+      "last_seen": "2026-09-11T13:18:00.714869+00:00",
+      "trend_score": 15.6,
       "trend_label": "declining",
       "growth_ratio": 0.51
     }

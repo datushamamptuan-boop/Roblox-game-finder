@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:35:16.845547+00:00",
+  "generated_at": "2026-09-11T02:52:33.350726+00:00",
   "count": 13,
   "games": [
     {
@@ -1900,69 +1900,6 @@
       "growth_ratio": 1.09
     },
     {
-      "name": "Zee",
-      "universeId": "10765699106",
-      "rootPlaceId": 71136648011095,
-      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
-      "genre": "All",
-      "created": "2026-09-08T17:03:33.1287687Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-10T23:31:08.979410+00:00",
-          "ccu": 679,
-          "visits": 113575
-        },
-        {
-          "t": "2026-09-10T23:49:28.230965+00:00",
-          "ccu": 699,
-          "visits": 114552
-        },
-        {
-          "t": "2026-09-11T00:25:10.777182+00:00",
-          "ccu": 776,
-          "visits": 116782
-        },
-        {
-          "t": "2026-09-11T00:53:04.976776+00:00",
-          "ccu": 789,
-          "visits": 118599
-        },
-        {
-          "t": "2026-09-11T01:16:06.901197+00:00",
-          "ccu": 765,
-          "visits": 120133
-        },
-        {
-          "t": "2026-09-11T01:32:57.997537+00:00",
-          "ccu": 805,
-          "visits": 121167
-        },
-        {
-          "t": "2026-09-11T01:52:11.725305+00:00",
-          "ccu": 777,
-          "visits": 122510
-        },
-        {
-          "t": "2026-09-11T02:18:10.462308+00:00",
-          "ccu": 734,
-          "visits": 124129
-        },
-        {
-          "t": "2026-09-11T02:35:16.845547+00:00",
-          "ccu": 710,
-          "visits": 125262
-        }
-      ],
-      "latest_ccu": 710,
-      "latest_visits": 125262,
-      "last_seen": "2026-09-11T02:35:16.845547+00:00",
-      "trend_score": 54.0,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.03
-    },
-    {
       "name": "[New Rebirth] Pay Your Debts!",
       "universeId": "10647180866",
       "rootPlaceId": 76717770497649,
@@ -2052,6 +1989,74 @@
       "latest_visits": 168135,
       "last_seen": "2026-08-26T14:29:01.625945+00:00",
       "trend_score": 51.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
+    },
+    {
+      "name": "Zee",
+      "universeId": "10765699106",
+      "rootPlaceId": 71136648011095,
+      "description": "Current Platform Support:\n\ud83c\udfae Console | \ud83d\udcf1 Tablets & Phones | \ud83d\udcbb Computers\n\n\u2694\ufe0f Official game by ZHD Entertainment\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\ud83d\udcc5 Account Requirements:\nYour Roblox account must be at least 10 day old to play.",
+      "genre": "All",
+      "created": "2026-09-08T17:03:33.1287687Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-10T23:31:08.979410+00:00",
+          "ccu": 679,
+          "visits": 113575
+        },
+        {
+          "t": "2026-09-10T23:49:28.230965+00:00",
+          "ccu": 699,
+          "visits": 114552
+        },
+        {
+          "t": "2026-09-11T00:25:10.777182+00:00",
+          "ccu": 776,
+          "visits": 116782
+        },
+        {
+          "t": "2026-09-11T00:53:04.976776+00:00",
+          "ccu": 789,
+          "visits": 118599
+        },
+        {
+          "t": "2026-09-11T01:16:06.901197+00:00",
+          "ccu": 765,
+          "visits": 120133
+        },
+        {
+          "t": "2026-09-11T01:32:57.997537+00:00",
+          "ccu": 805,
+          "visits": 121167
+        },
+        {
+          "t": "2026-09-11T01:52:11.725305+00:00",
+          "ccu": 777,
+          "visits": 122510
+        },
+        {
+          "t": "2026-09-11T02:18:10.462308+00:00",
+          "ccu": 734,
+          "visits": 124129
+        },
+        {
+          "t": "2026-09-11T02:35:16.845547+00:00",
+          "ccu": 710,
+          "visits": 125262
+        },
+        {
+          "t": "2026-09-11T02:52:33.350726+00:00",
+          "ccu": 716,
+          "visits": 126304
+        }
+      ],
+      "latest_ccu": 716,
+      "latest_visits": 126304,
+      "last_seen": "2026-09-11T02:52:33.350726+00:00",
+      "trend_score": 51.2,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.01
     },

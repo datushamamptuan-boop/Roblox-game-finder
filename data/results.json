@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:17:20.329155+00:00",
+  "generated_at": "2026-09-16T15:34:31.424345+00:00",
   "count": 14,
   "games": [
     {
@@ -2108,14 +2108,19 @@
           "t": "2026-09-16T15:17:20.329155+00:00",
           "ccu": 439,
           "visits": 156498
+        },
+        {
+          "t": "2026-09-16T15:34:31.424345+00:00",
+          "ccu": 432,
+          "visits": 156976
         }
       ],
-      "latest_ccu": 439,
-      "latest_visits": 156498,
-      "last_seen": "2026-09-16T15:17:20.329155+00:00",
-      "trend_score": 54.3,
+      "latest_ccu": 432,
+      "latest_visits": 156976,
+      "last_seen": "2026-09-16T15:34:31.424345+00:00",
+      "trend_score": 54.9,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.07
+      "growth_ratio": 1.08
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",

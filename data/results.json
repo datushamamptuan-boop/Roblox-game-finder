@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:16:29.818582+00:00",
+  "generated_at": "2026-09-16T19:33:49.011384+00:00",
   "count": 14,
   "games": [
     {
@@ -921,14 +921,19 @@
           "t": "2026-09-16T19:16:29.818582+00:00",
           "ccu": 381,
           "visits": 163710
+        },
+        {
+          "t": "2026-09-16T19:33:49.011384+00:00",
+          "ccu": 363,
+          "visits": 164157
         }
       ],
-      "latest_ccu": 381,
-      "latest_visits": 163710,
-      "last_seen": "2026-09-16T19:16:29.818582+00:00",
-      "trend_score": 66.8,
+      "latest_ccu": 363,
+      "latest_visits": 164157,
+      "last_seen": "2026-09-16T19:33:49.011384+00:00",
+      "trend_score": 66.2,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.34
+      "growth_ratio": 1.33
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",

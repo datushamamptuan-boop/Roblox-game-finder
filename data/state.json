@@ -2849,11 +2849,16 @@
           "t": "2026-09-16T01:33:11.288348+00:00",
           "ccu": 562,
           "visits": 137912
+        },
+        {
+          "t": "2026-09-16T01:51:59.592201+00:00",
+          "ccu": 501,
+          "visits": 138619
         }
       ],
-      "latest_ccu": 562,
-      "latest_visits": 137912,
-      "last_seen": "2026-09-16T01:33:11.288348+00:00",
+      "latest_ccu": 501,
+      "latest_visits": 138619,
+      "last_seen": "2026-09-16T01:51:59.592201+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

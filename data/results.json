@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T02:52:57.332063+00:00",
+  "generated_at": "2026-09-16T03:18:10.403421+00:00",
   "count": 14,
   "games": [
     {
@@ -2562,6 +2562,54 @@
       "growth_ratio": 0.61
     },
     {
+      "name": "Loop [ALPHA]",
+      "universeId": "10749778558",
+      "rootPlaceId": 97694772546348,
+      "description": "A liminal roguelike where every Day is different.\n\nComplete missions, collect collections, escape, avoid various entities, and survive the loop.\n\n\u26a0\ufe0f Loud Noises & Flashing Lights & Trigger Warning\n\ud83c\udfae Max Graphics Recommended\n\nThis game is currently in Alpha. Expect bugs, balance issues, and unfinished content. Everything is subject to change.",
+      "genre": "All",
+      "created": "2026-08-21T16:47:31.215Z",
+      "creatorName": "Gazing at the Moon",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-16T01:33:11.288348+00:00",
+          "ccu": 562,
+          "visits": 137912
+        },
+        {
+          "t": "2026-09-16T01:51:59.592201+00:00",
+          "ccu": 501,
+          "visits": 138619
+        },
+        {
+          "t": "2026-09-16T02:18:00.759234+00:00",
+          "ccu": 424,
+          "visits": 139310
+        },
+        {
+          "t": "2026-09-16T02:35:14.299704+00:00",
+          "ccu": 399,
+          "visits": 139819
+        },
+        {
+          "t": "2026-09-16T02:52:57.332063+00:00",
+          "ccu": 466,
+          "visits": 140289
+        },
+        {
+          "t": "2026-09-16T03:18:10.403421+00:00",
+          "ccu": 435,
+          "visits": 140913
+        }
+      ],
+      "latest_ccu": 435,
+      "latest_visits": 140913,
+      "last_seen": "2026-09-16T03:18:10.403421+00:00",
+      "trend_score": 21.4,
+      "trend_label": "declining",
+      "growth_ratio": 0.87
+    },
+    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -2813,49 +2861,6 @@
       "trend_score": 21.1,
       "trend_label": "declining",
       "growth_ratio": 0.54
-    },
-    {
-      "name": "Loop [ALPHA]",
-      "universeId": "10749778558",
-      "rootPlaceId": 97694772546348,
-      "description": "A liminal roguelike where every Day is different.\n\nComplete missions, collect collections, escape, avoid various entities, and survive the loop.\n\n\u26a0\ufe0f Loud Noises & Flashing Lights & Trigger Warning\n\ud83c\udfae Max Graphics Recommended\n\nThis game is currently in Alpha. Expect bugs, balance issues, and unfinished content. Everything is subject to change.",
-      "genre": "All",
-      "created": "2026-08-21T16:47:31.215Z",
-      "creatorName": "Gazing at the Moon",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-16T01:33:11.288348+00:00",
-          "ccu": 562,
-          "visits": 137912
-        },
-        {
-          "t": "2026-09-16T01:51:59.592201+00:00",
-          "ccu": 501,
-          "visits": 138619
-        },
-        {
-          "t": "2026-09-16T02:18:00.759234+00:00",
-          "ccu": 424,
-          "visits": 139310
-        },
-        {
-          "t": "2026-09-16T02:35:14.299704+00:00",
-          "ccu": 399,
-          "visits": 139819
-        },
-        {
-          "t": "2026-09-16T02:52:57.332063+00:00",
-          "ccu": 466,
-          "visits": 140289
-        }
-      ],
-      "latest_ccu": 466,
-      "latest_visits": 140289,
-      "last_seen": "2026-09-16T02:52:57.332063+00:00",
-      "trend_score": 11.1,
-      "trend_label": "declining",
-      "growth_ratio": 0.81
     },
     {
       "name": "The Cosalazo 2 ",

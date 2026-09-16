@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:34:20.812279+00:00",
+  "generated_at": "2026-09-16T05:53:09.065941+00:00",
   "count": 14,
   "games": [
     {
@@ -2888,14 +2888,19 @@
           "t": "2026-09-16T05:34:20.812279+00:00",
           "ccu": 282,
           "visits": 143705
+        },
+        {
+          "t": "2026-09-16T05:53:09.065941+00:00",
+          "ccu": 264,
+          "visits": 144015
         }
       ],
-      "latest_ccu": 282,
-      "latest_visits": 143705,
-      "last_seen": "2026-09-16T05:34:20.812279+00:00",
-      "trend_score": 13.2,
+      "latest_ccu": 264,
+      "latest_visits": 144015,
+      "last_seen": "2026-09-16T05:53:09.065941+00:00",
+      "trend_score": 12.4,
       "trend_label": "declining",
-      "growth_ratio": 0.7
+      "growth_ratio": 0.69
     },
     {
       "name": "The Cosalazo 2 ",

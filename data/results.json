@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T16:53:07.779470+00:00",
+  "generated_at": "2026-09-16T17:15:33.053206+00:00",
   "count": 14,
   "games": [
     {
@@ -1707,14 +1707,19 @@
           "t": "2026-09-16T16:53:07.779470+00:00",
           "ccu": 464,
           "visits": 159271
+        },
+        {
+          "t": "2026-09-16T17:15:33.053206+00:00",
+          "ccu": 454,
+          "visits": 159930
         }
       ],
-      "latest_ccu": 464,
-      "latest_visits": 159271,
-      "last_seen": "2026-09-16T16:53:07.779470+00:00",
-      "trend_score": 60.2,
+      "latest_ccu": 454,
+      "latest_visits": 159930,
+      "last_seen": "2026-09-16T17:15:33.053206+00:00",
+      "trend_score": 62.0,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.19
+      "growth_ratio": 1.23
     },
     {
       "name": "Zee ",

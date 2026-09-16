@@ -2834,6 +2834,29 @@
       "trend_score": 25.3,
       "trend_label": "declining",
       "growth_ratio": 0.61
+    },
+    "10749778558": {
+      "name": "Loop [ALPHA]",
+      "universeId": "10749778558",
+      "rootPlaceId": 97694772546348,
+      "description": "A liminal roguelike where every Day is different.\n\nComplete missions, collect collections, escape, avoid various entities, and survive the loop.\n\n\u26a0\ufe0f Loud Noises & Flashing Lights & Trigger Warning\n\ud83c\udfae Max Graphics Recommended\n\nThis game is currently in Alpha. Expect bugs, balance issues, and unfinished content. Everything is subject to change.",
+      "genre": "All",
+      "created": "2026-08-21T16:47:31.215Z",
+      "creatorName": "Gazing at the Moon",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-16T01:33:11.288348+00:00",
+          "ccu": 562,
+          "visits": 137912
+        }
+      ],
+      "latest_ccu": 562,
+      "latest_visits": 137912,
+      "last_seen": "2026-09-16T01:33:11.288348+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

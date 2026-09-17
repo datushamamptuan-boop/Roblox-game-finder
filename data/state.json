@@ -3162,6 +3162,29 @@
       "trend_score": 64.0,
       "trend_label": "mild_upward",
       "growth_ratio": 1.31
+    },
+    "10766087405": {
+      "name": "Des Hood [BACK!]",
+      "universeId": "10766087405",
+      "rootPlaceId": 81172582125264,
+      "description": "glitch was here :)\n\nDES HOOD\n[PC/XBOX/MOBILE/TABLET]\n\nACCOUNT HAS TO BE ATLEAST 5+ DAYS OLD TO PLAY\n\n\u26a0\ufe0f Using external software outside of Roblox or abusing any software is prohibited and will result in a permanent ban.",
+      "genre": "All",
+      "created": "2026-09-12T03:43:33.871Z",
+      "creatorName": "Des Hood Studioz",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-17T19:07:29.969285+00:00",
+          "ccu": 538,
+          "visits": 152411
+        }
+      ],
+      "latest_ccu": 538,
+      "latest_visits": 152411,
+      "last_seen": "2026-09-17T19:07:29.969285+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

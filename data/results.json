@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T15:06:26.637412+00:00",
-  "count": 14,
+  "generated_at": "2026-09-17T19:07:29.969285+00:00",
+  "count": 15,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3161,6 +3161,29 @@
       "latest_ccu": 353,
       "latest_visits": 183392,
       "last_seen": "2026-08-29T14:50:01.155950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Des Hood [BACK!]",
+      "universeId": "10766087405",
+      "rootPlaceId": 81172582125264,
+      "description": "glitch was here :)\n\nDES HOOD\n[PC/XBOX/MOBILE/TABLET]\n\nACCOUNT HAS TO BE ATLEAST 5+ DAYS OLD TO PLAY\n\n\u26a0\ufe0f Using external software outside of Roblox or abusing any software is prohibited and will result in a permanent ban.",
+      "genre": "All",
+      "created": "2026-09-12T03:43:33.871Z",
+      "creatorName": "Des Hood Studioz",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-17T19:07:29.969285+00:00",
+          "ccu": 538,
+          "visits": 152411
+        }
+      ],
+      "latest_ccu": 538,
+      "latest_visits": 152411,
+      "last_seen": "2026-09-17T19:07:29.969285+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -3233,6 +3233,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10766623003": {
+      "name": "Zee : ZHD Testing",
+      "universeId": "10766623003",
+      "rootPlaceId": 104103505781778,
+      "description": "tet test ",
+      "genre": "All",
+      "created": "2026-09-15T22:41:54.676Z",
+      "creatorName": "Shiftoz89",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-18T20:47:11.143915+00:00",
+          "ccu": 330,
+          "visits": 80157
+        }
+      ],
+      "latest_ccu": 330,
+      "latest_visits": 80157,
+      "last_seen": "2026-09-18T20:47:11.143915+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

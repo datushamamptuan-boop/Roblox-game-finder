@@ -3210,6 +3210,29 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.69
+    },
+    "10747794351": {
+      "name": "DA MISERY OBBY",
+      "universeId": "10747794351",
+      "rootPlaceId": 138021744389573,
+      "description": "\ud83c\udf1f **MISS DA KIND OF MISERY** \ud83c\udf1f\n\nWelcome to **DA MISERY OBBY** \u2014 an obstacle course built to test your skills, patience, and determination! \ud83d\udc80\ud83d\udd25\n\nJump, climb, dodge, and conquer your way through challenging stages packed with obstacles, surprises, and motivational messages. Whether you're a beginner or an obby pro, every checkpoint is a reminder that **progress matters more than perfection.** \ud83d\udcaa\n\n\u2728 **",
+      "genre": "All",
+      "created": "2026-08-21T03:26:10.911Z",
+      "creatorName": "ProtoStudio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-18T17:45:20.556004+00:00",
+          "ccu": 260,
+          "visits": 129941
+        }
+      ],
+      "latest_ccu": 260,
+      "latest_visits": 129941,
+      "last_seen": "2026-09-18T17:45:20.556004+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

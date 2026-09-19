@@ -3273,14 +3273,19 @@
           "t": "2026-09-19T19:36:59.417747+00:00",
           "ccu": 354,
           "visits": 102541
+        },
+        {
+          "t": "2026-09-19T21:46:12.564871+00:00",
+          "ccu": 373,
+          "visits": 106435
         }
       ],
-      "latest_ccu": 354,
-      "latest_visits": 102541,
-      "last_seen": "2026-09-19T19:36:59.417747+00:00",
-      "trend_score": 9.7,
-      "trend_label": "declining",
-      "growth_ratio": 0.63
+      "latest_ccu": 373,
+      "latest_visits": 106435,
+      "last_seen": "2026-09-19T21:46:12.564871+00:00",
+      "trend_score": 32.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.71
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:00:28.353127+00:00",
+  "generated_at": "2026-09-22T22:01:15.033443+00:00",
   "count": 19,
   "games": [
     {
@@ -115,14 +115,57 @@
           "t": "2026-09-22T19:00:28.353127+00:00",
           "ccu": 513,
           "visits": 105957
+        },
+        {
+          "t": "2026-09-22T22:01:15.033443+00:00",
+          "ccu": 723,
+          "visits": 114601
         }
       ],
-      "latest_ccu": 513,
-      "latest_visits": 105957,
-      "last_seen": "2026-09-22T19:00:28.353127+00:00",
+      "latest_ccu": 723,
+      "latest_visits": 114601,
+      "last_seen": "2026-09-22T22:01:15.033443+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.51
+      "growth_ratio": 2.9
+    },
+    {
+      "name": "Judge Simulator",
+      "universeId": "10764665287",
+      "rootPlaceId": 127774488725016,
+      "description": "\ud83d\udd13 EARLY ACCESS\n\n\u2696\ufe0f Welcome to Judge Simulator! Become a powerful Judge, enter the courtroom, solve criminal cases, and decide who is GUILTY or NOT GUILTY!\n\n\ud83d\udd0e Investigate evidence, listen to witnesses, question suspects, and make the final decision. Every case is different \u2014 will you deliver justice or make the wrong choice?\n\n\ud83d\udcb0 Earn Money & Influence\n\ud83d\udcc8 Upgrade your Judge Rank\n\u2696\ufe0f Solve Unique Court ",
+      "genre": "All",
+      "created": "2026-08-31T23:29:58.7325058Z",
+      "creatorName": "SimWorld Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-22T10:06:58.183694+00:00",
+          "ccu": 158,
+          "visits": 150738
+        },
+        {
+          "t": "2026-09-22T15:03:11.681172+00:00",
+          "ccu": 366,
+          "visits": 157609
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 334,
+          "visits": 164502
+        },
+        {
+          "t": "2026-09-22T22:01:15.033443+00:00",
+          "ccu": 370,
+          "visits": 169741
+        }
+      ],
+      "latest_ccu": 370,
+      "latest_visits": 169741,
+      "last_seen": "2026-09-22T22:01:15.033443+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.34
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -3328,39 +3371,6 @@
       "latest_ccu": 260,
       "latest_visits": 129941,
       "last_seen": "2026-09-18T17:45:20.556004+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Judge Simulator",
-      "universeId": "10764665287",
-      "rootPlaceId": 127774488725016,
-      "description": "\ud83d\udd13 EARLY ACCESS\n\n\u2696\ufe0f Welcome to Judge Simulator! Become a powerful Judge, enter the courtroom, solve criminal cases, and decide who is GUILTY or NOT GUILTY!\n\n\ud83d\udd0e Investigate evidence, listen to witnesses, question suspects, and make the final decision. Every case is different \u2014 will you deliver justice or make the wrong choice?\n\n\ud83d\udcb0 Earn Money & Influence\n\ud83d\udcc8 Upgrade your Judge Rank\n\u2696\ufe0f Solve Unique Court ",
-      "genre": "All",
-      "created": "2026-08-31T23:29:58.7325058Z",
-      "creatorName": "SimWorld Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-22T10:06:58.183694+00:00",
-          "ccu": 158,
-          "visits": 150738
-        },
-        {
-          "t": "2026-09-22T15:03:11.681172+00:00",
-          "ccu": 366,
-          "visits": 157609
-        },
-        {
-          "t": "2026-09-22T19:00:28.353127+00:00",
-          "ccu": 334,
-          "visits": 164502
-        }
-      ],
-      "latest_ccu": 334,
-      "latest_visits": 164502,
-      "last_seen": "2026-09-22T19:00:28.353127+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

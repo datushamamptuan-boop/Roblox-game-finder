@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T00:12:06.891766+00:00",
-  "count": 17,
+  "generated_at": "2026-09-22T05:10:18.945176+00:00",
+  "count": 18,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3290,6 +3290,29 @@
       "latest_ccu": 260,
       "latest_visits": 129941,
       "last_seen": "2026-09-18T17:45:20.556004+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Weather Sandbox",
+      "universeId": "10747920845",
+      "rootPlaceId": 70412932199344,
+      "description": "Control the weather and see what happens.\nMess with temperature, wind, humidity and pressure to turn a calm day into a tornado, blizzard or something you haven't discovered yet.\n\n\ud83c\udf2a\ufe0f Create storms and find rare weather combinations\n\ud83c\udf32 Grow forests, start fires and flood the landscape\n\ud83c\udfd4\ufe0f Unlock biomes and tools to experiment with\n\ud83d\udcd6 Complete contracts and fill your weather collection\n\nKeep it peaceful",
+      "genre": "All",
+      "created": "2026-08-21T04:40:25.25Z",
+      "creatorName": "Beyond Average",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-22T05:10:18.945176+00:00",
+          "ccu": 191,
+          "visits": 83343
+        }
+      ],
+      "latest_ccu": 191,
+      "latest_visits": 83343,
+      "last_seen": "2026-09-22T05:10:18.945176+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

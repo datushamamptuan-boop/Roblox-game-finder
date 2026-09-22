@@ -3316,14 +3316,19 @@
           "t": "2026-09-22T15:03:11.681172+00:00",
           "ccu": 475,
           "visits": 96352
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 513,
+          "visits": 105957
         }
       ],
-      "latest_ccu": 475,
-      "latest_visits": 96352,
-      "last_seen": "2026-09-22T15:03:11.681172+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 513,
+      "latest_visits": 105957,
+      "last_seen": "2026-09-22T19:00:28.353127+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 2.51
     },
     "10764665287": {
       "name": "Judge Simulator",
@@ -3344,11 +3349,16 @@
           "t": "2026-09-22T15:03:11.681172+00:00",
           "ccu": 366,
           "visits": 157609
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 334,
+          "visits": 164502
         }
       ],
-      "latest_ccu": 366,
-      "latest_visits": 157609,
-      "last_seen": "2026-09-22T15:03:11.681172+00:00",
+      "latest_ccu": 334,
+      "latest_visits": 164502,
+      "last_seen": "2026-09-22T19:00:28.353127+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

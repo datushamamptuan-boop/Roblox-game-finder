@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:03:11.681172+00:00",
+  "generated_at": "2026-09-22T19:00:28.353127+00:00",
   "count": 19,
   "games": [
     {
@@ -85,6 +85,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.78
+    },
+    {
+      "name": "Weather Sandbox",
+      "universeId": "10747920845",
+      "rootPlaceId": 70412932199344,
+      "description": "Control the weather and see what happens.\nMess with temperature, wind, humidity and pressure to turn a calm day into a tornado, blizzard or something you haven't discovered yet.\n\n\ud83c\udf2a\ufe0f Create storms and find rare weather combinations\n\ud83c\udf32 Grow forests, start fires and flood the landscape\n\ud83c\udfd4\ufe0f Unlock biomes and tools to experiment with\n\ud83d\udcd6 Complete contracts and fill your weather collection\n\nKeep it peaceful",
+      "genre": "All",
+      "created": "2026-08-21T04:40:25.25Z",
+      "creatorName": "Beyond Average",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-22T05:10:18.945176+00:00",
+          "ccu": 191,
+          "visits": 83343
+        },
+        {
+          "t": "2026-09-22T10:06:58.183694+00:00",
+          "ccu": 203,
+          "visits": 86986
+        },
+        {
+          "t": "2026-09-22T15:03:11.681172+00:00",
+          "ccu": 475,
+          "visits": 96352
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 513,
+          "visits": 105957
+        }
+      ],
+      "latest_ccu": 513,
+      "latest_visits": 105957,
+      "last_seen": "2026-09-22T19:00:28.353127+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 2.51
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -3295,39 +3333,6 @@
       "growth_ratio": null
     },
     {
-      "name": "Weather Sandbox",
-      "universeId": "10747920845",
-      "rootPlaceId": 70412932199344,
-      "description": "Control the weather and see what happens.\nMess with temperature, wind, humidity and pressure to turn a calm day into a tornado, blizzard or something you haven't discovered yet.\n\n\ud83c\udf2a\ufe0f Create storms and find rare weather combinations\n\ud83c\udf32 Grow forests, start fires and flood the landscape\n\ud83c\udfd4\ufe0f Unlock biomes and tools to experiment with\n\ud83d\udcd6 Complete contracts and fill your weather collection\n\nKeep it peaceful",
-      "genre": "All",
-      "created": "2026-08-21T04:40:25.25Z",
-      "creatorName": "Beyond Average",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-22T05:10:18.945176+00:00",
-          "ccu": 191,
-          "visits": 83343
-        },
-        {
-          "t": "2026-09-22T10:06:58.183694+00:00",
-          "ccu": 203,
-          "visits": 86986
-        },
-        {
-          "t": "2026-09-22T15:03:11.681172+00:00",
-          "ccu": 475,
-          "visits": 96352
-        }
-      ],
-      "latest_ccu": 475,
-      "latest_visits": 96352,
-      "last_seen": "2026-09-22T15:03:11.681172+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Judge Simulator",
       "universeId": "10764665287",
       "rootPlaceId": 127774488725016,
@@ -3346,11 +3351,16 @@
           "t": "2026-09-22T15:03:11.681172+00:00",
           "ccu": 366,
           "visits": 157609
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 334,
+          "visits": 164502
         }
       ],
-      "latest_ccu": 366,
-      "latest_visits": 157609,
-      "last_seen": "2026-09-22T15:03:11.681172+00:00",
+      "latest_ccu": 334,
+      "latest_visits": 164502,
+      "last_seen": "2026-09-22T19:00:28.353127+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

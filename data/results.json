@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:24:18.484271+00:00",
+  "generated_at": "2026-09-23T05:11:11.145563+00:00",
   "count": 19,
   "games": [
     {
@@ -125,14 +125,19 @@
           "t": "2026-09-23T00:24:18.484271+00:00",
           "ccu": 615,
           "visits": 124341
+        },
+        {
+          "t": "2026-09-23T05:11:11.145563+00:00",
+          "ccu": 249,
+          "visits": 132906
         }
       ],
-      "latest_ccu": 615,
-      "latest_visits": 124341,
-      "last_seen": "2026-09-23T00:24:18.484271+00:00",
+      "latest_ccu": 249,
+      "latest_visits": 132906,
+      "last_seen": "2026-09-23T05:11:11.145563+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.13
+      "growth_ratio": 1.81
     },
     {
       "name": "Judge Simulator",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:54:01.158798+00:00",
+  "generated_at": "2026-09-24T06:02:08.736059+00:00",
   "count": 19,
   "games": [
     {
@@ -689,84 +689,6 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
-    },
-    {
-      "name": "Weather Sandbox",
-      "universeId": "10747920845",
-      "rootPlaceId": 70412932199344,
-      "description": "Control the weather and see what happens.\nMess with temperature, wind, humidity and pressure to turn a calm day into a tornado, blizzard or something you haven't discovered yet.\n\n\ud83c\udf2a\ufe0f Create storms and find rare weather combinations\n\ud83c\udf32 Grow forests, start fires and flood the landscape\n\ud83c\udfd4\ufe0f Unlock biomes and tools to experiment with\n\ud83d\udcd6 Complete contracts and fill your weather collection\n\nKeep it peaceful",
-      "genre": "All",
-      "created": "2026-08-21T04:40:25.25Z",
-      "creatorName": "Beyond Average",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-22T05:10:18.945176+00:00",
-          "ccu": 191,
-          "visits": 83343
-        },
-        {
-          "t": "2026-09-22T10:06:58.183694+00:00",
-          "ccu": 203,
-          "visits": 86986
-        },
-        {
-          "t": "2026-09-22T15:03:11.681172+00:00",
-          "ccu": 475,
-          "visits": 96352
-        },
-        {
-          "t": "2026-09-22T19:00:28.353127+00:00",
-          "ccu": 513,
-          "visits": 105957
-        },
-        {
-          "t": "2026-09-22T22:01:15.033443+00:00",
-          "ccu": 723,
-          "visits": 114601
-        },
-        {
-          "t": "2026-09-23T00:24:18.484271+00:00",
-          "ccu": 615,
-          "visits": 124341
-        },
-        {
-          "t": "2026-09-23T05:11:11.145563+00:00",
-          "ccu": 249,
-          "visits": 132906
-        },
-        {
-          "t": "2026-09-23T10:07:17.740504+00:00",
-          "ccu": 367,
-          "visits": 139723
-        },
-        {
-          "t": "2026-09-23T15:07:02.273123+00:00",
-          "ccu": 527,
-          "visits": 151918
-        },
-        {
-          "t": "2026-09-23T19:08:12.726983+00:00",
-          "ccu": 530,
-          "visits": 162760
-        },
-        {
-          "t": "2026-09-23T22:23:22.909142+00:00",
-          "ccu": 705,
-          "visits": 172611
-        },
-        {
-          "t": "2026-09-24T00:54:01.158798+00:00",
-          "ccu": 472,
-          "visits": 180536
-        }
-      ],
-      "latest_ccu": 472,
-      "latest_visits": 180536,
-      "last_seen": "2026-09-24T00:54:01.158798+00:00",
-      "trend_score": 76.9,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.05
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -1974,6 +1896,89 @@
       "trend_score": 60.1,
       "trend_label": "mild_upward",
       "growth_ratio": 1.13
+    },
+    {
+      "name": "Weather Sandbox",
+      "universeId": "10747920845",
+      "rootPlaceId": 70412932199344,
+      "description": "Control the weather and see what happens.\nMess with temperature, wind, humidity and pressure to turn a calm day into a tornado, blizzard or something you haven't discovered yet.\n\n\ud83c\udf2a\ufe0f Create storms and find rare weather combinations\n\ud83c\udf32 Grow forests, start fires and flood the landscape\n\ud83c\udfd4\ufe0f Unlock biomes and tools to experiment with\n\ud83d\udcd6 Complete contracts and fill your weather collection\n\nKeep it peaceful",
+      "genre": "All",
+      "created": "2026-08-21T04:40:25.25Z",
+      "creatorName": "Beyond Average",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-22T05:10:18.945176+00:00",
+          "ccu": 191,
+          "visits": 83343
+        },
+        {
+          "t": "2026-09-22T10:06:58.183694+00:00",
+          "ccu": 203,
+          "visits": 86986
+        },
+        {
+          "t": "2026-09-22T15:03:11.681172+00:00",
+          "ccu": 475,
+          "visits": 96352
+        },
+        {
+          "t": "2026-09-22T19:00:28.353127+00:00",
+          "ccu": 513,
+          "visits": 105957
+        },
+        {
+          "t": "2026-09-22T22:01:15.033443+00:00",
+          "ccu": 723,
+          "visits": 114601
+        },
+        {
+          "t": "2026-09-23T00:24:18.484271+00:00",
+          "ccu": 615,
+          "visits": 124341
+        },
+        {
+          "t": "2026-09-23T05:11:11.145563+00:00",
+          "ccu": 249,
+          "visits": 132906
+        },
+        {
+          "t": "2026-09-23T10:07:17.740504+00:00",
+          "ccu": 367,
+          "visits": 139723
+        },
+        {
+          "t": "2026-09-23T15:07:02.273123+00:00",
+          "ccu": 527,
+          "visits": 151918
+        },
+        {
+          "t": "2026-09-23T19:08:12.726983+00:00",
+          "ccu": 530,
+          "visits": 162760
+        },
+        {
+          "t": "2026-09-23T22:23:22.909142+00:00",
+          "ccu": 705,
+          "visits": 172611
+        },
+        {
+          "t": "2026-09-24T00:54:01.158798+00:00",
+          "ccu": 472,
+          "visits": 180536
+        },
+        {
+          "t": "2026-09-24T06:02:08.736059+00:00",
+          "ccu": 211,
+          "visits": 187618
+        }
+      ],
+      "latest_ccu": 211,
+      "latest_visits": 187618,
+      "last_seen": "2026-09-24T06:02:08.736059+00:00",
+      "trend_score": 59.7,
+      "trend_label": "mild_upward",
+      "growth_ratio": 0.96
     },
     {
       "name": "Zee ",

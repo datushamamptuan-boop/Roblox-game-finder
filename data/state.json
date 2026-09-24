@@ -3366,14 +3366,19 @@
           "t": "2026-09-24T06:02:08.736059+00:00",
           "ccu": 211,
           "visits": 187618
+        },
+        {
+          "t": "2026-09-24T11:59:11.398175+00:00",
+          "ccu": 585,
+          "visits": 197531
         }
       ],
-      "latest_ccu": 211,
-      "latest_visits": 187618,
-      "last_seen": "2026-09-24T06:02:08.736059+00:00",
-      "trend_score": 59.7,
+      "latest_ccu": 585,
+      "latest_visits": 197531,
+      "last_seen": "2026-09-24T11:59:11.398175+00:00",
+      "trend_score": 68.9,
       "trend_label": "mild_upward",
-      "growth_ratio": 0.96
+      "growth_ratio": 1.14
     },
     "10764665287": {
       "name": "Judge Simulator",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-25T17:55:12.051528+00:00",
-  "count": 19,
+  "generated_at": "2026-09-25T21:26:09.054914+00:00",
+  "count": 20,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3416,6 +3416,29 @@
       "latest_ccu": 260,
       "latest_visits": 129941,
       "last_seen": "2026-09-18T17:45:20.556004+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Horde Defenders",
+      "universeId": "10766114988",
+      "rootPlaceId": 93237333081860,
+      "description": "\u26a0\ufe0f TECH TREE HAS BEEN REFUNDED, THIS UNFORTUNATELY HAD TO HAPPEN AND I HAD NO CONTROL OVER IT. \u26a0\ufe0f\n\n\ud83d\udc7e HORDE DEFENDERS \ud83d\udc7e\n\nTens of thousands of alien bugs flood across the map like a living tide, piling into chokepoints and climbing over their own dead to reach your outpost.\n\nYour towers never pick a target. Every one fires exactly where YOU aim it. Aim well and one howitzer shreds a column. Aim badl",
+      "genre": "All",
+      "created": "2026-09-12T09:04:26.292Z",
+      "creatorName": "Horizon Studi\u043es",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-25T21:26:09.054914+00:00",
+          "ccu": 1640,
+          "visits": 117612
+        }
+      ],
+      "latest_ccu": 1640,
+      "latest_visits": 117612,
+      "last_seen": "2026-09-25T21:26:09.054914+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

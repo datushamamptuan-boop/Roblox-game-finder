@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:10:32.828114+00:00",
+  "generated_at": "2026-09-26T09:58:30.377600+00:00",
   "count": 21,
   "games": [
     {
@@ -2412,6 +2412,44 @@
       "growth_ratio": 1.09
     },
     {
+      "name": "Horde Defenders",
+      "universeId": "10766114988",
+      "rootPlaceId": 93237333081860,
+      "description": "\u26a0\ufe0f TECH TREE HAS BEEN REFUNDED, THIS UNFORTUNATELY HAD TO HAPPEN AND I HAD NO CONTROL OVER IT. \u26a0\ufe0f\n\n\ud83d\udc7e HORDE DEFENDERS \ud83d\udc7e\n\nTens of thousands of alien bugs flood across the map like a living tide, piling into chokepoints and climbing over their own dead to reach your outpost.\n\nYour towers never pick a target. Every one fires exactly where YOU aim it. Aim well and one howitzer shreds a column. Aim badl",
+      "genre": "All",
+      "created": "2026-09-12T09:04:26.292Z",
+      "creatorName": "Horizon Studi\u043es",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-25T21:26:09.054914+00:00",
+          "ccu": 1640,
+          "visits": 117612
+        },
+        {
+          "t": "2026-09-26T00:10:02.654503+00:00",
+          "ccu": 1495,
+          "visits": 124965
+        },
+        {
+          "t": "2026-09-26T05:10:32.828114+00:00",
+          "ccu": 1452,
+          "visits": 138417
+        },
+        {
+          "t": "2026-09-26T09:58:30.377600+00:00",
+          "ccu": 1699,
+          "visits": 149598
+        }
+      ],
+      "latest_ccu": 1699,
+      "latest_visits": 149598,
+      "last_seen": "2026-09-26T09:58:30.377600+00:00",
+      "trend_score": 54.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
+    },
+    {
       "name": "[New Rebirth] Pay Your Debts!",
       "universeId": "10647180866",
       "rootPlaceId": 76717770497649,
@@ -3416,39 +3454,6 @@
       "latest_ccu": 260,
       "latest_visits": 129941,
       "last_seen": "2026-09-18T17:45:20.556004+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Horde Defenders",
-      "universeId": "10766114988",
-      "rootPlaceId": 93237333081860,
-      "description": "\u26a0\ufe0f TECH TREE HAS BEEN REFUNDED, THIS UNFORTUNATELY HAD TO HAPPEN AND I HAD NO CONTROL OVER IT. \u26a0\ufe0f\n\n\ud83d\udc7e HORDE DEFENDERS \ud83d\udc7e\n\nTens of thousands of alien bugs flood across the map like a living tide, piling into chokepoints and climbing over their own dead to reach your outpost.\n\nYour towers never pick a target. Every one fires exactly where YOU aim it. Aim well and one howitzer shreds a column. Aim badl",
-      "genre": "All",
-      "created": "2026-09-12T09:04:26.292Z",
-      "creatorName": "Horizon Studi\u043es",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-09-25T21:26:09.054914+00:00",
-          "ccu": 1640,
-          "visits": 117612
-        },
-        {
-          "t": "2026-09-26T00:10:02.654503+00:00",
-          "ccu": 1495,
-          "visits": 124965
-        },
-        {
-          "t": "2026-09-26T05:10:32.828114+00:00",
-          "ccu": 1452,
-          "visits": 138417
-        }
-      ],
-      "latest_ccu": 1452,
-      "latest_visits": 138417,
-      "last_seen": "2026-09-26T05:10:32.828114+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

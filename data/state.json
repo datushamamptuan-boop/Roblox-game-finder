@@ -3437,11 +3437,39 @@
           "t": "2026-09-26T00:10:02.654503+00:00",
           "ccu": 1495,
           "visits": 124965
+        },
+        {
+          "t": "2026-09-26T05:10:32.828114+00:00",
+          "ccu": 1452,
+          "visits": 138417
         }
       ],
-      "latest_ccu": 1495,
-      "latest_visits": 124965,
-      "last_seen": "2026-09-26T00:10:02.654503+00:00",
+      "latest_ccu": 1452,
+      "latest_visits": 138417,
+      "last_seen": "2026-09-26T05:10:32.828114+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10765579304": {
+      "name": "Fleet Empire [ALPHA]",
+      "universeId": "10765579304",
+      "rootPlaceId": 128776499486135,
+      "description": "Game was released less than 2 weeks ago, please contact me and give me feedback on your gameplay whether it is good or bad.\n\nStart with a cargo van and grow your transportation company from the ground up. Buy trucks, hire drivers, find freight, complete deliveries, and expand across the United States.\n\n\ud83d\ude9a Build & manage your fleet\n\ud83d\udce6 Find freight & complete deliveries\n\ud83d\udc77 Hire & manage drivers\n\ud83e\udd1d Build",
+      "genre": "All",
+      "created": "2026-09-07T17:16:27.855Z",
+      "creatorName": "Concrete Rose Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-09-26T05:10:32.828114+00:00",
+          "ccu": 835,
+          "visits": 192959
+        }
+      ],
+      "latest_ccu": 835,
+      "latest_visits": 192959,
+      "last_seen": "2026-09-26T05:10:32.828114+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -3452,14 +3452,19 @@
           "t": "2026-09-26T14:22:19.683259+00:00",
           "ccu": 2089,
           "visits": 162808
+        },
+        {
+          "t": "2026-09-26T18:03:11.456863+00:00",
+          "ccu": 2087,
+          "visits": 175035
         }
       ],
-      "latest_ccu": 2089,
-      "latest_visits": 162808,
-      "last_seen": "2026-09-26T14:22:19.683259+00:00",
-      "trend_score": 87.5,
+      "latest_ccu": 2087,
+      "latest_visits": 175035,
+      "last_seen": "2026-09-26T18:03:11.456863+00:00",
+      "trend_score": 96.2,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.11
+      "growth_ratio": 1.28
     },
     "10765579304": {
       "name": "Fleet Empire [ALPHA]",

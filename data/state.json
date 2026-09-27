@@ -3498,6 +3498,75 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10612995138": {
+      "name": "[\ud83c\udfe0 UPDATE] Loot Wars [Beta]",
+      "universeId": "10612995138",
+      "rootPlaceId": 116385321470055,
+      "description": "\ud83c\udfe1 Housing & Carpentry Update\n\nBuild Your Home\n\n* Claim one of 50 housing plots.\n* Choose from 5 house styles and upgrade your home with larger sizes, extra floors, and a roof deck.\n* Place, move, and rotate furniture.\n* Add useful stations including a Bank Chest, Potion Table, Amulet Station, Orb Station, and Training Dummy.\n* Your home, furniture, upgrades, and utilities are saved permanently.\n* ",
+      "genre": "All",
+      "created": "2026-08-01T19:52:05.996Z",
+      "creatorName": "PrompterBam",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 4,
+          "visits": 41363
+        }
+      ],
+      "latest_ccu": 4,
+      "latest_visits": 41363,
+      "last_seen": "2026-09-27T22:22:17.269247+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10766357013": {
+      "name": "Mini Golf: Wild Fairways",
+      "universeId": "10766357013",
+      "rootPlaceId": 121922799762080,
+      "description": "[Under active development, not all holes done]\n18 holes. One wild mini-golf adventure!\n\nPutt through candy gardens, granite cliffs, glowing caves and a windy airfield. Explore the course on foot, line up your shot and hold to choose your power.\n\nCan you finish under par? Track your round on the scorecard and challenge the Fewest Strokes and Under-Par Time leaderboards.\n\nPlay on phone, tablet or co",
+      "genre": "All",
+      "created": "2026-09-13T19:12:07.7381642Z",
+      "creatorName": "blockblok123",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 18,
+          "visits": 13748
+        }
+      ],
+      "latest_ccu": 18,
+      "latest_visits": 13748,
+      "last_seen": "2026-09-27T22:22:17.269247+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10767659751": {
+      "name": "Find The Key \ud83d\udddd\ufe0f",
+      "universeId": "10767659751",
+      "rootPlaceId": 73021429982912,
+      "description": "One key. Two thousand possibilities. Search the mysterious Key Vault, pick up numbered keys, test them at the giant lock, and get closer to escape with every failed attempt. Find the one true key, open the door, and escape! \n\nPlayable on phone, tablet, computer, and console.",
+      "genre": "All",
+      "created": "2026-09-22T22:15:41.003Z",
+      "creatorName": "StarMarine614",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 10,
+          "visits": 5724
+        }
+      ],
+      "latest_ccu": 10,
+      "latest_visits": 5724,
+      "last_seen": "2026-09-27T22:22:17.269247+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

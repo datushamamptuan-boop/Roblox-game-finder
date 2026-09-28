@@ -3523,14 +3523,19 @@
           "t": "2026-09-28T07:05:03.437915+00:00",
           "ccu": 5,
           "visits": 42861
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 10,
+          "visits": 44573
         }
       ],
-      "latest_ccu": 5,
-      "latest_visits": 42861,
-      "last_seen": "2026-09-28T07:05:03.437915+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 10,
+      "latest_visits": 44573,
+      "last_seen": "2026-09-28T15:39:14.380946+00:00",
+      "trend_score": 90.0,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.0
     },
     "10766357013": {
       "name": "Mini Golf: Wild Fairways",
@@ -3556,14 +3561,19 @@
           "t": "2026-09-28T07:05:03.437915+00:00",
           "ccu": 11,
           "visits": 16063
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 21,
+          "visits": 18109
         }
       ],
-      "latest_ccu": 11,
-      "latest_visits": 16063,
-      "last_seen": "2026-09-28T07:05:03.437915+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 21,
+      "latest_visits": 18109,
+      "last_seen": "2026-09-28T15:39:14.380946+00:00",
+      "trend_score": 64.2,
+      "trend_label": "mild_upward",
+      "growth_ratio": 0.97
     },
     "10767659751": {
       "name": "Find The Key \ud83d\udddd\ufe0f",
@@ -3589,14 +3599,19 @@
           "t": "2026-09-28T07:05:03.437915+00:00",
           "ccu": 8,
           "visits": 8150
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 19,
+          "visits": 11207
         }
       ],
-      "latest_ccu": 8,
-      "latest_visits": 8150,
-      "last_seen": "2026-09-28T07:05:03.437915+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 19,
+      "latest_visits": 11207,
+      "last_seen": "2026-09-28T15:39:14.380946+00:00",
+      "trend_score": 87.2,
+      "trend_label": "strong_upward",
+      "growth_ratio": 0.93
     }
   }
 }

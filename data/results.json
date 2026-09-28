@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:39:14.380946+00:00",
+  "generated_at": "2026-09-28T21:23:26.557580+00:00",
   "count": 24,
   "games": [
     {
@@ -123,6 +123,49 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.34
+    },
+    {
+      "name": "[\ud83c\udfe0 UPDATE] Loot Wars [Beta]",
+      "universeId": "10612995138",
+      "rootPlaceId": 116385321470055,
+      "description": "\ud83c\udfe1 Housing & Carpentry Update\n\nBuild Your Home\n\n* Claim one of 50 housing plots.\n* Choose from 5 house styles and upgrade your home with larger sizes, extra floors, and a roof deck.\n* Place, move, and rotate furniture.\n* Add useful stations including a Bank Chest, Potion Table, Amulet Station, Orb Station, and Training Dummy.\n* Your home, furniture, upgrades, and utilities are saved permanently.\n* ",
+      "genre": "All",
+      "created": "2026-08-01T19:52:05.996Z",
+      "creatorName": "PrompterBam",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 4,
+          "visits": 41363
+        },
+        {
+          "t": "2026-09-28T01:11:58.739663+00:00",
+          "ccu": 11,
+          "visits": 41966
+        },
+        {
+          "t": "2026-09-28T07:05:03.437915+00:00",
+          "ccu": 5,
+          "visits": 42861
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 10,
+          "visits": 44573
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 11,
+          "visits": 45865
+        }
+      ],
+      "latest_ccu": 11,
+      "latest_visits": 45865,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 96.2,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.16
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -448,6 +491,49 @@
       "growth_ratio": 1.89
     },
     {
+      "name": "Mini Golf: Wild Fairways",
+      "universeId": "10766357013",
+      "rootPlaceId": 121922799762080,
+      "description": "[Under active development, not all holes done]\n18 holes. One wild mini-golf adventure!\n\nPutt through candy gardens, granite cliffs, glowing caves and a windy airfield. Explore the course on foot, line up your shot and hold to choose your power.\n\nCan you finish under par? Track your round on the scorecard and challenge the Fewest Strokes and Under-Par Time leaderboards.\n\nPlay on phone, tablet or co",
+      "genre": "All",
+      "created": "2026-09-13T19:12:07.7381642Z",
+      "creatorName": "blockblok123",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 18,
+          "visits": 13748
+        },
+        {
+          "t": "2026-09-28T01:11:58.739663+00:00",
+          "ccu": 15,
+          "visits": 14716
+        },
+        {
+          "t": "2026-09-28T07:05:03.437915+00:00",
+          "ccu": 11,
+          "visits": 16063
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 21,
+          "visits": 18109
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 24,
+          "visits": 20156
+        }
+      ],
+      "latest_ccu": 24,
+      "latest_visits": 20156,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 95.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.13
+    },
+    {
       "name": "Zee [TEMP!]",
       "universeId": "10764730172",
       "rootPlaceId": 113476710204306,
@@ -691,44 +777,6 @@
       "growth_ratio": 1.77
     },
     {
-      "name": "[\ud83c\udfe0 UPDATE] Loot Wars [Beta]",
-      "universeId": "10612995138",
-      "rootPlaceId": 116385321470055,
-      "description": "\ud83c\udfe1 Housing & Carpentry Update\n\nBuild Your Home\n\n* Claim one of 50 housing plots.\n* Choose from 5 house styles and upgrade your home with larger sizes, extra floors, and a roof deck.\n* Place, move, and rotate furniture.\n* Add useful stations including a Bank Chest, Potion Table, Amulet Station, Orb Station, and Training Dummy.\n* Your home, furniture, upgrades, and utilities are saved permanently.\n* ",
-      "genre": "All",
-      "created": "2026-08-01T19:52:05.996Z",
-      "creatorName": "PrompterBam",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-27T22:22:17.269247+00:00",
-          "ccu": 4,
-          "visits": 41363
-        },
-        {
-          "t": "2026-09-28T01:11:58.739663+00:00",
-          "ccu": 11,
-          "visits": 41966
-        },
-        {
-          "t": "2026-09-28T07:05:03.437915+00:00",
-          "ccu": 5,
-          "visits": 42861
-        },
-        {
-          "t": "2026-09-28T15:39:14.380946+00:00",
-          "ccu": 10,
-          "visits": 44573
-        }
-      ],
-      "latest_ccu": 10,
-      "latest_visits": 44573,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 90.0,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.0
-    },
-    {
       "name": "Find The Key \ud83d\udddd\ufe0f",
       "universeId": "10767659751",
       "rootPlaceId": 73021429982912,
@@ -757,14 +805,19 @@
           "t": "2026-09-28T15:39:14.380946+00:00",
           "ccu": 19,
           "visits": 11207
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 19,
+          "visits": 13670
         }
       ],
       "latest_ccu": 19,
-      "latest_visits": 11207,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 87.2,
+      "latest_visits": 13670,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 92.3,
       "trend_label": "strong_upward",
-      "growth_ratio": 0.93
+      "growth_ratio": 1.06
     },
     {
       "name": "Horde Defenders",
@@ -1594,44 +1647,6 @@
       "trend_score": 66.1,
       "trend_label": "mild_upward",
       "growth_ratio": 1.35
-    },
-    {
-      "name": "Mini Golf: Wild Fairways",
-      "universeId": "10766357013",
-      "rootPlaceId": 121922799762080,
-      "description": "[Under active development, not all holes done]\n18 holes. One wild mini-golf adventure!\n\nPutt through candy gardens, granite cliffs, glowing caves and a windy airfield. Explore the course on foot, line up your shot and hold to choose your power.\n\nCan you finish under par? Track your round on the scorecard and challenge the Fewest Strokes and Under-Par Time leaderboards.\n\nPlay on phone, tablet or co",
-      "genre": "All",
-      "created": "2026-09-13T19:12:07.7381642Z",
-      "creatorName": "blockblok123",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-27T22:22:17.269247+00:00",
-          "ccu": 18,
-          "visits": 13748
-        },
-        {
-          "t": "2026-09-28T01:11:58.739663+00:00",
-          "ccu": 15,
-          "visits": 14716
-        },
-        {
-          "t": "2026-09-28T07:05:03.437915+00:00",
-          "ccu": 11,
-          "visits": 16063
-        },
-        {
-          "t": "2026-09-28T15:39:14.380946+00:00",
-          "ccu": 21,
-          "visits": 18109
-        }
-      ],
-      "latest_ccu": 21,
-      "latest_visits": 18109,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 64.2,
-      "trend_label": "mild_upward",
-      "growth_ratio": 0.97
     },
     {
       "name": "Loop [ALPHA]",

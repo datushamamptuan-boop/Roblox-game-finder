@@ -3528,14 +3528,19 @@
           "t": "2026-09-28T15:39:14.380946+00:00",
           "ccu": 10,
           "visits": 44573
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 11,
+          "visits": 45865
         }
       ],
-      "latest_ccu": 10,
-      "latest_visits": 44573,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 90.0,
+      "latest_ccu": 11,
+      "latest_visits": 45865,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 96.2,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.0
+      "growth_ratio": 1.16
     },
     "10766357013": {
       "name": "Mini Golf: Wild Fairways",
@@ -3566,14 +3571,19 @@
           "t": "2026-09-28T15:39:14.380946+00:00",
           "ccu": 21,
           "visits": 18109
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 24,
+          "visits": 20156
         }
       ],
-      "latest_ccu": 21,
-      "latest_visits": 18109,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 64.2,
-      "trend_label": "mild_upward",
-      "growth_ratio": 0.97
+      "latest_ccu": 24,
+      "latest_visits": 20156,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 95.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.13
     },
     "10767659751": {
       "name": "Find The Key \ud83d\udddd\ufe0f",
@@ -3604,14 +3614,19 @@
           "t": "2026-09-28T15:39:14.380946+00:00",
           "ccu": 19,
           "visits": 11207
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 19,
+          "visits": 13670
         }
       ],
       "latest_ccu": 19,
-      "latest_visits": 11207,
-      "last_seen": "2026-09-28T15:39:14.380946+00:00",
-      "trend_score": 87.2,
+      "latest_visits": 13670,
+      "last_seen": "2026-09-28T21:23:26.557580+00:00",
+      "trend_score": 92.3,
       "trend_label": "strong_upward",
-      "growth_ratio": 0.93
+      "growth_ratio": 1.06
     }
   }
 }

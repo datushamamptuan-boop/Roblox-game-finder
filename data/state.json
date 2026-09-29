@@ -3586,14 +3586,19 @@
           "t": "2026-09-29T01:17:03.577258+00:00",
           "ccu": 12,
           "visits": 21609
+        },
+        {
+          "t": "2026-09-29T07:02:32.558855+00:00",
+          "ccu": 3,
+          "visits": 22707
         }
       ],
-      "latest_ccu": 12,
-      "latest_visits": 21609,
-      "last_seen": "2026-09-29T01:17:03.577258+00:00",
-      "trend_score": 67.8,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.3
+      "latest_ccu": 3,
+      "latest_visits": 22707,
+      "last_seen": "2026-09-29T07:02:32.558855+00:00",
+      "trend_score": 10.9,
+      "trend_label": "declining",
+      "growth_ratio": 1.02
     },
     "10767659751": {
       "name": "Find The Key \ud83d\udddd\ufe0f",
@@ -3634,14 +3639,19 @@
           "t": "2026-09-29T01:17:03.577258+00:00",
           "ccu": 16,
           "visits": 14981
+        },
+        {
+          "t": "2026-09-29T07:02:32.558855+00:00",
+          "ccu": 7,
+          "visits": 16511
         }
       ],
-      "latest_ccu": 16,
-      "latest_visits": 14981,
-      "last_seen": "2026-09-29T01:17:03.577258+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.46
+      "latest_ccu": 7,
+      "latest_visits": 16511,
+      "last_seen": "2026-09-29T07:02:32.558855+00:00",
+      "trend_score": 54.4,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.24
     }
   }
 }

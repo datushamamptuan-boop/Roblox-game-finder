@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:02:32.558855+00:00",
+  "generated_at": "2026-09-29T14:10:10.657203+00:00",
   "count": 24,
   "games": [
     {
@@ -163,14 +163,19 @@
           "t": "2026-09-29T01:17:03.577258+00:00",
           "ccu": 8,
           "visits": 46711
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 12,
+          "visits": 48766
         }
       ],
-      "latest_ccu": 8,
-      "latest_visits": 46711,
-      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "latest_ccu": 12,
+      "latest_visits": 48766,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.45
+      "growth_ratio": 1.54
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -2518,59 +2523,6 @@
       "growth_ratio": 1.09
     },
     {
-      "name": "Find The Key \ud83d\udddd\ufe0f",
-      "universeId": "10767659751",
-      "rootPlaceId": 73021429982912,
-      "description": "One key. Two thousand possibilities. Search the mysterious Key Vault, pick up numbered keys, test them at the giant lock, and get closer to escape with every failed attempt. Find the one true key, open the door, and escape! \n\nPlayable on phone, tablet, computer, and console.",
-      "genre": "All",
-      "created": "2026-09-22T22:15:41.003Z",
-      "creatorName": "StarMarine614",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-27T22:22:17.269247+00:00",
-          "ccu": 10,
-          "visits": 5724
-        },
-        {
-          "t": "2026-09-28T01:11:58.739663+00:00",
-          "ccu": 19,
-          "visits": 6721
-        },
-        {
-          "t": "2026-09-28T07:05:03.437915+00:00",
-          "ccu": 8,
-          "visits": 8150
-        },
-        {
-          "t": "2026-09-28T15:39:14.380946+00:00",
-          "ccu": 19,
-          "visits": 11207
-        },
-        {
-          "t": "2026-09-28T21:23:26.557580+00:00",
-          "ccu": 19,
-          "visits": 13670
-        },
-        {
-          "t": "2026-09-29T01:17:03.577258+00:00",
-          "ccu": 16,
-          "visits": 14981
-        },
-        {
-          "t": "2026-09-29T07:02:32.558855+00:00",
-          "ccu": 7,
-          "visits": 16511
-        }
-      ],
-      "latest_ccu": 7,
-      "latest_visits": 16511,
-      "last_seen": "2026-09-29T07:02:32.558855+00:00",
-      "trend_score": 54.4,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.24
-    },
-    {
       "name": "[New Rebirth] Pay Your Debts!",
       "universeId": "10647180866",
       "rootPlaceId": 76717770497649,
@@ -3529,14 +3481,77 @@
           "t": "2026-09-29T07:02:32.558855+00:00",
           "ccu": 3,
           "visits": 22707
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 17,
+          "visits": 24061
         }
       ],
-      "latest_ccu": 3,
-      "latest_visits": 22707,
-      "last_seen": "2026-09-29T07:02:32.558855+00:00",
-      "trend_score": 10.9,
+      "latest_ccu": 17,
+      "latest_visits": 24061,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
+      "trend_score": 20.5,
       "trend_label": "declining",
-      "growth_ratio": 1.02
+      "growth_ratio": 0.86
+    },
+    {
+      "name": "Find The Key \ud83d\udddd\ufe0f",
+      "universeId": "10767659751",
+      "rootPlaceId": 73021429982912,
+      "description": "One key. Two thousand possibilities. Search the mysterious Key Vault, pick up numbered keys, test them at the giant lock, and get closer to escape with every failed attempt. Find the one true key, open the door, and escape! \n\nPlayable on phone, tablet, computer, and console.",
+      "genre": "All",
+      "created": "2026-09-22T22:15:41.003Z",
+      "creatorName": "StarMarine614",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 10,
+          "visits": 5724
+        },
+        {
+          "t": "2026-09-28T01:11:58.739663+00:00",
+          "ccu": 19,
+          "visits": 6721
+        },
+        {
+          "t": "2026-09-28T07:05:03.437915+00:00",
+          "ccu": 8,
+          "visits": 8150
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 19,
+          "visits": 11207
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 19,
+          "visits": 13670
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 16,
+          "visits": 14981
+        },
+        {
+          "t": "2026-09-29T07:02:32.558855+00:00",
+          "ccu": 7,
+          "visits": 16511
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 7,
+          "visits": 18895
+        }
+      ],
+      "latest_ccu": 7,
+      "latest_visits": 18895,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
+      "trend_score": 19.1,
+      "trend_label": "declining",
+      "growth_ratio": 0.88
     },
     {
       "name": "Des Hood [BACK!]",

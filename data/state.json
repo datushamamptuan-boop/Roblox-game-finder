@@ -3538,14 +3538,19 @@
           "t": "2026-09-29T01:17:03.577258+00:00",
           "ccu": 8,
           "visits": 46711
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 12,
+          "visits": 48766
         }
       ],
-      "latest_ccu": 8,
-      "latest_visits": 46711,
-      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "latest_ccu": 12,
+      "latest_visits": 48766,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.45
+      "growth_ratio": 1.54
     },
     "10766357013": {
       "name": "Mini Golf: Wild Fairways",
@@ -3591,14 +3596,19 @@
           "t": "2026-09-29T07:02:32.558855+00:00",
           "ccu": 3,
           "visits": 22707
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 17,
+          "visits": 24061
         }
       ],
-      "latest_ccu": 3,
-      "latest_visits": 22707,
-      "last_seen": "2026-09-29T07:02:32.558855+00:00",
-      "trend_score": 10.9,
+      "latest_ccu": 17,
+      "latest_visits": 24061,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
+      "trend_score": 20.5,
       "trend_label": "declining",
-      "growth_ratio": 1.02
+      "growth_ratio": 0.86
     },
     "10767659751": {
       "name": "Find The Key \ud83d\udddd\ufe0f",
@@ -3644,14 +3654,19 @@
           "t": "2026-09-29T07:02:32.558855+00:00",
           "ccu": 7,
           "visits": 16511
+        },
+        {
+          "t": "2026-09-29T14:10:10.657203+00:00",
+          "ccu": 7,
+          "visits": 18895
         }
       ],
       "latest_ccu": 7,
-      "latest_visits": 16511,
-      "last_seen": "2026-09-29T07:02:32.558855+00:00",
-      "trend_score": 54.4,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.24
+      "latest_visits": 18895,
+      "last_seen": "2026-09-29T14:10:10.657203+00:00",
+      "trend_score": 19.1,
+      "trend_label": "declining",
+      "growth_ratio": 0.88
     }
   }
 }

@@ -3533,14 +3533,19 @@
           "t": "2026-09-28T21:23:26.557580+00:00",
           "ccu": 11,
           "visits": 45865
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 8,
+          "visits": 46711
         }
       ],
-      "latest_ccu": 11,
-      "latest_visits": 45865,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 96.2,
+      "latest_ccu": 8,
+      "latest_visits": 46711,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.16
+      "growth_ratio": 1.45
     },
     "10766357013": {
       "name": "Mini Golf: Wild Fairways",
@@ -3576,14 +3581,19 @@
           "t": "2026-09-28T21:23:26.557580+00:00",
           "ccu": 24,
           "visits": 20156
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 12,
+          "visits": 21609
         }
       ],
-      "latest_ccu": 24,
-      "latest_visits": 20156,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 95.3,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.13
+      "latest_ccu": 12,
+      "latest_visits": 21609,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 67.8,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.3
     },
     "10767659751": {
       "name": "Find The Key \ud83d\udddd\ufe0f",
@@ -3619,14 +3629,19 @@
           "t": "2026-09-28T21:23:26.557580+00:00",
           "ccu": 19,
           "visits": 13670
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 16,
+          "visits": 14981
         }
       ],
-      "latest_ccu": 19,
-      "latest_visits": 13670,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 92.3,
+      "latest_ccu": 16,
+      "latest_visits": 14981,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.06
+      "growth_ratio": 1.46
     }
   }
 }

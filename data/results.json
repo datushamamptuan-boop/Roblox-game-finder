@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:23:26.557580+00:00",
+  "generated_at": "2026-09-29T01:17:03.577258+00:00",
   "count": 24,
   "games": [
     {
@@ -158,14 +158,67 @@
           "t": "2026-09-28T21:23:26.557580+00:00",
           "ccu": 11,
           "visits": 45865
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 8,
+          "visits": 46711
         }
       ],
-      "latest_ccu": 11,
-      "latest_visits": 45865,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 96.2,
+      "latest_ccu": 8,
+      "latest_visits": 46711,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.16
+      "growth_ratio": 1.45
+    },
+    {
+      "name": "Find The Key \ud83d\udddd\ufe0f",
+      "universeId": "10767659751",
+      "rootPlaceId": 73021429982912,
+      "description": "One key. Two thousand possibilities. Search the mysterious Key Vault, pick up numbered keys, test them at the giant lock, and get closer to escape with every failed attempt. Find the one true key, open the door, and escape! \n\nPlayable on phone, tablet, computer, and console.",
+      "genre": "All",
+      "created": "2026-09-22T22:15:41.003Z",
+      "creatorName": "StarMarine614",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 10,
+          "visits": 5724
+        },
+        {
+          "t": "2026-09-28T01:11:58.739663+00:00",
+          "ccu": 19,
+          "visits": 6721
+        },
+        {
+          "t": "2026-09-28T07:05:03.437915+00:00",
+          "ccu": 8,
+          "visits": 8150
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 19,
+          "visits": 11207
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 19,
+          "visits": 13670
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 16,
+          "visits": 14981
+        }
+      ],
+      "latest_ccu": 16,
+      "latest_visits": 14981,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.46
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -491,49 +544,6 @@
       "growth_ratio": 1.89
     },
     {
-      "name": "Mini Golf: Wild Fairways",
-      "universeId": "10766357013",
-      "rootPlaceId": 121922799762080,
-      "description": "[Under active development, not all holes done]\n18 holes. One wild mini-golf adventure!\n\nPutt through candy gardens, granite cliffs, glowing caves and a windy airfield. Explore the course on foot, line up your shot and hold to choose your power.\n\nCan you finish under par? Track your round on the scorecard and challenge the Fewest Strokes and Under-Par Time leaderboards.\n\nPlay on phone, tablet or co",
-      "genre": "All",
-      "created": "2026-09-13T19:12:07.7381642Z",
-      "creatorName": "blockblok123",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-27T22:22:17.269247+00:00",
-          "ccu": 18,
-          "visits": 13748
-        },
-        {
-          "t": "2026-09-28T01:11:58.739663+00:00",
-          "ccu": 15,
-          "visits": 14716
-        },
-        {
-          "t": "2026-09-28T07:05:03.437915+00:00",
-          "ccu": 11,
-          "visits": 16063
-        },
-        {
-          "t": "2026-09-28T15:39:14.380946+00:00",
-          "ccu": 21,
-          "visits": 18109
-        },
-        {
-          "t": "2026-09-28T21:23:26.557580+00:00",
-          "ccu": 24,
-          "visits": 20156
-        }
-      ],
-      "latest_ccu": 24,
-      "latest_visits": 20156,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 95.3,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.13
-    },
-    {
       "name": "Zee [TEMP!]",
       "universeId": "10764730172",
       "rootPlaceId": 113476710204306,
@@ -777,49 +787,6 @@
       "growth_ratio": 1.77
     },
     {
-      "name": "Find The Key \ud83d\udddd\ufe0f",
-      "universeId": "10767659751",
-      "rootPlaceId": 73021429982912,
-      "description": "One key. Two thousand possibilities. Search the mysterious Key Vault, pick up numbered keys, test them at the giant lock, and get closer to escape with every failed attempt. Find the one true key, open the door, and escape! \n\nPlayable on phone, tablet, computer, and console.",
-      "genre": "All",
-      "created": "2026-09-22T22:15:41.003Z",
-      "creatorName": "StarMarine614",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-09-27T22:22:17.269247+00:00",
-          "ccu": 10,
-          "visits": 5724
-        },
-        {
-          "t": "2026-09-28T01:11:58.739663+00:00",
-          "ccu": 19,
-          "visits": 6721
-        },
-        {
-          "t": "2026-09-28T07:05:03.437915+00:00",
-          "ccu": 8,
-          "visits": 8150
-        },
-        {
-          "t": "2026-09-28T15:39:14.380946+00:00",
-          "ccu": 19,
-          "visits": 11207
-        },
-        {
-          "t": "2026-09-28T21:23:26.557580+00:00",
-          "ccu": 19,
-          "visits": 13670
-        }
-      ],
-      "latest_ccu": 19,
-      "latest_visits": 13670,
-      "last_seen": "2026-09-28T21:23:26.557580+00:00",
-      "trend_score": 92.3,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.06
-    },
-    {
       "name": "Horde Defenders",
       "universeId": "10766114988",
       "rootPlaceId": 93237333081860,
@@ -964,6 +931,54 @@
       "trend_score": 68.9,
       "trend_label": "mild_upward",
       "growth_ratio": 1.14
+    },
+    {
+      "name": "Mini Golf: Wild Fairways",
+      "universeId": "10766357013",
+      "rootPlaceId": 121922799762080,
+      "description": "[Under active development, not all holes done]\n18 holes. One wild mini-golf adventure!\n\nPutt through candy gardens, granite cliffs, glowing caves and a windy airfield. Explore the course on foot, line up your shot and hold to choose your power.\n\nCan you finish under par? Track your round on the scorecard and challenge the Fewest Strokes and Under-Par Time leaderboards.\n\nPlay on phone, tablet or co",
+      "genre": "All",
+      "created": "2026-09-13T19:12:07.7381642Z",
+      "creatorName": "blockblok123",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-09-27T22:22:17.269247+00:00",
+          "ccu": 18,
+          "visits": 13748
+        },
+        {
+          "t": "2026-09-28T01:11:58.739663+00:00",
+          "ccu": 15,
+          "visits": 14716
+        },
+        {
+          "t": "2026-09-28T07:05:03.437915+00:00",
+          "ccu": 11,
+          "visits": 16063
+        },
+        {
+          "t": "2026-09-28T15:39:14.380946+00:00",
+          "ccu": 21,
+          "visits": 18109
+        },
+        {
+          "t": "2026-09-28T21:23:26.557580+00:00",
+          "ccu": 24,
+          "visits": 20156
+        },
+        {
+          "t": "2026-09-29T01:17:03.577258+00:00",
+          "ccu": 12,
+          "visits": 21609
+        }
+      ],
+      "latest_ccu": 12,
+      "latest_visits": 21609,
+      "last_seen": "2026-09-29T01:17:03.577258+00:00",
+      "trend_score": 67.8,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.3
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",

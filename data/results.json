@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T19:24:56.928696+00:00",
-  "count": 24,
+  "generated_at": "2026-10-01T23:25:57.336394+00:00",
+  "count": 25,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3666,6 +3666,29 @@
       "latest_ccu": 835,
       "latest_visits": 192959,
       "last_seen": "2026-09-26T05:10:32.828114+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "ZHD : Zee",
+      "universeId": "10766161699",
+      "rootPlaceId": 129090683205555,
+      "description": "Official game by ZHD Entertainment.\nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-09-12T15:14:53.71Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-01T23:25:57.336394+00:00",
+          "ccu": 651,
+          "visits": 87354
+        }
+      ],
+      "latest_ccu": 651,
+      "latest_visits": 87354,
+      "last_seen": "2026-10-01T23:25:57.336394+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

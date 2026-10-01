@@ -3667,6 +3667,29 @@
       "trend_score": 19.1,
       "trend_label": "declining",
       "growth_ratio": 0.88
+    },
+    "10766161699": {
+      "name": "ZHD : Zee",
+      "universeId": "10766161699",
+      "rootPlaceId": 129090683205555,
+      "description": "Official game by ZHD Entertainment.\nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-09-12T15:14:53.71Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-01T23:25:57.336394+00:00",
+          "ccu": 651,
+          "visits": 87354
+        }
+      ],
+      "latest_ccu": 651,
+      "latest_visits": 87354,
+      "last_seen": "2026-10-01T23:25:57.336394+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

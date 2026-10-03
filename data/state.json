@@ -3725,11 +3725,39 @@
           "t": "2026-10-03T00:00:57.811109+00:00",
           "ccu": 1588,
           "visits": 96265
+        },
+        {
+          "t": "2026-10-03T05:10:12.478700+00:00",
+          "ccu": 1400,
+          "visits": 118936
         }
       ],
-      "latest_ccu": 1588,
-      "latest_visits": 96265,
-      "last_seen": "2026-10-03T00:00:57.811109+00:00",
+      "latest_ccu": 1400,
+      "latest_visits": 118936,
+      "last_seen": "2026-10-03T05:10:12.478700+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10764913823": {
+      "name": "CAT DEFENSE [Alpha]",
+      "universeId": "10764913823",
+      "rootPlaceId": 118535152903705,
+      "description": "\ud83d\udc31 CATS ARE INVADING THE PLANET! \ud83e\ude90\n\nGrab some shells, load the cannons, and fire away.\ud83d\udca5 Work with your crew, defend the fort, and survive the unstoppable CAT-astrophe!\n\n\ud83d\udd25 FIRE CANNONS\n\ud83d\udc3e DEFEAT ENEMY CATS\n\ud83d\udee1\ufe0f DEFEND THE PLANET\n\nCan you survive the invasion, or will the cats claim your planet? \ud83d\ude3c",
+      "genre": "All",
+      "created": "2026-09-03T00:48:26.406Z",
+      "creatorName": "Company Inc. Incorporated Co.",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T05:10:12.478700+00:00",
+          "ccu": 793,
+          "visits": 184651
+        }
+      ],
+      "latest_ccu": 793,
+      "latest_visits": 184651,
+      "last_seen": "2026-10-03T05:10:12.478700+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

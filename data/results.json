@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:39:01.052906+00:00",
+  "generated_at": "2026-10-03T21:48:16.651704+00:00",
   "count": 31,
   "games": [
     {
@@ -211,14 +211,57 @@
           "t": "2026-10-03T18:39:01.052906+00:00",
           "ccu": 2335,
           "visits": 171855
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 2282,
+          "visits": 192678
         }
       ],
-      "latest_ccu": 2335,
-      "latest_visits": 171855,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
-      "trend_score": 95.7,
+      "latest_ccu": 2282,
+      "latest_visits": 192678,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.14
+      "growth_ratio": 1.63
+    },
+    {
+      "name": "DUCTWORKS",
+      "universeId": "10765951887",
+      "rootPlaceId": 111702513024754,
+      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
+      "genre": "All",
+      "created": "2026-09-10T23:54:30.247Z",
+      "creatorName": "Scaryneff73",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 721,
+          "visits": 48304
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1300,
+          "visits": 63136
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 1560,
+          "visits": 80519
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 1647,
+          "visits": 102441
+        }
+      ],
+      "latest_ccu": 1647,
+      "latest_visits": 102441,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.59
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -3597,6 +3640,44 @@
       "growth_ratio": 0.88
     },
     {
+      "name": "Nuclear Reactor Simulator",
+      "universeId": "10767441669",
+      "rootPlaceId": 76469117685884,
+      "description": "Take control of a nuclear reactor and keep it running. Pull the control rods, balance coolant and turbine output, and meet the city's power demand before the heat gets out of hand.\n\n\u269b\ufe0f Start up the reactor and push it to full power\n\ud83c\udf21\ufe0f Watch temperature and pressure, and hit SCRAM when things go wrong\n\u26a1 Complete power contracts and hold your output steady to earn credits\n\ud83d\udd27 Upgrade coolant pumps, tu",
+      "genre": "All",
+      "created": "2026-09-21T20:05:31.81Z",
+      "creatorName": "Beyond Average",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 637,
+          "visits": 131953
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 775,
+          "visits": 147197
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 715,
+          "visits": 159437
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 463,
+          "visits": 169004
+        }
+      ],
+      "latest_ccu": 463,
+      "latest_visits": 169004,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 3.4,
+      "trend_label": "declining",
+      "growth_ratio": 0.83
+    },
+    {
       "name": "Des Hood [BACK!]",
       "universeId": "10766087405",
       "rootPlaceId": 81172582125264,
@@ -3798,72 +3879,6 @@
       "latest_ccu": 394,
       "latest_visits": 193977,
       "last_seen": "2026-10-03T10:29:27.557421+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Nuclear Reactor Simulator",
-      "universeId": "10767441669",
-      "rootPlaceId": 76469117685884,
-      "description": "Take control of a nuclear reactor and keep it running. Pull the control rods, balance coolant and turbine output, and meet the city's power demand before the heat gets out of hand.\n\n\u269b\ufe0f Start up the reactor and push it to full power\n\ud83c\udf21\ufe0f Watch temperature and pressure, and hit SCRAM when things go wrong\n\u26a1 Complete power contracts and hold your output steady to earn credits\n\ud83d\udd27 Upgrade coolant pumps, tu",
-      "genre": "All",
-      "created": "2026-09-21T20:05:31.81Z",
-      "creatorName": "Beyond Average",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 637,
-          "visits": 131953
-        },
-        {
-          "t": "2026-10-03T14:56:01.091012+00:00",
-          "ccu": 775,
-          "visits": 147197
-        },
-        {
-          "t": "2026-10-03T18:39:01.052906+00:00",
-          "ccu": 715,
-          "visits": 159437
-        }
-      ],
-      "latest_ccu": 715,
-      "latest_visits": 159437,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "DUCTWORKS",
-      "universeId": "10765951887",
-      "rootPlaceId": 111702513024754,
-      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
-      "genre": "All",
-      "created": "2026-09-10T23:54:30.247Z",
-      "creatorName": "Scaryneff73",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 721,
-          "visits": 48304
-        },
-        {
-          "t": "2026-10-03T14:56:01.091012+00:00",
-          "ccu": 1300,
-          "visits": 63136
-        },
-        {
-          "t": "2026-10-03T18:39:01.052906+00:00",
-          "ccu": 1560,
-          "visits": 80519
-        }
-      ],
-      "latest_ccu": 1560,
-      "latest_visits": 80519,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

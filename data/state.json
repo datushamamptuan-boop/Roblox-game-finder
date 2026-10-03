@@ -3745,14 +3745,19 @@
           "t": "2026-10-03T18:39:01.052906+00:00",
           "ccu": 2335,
           "visits": 171855
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 2282,
+          "visits": 192678
         }
       ],
-      "latest_ccu": 2335,
-      "latest_visits": 171855,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
-      "trend_score": 95.7,
+      "latest_ccu": 2282,
+      "latest_visits": 192678,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.14
+      "growth_ratio": 1.63
     },
     "10764913823": {
       "name": "CAT DEFENSE [Alpha]",
@@ -3824,14 +3829,19 @@
           "t": "2026-10-03T18:39:01.052906+00:00",
           "ccu": 715,
           "visits": 159437
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 463,
+          "visits": 169004
         }
       ],
-      "latest_ccu": 715,
-      "latest_visits": 159437,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 463,
+      "latest_visits": 169004,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 3.4,
+      "trend_label": "declining",
+      "growth_ratio": 0.83
     },
     "10765951887": {
       "name": "DUCTWORKS",
@@ -3857,14 +3867,19 @@
           "t": "2026-10-03T18:39:01.052906+00:00",
           "ccu": 1560,
           "visits": 80519
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 1647,
+          "visits": 102441
         }
       ],
-      "latest_ccu": 1560,
-      "latest_visits": 80519,
-      "last_seen": "2026-10-03T18:39:01.052906+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1647,
+      "latest_visits": 102441,
+      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.59
     },
     "10642548584": {
       "name": "Doki Doki Obby Club!",

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T05:10:12.478700+00:00",
-  "count": 27,
+  "generated_at": "2026-10-03T10:29:27.557421+00:00",
+  "count": 30,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3732,11 +3732,16 @@
           "t": "2026-10-03T05:10:12.478700+00:00",
           "ccu": 1400,
           "visits": 118936
+        },
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 960,
+          "visits": 134768
         }
       ],
-      "latest_ccu": 1400,
-      "latest_visits": 118936,
-      "last_seen": "2026-10-03T05:10:12.478700+00:00",
+      "latest_ccu": 960,
+      "latest_visits": 134768,
+      "last_seen": "2026-10-03T10:29:27.557421+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -3760,6 +3765,75 @@
       "latest_ccu": 793,
       "latest_visits": 184651,
       "last_seen": "2026-10-03T05:10:12.478700+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[VC\ud83d\udd0a] Scam With Your Friends",
+      "universeId": "10766502612",
+      "rootPlaceId": 93539470484676,
+      "description": "Scam your friends. Make money. Don\u2019t get caught. \ud83d\udcb8\n\n\ud83e\udd11 Pull off ridiculous scams with your friends\n\ud83c\udfad Trick NPCs and convince them to hand over their cash\n\ud83d\udcbc Complete quests and DON'T GET CAUGHT!.\n\ud83d\udcb0 Earn money and upgrade your scamming gear\n\ud83c\udfe0 Unlock new locations, tools, and opportunities [SOON]\n\ud83d\udea8 Avoid getting raided, caught, or FIRED!\n\n\ud83d\udd25 The more money you make, the crazier and riskier the scams be",
+      "genre": "All",
+      "created": "2026-09-15T00:54:22.017Z",
+      "creatorName": "DO NOT REDEEM IT",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 394,
+          "visits": 193977
+        }
+      ],
+      "latest_ccu": 394,
+      "latest_visits": 193977,
+      "last_seen": "2026-10-03T10:29:27.557421+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Nuclear Reactor Simulator",
+      "universeId": "10767441669",
+      "rootPlaceId": 76469117685884,
+      "description": "Take control of a nuclear reactor and keep it running. Pull the control rods, balance coolant and turbine output, and meet the city's power demand before the heat gets out of hand.\n\n\u269b\ufe0f Start up the reactor and push it to full power\n\ud83c\udf21\ufe0f Watch temperature and pressure, and hit SCRAM when things go wrong\n\u26a1 Complete power contracts and hold your output steady to earn credits\n\ud83d\udd27 Upgrade coolant pumps, tu",
+      "genre": "All",
+      "created": "2026-09-21T20:05:31.81Z",
+      "creatorName": "Beyond Average",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 637,
+          "visits": 131953
+        }
+      ],
+      "latest_ccu": 637,
+      "latest_visits": 131953,
+      "last_seen": "2026-10-03T10:29:27.557421+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "DUCTWORKS",
+      "universeId": "10765951887",
+      "rootPlaceId": 111702513024754,
+      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
+      "genre": "All",
+      "created": "2026-09-10T23:54:30.247Z",
+      "creatorName": "Scaryneff73",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 721,
+          "visits": 48304
+        }
+      ],
+      "latest_ccu": 721,
+      "latest_visits": 48304,
+      "last_seen": "2026-10-03T10:29:27.557421+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

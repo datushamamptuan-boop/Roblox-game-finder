@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T14:56:01.091012+00:00",
+  "generated_at": "2026-10-03T18:39:01.052906+00:00",
   "count": 31,
   "games": [
     {
@@ -176,6 +176,49 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.54
+    },
+    {
+      "name": "Roria Unbound",
+      "universeId": "10768793612",
+      "rootPlaceId": 114964303408145,
+      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
+      "genre": "Adventure",
+      "created": "2026-10-01T00:05:09.975Z",
+      "creatorName": "ReCreatives Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T00:00:57.811109+00:00",
+          "ccu": 1588,
+          "visits": 96265
+        },
+        {
+          "t": "2026-10-03T05:10:12.478700+00:00",
+          "ccu": 1400,
+          "visits": 118936
+        },
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 960,
+          "visits": 134768
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1824,
+          "visits": 151024
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 2335,
+          "visits": 171855
+        }
+      ],
+      "latest_ccu": 2335,
+      "latest_visits": 171855,
+      "last_seen": "2026-10-03T18:39:01.052906+00:00",
+      "trend_score": 95.7,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.14
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -2255,44 +2298,6 @@
       "growth_ratio": 1.11
     },
     {
-      "name": "Roria Unbound",
-      "universeId": "10768793612",
-      "rootPlaceId": 114964303408145,
-      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
-      "genre": "Adventure",
-      "created": "2026-10-01T00:05:09.975Z",
-      "creatorName": "ReCreatives Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-03T00:00:57.811109+00:00",
-          "ccu": 1588,
-          "visits": 96265
-        },
-        {
-          "t": "2026-10-03T05:10:12.478700+00:00",
-          "ccu": 1400,
-          "visits": 118936
-        },
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 960,
-          "visits": 134768
-        },
-        {
-          "t": "2026-10-03T14:56:01.091012+00:00",
-          "ccu": 1824,
-          "visits": 151024
-        }
-      ],
-      "latest_ccu": 1824,
-      "latest_visits": 151024,
-      "last_seen": "2026-10-03T14:56:01.091012+00:00",
-      "trend_score": 56.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 0.93
-    },
-    {
       "name": "Dropshipping Tycoon",
       "universeId": "10666108087",
       "rootPlaceId": 139186643787547,
@@ -3816,11 +3821,16 @@
           "t": "2026-10-03T14:56:01.091012+00:00",
           "ccu": 775,
           "visits": 147197
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 715,
+          "visits": 159437
         }
       ],
-      "latest_ccu": 775,
-      "latest_visits": 147197,
-      "last_seen": "2026-10-03T14:56:01.091012+00:00",
+      "latest_ccu": 715,
+      "latest_visits": 159437,
+      "last_seen": "2026-10-03T18:39:01.052906+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -3844,11 +3854,16 @@
           "t": "2026-10-03T14:56:01.091012+00:00",
           "ccu": 1300,
           "visits": 63136
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 1560,
+          "visits": 80519
         }
       ],
-      "latest_ccu": 1300,
-      "latest_visits": 63136,
-      "last_seen": "2026-10-03T14:56:01.091012+00:00",
+      "latest_ccu": 1560,
+      "latest_visits": 80519,
+      "last_seen": "2026-10-03T18:39:01.052906+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -3867,11 +3882,16 @@
           "t": "2026-10-03T14:56:01.091012+00:00",
           "ccu": 1193,
           "visits": 171005
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 1349,
+          "visits": 197715
         }
       ],
-      "latest_ccu": 1193,
-      "latest_visits": 171005,
-      "last_seen": "2026-10-03T14:56:01.091012+00:00",
+      "latest_ccu": 1349,
+      "latest_visits": 197715,
+      "last_seen": "2026-10-03T18:39:01.052906+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -3710,6 +3710,29 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.54
+    },
+    "10768793612": {
+      "name": "Roria Unbound",
+      "universeId": "10768793612",
+      "rootPlaceId": 114964303408145,
+      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
+      "genre": "Adventure",
+      "created": "2026-10-01T00:05:09.975Z",
+      "creatorName": "ReCreatives Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T00:00:57.811109+00:00",
+          "ccu": 1588,
+          "visits": 96265
+        }
+      ],
+      "latest_ccu": 1588,
+      "latest_visits": 96265,
+      "last_seen": "2026-10-03T00:00:57.811109+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

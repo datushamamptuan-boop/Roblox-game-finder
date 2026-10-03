@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-02T20:36:28.183011+00:00",
-  "count": 25,
+  "generated_at": "2026-10-03T00:00:57.811109+00:00",
+  "count": 26,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -3709,6 +3709,29 @@
       "latest_ccu": 835,
       "latest_visits": 192959,
       "last_seen": "2026-09-26T05:10:32.828114+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Roria Unbound",
+      "universeId": "10768793612",
+      "rootPlaceId": 114964303408145,
+      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
+      "genre": "Adventure",
+      "created": "2026-10-01T00:05:09.975Z",
+      "creatorName": "ReCreatives Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T00:00:57.811109+00:00",
+          "ccu": 1588,
+          "visits": 96265
+        }
+      ],
+      "latest_ccu": 1588,
+      "latest_visits": 96265,
+      "last_seen": "2026-10-03T00:00:57.811109+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

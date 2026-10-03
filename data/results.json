@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T10:29:27.557421+00:00",
-  "count": 30,
+  "generated_at": "2026-10-03T14:56:01.091012+00:00",
+  "count": 31,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -2255,6 +2255,44 @@
       "growth_ratio": 1.11
     },
     {
+      "name": "Roria Unbound",
+      "universeId": "10768793612",
+      "rootPlaceId": 114964303408145,
+      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
+      "genre": "Adventure",
+      "created": "2026-10-01T00:05:09.975Z",
+      "creatorName": "ReCreatives Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-03T00:00:57.811109+00:00",
+          "ccu": 1588,
+          "visits": 96265
+        },
+        {
+          "t": "2026-10-03T05:10:12.478700+00:00",
+          "ccu": 1400,
+          "visits": 118936
+        },
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 960,
+          "visits": 134768
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1824,
+          "visits": 151024
+        }
+      ],
+      "latest_ccu": 1824,
+      "latest_visits": 151024,
+      "last_seen": "2026-10-03T14:56:01.091012+00:00",
+      "trend_score": 56.6,
+      "trend_label": "mild_upward",
+      "growth_ratio": 0.93
+    },
+    {
       "name": "Dropshipping Tycoon",
       "universeId": "10666108087",
       "rootPlaceId": 139186643787547,
@@ -3714,39 +3752,6 @@
       "growth_ratio": null
     },
     {
-      "name": "Roria Unbound",
-      "universeId": "10768793612",
-      "rootPlaceId": 114964303408145,
-      "description": "The adventure currently leads up to just past the 8th gym. Note that you will not be able to trade or battle with other players UNTIL you beat the first gym.\n\nIntroducing: Co-op\nTeam up with a friend and play through the adventure together. Pair up, explore the same world, take on wild encounters and trainers side by side, and share the story as it happens.\n\nIntroducing: Custom Modes\nYou can now b",
-      "genre": "Adventure",
-      "created": "2026-10-01T00:05:09.975Z",
-      "creatorName": "ReCreatives Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-03T00:00:57.811109+00:00",
-          "ccu": 1588,
-          "visits": 96265
-        },
-        {
-          "t": "2026-10-03T05:10:12.478700+00:00",
-          "ccu": 1400,
-          "visits": 118936
-        },
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 960,
-          "visits": 134768
-        }
-      ],
-      "latest_ccu": 960,
-      "latest_visits": 134768,
-      "last_seen": "2026-10-03T10:29:27.557421+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "CAT DEFENSE [Alpha]",
       "universeId": "10764913823",
       "rootPlaceId": 118535152903705,
@@ -3806,11 +3811,16 @@
           "t": "2026-10-03T10:29:27.557421+00:00",
           "ccu": 637,
           "visits": 131953
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 775,
+          "visits": 147197
         }
       ],
-      "latest_ccu": 637,
-      "latest_visits": 131953,
-      "last_seen": "2026-10-03T10:29:27.557421+00:00",
+      "latest_ccu": 775,
+      "latest_visits": 147197,
+      "last_seen": "2026-10-03T14:56:01.091012+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -3829,11 +3839,39 @@
           "t": "2026-10-03T10:29:27.557421+00:00",
           "ccu": 721,
           "visits": 48304
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1300,
+          "visits": 63136
         }
       ],
-      "latest_ccu": 721,
-      "latest_visits": 48304,
-      "last_seen": "2026-10-03T10:29:27.557421+00:00",
+      "latest_ccu": 1300,
+      "latest_visits": 63136,
+      "last_seen": "2026-10-03T14:56:01.091012+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Doki Doki Obby Club!",
+      "universeId": "10642548584",
+      "rootPlaceId": 130163005224846,
+      "description": "Doki Doki Obby Club! is an interactive experience that is fun for all ages, where you live the perfectly normal life of a high school student and the interactions with their classmates, all while traversing an engaging, but not overly challenging obstacle course.\n\nBuy stuff from the shop with your Dokins that you gain from completing stages such as items, trails, and morphs.\nUnlock badges by playi",
+      "genre": "All",
+      "created": "2026-08-06T16:06:16.616Z",
+      "creatorName": "7ikut",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1193,
+          "visits": 171005
+        }
+      ],
+      "latest_ccu": 1193,
+      "latest_visits": 171005,
+      "last_seen": "2026-10-03T14:56:01.091012+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

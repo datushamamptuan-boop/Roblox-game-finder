@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:27:11.177749+00:00",
+  "generated_at": "2026-10-04T23:37:05.187102+00:00",
   "count": 33,
   "games": [
     {
@@ -3973,11 +3973,16 @@
           "t": "2026-10-04T20:27:11.177749+00:00",
           "ccu": 687,
           "visits": 83892
+        },
+        {
+          "t": "2026-10-04T23:37:05.187102+00:00",
+          "ccu": 430,
+          "visits": 94484
         }
       ],
-      "latest_ccu": 687,
-      "latest_visits": 83892,
-      "last_seen": "2026-10-04T20:27:11.177749+00:00",
+      "latest_ccu": 430,
+      "latest_visits": 94484,
+      "last_seen": "2026-10-04T23:37:05.187102+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

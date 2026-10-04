@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:22:28.117635+00:00",
+  "generated_at": "2026-10-04T12:51:58.400498+00:00",
   "count": 32,
   "games": [
     {
@@ -792,54 +792,6 @@
       "growth_ratio": 1.77
     },
     {
-      "name": "DUCTWORKS",
-      "universeId": "10765951887",
-      "rootPlaceId": 111702513024754,
-      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
-      "genre": "All",
-      "created": "2026-09-10T23:54:30.247Z",
-      "creatorName": "Scaryneff73",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 721,
-          "visits": 48304
-        },
-        {
-          "t": "2026-10-03T14:56:01.091012+00:00",
-          "ccu": 1300,
-          "visits": 63136
-        },
-        {
-          "t": "2026-10-03T18:39:01.052906+00:00",
-          "ccu": 1560,
-          "visits": 80519
-        },
-        {
-          "t": "2026-10-03T21:48:16.651704+00:00",
-          "ccu": 1647,
-          "visits": 102441
-        },
-        {
-          "t": "2026-10-04T00:28:06.890784+00:00",
-          "ccu": 1322,
-          "visits": 115392
-        },
-        {
-          "t": "2026-10-04T06:22:28.117635+00:00",
-          "ccu": 1115,
-          "visits": 135828
-        }
-      ],
-      "latest_ccu": 1115,
-      "latest_visits": 135828,
-      "last_seen": "2026-10-04T06:22:28.117635+00:00",
-      "trend_score": 79.4,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.14
-    },
-    {
       "name": "Horde Defenders",
       "universeId": "10766114988",
       "rootPlaceId": 93237333081860,
@@ -896,6 +848,59 @@
       "trend_score": 78.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
+    },
+    {
+      "name": "DUCTWORKS",
+      "universeId": "10765951887",
+      "rootPlaceId": 111702513024754,
+      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
+      "genre": "All",
+      "created": "2026-09-10T23:54:30.247Z",
+      "creatorName": "Scaryneff73",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 721,
+          "visits": 48304
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1300,
+          "visits": 63136
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 1560,
+          "visits": 80519
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 1647,
+          "visits": 102441
+        },
+        {
+          "t": "2026-10-04T00:28:06.890784+00:00",
+          "ccu": 1322,
+          "visits": 115392
+        },
+        {
+          "t": "2026-10-04T06:22:28.117635+00:00",
+          "ccu": 1115,
+          "visits": 135828
+        },
+        {
+          "t": "2026-10-04T12:51:58.400498+00:00",
+          "ccu": 1462,
+          "visits": 159317
+        }
+      ],
+      "latest_ccu": 1462,
+      "latest_visits": 159317,
+      "last_seen": "2026-10-04T12:51:58.400498+00:00",
+      "trend_score": 78.6,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.16
     },
     {
       "name": "Weather Sandbox",

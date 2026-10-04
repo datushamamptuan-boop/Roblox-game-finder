@@ -3887,14 +3887,19 @@
           "t": "2026-10-04T06:22:28.117635+00:00",
           "ccu": 1115,
           "visits": 135828
+        },
+        {
+          "t": "2026-10-04T12:51:58.400498+00:00",
+          "ccu": 1462,
+          "visits": 159317
         }
       ],
-      "latest_ccu": 1115,
-      "latest_visits": 135828,
-      "last_seen": "2026-10-04T06:22:28.117635+00:00",
-      "trend_score": 79.4,
+      "latest_ccu": 1462,
+      "latest_visits": 159317,
+      "last_seen": "2026-10-04T12:51:58.400498+00:00",
+      "trend_score": 78.6,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.14
+      "growth_ratio": 1.16
     },
     "10642548584": {
       "name": "Doki Doki Obby Club!",

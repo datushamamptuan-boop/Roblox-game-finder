@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T00:28:06.890784+00:00",
-  "count": 31,
+  "generated_at": "2026-10-04T06:22:28.117635+00:00",
+  "count": 32,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -224,49 +224,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.63
-    },
-    {
-      "name": "DUCTWORKS",
-      "universeId": "10765951887",
-      "rootPlaceId": 111702513024754,
-      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
-      "genre": "All",
-      "created": "2026-09-10T23:54:30.247Z",
-      "creatorName": "Scaryneff73",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-03T10:29:27.557421+00:00",
-          "ccu": 721,
-          "visits": 48304
-        },
-        {
-          "t": "2026-10-03T14:56:01.091012+00:00",
-          "ccu": 1300,
-          "visits": 63136
-        },
-        {
-          "t": "2026-10-03T18:39:01.052906+00:00",
-          "ccu": 1560,
-          "visits": 80519
-        },
-        {
-          "t": "2026-10-03T21:48:16.651704+00:00",
-          "ccu": 1647,
-          "visits": 102441
-        },
-        {
-          "t": "2026-10-04T00:28:06.890784+00:00",
-          "ccu": 1322,
-          "visits": 115392
-        }
-      ],
-      "latest_ccu": 1322,
-      "latest_visits": 115392,
-      "last_seen": "2026-10-04T00:28:06.890784+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.49
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -833,6 +790,54 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "DUCTWORKS",
+      "universeId": "10765951887",
+      "rootPlaceId": 111702513024754,
+      "description": "House music, coffee, and all the airducts you need to live your larp life.  \nControls on the bottom of the screen.  \nMore updates soon to come.  \n\n\n\nTags:\nAirducts, Air simulator, Air condition, Air physics, Piping, HVAC",
+      "genre": "All",
+      "created": "2026-09-10T23:54:30.247Z",
+      "creatorName": "Scaryneff73",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-03T10:29:27.557421+00:00",
+          "ccu": 721,
+          "visits": 48304
+        },
+        {
+          "t": "2026-10-03T14:56:01.091012+00:00",
+          "ccu": 1300,
+          "visits": 63136
+        },
+        {
+          "t": "2026-10-03T18:39:01.052906+00:00",
+          "ccu": 1560,
+          "visits": 80519
+        },
+        {
+          "t": "2026-10-03T21:48:16.651704+00:00",
+          "ccu": 1647,
+          "visits": 102441
+        },
+        {
+          "t": "2026-10-04T00:28:06.890784+00:00",
+          "ccu": 1322,
+          "visits": 115392
+        },
+        {
+          "t": "2026-10-04T06:22:28.117635+00:00",
+          "ccu": 1115,
+          "visits": 135828
+        }
+      ],
+      "latest_ccu": 1115,
+      "latest_visits": 135828,
+      "last_seen": "2026-10-04T06:22:28.117635+00:00",
+      "trend_score": 79.4,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.14
     },
     {
       "name": "Horde Defenders",
@@ -3917,6 +3922,29 @@
       "latest_ccu": 1349,
       "latest_visits": 197715,
       "last_seen": "2026-10-03T18:39:01.052906+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83d\udd28UPD] \ud83d\udcf1 Build a Phone Empire",
+      "universeId": "10767582899",
+      "rootPlaceId": 101914705206759,
+      "description": "\ud83d\udcf1 Start in a garage in 2007 and build the biggest phone company in the world.\n\n\ud83c\udfa8 DESIGN every device yourself: screen size, cameras, corners, buttons, colour, finish and logo. Pick the parts, set the price and hand it to your team.\n\n\ud83c\udfd7\ufe0f BUILD your office your way: walls, doors, floors, paint, desks and decorations, from a garage to a Headquarters.\n\n\ud83d\udc65 HIRE a team. Your Roblox friends show up as cand",
+      "genre": "All",
+      "created": "2026-09-22T10:04:15.9209402Z",
+      "creatorName": "DEVTEC STUDIOS",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T06:22:28.117635+00:00",
+          "ccu": 2250,
+          "visits": 162824
+        }
+      ],
+      "latest_ccu": 2250,
+      "latest_visits": 162824,
+      "last_seen": "2026-10-04T06:22:28.117635+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -3882,14 +3882,19 @@
           "t": "2026-10-04T00:28:06.890784+00:00",
           "ccu": 1322,
           "visits": 115392
+        },
+        {
+          "t": "2026-10-04T06:22:28.117635+00:00",
+          "ccu": 1115,
+          "visits": 135828
         }
       ],
-      "latest_ccu": 1322,
-      "latest_visits": 115392,
-      "last_seen": "2026-10-04T00:28:06.890784+00:00",
-      "trend_score": 100,
+      "latest_ccu": 1115,
+      "latest_visits": 135828,
+      "last_seen": "2026-10-04T06:22:28.117635+00:00",
+      "trend_score": 79.4,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.49
+      "growth_ratio": 1.14
     },
     "10642548584": {
       "name": "Doki Doki Obby Club!",
@@ -3915,6 +3920,29 @@
       "latest_ccu": 1349,
       "latest_visits": 197715,
       "last_seen": "2026-10-03T18:39:01.052906+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10767582899": {
+      "name": "[\ud83d\udd28UPD] \ud83d\udcf1 Build a Phone Empire",
+      "universeId": "10767582899",
+      "rootPlaceId": 101914705206759,
+      "description": "\ud83d\udcf1 Start in a garage in 2007 and build the biggest phone company in the world.\n\n\ud83c\udfa8 DESIGN every device yourself: screen size, cameras, corners, buttons, colour, finish and logo. Pick the parts, set the price and hand it to your team.\n\n\ud83c\udfd7\ufe0f BUILD your office your way: walls, doors, floors, paint, desks and decorations, from a garage to a Headquarters.\n\n\ud83d\udc65 HIRE a team. Your Roblox friends show up as cand",
+      "genre": "All",
+      "created": "2026-09-22T10:04:15.9209402Z",
+      "creatorName": "DEVTEC STUDIOS",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T06:22:28.117635+00:00",
+          "ccu": 2250,
+          "visits": 162824
+        }
+      ],
+      "latest_ccu": 2250,
+      "latest_visits": 162824,
+      "last_seen": "2026-10-04T06:22:28.117635+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

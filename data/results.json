@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T21:48:16.651704+00:00",
+  "generated_at": "2026-10-04T00:28:06.890784+00:00",
   "count": 31,
   "games": [
     {
@@ -254,14 +254,19 @@
           "t": "2026-10-03T21:48:16.651704+00:00",
           "ccu": 1647,
           "visits": 102441
+        },
+        {
+          "t": "2026-10-04T00:28:06.890784+00:00",
+          "ccu": 1322,
+          "visits": 115392
         }
       ],
-      "latest_ccu": 1647,
-      "latest_visits": 102441,
-      "last_seen": "2026-10-03T21:48:16.651704+00:00",
+      "latest_ccu": 1322,
+      "latest_visits": 115392,
+      "last_seen": "2026-10-04T00:28:06.890784+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.59
+      "growth_ratio": 1.49
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -3668,14 +3673,19 @@
           "t": "2026-10-03T21:48:16.651704+00:00",
           "ccu": 463,
           "visits": 169004
+        },
+        {
+          "t": "2026-10-04T00:28:06.890784+00:00",
+          "ccu": 465,
+          "visits": 175346
         }
       ],
-      "latest_ccu": 463,
-      "latest_visits": 169004,
-      "last_seen": "2026-10-03T21:48:16.651704+00:00",
-      "trend_score": 3.4,
+      "latest_ccu": 465,
+      "latest_visits": 175346,
+      "last_seen": "2026-10-04T00:28:06.890784+00:00",
+      "trend_score": 1.0,
       "trend_label": "declining",
-      "growth_ratio": 0.83
+      "growth_ratio": 0.78
     },
     {
       "name": "Des Hood [BACK!]",

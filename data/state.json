@@ -3981,14 +3981,19 @@
           "t": "2026-10-05T02:25:17.723648+00:00",
           "ccu": 467,
           "visits": 101759
+        },
+        {
+          "t": "2026-10-05T09:37:17.215039+00:00",
+          "ccu": 159,
+          "visits": 112340
         }
       ],
-      "latest_ccu": 467,
-      "latest_visits": 101759,
-      "last_seen": "2026-10-05T02:25:17.723648+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 159,
+      "latest_visits": 112340,
+      "last_seen": "2026-10-05T09:37:17.215039+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.56
     }
   }
 }

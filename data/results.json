@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:25:17.723648+00:00",
+  "generated_at": "2026-10-05T09:37:17.215039+00:00",
   "count": 33,
   "games": [
     {
@@ -3794,6 +3794,44 @@
       "growth_ratio": 0.54
     },
     {
+      "name": "Zee [ZHD!]",
+      "universeId": "10750223358",
+      "rootPlaceId": 138014591158268,
+      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-08-21T19:51:44.192Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T20:27:11.177749+00:00",
+          "ccu": 687,
+          "visits": 83892
+        },
+        {
+          "t": "2026-10-04T23:37:05.187102+00:00",
+          "ccu": 430,
+          "visits": 94484
+        },
+        {
+          "t": "2026-10-05T02:25:17.723648+00:00",
+          "ccu": 467,
+          "visits": 101759
+        },
+        {
+          "t": "2026-10-05T09:37:17.215039+00:00",
+          "ccu": 159,
+          "visits": 112340
+        }
+      ],
+      "latest_ccu": 159,
+      "latest_visits": 112340,
+      "last_seen": "2026-10-05T09:37:17.215039+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.56
+    },
+    {
       "name": "The Cosalazo 2 ",
       "universeId": "10739137760",
       "rootPlaceId": 133473642879498,
@@ -3955,39 +3993,6 @@
       "latest_ccu": 2250,
       "latest_visits": 162824,
       "last_seen": "2026-10-04T06:22:28.117635+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Zee [ZHD!]",
-      "universeId": "10750223358",
-      "rootPlaceId": 138014591158268,
-      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
-      "genre": "All",
-      "created": "2026-08-21T19:51:44.192Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-04T20:27:11.177749+00:00",
-          "ccu": 687,
-          "visits": 83892
-        },
-        {
-          "t": "2026-10-04T23:37:05.187102+00:00",
-          "ccu": 430,
-          "visits": 94484
-        },
-        {
-          "t": "2026-10-05T02:25:17.723648+00:00",
-          "ccu": 467,
-          "visits": 101759
-        }
-      ],
-      "latest_ccu": 467,
-      "latest_visits": 101759,
-      "last_seen": "2026-10-05T02:25:17.723648+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:29:00.658456+00:00",
+  "generated_at": "2026-10-06T19:50:28.224085+00:00",
   "count": 35,
   "games": [
     {
@@ -3602,6 +3602,69 @@
       "growth_ratio": 0.86
     },
     {
+      "name": "Zee [ZHD!]",
+      "universeId": "10750223358",
+      "rootPlaceId": 138014591158268,
+      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-08-21T19:51:44.192Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T20:27:11.177749+00:00",
+          "ccu": 687,
+          "visits": 83892
+        },
+        {
+          "t": "2026-10-04T23:37:05.187102+00:00",
+          "ccu": 430,
+          "visits": 94484
+        },
+        {
+          "t": "2026-10-05T02:25:17.723648+00:00",
+          "ccu": 467,
+          "visits": 101759
+        },
+        {
+          "t": "2026-10-05T09:37:17.215039+00:00",
+          "ccu": 159,
+          "visits": 112340
+        },
+        {
+          "t": "2026-10-05T18:51:13.934810+00:00",
+          "ccu": 447,
+          "visits": 124345
+        },
+        {
+          "t": "2026-10-06T00:44:15.776620+00:00",
+          "ccu": 495,
+          "visits": 138985
+        },
+        {
+          "t": "2026-10-06T07:26:31.021626+00:00",
+          "ccu": 232,
+          "visits": 152145
+        },
+        {
+          "t": "2026-10-06T14:29:00.658456+00:00",
+          "ccu": 270,
+          "visits": 159081
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 520,
+          "visits": 169536
+        }
+      ],
+      "latest_ccu": 520,
+      "latest_visits": 169536,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
+      "trend_score": 20.1,
+      "trend_label": "declining",
+      "growth_ratio": 0.9
+    },
+    {
       "name": "Find The Key \ud83d\udddd\ufe0f",
       "universeId": "10767659751",
       "rootPlaceId": 73021429982912,
@@ -3658,64 +3721,6 @@
       "trend_score": 19.1,
       "trend_label": "declining",
       "growth_ratio": 0.88
-    },
-    {
-      "name": "Zee [ZHD!]",
-      "universeId": "10750223358",
-      "rootPlaceId": 138014591158268,
-      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
-      "genre": "All",
-      "created": "2026-08-21T19:51:44.192Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-04T20:27:11.177749+00:00",
-          "ccu": 687,
-          "visits": 83892
-        },
-        {
-          "t": "2026-10-04T23:37:05.187102+00:00",
-          "ccu": 430,
-          "visits": 94484
-        },
-        {
-          "t": "2026-10-05T02:25:17.723648+00:00",
-          "ccu": 467,
-          "visits": 101759
-        },
-        {
-          "t": "2026-10-05T09:37:17.215039+00:00",
-          "ccu": 159,
-          "visits": 112340
-        },
-        {
-          "t": "2026-10-05T18:51:13.934810+00:00",
-          "ccu": 447,
-          "visits": 124345
-        },
-        {
-          "t": "2026-10-06T00:44:15.776620+00:00",
-          "ccu": 495,
-          "visits": 138985
-        },
-        {
-          "t": "2026-10-06T07:26:31.021626+00:00",
-          "ccu": 232,
-          "visits": 152145
-        },
-        {
-          "t": "2026-10-06T14:29:00.658456+00:00",
-          "ccu": 270,
-          "visits": 159081
-        }
-      ],
-      "latest_ccu": 270,
-      "latest_visits": 159081,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
-      "trend_score": 3.1,
-      "trend_label": "declining",
-      "growth_ratio": 0.83
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -4036,11 +4041,16 @@
           "t": "2026-10-06T14:29:00.658456+00:00",
           "ccu": 200,
           "visits": 103061
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 393,
+          "visits": 110216
         }
       ],
-      "latest_ccu": 200,
-      "latest_visits": 103061,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
+      "latest_ccu": 393,
+      "latest_visits": 110216,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4064,11 +4074,16 @@
           "t": "2026-10-06T14:29:00.658456+00:00",
           "ccu": 401,
           "visits": 157267
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 467,
+          "visits": 165878
         }
       ],
-      "latest_ccu": 401,
-      "latest_visits": 157267,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
+      "latest_ccu": 467,
+      "latest_visits": 165878,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

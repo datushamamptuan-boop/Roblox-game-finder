@@ -4006,14 +4006,19 @@
           "t": "2026-10-06T14:29:00.658456+00:00",
           "ccu": 270,
           "visits": 159081
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 520,
+          "visits": 169536
         }
       ],
-      "latest_ccu": 270,
-      "latest_visits": 159081,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
-      "trend_score": 3.1,
+      "latest_ccu": 520,
+      "latest_visits": 169536,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
+      "trend_score": 20.1,
       "trend_label": "declining",
-      "growth_ratio": 0.83
+      "growth_ratio": 0.9
     },
     "10768082964": {
       "name": "Crack Verity",
@@ -4034,11 +4039,16 @@
           "t": "2026-10-06T14:29:00.658456+00:00",
           "ccu": 200,
           "visits": 103061
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 393,
+          "visits": 110216
         }
       ],
-      "latest_ccu": 200,
-      "latest_visits": 103061,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
+      "latest_ccu": 393,
+      "latest_visits": 110216,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4062,11 +4072,16 @@
           "t": "2026-10-06T14:29:00.658456+00:00",
           "ccu": 401,
           "visits": 157267
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 467,
+          "visits": 165878
         }
       ],
-      "latest_ccu": 401,
-      "latest_visits": 157267,
-      "last_seen": "2026-10-06T14:29:00.658456+00:00",
+      "latest_ccu": 467,
+      "latest_visits": 165878,
+      "last_seen": "2026-10-06T19:50:28.224085+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

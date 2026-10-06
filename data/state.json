@@ -4011,14 +4011,19 @@
           "t": "2026-10-06T19:50:28.224085+00:00",
           "ccu": 520,
           "visits": 169536
+        },
+        {
+          "t": "2026-10-06T23:44:11.314766+00:00",
+          "ccu": 527,
+          "visits": 179355
         }
       ],
-      "latest_ccu": 520,
-      "latest_visits": 169536,
-      "last_seen": "2026-10-06T19:50:28.224085+00:00",
-      "trend_score": 20.1,
-      "trend_label": "declining",
-      "growth_ratio": 0.9
+      "latest_ccu": 527,
+      "latest_visits": 179355,
+      "last_seen": "2026-10-06T23:44:11.314766+00:00",
+      "trend_score": 36.4,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.93
     },
     "10768082964": {
       "name": "Crack Verity",
@@ -4044,14 +4049,19 @@
           "t": "2026-10-06T19:50:28.224085+00:00",
           "ccu": 393,
           "visits": 110216
+        },
+        {
+          "t": "2026-10-06T23:44:11.314766+00:00",
+          "ccu": 738,
+          "visits": 120761
         }
       ],
-      "latest_ccu": 393,
-      "latest_visits": 110216,
-      "last_seen": "2026-10-06T19:50:28.224085+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 738,
+      "latest_visits": 120761,
+      "last_seen": "2026-10-06T23:44:11.314766+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 3.29
     },
     "10766057873": {
       "name": "[BETA] drive home",

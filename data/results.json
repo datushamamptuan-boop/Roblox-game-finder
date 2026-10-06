@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:50:28.224085+00:00",
+  "generated_at": "2026-10-06T23:44:11.314766+00:00",
   "count": 35,
   "games": [
     {
@@ -224,6 +224,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.63
+    },
+    {
+      "name": "Crack Verity",
+      "universeId": "10768082964",
+      "rootPlaceId": 88507106847442,
+      "description": "\ud83e\udd5a CRACK VERITY \ud83d\udd28\n\nSomething is in the lab. It is yellow. It is round. It will not stop talking.\n\nGrab up to 3 friends, grab a hammer, and do what science demands: crack him open. Layer by layer. Shard by shard. We don't know what's inside. HR says we're not allowed to ask.",
+      "genre": "All",
+      "created": "2026-09-26T05:30:29.021Z",
+      "creatorName": "RIVET Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-06T07:26:31.021626+00:00",
+          "ccu": 144,
+          "visits": 97809
+        },
+        {
+          "t": "2026-10-06T14:29:00.658456+00:00",
+          "ccu": 200,
+          "visits": 103061
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 393,
+          "visits": 110216
+        },
+        {
+          "t": "2026-10-06T23:44:11.314766+00:00",
+          "ccu": 738,
+          "visits": 120761
+        }
+      ],
+      "latest_ccu": 738,
+      "latest_visits": 120761,
+      "last_seen": "2026-10-06T23:44:11.314766+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 3.29
     },
     {
       "name": "DUCTWORKS",
@@ -3038,6 +3076,74 @@
       "growth_ratio": 0.96
     },
     {
+      "name": "Zee [ZHD!]",
+      "universeId": "10750223358",
+      "rootPlaceId": 138014591158268,
+      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-08-21T19:51:44.192Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T20:27:11.177749+00:00",
+          "ccu": 687,
+          "visits": 83892
+        },
+        {
+          "t": "2026-10-04T23:37:05.187102+00:00",
+          "ccu": 430,
+          "visits": 94484
+        },
+        {
+          "t": "2026-10-05T02:25:17.723648+00:00",
+          "ccu": 467,
+          "visits": 101759
+        },
+        {
+          "t": "2026-10-05T09:37:17.215039+00:00",
+          "ccu": 159,
+          "visits": 112340
+        },
+        {
+          "t": "2026-10-05T18:51:13.934810+00:00",
+          "ccu": 447,
+          "visits": 124345
+        },
+        {
+          "t": "2026-10-06T00:44:15.776620+00:00",
+          "ccu": 495,
+          "visits": 138985
+        },
+        {
+          "t": "2026-10-06T07:26:31.021626+00:00",
+          "ccu": 232,
+          "visits": 152145
+        },
+        {
+          "t": "2026-10-06T14:29:00.658456+00:00",
+          "ccu": 270,
+          "visits": 159081
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 520,
+          "visits": 169536
+        },
+        {
+          "t": "2026-10-06T23:44:11.314766+00:00",
+          "ccu": 527,
+          "visits": 179355
+        }
+      ],
+      "latest_ccu": 527,
+      "latest_visits": 179355,
+      "last_seen": "2026-10-06T23:44:11.314766+00:00",
+      "trend_score": 36.4,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.93
+    },
+    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -3602,69 +3708,6 @@
       "growth_ratio": 0.86
     },
     {
-      "name": "Zee [ZHD!]",
-      "universeId": "10750223358",
-      "rootPlaceId": 138014591158268,
-      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
-      "genre": "All",
-      "created": "2026-08-21T19:51:44.192Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-04T20:27:11.177749+00:00",
-          "ccu": 687,
-          "visits": 83892
-        },
-        {
-          "t": "2026-10-04T23:37:05.187102+00:00",
-          "ccu": 430,
-          "visits": 94484
-        },
-        {
-          "t": "2026-10-05T02:25:17.723648+00:00",
-          "ccu": 467,
-          "visits": 101759
-        },
-        {
-          "t": "2026-10-05T09:37:17.215039+00:00",
-          "ccu": 159,
-          "visits": 112340
-        },
-        {
-          "t": "2026-10-05T18:51:13.934810+00:00",
-          "ccu": 447,
-          "visits": 124345
-        },
-        {
-          "t": "2026-10-06T00:44:15.776620+00:00",
-          "ccu": 495,
-          "visits": 138985
-        },
-        {
-          "t": "2026-10-06T07:26:31.021626+00:00",
-          "ccu": 232,
-          "visits": 152145
-        },
-        {
-          "t": "2026-10-06T14:29:00.658456+00:00",
-          "ccu": 270,
-          "visits": 159081
-        },
-        {
-          "t": "2026-10-06T19:50:28.224085+00:00",
-          "ccu": 520,
-          "visits": 169536
-        }
-      ],
-      "latest_ccu": 520,
-      "latest_visits": 169536,
-      "last_seen": "2026-10-06T19:50:28.224085+00:00",
-      "trend_score": 20.1,
-      "trend_label": "declining",
-      "growth_ratio": 0.9
-    },
-    {
       "name": "Find The Key \ud83d\udddd\ufe0f",
       "universeId": "10767659751",
       "rootPlaceId": 73021429982912,
@@ -4018,39 +4061,6 @@
       "latest_ccu": 2250,
       "latest_visits": 162824,
       "last_seen": "2026-10-04T06:22:28.117635+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Crack Verity",
-      "universeId": "10768082964",
-      "rootPlaceId": 88507106847442,
-      "description": "\ud83e\udd5a CRACK VERITY \ud83d\udd28\n\nSomething is in the lab. It is yellow. It is round. It will not stop talking.\n\nGrab up to 3 friends, grab a hammer, and do what science demands: crack him open. Layer by layer. Shard by shard. We don't know what's inside. HR says we're not allowed to ask.",
-      "genre": "All",
-      "created": "2026-09-26T05:30:29.021Z",
-      "creatorName": "RIVET Studio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-06T07:26:31.021626+00:00",
-          "ccu": 144,
-          "visits": 97809
-        },
-        {
-          "t": "2026-10-06T14:29:00.658456+00:00",
-          "ccu": 200,
-          "visits": 103061
-        },
-        {
-          "t": "2026-10-06T19:50:28.224085+00:00",
-          "ccu": 393,
-          "visits": 110216
-        }
-      ],
-      "latest_ccu": 393,
-      "latest_visits": 110216,
-      "last_seen": "2026-10-06T19:50:28.224085+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

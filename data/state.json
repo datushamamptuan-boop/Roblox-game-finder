@@ -4074,14 +4074,19 @@
           "t": "2026-10-07T12:00:57.600664+00:00",
           "ccu": 348,
           "visits": 143870
+        },
+        {
+          "t": "2026-10-07T18:53:23.601788+00:00",
+          "ccu": 649,
+          "visits": 160264
         }
       ],
-      "latest_ccu": 348,
-      "latest_visits": 143870,
-      "last_seen": "2026-10-07T12:00:57.600664+00:00",
+      "latest_ccu": 649,
+      "latest_visits": 160264,
+      "last_seen": "2026-10-07T18:53:23.601788+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.98
+      "growth_ratio": 2.15
     },
     "10766057873": {
       "name": "[BETA] drive home",
@@ -4112,6 +4117,52 @@
       "latest_ccu": 467,
       "latest_visits": 165878,
       "last_seen": "2026-10-06T19:50:28.224085+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10767815979": {
+      "name": "[ANIME] Rarest Answer Wins! \ud83e\udde0 ",
+      "universeId": "10767815979",
+      "rootPlaceId": 81548692127925,
+      "description": "Anime pack added!\n\n\ud83e\udd80 100 LIKES! Use code PINCHY for a free plushie! Next goal: 250 likes!!\n\ud83e\uddf8 Tiny Troopers bundle in the shop this week!\n\nName an animal. Easy, right? Now name one nobody else would think of. Rarer answers earn more points and dive deeper!\n\n\ud83d\udee0\ufe0f Shutdown = Update!",
+      "genre": "All",
+      "created": "2026-09-24T02:18:45.799Z",
+      "creatorName": "Rarest Answer Wins!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-07T18:53:23.601788+00:00",
+          "ccu": 511,
+          "visits": 131696
+        }
+      ],
+      "latest_ccu": 511,
+      "latest_visits": 131696,
+      "last_seen": "2026-10-07T18:53:23.601788+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10767826343": {
+      "name": "\u2708\ufe0f Zombie Air Force",
+      "universeId": "10767826343",
+      "rootPlaceId": 73810139314608,
+      "description": "Thank you for 1,000 players! \"THANKYOU\" (without quotes) in shop for a free bonus! (new servers)\n\nWords cannot express how much I appreciate everyone for playing. As a solo dev, I appreciate all the kind feedback and I will continue to update the game and make it the ultimate horde clearing co-op game! Please give suggestions, feedback, and ideas!\n\nThe zombie horde is coming. Get in the air!\n\n\u2708\ufe0f T",
+      "genre": "All",
+      "created": "2026-09-24T05:19:27.178Z",
+      "creatorName": "fresh green beans",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-07T18:53:23.601788+00:00",
+          "ccu": 1483,
+          "visits": 163690
+        }
+      ],
+      "latest_ccu": 1483,
+      "latest_visits": 163690,
+      "last_seen": "2026-10-07T18:53:23.601788+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

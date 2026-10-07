@@ -4079,14 +4079,19 @@
           "t": "2026-10-07T18:53:23.601788+00:00",
           "ccu": 649,
           "visits": 160264
+        },
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 1385,
+          "visits": 185605
         }
       ],
-      "latest_ccu": 649,
-      "latest_visits": 160264,
-      "last_seen": "2026-10-07T18:53:23.601788+00:00",
+      "latest_ccu": 1385,
+      "latest_visits": 185605,
+      "last_seen": "2026-10-07T23:33:12.858093+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.15
+      "growth_ratio": 1.87
     },
     "10766057873": {
       "name": "[BETA] drive home",
@@ -4135,11 +4140,16 @@
           "t": "2026-10-07T18:53:23.601788+00:00",
           "ccu": 511,
           "visits": 131696
+        },
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 400,
+          "visits": 140035
         }
       ],
-      "latest_ccu": 511,
-      "latest_visits": 131696,
-      "last_seen": "2026-10-07T18:53:23.601788+00:00",
+      "latest_ccu": 400,
+      "latest_visits": 140035,
+      "last_seen": "2026-10-07T23:33:12.858093+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4158,11 +4168,39 @@
           "t": "2026-10-07T18:53:23.601788+00:00",
           "ccu": 1483,
           "visits": 163690
+        },
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 1741,
+          "visits": 188245
         }
       ],
-      "latest_ccu": 1483,
-      "latest_visits": 163690,
-      "last_seen": "2026-10-07T18:53:23.601788+00:00",
+      "latest_ccu": 1741,
+      "latest_visits": 188245,
+      "last_seen": "2026-10-07T23:33:12.858093+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10767665871": {
+      "name": "LONGSHOT [UPDATE]",
+      "universeId": "10767665871",
+      "rootPlaceId": 139872581138829,
+      "description": "You're a hitman working for Blackfile. They hand you a document, you find the person in it, and you get one clean shot.\n\nPort Veyra belongs to a crime ring called the Hollow Crown. Work your way through the Docklands, the Old Market and Financial Row. Read each target's tells, pick them out of a busy crowd, and account for wind and bullet drop. Nail the big ones and the bullet cam rides the round ",
+      "genre": "All",
+      "created": "2026-09-22T23:35:21.894Z",
+      "creatorName": "seuns workshop",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 342,
+          "visits": 117170
+        }
+      ],
+      "latest_ccu": 342,
+      "latest_visits": 117170,
+      "last_seen": "2026-10-07T23:33:12.858093+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

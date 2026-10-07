@@ -4016,14 +4016,19 @@
           "t": "2026-10-06T23:44:11.314766+00:00",
           "ccu": 527,
           "visits": 179355
+        },
+        {
+          "t": "2026-10-07T05:34:13.979088+00:00",
+          "ccu": 322,
+          "visits": 192422
         }
       ],
-      "latest_ccu": 527,
-      "latest_visits": 179355,
-      "last_seen": "2026-10-06T23:44:11.314766+00:00",
-      "trend_score": 36.4,
+      "latest_ccu": 322,
+      "latest_visits": 192422,
+      "last_seen": "2026-10-07T05:34:13.979088+00:00",
+      "trend_score": 32.1,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.93
+      "growth_ratio": 0.9
     },
     "10768082964": {
       "name": "Crack Verity",
@@ -4054,14 +4059,19 @@
           "t": "2026-10-06T23:44:11.314766+00:00",
           "ccu": 738,
           "visits": 120761
+        },
+        {
+          "t": "2026-10-07T05:34:13.979088+00:00",
+          "ccu": 375,
+          "visits": 134475
         }
       ],
-      "latest_ccu": 738,
-      "latest_visits": 120761,
-      "last_seen": "2026-10-06T23:44:11.314766+00:00",
+      "latest_ccu": 375,
+      "latest_visits": 134475,
+      "last_seen": "2026-10-07T05:34:13.979088+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 3.29
+      "growth_ratio": 2.92
     },
     "10766057873": {
       "name": "[BETA] drive home",

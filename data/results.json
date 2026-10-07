@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:34:13.979088+00:00",
+  "generated_at": "2026-10-07T12:00:57.600664+00:00",
   "count": 35,
   "games": [
     {
@@ -259,14 +259,19 @@
           "t": "2026-10-07T05:34:13.979088+00:00",
           "ccu": 375,
           "visits": 134475
+        },
+        {
+          "t": "2026-10-07T12:00:57.600664+00:00",
+          "ccu": 348,
+          "visits": 143870
         }
       ],
-      "latest_ccu": 375,
-      "latest_visits": 134475,
-      "last_seen": "2026-10-07T05:34:13.979088+00:00",
+      "latest_ccu": 348,
+      "latest_visits": 143870,
+      "last_seen": "2026-10-07T12:00:57.600664+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.92
+      "growth_ratio": 1.98
     },
     {
       "name": "DUCTWORKS",
@@ -3081,79 +3086,6 @@
       "growth_ratio": 0.96
     },
     {
-      "name": "Zee [ZHD!]",
-      "universeId": "10750223358",
-      "rootPlaceId": 138014591158268,
-      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
-      "genre": "All",
-      "created": "2026-08-21T19:51:44.192Z",
-      "creatorName": "ZHD Entertainment",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-04T20:27:11.177749+00:00",
-          "ccu": 687,
-          "visits": 83892
-        },
-        {
-          "t": "2026-10-04T23:37:05.187102+00:00",
-          "ccu": 430,
-          "visits": 94484
-        },
-        {
-          "t": "2026-10-05T02:25:17.723648+00:00",
-          "ccu": 467,
-          "visits": 101759
-        },
-        {
-          "t": "2026-10-05T09:37:17.215039+00:00",
-          "ccu": 159,
-          "visits": 112340
-        },
-        {
-          "t": "2026-10-05T18:51:13.934810+00:00",
-          "ccu": 447,
-          "visits": 124345
-        },
-        {
-          "t": "2026-10-06T00:44:15.776620+00:00",
-          "ccu": 495,
-          "visits": 138985
-        },
-        {
-          "t": "2026-10-06T07:26:31.021626+00:00",
-          "ccu": 232,
-          "visits": 152145
-        },
-        {
-          "t": "2026-10-06T14:29:00.658456+00:00",
-          "ccu": 270,
-          "visits": 159081
-        },
-        {
-          "t": "2026-10-06T19:50:28.224085+00:00",
-          "ccu": 520,
-          "visits": 169536
-        },
-        {
-          "t": "2026-10-06T23:44:11.314766+00:00",
-          "ccu": 527,
-          "visits": 179355
-        },
-        {
-          "t": "2026-10-07T05:34:13.979088+00:00",
-          "ccu": 322,
-          "visits": 192422
-        }
-      ],
-      "latest_ccu": 322,
-      "latest_visits": 192422,
-      "last_seen": "2026-10-07T05:34:13.979088+00:00",
-      "trend_score": 32.1,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.9
-    },
-    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -3774,6 +3706,84 @@
       "trend_score": 19.1,
       "trend_label": "declining",
       "growth_ratio": 0.88
+    },
+    {
+      "name": "Zee [ZHD!]",
+      "universeId": "10750223358",
+      "rootPlaceId": 138014591158268,
+      "description": "Zee\nOfficial game by ZHD Entertainment. \nUpdated Following Roblox TOS ",
+      "genre": "All",
+      "created": "2026-08-21T19:51:44.192Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-04T20:27:11.177749+00:00",
+          "ccu": 687,
+          "visits": 83892
+        },
+        {
+          "t": "2026-10-04T23:37:05.187102+00:00",
+          "ccu": 430,
+          "visits": 94484
+        },
+        {
+          "t": "2026-10-05T02:25:17.723648+00:00",
+          "ccu": 467,
+          "visits": 101759
+        },
+        {
+          "t": "2026-10-05T09:37:17.215039+00:00",
+          "ccu": 159,
+          "visits": 112340
+        },
+        {
+          "t": "2026-10-05T18:51:13.934810+00:00",
+          "ccu": 447,
+          "visits": 124345
+        },
+        {
+          "t": "2026-10-06T00:44:15.776620+00:00",
+          "ccu": 495,
+          "visits": 138985
+        },
+        {
+          "t": "2026-10-06T07:26:31.021626+00:00",
+          "ccu": 232,
+          "visits": 152145
+        },
+        {
+          "t": "2026-10-06T14:29:00.658456+00:00",
+          "ccu": 270,
+          "visits": 159081
+        },
+        {
+          "t": "2026-10-06T19:50:28.224085+00:00",
+          "ccu": 520,
+          "visits": 169536
+        },
+        {
+          "t": "2026-10-06T23:44:11.314766+00:00",
+          "ccu": 527,
+          "visits": 179355
+        },
+        {
+          "t": "2026-10-07T05:34:13.979088+00:00",
+          "ccu": 322,
+          "visits": 192422
+        },
+        {
+          "t": "2026-10-07T12:00:57.600664+00:00",
+          "ccu": 187,
+          "visits": 198931
+        }
+      ],
+      "latest_ccu": 187,
+      "latest_visits": 198931,
+      "last_seen": "2026-10-07T12:00:57.600664+00:00",
+      "trend_score": 18.4,
+      "trend_label": "declining",
+      "growth_ratio": 0.77
     },
     {
       "name": "Nuclear Reactor Simulator",

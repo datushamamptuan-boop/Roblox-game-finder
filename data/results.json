@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:37:01.217006+00:00",
+  "generated_at": "2026-10-08T22:28:56.896771+00:00",
   "count": 39,
   "games": [
     {
@@ -282,6 +282,49 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.87
+    },
+    {
+      "name": "LONGSHOT [UPDATE]",
+      "universeId": "10767665871",
+      "rootPlaceId": 139872581138829,
+      "description": "You're a hitman working for Blackfile. They hand you a document, you find the person in it, and you get one clean shot.\n\nPort Veyra belongs to a crime ring called the Hollow Crown. Work your way through the Docklands, the Old Market and Financial Row. Read each target's tells, pick them out of a busy crowd, and account for wind and bullet drop. Nail the big ones and the bullet cam rides the round ",
+      "genre": "All",
+      "created": "2026-09-22T23:35:21.894Z",
+      "creatorName": "seuns workshop",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 342,
+          "visits": 117170
+        },
+        {
+          "t": "2026-10-08T02:57:01.590536+00:00",
+          "ccu": 210,
+          "visits": 122387
+        },
+        {
+          "t": "2026-10-08T10:24:05.747058+00:00",
+          "ccu": 245,
+          "visits": 129914
+        },
+        {
+          "t": "2026-10-08T17:37:01.217006+00:00",
+          "ccu": 317,
+          "visits": 144545
+        },
+        {
+          "t": "2026-10-08T22:28:56.896771+00:00",
+          "ccu": 493,
+          "visits": 155680
+        }
+      ],
+      "latest_ccu": 493,
+      "latest_visits": 155680,
+      "last_seen": "2026-10-08T22:28:56.896771+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.27
     },
     {
       "name": "DUCTWORKS",
@@ -3094,44 +3137,6 @@
       "trend_score": 47.1,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.96
-    },
-    {
-      "name": "LONGSHOT [UPDATE]",
-      "universeId": "10767665871",
-      "rootPlaceId": 139872581138829,
-      "description": "You're a hitman working for Blackfile. They hand you a document, you find the person in it, and you get one clean shot.\n\nPort Veyra belongs to a crime ring called the Hollow Crown. Work your way through the Docklands, the Old Market and Financial Row. Read each target's tells, pick them out of a busy crowd, and account for wind and bullet drop. Nail the big ones and the bullet cam rides the round ",
-      "genre": "All",
-      "created": "2026-09-22T23:35:21.894Z",
-      "creatorName": "seuns workshop",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-07T23:33:12.858093+00:00",
-          "ccu": 342,
-          "visits": 117170
-        },
-        {
-          "t": "2026-10-08T02:57:01.590536+00:00",
-          "ccu": 210,
-          "visits": 122387
-        },
-        {
-          "t": "2026-10-08T10:24:05.747058+00:00",
-          "ccu": 245,
-          "visits": 129914
-        },
-        {
-          "t": "2026-10-08T17:37:01.217006+00:00",
-          "ccu": 317,
-          "visits": 144545
-        }
-      ],
-      "latest_ccu": 317,
-      "latest_visits": 144545,
-      "last_seen": "2026-10-08T17:37:01.217006+00:00",
-      "trend_score": 43.5,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.02
     },
     {
       "name": "Zee",

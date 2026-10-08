@@ -4216,14 +4216,19 @@
           "t": "2026-10-08T17:37:01.217006+00:00",
           "ccu": 317,
           "visits": 144545
+        },
+        {
+          "t": "2026-10-08T22:28:56.896771+00:00",
+          "ccu": 493,
+          "visits": 155680
         }
       ],
-      "latest_ccu": 317,
-      "latest_visits": 144545,
-      "last_seen": "2026-10-08T17:37:01.217006+00:00",
-      "trend_score": 43.5,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.02
+      "latest_ccu": 493,
+      "latest_visits": 155680,
+      "last_seen": "2026-10-08T22:28:56.896771+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.27
     },
     "10769037074": {
       "name": "Rally Panic! [2 PLAYER RALLY]",

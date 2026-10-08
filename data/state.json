@@ -4206,11 +4206,39 @@
           "t": "2026-10-08T02:57:01.590536+00:00",
           "ccu": 210,
           "visits": 122387
+        },
+        {
+          "t": "2026-10-08T10:24:05.747058+00:00",
+          "ccu": 245,
+          "visits": 129914
         }
       ],
-      "latest_ccu": 210,
-      "latest_visits": 122387,
-      "last_seen": "2026-10-08T02:57:01.590536+00:00",
+      "latest_ccu": 245,
+      "latest_visits": 129914,
+      "last_seen": "2026-10-08T10:24:05.747058+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769037074": {
+      "name": "Rally Panic! [2 PLAYER RALLY]",
+      "universeId": "10769037074",
+      "rootPlaceId": 138572313449154,
+      "description": "\ud83c\udfc1 One drives. One navigates. Both panic.\n\nRally with a friend in this first-person, 2-player co-op rally game! The driver controls the steering and handbrake\u2014but the car is ALWAYS at full throttle. The navigator holds the map and calls out turns, hazards, and which road to take.\n\n\ud83c\udf32 Race through dense forests\n\n\ud83c\udf09 Cross narrow bridges over deep ravines\n\n\ud83d\udea7 Avoid wrong turns and dead ends\n\n\ud83d\udde3\ufe0f Communica",
+      "genre": "All",
+      "created": "2026-10-02T20:15:20.741Z",
+      "creatorName": "nonlethal studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-08T10:24:05.747058+00:00",
+          "ccu": 435,
+          "visits": 144592
+        }
+      ],
+      "latest_ccu": 435,
+      "latest_visits": 144592,
+      "last_seen": "2026-10-08T10:24:05.747058+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

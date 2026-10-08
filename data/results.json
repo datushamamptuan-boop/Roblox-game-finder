@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:24:05.747058+00:00",
+  "generated_at": "2026-10-08T17:37:01.217006+00:00",
   "count": 39,
   "games": [
     {
@@ -3096,6 +3096,44 @@
       "growth_ratio": 0.96
     },
     {
+      "name": "LONGSHOT [UPDATE]",
+      "universeId": "10767665871",
+      "rootPlaceId": 139872581138829,
+      "description": "You're a hitman working for Blackfile. They hand you a document, you find the person in it, and you get one clean shot.\n\nPort Veyra belongs to a crime ring called the Hollow Crown. Work your way through the Docklands, the Old Market and Financial Row. Read each target's tells, pick them out of a busy crowd, and account for wind and bullet drop. Nail the big ones and the bullet cam rides the round ",
+      "genre": "All",
+      "created": "2026-09-22T23:35:21.894Z",
+      "creatorName": "seuns workshop",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-07T23:33:12.858093+00:00",
+          "ccu": 342,
+          "visits": 117170
+        },
+        {
+          "t": "2026-10-08T02:57:01.590536+00:00",
+          "ccu": 210,
+          "visits": 122387
+        },
+        {
+          "t": "2026-10-08T10:24:05.747058+00:00",
+          "ccu": 245,
+          "visits": 129914
+        },
+        {
+          "t": "2026-10-08T17:37:01.217006+00:00",
+          "ccu": 317,
+          "visits": 144545
+        }
+      ],
+      "latest_ccu": 317,
+      "latest_visits": 144545,
+      "last_seen": "2026-10-08T17:37:01.217006+00:00",
+      "trend_score": 43.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.02
+    },
+    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -4190,39 +4228,6 @@
       "growth_ratio": null
     },
     {
-      "name": "LONGSHOT [UPDATE]",
-      "universeId": "10767665871",
-      "rootPlaceId": 139872581138829,
-      "description": "You're a hitman working for Blackfile. They hand you a document, you find the person in it, and you get one clean shot.\n\nPort Veyra belongs to a crime ring called the Hollow Crown. Work your way through the Docklands, the Old Market and Financial Row. Read each target's tells, pick them out of a busy crowd, and account for wind and bullet drop. Nail the big ones and the bullet cam rides the round ",
-      "genre": "All",
-      "created": "2026-09-22T23:35:21.894Z",
-      "creatorName": "seuns workshop",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-07T23:33:12.858093+00:00",
-          "ccu": 342,
-          "visits": 117170
-        },
-        {
-          "t": "2026-10-08T02:57:01.590536+00:00",
-          "ccu": 210,
-          "visits": 122387
-        },
-        {
-          "t": "2026-10-08T10:24:05.747058+00:00",
-          "ccu": 245,
-          "visits": 129914
-        }
-      ],
-      "latest_ccu": 245,
-      "latest_visits": 129914,
-      "last_seen": "2026-10-08T10:24:05.747058+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Rally Panic! [2 PLAYER RALLY]",
       "universeId": "10769037074",
       "rootPlaceId": 138572313449154,
@@ -4236,11 +4241,16 @@
           "t": "2026-10-08T10:24:05.747058+00:00",
           "ccu": 435,
           "visits": 144592
+        },
+        {
+          "t": "2026-10-08T17:37:01.217006+00:00",
+          "ccu": 1255,
+          "visits": 193904
         }
       ],
-      "latest_ccu": 435,
-      "latest_visits": 144592,
-      "last_seen": "2026-10-08T10:24:05.747058+00:00",
+      "latest_ccu": 1255,
+      "latest_visits": 193904,
+      "last_seen": "2026-10-08T17:37:01.217006+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

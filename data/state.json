@@ -4145,11 +4145,16 @@
           "t": "2026-10-07T23:33:12.858093+00:00",
           "ccu": 400,
           "visits": 140035
+        },
+        {
+          "t": "2026-10-08T02:57:01.590536+00:00",
+          "ccu": 359,
+          "visits": 144341
         }
       ],
-      "latest_ccu": 400,
-      "latest_visits": 140035,
-      "last_seen": "2026-10-07T23:33:12.858093+00:00",
+      "latest_ccu": 359,
+      "latest_visits": 144341,
+      "last_seen": "2026-10-08T02:57:01.590536+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4196,11 +4201,16 @@
           "t": "2026-10-07T23:33:12.858093+00:00",
           "ccu": 342,
           "visits": 117170
+        },
+        {
+          "t": "2026-10-08T02:57:01.590536+00:00",
+          "ccu": 210,
+          "visits": 122387
         }
       ],
-      "latest_ccu": 342,
-      "latest_visits": 117170,
-      "last_seen": "2026-10-07T23:33:12.858093+00:00",
+      "latest_ccu": 210,
+      "latest_visits": 122387,
+      "last_seen": "2026-10-08T02:57:01.590536+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

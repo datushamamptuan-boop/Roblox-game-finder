@@ -4221,14 +4221,19 @@
           "t": "2026-10-08T22:28:56.896771+00:00",
           "ccu": 493,
           "visits": 155680
+        },
+        {
+          "t": "2026-10-09T02:35:08.515533+00:00",
+          "ccu": 455,
+          "visits": 166229
         }
       ],
-      "latest_ccu": 493,
-      "latest_visits": 155680,
-      "last_seen": "2026-10-08T22:28:56.896771+00:00",
+      "latest_ccu": 455,
+      "latest_visits": 166229,
+      "last_seen": "2026-10-09T02:35:08.515533+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.27
+      "growth_ratio": 1.59
     },
     "10769037074": {
       "name": "Rally Panic! [2 PLAYER RALLY]",
@@ -4254,6 +4259,29 @@
       "latest_ccu": 1255,
       "latest_visits": 193904,
       "last_seen": "2026-10-08T17:37:01.217006+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10768084263": {
+      "name": "Evolve a Cell",
+      "universeId": "10768084263",
+      "rootPlaceId": 75545101555306,
+      "description": "\ud83e\udda0 You're a tiny cell in a pond full of hungry things\n\ud83c\udf43 Eat plants or hunt other cells... including players\n\ud83e\uddec Evolve! Add jaws, spikes, eyes, tails and more\n\ud83c\udfa8 Shape and paint your own creature\n\ud83d\udc0b Grow huge and take down giant bosses\n\nEvolve or get eaten \ud83d\ude08\n\n(inspired by spore ! )",
+      "genre": "All",
+      "created": "2026-09-26T05:49:29.96Z",
+      "creatorName": "Splitline: Creative",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-09T02:35:08.515533+00:00",
+          "ccu": 1832,
+          "visits": 179287
+        }
+      ],
+      "latest_ccu": 1832,
+      "latest_visits": 179287,
+      "last_seen": "2026-10-09T02:35:08.515533+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -4226,14 +4226,19 @@
           "t": "2026-10-09T02:35:08.515533+00:00",
           "ccu": 455,
           "visits": 166229
+        },
+        {
+          "t": "2026-10-09T09:39:09.535859+00:00",
+          "ccu": 407,
+          "visits": 180592
         }
       ],
-      "latest_ccu": 455,
-      "latest_visits": 166229,
-      "last_seen": "2026-10-09T02:35:08.515533+00:00",
+      "latest_ccu": 407,
+      "latest_visits": 180592,
+      "last_seen": "2026-10-09T09:39:09.535859+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.59
+      "growth_ratio": 1.57
     },
     "10769037074": {
       "name": "Rally Panic! [2 PLAYER RALLY]",
@@ -4282,6 +4287,29 @@
       "latest_ccu": 1832,
       "latest_visits": 179287,
       "last_seen": "2026-10-09T02:35:08.515533+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10768358494": {
+      "name": "\ud83d\udce6 Parcel Tycoon",
+      "universeId": "10768358494",
+      "rootPlaceId": 84411136498539,
+      "description": "\ud83d\udce6 A cozy packing tycoon: sort every item, pack it perfect, and grow from a dumpster to a delivery empire.\n\nA long-lost relative left you their parcel company: a concrete slab and one very good table. The bank wants 30% of everything you ship. Time to get packing!\n\n\u2705 PACK IT FOR REAL: drag every item in, turn it, tip it, wrap the fragile ones, fill the gaps, tape it shut and stamp it right.\n\ud83d\udcb0 SMALL",
+      "genre": "All",
+      "created": "2026-09-27T18:36:13.841Z",
+      "creatorName": "unvile",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-09T09:39:09.535859+00:00",
+          "ccu": 1727,
+          "visits": 182581
+        }
+      ],
+      "latest_ccu": 1727,
+      "latest_visits": 182581,
+      "last_seen": "2026-10-09T09:39:09.535859+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -4313,6 +4313,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10769083726": {
+      "name": "[SPOT BATTLES] Skate Tree",
+      "universeId": "10769083726",
+      "rootPlaceId": 75885533927852,
+      "description": "\u26a0\ufe0f For the optimal experience, play on controller.\n\nThis game is not affiliated with EA in any way, shape, or form.",
+      "genre": "All",
+      "created": "2026-10-03T03:31:24.283Z",
+      "creatorName": "RNE Third Vault",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-10T07:18:21.226410+00:00",
+          "ccu": 755,
+          "visits": 111189
+        }
+      ],
+      "latest_ccu": 755,
+      "latest_visits": 111189,
+      "last_seen": "2026-10-10T07:18:21.226410+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

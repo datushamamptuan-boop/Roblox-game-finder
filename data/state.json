@@ -4389,11 +4389,16 @@
           "t": "2026-10-10T18:24:58.223173+00:00",
           "ccu": 1056,
           "visits": 184697
+        },
+        {
+          "t": "2026-10-10T22:00:26.241364+00:00",
+          "ccu": 942,
+          "visits": 197678
         }
       ],
-      "latest_ccu": 1056,
-      "latest_visits": 184697,
-      "last_seen": "2026-10-10T18:24:58.223173+00:00",
+      "latest_ccu": 942,
+      "latest_visits": 197678,
+      "last_seen": "2026-10-10T22:00:26.241364+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

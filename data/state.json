@@ -4328,11 +4328,39 @@
           "t": "2026-10-10T07:18:21.226410+00:00",
           "ccu": 755,
           "visits": 111189
+        },
+        {
+          "t": "2026-10-10T13:54:08.919153+00:00",
+          "ccu": 991,
+          "visits": 146094
         }
       ],
-      "latest_ccu": 755,
-      "latest_visits": 111189,
-      "last_seen": "2026-10-10T07:18:21.226410+00:00",
+      "latest_ccu": 991,
+      "latest_visits": 146094,
+      "last_seen": "2026-10-10T13:54:08.919153+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10768943703": {
+      "name": "[EA] Rally With a Friend",
+      "universeId": "10768943703",
+      "rootPlaceId": 137185096993293,
+      "description": "Rally with a Friend! Early access is here!\n\nTeam up with a friend and take on narrow roads, blind corners and jumps. One player drives while the copilot calls turns using a handheld map. Hold onto it, or drop it into the cabin.\n\nExplore Finland, Sweden, Utah and Japan, with two stages per country and day or night driving (way more to come \ud83d\udc40). Face fog, rain, snow, dirty windshields and headlights ",
+      "genre": "All",
+      "created": "2026-10-02T04:05:20.491Z",
+      "creatorName": "RWAF Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-10T13:54:08.919153+00:00",
+          "ccu": 1347,
+          "visits": 130418
+        }
+      ],
+      "latest_ccu": 1347,
+      "latest_visits": 130418,
+      "last_seen": "2026-10-10T13:54:08.919153+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

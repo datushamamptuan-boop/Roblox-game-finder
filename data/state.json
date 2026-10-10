@@ -4333,11 +4333,16 @@
           "t": "2026-10-10T13:54:08.919153+00:00",
           "ccu": 991,
           "visits": 146094
+        },
+        {
+          "t": "2026-10-10T18:24:58.223173+00:00",
+          "ccu": 1696,
+          "visits": 190398
         }
       ],
-      "latest_ccu": 991,
-      "latest_visits": 146094,
-      "last_seen": "2026-10-10T13:54:08.919153+00:00",
+      "latest_ccu": 1696,
+      "latest_visits": 190398,
+      "last_seen": "2026-10-10T18:24:58.223173+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4356,11 +4361,39 @@
           "t": "2026-10-10T13:54:08.919153+00:00",
           "ccu": 1347,
           "visits": 130418
+        },
+        {
+          "t": "2026-10-10T18:24:58.223173+00:00",
+          "ccu": 1484,
+          "visits": 196618
         }
       ],
-      "latest_ccu": 1347,
-      "latest_visits": 130418,
-      "last_seen": "2026-10-10T13:54:08.919153+00:00",
+      "latest_ccu": 1484,
+      "latest_visits": 196618,
+      "last_seen": "2026-10-10T18:24:58.223173+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10765572238": {
+      "name": "\ud83d\udc85 Baddie Bounces ",
+      "universeId": "10765572238",
+      "rootPlaceId": 116837678487831,
+      "description": "\ud83d\udc85 Welcome to Baddie Bounces! \ud83d\udc85\n\n\ud83d\udc5f Bounce high, earn cash, and clear your skips!\n\ud83d\udc8e Unlock skill tree upgrades for unique abilities! \n\ud83d\udc51 Roll for new skins with better boosts!\n\ud83d\ude31 One missed rope and you get tripped!\n\n\ud83d\ude08 Do you think you can survive? Most people rage quit..\n\nInspired by \"Scarlet Skips\"",
+      "genre": "All",
+      "created": "2026-09-07T16:22:47.445Z",
+      "creatorName": "I WILL SUCCEED!!!! NOTHING WILL STOP ME!!!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-10T18:24:58.223173+00:00",
+          "ccu": 1056,
+          "visits": 184697
+        }
+      ],
+      "latest_ccu": 1056,
+      "latest_visits": 184697,
+      "last_seen": "2026-10-10T18:24:58.223173+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

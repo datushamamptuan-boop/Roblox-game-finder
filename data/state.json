@@ -4402,6 +4402,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10768944846": {
+      "name": "Morioh High",
+      "universeId": "10768944846",
+      "rootPlaceId": 111838814545019,
+      "description": "Present Day, Morioh, Japan.\n\nA school life game where pretty much anything can happen.\n\nAttend classes, make friends (or enemies lol), build relationships, join groups, and explore Morioh High. The NPCs aren't just there for decoration either. You can interact with them!\n\nYou can try living a normal school life! (but knowing this is Morioh, that probably won't last very long) \u30b4\u30b4\u30b4",
+      "genre": "All",
+      "created": "2026-10-02T04:24:42.765Z",
+      "creatorName": "Not A Stand Game",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-11T06:59:29.925914+00:00",
+          "ccu": 1738,
+          "visits": 135161
+        }
+      ],
+      "latest_ccu": 1738,
+      "latest_visits": 135161,
+      "last_seen": "2026-10-11T06:59:29.925914+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

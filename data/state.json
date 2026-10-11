@@ -4430,6 +4430,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10766921988": {
+      "name": "Ragdoll Football",
+      "universeId": "10766921988",
+      "rootPlaceId": 81469298413354,
+      "description": "Physics football where every tackle is real! No canned animations \u2014 your body hits, grabs and drags like the real thing,\nEarn XP for big plays and climb from 60 to 99 OVR!\n\n CONTROLS\nPC\n\u2022 WASD \u2013 Move\n\u2022 Space \u2013 Jump\n\u2022 Left Click \u2013 Tackle / Hike (as QB) / Kick\n\u2022 Hold Left Click \u2013 Aim throw, release to throw\n\u2022 X \u2013 Dive / Hand off / Cancel throw\n\u2022 V \u2013 Take a knee (touchback)\n\u2022 Right Click + Drag \u2013 Cam",
+      "genre": "All",
+      "created": "2026-09-18T14:11:36.064Z",
+      "creatorName": "BloxyBricks",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-11T18:46:32.125443+00:00",
+          "ccu": 3078,
+          "visits": 195210
+        }
+      ],
+      "latest_ccu": 3078,
+      "latest_visits": 195210,
+      "last_seen": "2026-10-11T18:46:32.125443+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

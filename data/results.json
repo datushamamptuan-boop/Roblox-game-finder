@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T22:46:31.698799+00:00",
-  "count": 46,
+  "generated_at": "2026-10-12T02:14:07.511667+00:00",
+  "count": 47,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4452,6 +4452,29 @@
       "latest_ccu": 3078,
       "latest_visits": 195210,
       "last_seen": "2026-10-11T18:46:32.125443+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Caretakers [RELEASED] \ud83c\udf89",
+      "universeId": "10764928798",
+      "rootPlaceId": 79730742850531,
+      "description": "GAME IS IN BETA, EXPECT BUGS!\n\nCaretakers is an analog horror survival game where you must complete objectives, survive dangerous entities, and find a way to escape.\n\nExplore multiple unsettling locations, work with your team, and finish objectives while being hunted by different entities lurking throughout each map.\n\nHeavily Inspired by The Walten Files by Martin Walls, please go support his seri",
+      "genre": "All",
+      "created": "2026-09-03T04:39:47.596Z",
+      "creatorName": "FunByte Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-12T02:14:07.511667+00:00",
+          "ccu": 2956,
+          "visits": 147400
+        }
+      ],
+      "latest_ccu": 2956,
+      "latest_visits": 147400,
+      "last_seen": "2026-10-12T02:14:07.511667+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

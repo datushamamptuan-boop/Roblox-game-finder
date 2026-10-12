@@ -4481,6 +4481,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10768630078": {
+      "name": "Catastrophic Horse Racing",
+      "universeId": "10768630078",
+      "rootPlaceId": 109917531711176,
+      "description": "Compete against other players with horses and try to not get killed in the way\n\n10/10/26 update - added devil and angel mode\n\nyou shouldnt play if youre epileptic",
+      "genre": "All",
+      "created": "2026-09-29T18:51:23.825Z",
+      "creatorName": "Jonsena Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-12T19:20:11.408522+00:00",
+          "ccu": 1233,
+          "visits": 87533
+        }
+      ],
+      "latest_ccu": 1233,
+      "latest_visits": 87533,
+      "last_seen": "2026-10-12T19:20:11.408522+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

@@ -4506,14 +4506,19 @@
           "t": "2026-10-13T08:26:04.352506+00:00",
           "ccu": 243,
           "visits": 148654
+        },
+        {
+          "t": "2026-10-13T16:26:39.296478+00:00",
+          "ccu": 682,
+          "visits": 175435
         }
       ],
-      "latest_ccu": 243,
-      "latest_visits": 148654,
-      "last_seen": "2026-10-13T08:26:04.352506+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 682,
+      "latest_visits": 175435,
+      "last_seen": "2026-10-13T16:26:39.296478+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.4
     },
     "10765625118": {
       "name": "THE CONE",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:26:04.352506+00:00",
+  "generated_at": "2026-10-13T16:26:39.296478+00:00",
   "count": 49,
   "games": [
     {
@@ -3983,6 +3983,44 @@
       "growth_ratio": 0.54
     },
     {
+      "name": "Catastrophic Horse Racing",
+      "universeId": "10768630078",
+      "rootPlaceId": 109917531711176,
+      "description": "Compete against other players with horses and try to not get killed in the way\n\n10/10/26 update - added devil and angel mode\n\nyou shouldnt play if youre epileptic",
+      "genre": "All",
+      "created": "2026-09-29T18:51:23.825Z",
+      "creatorName": "Jonsena Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-12T19:20:11.408522+00:00",
+          "ccu": 1233,
+          "visits": 87533
+        },
+        {
+          "t": "2026-10-13T01:31:04.298391+00:00",
+          "ccu": 1066,
+          "visits": 125899
+        },
+        {
+          "t": "2026-10-13T08:26:04.352506+00:00",
+          "ccu": 243,
+          "visits": 148654
+        },
+        {
+          "t": "2026-10-13T16:26:39.296478+00:00",
+          "ccu": 682,
+          "visits": 175435
+        }
+      ],
+      "latest_ccu": 682,
+      "latest_visits": 175435,
+      "last_seen": "2026-10-13T16:26:39.296478+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.4
+    },
+    {
       "name": "The Cosalazo 2 ",
       "universeId": "10739137760",
       "rootPlaceId": 133473642879498,
@@ -4480,39 +4518,6 @@
       "latest_ccu": 580,
       "latest_visits": 198353,
       "last_seen": "2026-10-12T09:26:15.714775+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Catastrophic Horse Racing",
-      "universeId": "10768630078",
-      "rootPlaceId": 109917531711176,
-      "description": "Compete against other players with horses and try to not get killed in the way\n\n10/10/26 update - added devil and angel mode\n\nyou shouldnt play if youre epileptic",
-      "genre": "All",
-      "created": "2026-09-29T18:51:23.825Z",
-      "creatorName": "Jonsena Studios",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-12T19:20:11.408522+00:00",
-          "ccu": 1233,
-          "visits": 87533
-        },
-        {
-          "t": "2026-10-13T01:31:04.298391+00:00",
-          "ccu": 1066,
-          "visits": 125899
-        },
-        {
-          "t": "2026-10-13T08:26:04.352506+00:00",
-          "ccu": 243,
-          "visits": 148654
-        }
-      ],
-      "latest_ccu": 243,
-      "latest_visits": 148654,
-      "last_seen": "2026-10-13T08:26:04.352506+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -4501,11 +4501,39 @@
           "t": "2026-10-13T01:31:04.298391+00:00",
           "ccu": 1066,
           "visits": 125899
+        },
+        {
+          "t": "2026-10-13T08:26:04.352506+00:00",
+          "ccu": 243,
+          "visits": 148654
         }
       ],
-      "latest_ccu": 1066,
-      "latest_visits": 125899,
-      "last_seen": "2026-10-13T01:31:04.298391+00:00",
+      "latest_ccu": 243,
+      "latest_visits": 148654,
+      "last_seen": "2026-10-13T08:26:04.352506+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10765625118": {
+      "name": "THE CONE",
+      "universeId": "10765625118",
+      "rootPlaceId": 127836473568791,
+      "description": "G o i n g  d e e p e r ?\n\nYou won't like what you find out :)\n\nPART I is out now.\nTravel deeper to find an escape to the horror.\nFind keys and codes to unlock the exit.\nAvoid The Cone.",
+      "genre": "All",
+      "created": "2026-09-08T00:17:54.699Z",
+      "creatorName": "\u2022 DELTA \u2022",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-13T08:26:04.352506+00:00",
+          "ccu": 180,
+          "visits": 199311
+        }
+      ],
+      "latest_ccu": 180,
+      "latest_visits": 199311,
+      "last_seen": "2026-10-13T08:26:04.352506+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

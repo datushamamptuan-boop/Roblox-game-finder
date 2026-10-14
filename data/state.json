@@ -4562,11 +4562,16 @@
           "t": "2026-10-14T15:31:05.238912+00:00",
           "ccu": 712,
           "visits": 132220
+        },
+        {
+          "t": "2026-10-14T19:42:29.679566+00:00",
+          "ccu": 747,
+          "visits": 142625
         }
       ],
-      "latest_ccu": 712,
-      "latest_visits": 132220,
-      "last_seen": "2026-10-14T15:31:05.238912+00:00",
+      "latest_ccu": 747,
+      "latest_visits": 142625,
+      "last_seen": "2026-10-14T19:42:29.679566+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:42:29.679566+00:00",
+  "generated_at": "2026-10-14T23:07:06.081726+00:00",
   "count": 50,
   "games": [
     {
@@ -335,6 +335,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.57
+    },
+    {
+      "name": "Mitosis [UPD 1]",
+      "universeId": "10768689412",
+      "rootPlaceId": 134829968203846,
+      "description": "\ud83e\uddeb Welcome To Mitosis!\n\n\ud83e\udda0 Split Your Cells To Progress!\n\ud83d\udcb8 Sell Them For Cash & Buy Upgrades!\n\ud83e\uddec Discover 28 Mutations & Fuse Them Into Mixes!\n\ud83d\udd01 Rebirth For Tokens & Unlock A Giant Skill Tree!\n\ud83c\udccf Beat Challenges, Bosses & Collect Powerful Cards!\n\u26a1 Survive Gold Rushes, Blood Moons, Meteor Showers & More!\n\ud83c\udfc6 Climb The Leaderboards & Flex Your Rarest Mutation!\n\n\ud83c\udf81 Redeem codes in the shop for free rewards!",
+      "genre": "All",
+      "created": "2026-09-30T05:22:21.324Z",
+      "creatorName": "Fauna Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-14T10:37:15.818044+00:00",
+          "ccu": 411,
+          "visits": 122996
+        },
+        {
+          "t": "2026-10-14T15:31:05.238912+00:00",
+          "ccu": 712,
+          "visits": 132220
+        },
+        {
+          "t": "2026-10-14T19:42:29.679566+00:00",
+          "ccu": 747,
+          "visits": 142625
+        },
+        {
+          "t": "2026-10-14T23:07:06.081726+00:00",
+          "ccu": 751,
+          "visits": 151456
+        }
+      ],
+      "latest_ccu": 751,
+      "latest_visits": 151456,
+      "last_seen": "2026-10-14T23:07:06.081726+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.33
     },
     {
       "name": "DUCTWORKS",
@@ -4541,39 +4579,6 @@
       "latest_ccu": 180,
       "latest_visits": 199311,
       "last_seen": "2026-10-13T08:26:04.352506+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Mitosis [UPD 1]",
-      "universeId": "10768689412",
-      "rootPlaceId": 134829968203846,
-      "description": "\ud83e\uddeb Welcome To Mitosis!\n\n\ud83e\udda0 Split Your Cells To Progress!\n\ud83d\udcb8 Sell Them For Cash & Buy Upgrades!\n\ud83e\uddec Discover 28 Mutations & Fuse Them Into Mixes!\n\ud83d\udd01 Rebirth For Tokens & Unlock A Giant Skill Tree!\n\ud83c\udccf Beat Challenges, Bosses & Collect Powerful Cards!\n\u26a1 Survive Gold Rushes, Blood Moons, Meteor Showers & More!\n\ud83c\udfc6 Climb The Leaderboards & Flex Your Rarest Mutation!\n\n\ud83c\udf81 Redeem codes in the shop for free rewards!",
-      "genre": "All",
-      "created": "2026-09-30T05:22:21.324Z",
-      "creatorName": "Fauna Studio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-14T10:37:15.818044+00:00",
-          "ccu": 411,
-          "visits": 122996
-        },
-        {
-          "t": "2026-10-14T15:31:05.238912+00:00",
-          "ccu": 712,
-          "visits": 132220
-        },
-        {
-          "t": "2026-10-14T19:42:29.679566+00:00",
-          "ccu": 747,
-          "visits": 142625
-        }
-      ],
-      "latest_ccu": 747,
-      "latest_visits": 142625,
-      "last_seen": "2026-10-14T19:42:29.679566+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

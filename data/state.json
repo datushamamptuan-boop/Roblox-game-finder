@@ -4587,14 +4587,42 @@
           "t": "2026-10-15T12:08:17.543150+00:00",
           "ccu": 747,
           "visits": 178803
+        },
+        {
+          "t": "2026-10-15T17:11:56.807361+00:00",
+          "ccu": 1199,
+          "visits": 197375
         }
       ],
-      "latest_ccu": 747,
-      "latest_visits": 178803,
-      "last_seen": "2026-10-15T12:08:17.543150+00:00",
-      "trend_score": 69.5,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.1
+      "latest_ccu": 1199,
+      "latest_visits": 197375,
+      "last_seen": "2026-10-15T17:11:56.807361+00:00",
+      "trend_score": 98.7,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.22
+    },
+    "10767818577": {
+      "name": "[QOL\ud83c\udfc1] Wordle Race! ",
+      "universeId": "10767818577",
+      "rootPlaceId": 86686806564553,
+      "description": "How to Play:\n\ud83e\udde0 Guess the Wordle before your opponents\n\u2694\ufe0f Compete in fast-paced 1v1 & 2v2 races\n\ud83e\udd16 Challenge bots or play Infinite Wordle solo\n\ud83d\udcc5 Complete the Daily Wordle and build your streak\n\ud83d\udcb0 Win games and earn Cash\n\ud83e\ude91 Unlock new Chairs, Titles & Text Styles\n\ud83d\udd25 Build your win streak and become the best Wordle racer!\n\n\ud83c\udfc6 Think fast. Guess smart. Beat your opponent!\n\n\ud83c\udfae Supports Desktop, Console, Mobil",
+      "genre": "All",
+      "created": "2026-09-24T03:04:44.242Z",
+      "creatorName": "AVR Trending",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-15T17:11:56.807361+00:00",
+          "ccu": 251,
+          "visits": 134889
+        }
+      ],
+      "latest_ccu": 251,
+      "latest_visits": 134889,
+      "last_seen": "2026-10-15T17:11:56.807361+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

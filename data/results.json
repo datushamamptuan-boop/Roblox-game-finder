@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T12:08:17.543150+00:00",
-  "count": 50,
+  "generated_at": "2026-10-15T17:11:56.807361+00:00",
+  "count": 51,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -335,6 +335,64 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.57
+    },
+    {
+      "name": "Mitosis [UPD 1]",
+      "universeId": "10768689412",
+      "rootPlaceId": 134829968203846,
+      "description": "\ud83e\uddeb Welcome To Mitosis!\n\n\ud83e\udda0 Split Your Cells To Progress!\n\ud83d\udcb8 Sell Them For Cash & Buy Upgrades!\n\ud83e\uddec Discover 28 Mutations & Fuse Them Into Mixes!\n\ud83d\udd01 Rebirth For Tokens & Unlock A Giant Skill Tree!\n\ud83c\udccf Beat Challenges, Bosses & Collect Powerful Cards!\n\u26a1 Survive Gold Rushes, Blood Moons, Meteor Showers & More!\n\ud83c\udfc6 Climb The Leaderboards & Flex Your Rarest Mutation!\n\n\ud83c\udf81 Redeem codes in the shop for free rewards!",
+      "genre": "All",
+      "created": "2026-09-30T05:22:21.324Z",
+      "creatorName": "Fauna Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-14T10:37:15.818044+00:00",
+          "ccu": 411,
+          "visits": 122996
+        },
+        {
+          "t": "2026-10-14T15:31:05.238912+00:00",
+          "ccu": 712,
+          "visits": 132220
+        },
+        {
+          "t": "2026-10-14T19:42:29.679566+00:00",
+          "ccu": 747,
+          "visits": 142625
+        },
+        {
+          "t": "2026-10-14T23:07:06.081726+00:00",
+          "ccu": 751,
+          "visits": 151456
+        },
+        {
+          "t": "2026-10-15T01:35:12.527452+00:00",
+          "ccu": 756,
+          "visits": 157690
+        },
+        {
+          "t": "2026-10-15T06:28:06.311580+00:00",
+          "ccu": 490,
+          "visits": 167326
+        },
+        {
+          "t": "2026-10-15T12:08:17.543150+00:00",
+          "ccu": 747,
+          "visits": 178803
+        },
+        {
+          "t": "2026-10-15T17:11:56.807361+00:00",
+          "ccu": 1199,
+          "visits": 197375
+        }
+      ],
+      "latest_ccu": 1199,
+      "latest_visits": 197375,
+      "last_seen": "2026-10-15T17:11:56.807361+00:00",
+      "trend_score": 98.7,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.22
     },
     {
       "name": "DUCTWORKS",
@@ -1017,59 +1075,6 @@
       "trend_score": 78.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
-    },
-    {
-      "name": "Mitosis [UPD 1]",
-      "universeId": "10768689412",
-      "rootPlaceId": 134829968203846,
-      "description": "\ud83e\uddeb Welcome To Mitosis!\n\n\ud83e\udda0 Split Your Cells To Progress!\n\ud83d\udcb8 Sell Them For Cash & Buy Upgrades!\n\ud83e\uddec Discover 28 Mutations & Fuse Them Into Mixes!\n\ud83d\udd01 Rebirth For Tokens & Unlock A Giant Skill Tree!\n\ud83c\udccf Beat Challenges, Bosses & Collect Powerful Cards!\n\u26a1 Survive Gold Rushes, Blood Moons, Meteor Showers & More!\n\ud83c\udfc6 Climb The Leaderboards & Flex Your Rarest Mutation!\n\n\ud83c\udf81 Redeem codes in the shop for free rewards!",
-      "genre": "All",
-      "created": "2026-09-30T05:22:21.324Z",
-      "creatorName": "Fauna Studio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-14T10:37:15.818044+00:00",
-          "ccu": 411,
-          "visits": 122996
-        },
-        {
-          "t": "2026-10-14T15:31:05.238912+00:00",
-          "ccu": 712,
-          "visits": 132220
-        },
-        {
-          "t": "2026-10-14T19:42:29.679566+00:00",
-          "ccu": 747,
-          "visits": 142625
-        },
-        {
-          "t": "2026-10-14T23:07:06.081726+00:00",
-          "ccu": 751,
-          "visits": 151456
-        },
-        {
-          "t": "2026-10-15T01:35:12.527452+00:00",
-          "ccu": 756,
-          "visits": 157690
-        },
-        {
-          "t": "2026-10-15T06:28:06.311580+00:00",
-          "ccu": 490,
-          "visits": 167326
-        },
-        {
-          "t": "2026-10-15T12:08:17.543150+00:00",
-          "ccu": 747,
-          "visits": 178803
-        }
-      ],
-      "latest_ccu": 747,
-      "latest_visits": 178803,
-      "last_seen": "2026-10-15T12:08:17.543150+00:00",
-      "trend_score": 69.5,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.1
     },
     {
       "name": "Weather Sandbox",
@@ -4594,6 +4599,29 @@
       "latest_ccu": 180,
       "latest_visits": 199311,
       "last_seen": "2026-10-13T08:26:04.352506+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[QOL\ud83c\udfc1] Wordle Race! ",
+      "universeId": "10767818577",
+      "rootPlaceId": 86686806564553,
+      "description": "How to Play:\n\ud83e\udde0 Guess the Wordle before your opponents\n\u2694\ufe0f Compete in fast-paced 1v1 & 2v2 races\n\ud83e\udd16 Challenge bots or play Infinite Wordle solo\n\ud83d\udcc5 Complete the Daily Wordle and build your streak\n\ud83d\udcb0 Win games and earn Cash\n\ud83e\ude91 Unlock new Chairs, Titles & Text Styles\n\ud83d\udd25 Build your win streak and become the best Wordle racer!\n\n\ud83c\udfc6 Think fast. Guess smart. Beat your opponent!\n\n\ud83c\udfae Supports Desktop, Console, Mobil",
+      "genre": "All",
+      "created": "2026-09-24T03:04:44.242Z",
+      "creatorName": "AVR Trending",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-15T17:11:56.807361+00:00",
+          "ccu": 251,
+          "visits": 134889
+        }
+      ],
+      "latest_ccu": 251,
+      "latest_visits": 134889,
+      "last_seen": "2026-10-15T17:11:56.807361+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

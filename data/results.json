@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:43:09.212209+00:00",
+  "generated_at": "2026-10-16T22:45:08.018094+00:00",
   "count": 51,
   "games": [
     {
@@ -776,6 +776,64 @@
       "growth_ratio": 1.89
     },
     {
+      "name": "[QOL\ud83c\udfc1] Wordle Race! ",
+      "universeId": "10767818577",
+      "rootPlaceId": 86686806564553,
+      "description": "How to Play:\n\ud83e\udde0 Guess the Wordle before your opponents\n\u2694\ufe0f Compete in fast-paced 1v1 & 2v2 races\n\ud83e\udd16 Challenge bots or play Infinite Wordle solo\n\ud83d\udcc5 Complete the Daily Wordle and build your streak\n\ud83d\udcb0 Win games and earn Cash\n\ud83e\ude91 Unlock new Chairs, Titles & Text Styles\n\ud83d\udd25 Build your win streak and become the best Wordle racer!\n\n\ud83c\udfc6 Think fast. Guess smart. Beat your opponent!\n\n\ud83c\udfae Supports Desktop, Console, Mobil",
+      "genre": "All",
+      "created": "2026-09-24T03:04:44.242Z",
+      "creatorName": "AVR Trending",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-15T17:11:56.807361+00:00",
+          "ccu": 251,
+          "visits": 134889
+        },
+        {
+          "t": "2026-10-15T20:25:23.570192+00:00",
+          "ccu": 479,
+          "visits": 140951
+        },
+        {
+          "t": "2026-10-15T23:19:07.539679+00:00",
+          "ccu": 452,
+          "visits": 147685
+        },
+        {
+          "t": "2026-10-16T01:32:23.543791+00:00",
+          "ccu": 573,
+          "visits": 152930
+        },
+        {
+          "t": "2026-10-16T11:55:33.057617+00:00",
+          "ccu": 191,
+          "visits": 171745
+        },
+        {
+          "t": "2026-10-16T16:29:19.554397+00:00",
+          "ccu": 378,
+          "visits": 178292
+        },
+        {
+          "t": "2026-10-16T19:43:09.212209+00:00",
+          "ccu": 684,
+          "visits": 186909
+        },
+        {
+          "t": "2026-10-16T22:45:08.018094+00:00",
+          "ccu": 736,
+          "visits": 198821
+        }
+      ],
+      "latest_ccu": 736,
+      "latest_visits": 198821,
+      "last_seen": "2026-10-16T22:45:08.018094+00:00",
+      "trend_score": 95.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.13
+    },
+    {
       "name": "Zee [TEMP!]",
       "universeId": "10764730172",
       "rootPlaceId": 113476710204306,
@@ -1017,59 +1075,6 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
-    },
-    {
-      "name": "[QOL\ud83c\udfc1] Wordle Race! ",
-      "universeId": "10767818577",
-      "rootPlaceId": 86686806564553,
-      "description": "How to Play:\n\ud83e\udde0 Guess the Wordle before your opponents\n\u2694\ufe0f Compete in fast-paced 1v1 & 2v2 races\n\ud83e\udd16 Challenge bots or play Infinite Wordle solo\n\ud83d\udcc5 Complete the Daily Wordle and build your streak\n\ud83d\udcb0 Win games and earn Cash\n\ud83e\ude91 Unlock new Chairs, Titles & Text Styles\n\ud83d\udd25 Build your win streak and become the best Wordle racer!\n\n\ud83c\udfc6 Think fast. Guess smart. Beat your opponent!\n\n\ud83c\udfae Supports Desktop, Console, Mobil",
-      "genre": "All",
-      "created": "2026-09-24T03:04:44.242Z",
-      "creatorName": "AVR Trending",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-15T17:11:56.807361+00:00",
-          "ccu": 251,
-          "visits": 134889
-        },
-        {
-          "t": "2026-10-15T20:25:23.570192+00:00",
-          "ccu": 479,
-          "visits": 140951
-        },
-        {
-          "t": "2026-10-15T23:19:07.539679+00:00",
-          "ccu": 452,
-          "visits": 147685
-        },
-        {
-          "t": "2026-10-16T01:32:23.543791+00:00",
-          "ccu": 573,
-          "visits": 152930
-        },
-        {
-          "t": "2026-10-16T11:55:33.057617+00:00",
-          "ccu": 191,
-          "visits": 171745
-        },
-        {
-          "t": "2026-10-16T16:29:19.554397+00:00",
-          "ccu": 378,
-          "visits": 178292
-        },
-        {
-          "t": "2026-10-16T19:43:09.212209+00:00",
-          "ccu": 684,
-          "visits": 186909
-        }
-      ],
-      "latest_ccu": 684,
-      "latest_visits": 186909,
-      "last_seen": "2026-10-16T19:43:09.212209+00:00",
-      "trend_score": 91.1,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.16
     },
     {
       "name": "Horde Defenders",

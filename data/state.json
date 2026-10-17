@@ -4719,6 +4719,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10769484703": {
+      "name": "What If Disasters",
+      "universeId": "10769484703",
+      "rootPlaceId": 109440485612336,
+      "description": "WHAT IF..?\n\nThe Moon Falls. The Sun Disappears. The Ocean Rolls back. A Mega Tsunami hits.\n25 disasters. 9 maps. One question:\n\nWill you survive?",
+      "genre": "All",
+      "created": "2026-10-05T13:26:19.779Z",
+      "creatorName": "random named group i hvent named yet",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-17T19:16:18.957497+00:00",
+          "ccu": 2228,
+          "visits": 199615
+        }
+      ],
+      "latest_ccu": 2228,
+      "latest_visits": 199615,
+      "last_seen": "2026-10-17T19:16:18.957497+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

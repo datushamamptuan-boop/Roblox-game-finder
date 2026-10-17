@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T01:14:08.601315+00:00",
-  "count": 51,
+  "generated_at": "2026-10-17T05:42:32.347059+00:00",
+  "count": 52,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4657,6 +4657,29 @@
       "latest_ccu": 180,
       "latest_visits": 199311,
       "last_seen": "2026-10-13T08:26:04.352506+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[Stick And Tig Update!] Welding Simulator",
+      "universeId": "10769685371",
+      "rootPlaceId": 112817436495652,
+      "description": "\ud83d\udd25 STICK & TIG UPDATE! \ud83d\udd25\n\nStrike an arc and become the best welder in town! Run your own weld shop, take on jobs and build a welding empire.\n\n\ud83d\udd27 3 WAYS TO WELD\n\u26a1 MIG \u2013 lay smooth \"stack of dimes\" beads on 27 jobs\n\ud83d\udd25 STICK \u2013 burn through rust, feed the rod and chip off the slag\n\ud83c\udf08 TIG \u2013 hold a tight arc for shiny rainbow welds\n\n\ud83c\udfed RUN YOUR SHOP\n- Weld horseshoes, gears, bridges, bike frames and rockets\n",
+      "genre": "All",
+      "created": "2026-10-07T00:49:48.29Z",
+      "creatorName": "Ice Panda Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-17T05:42:32.347059+00:00",
+          "ccu": 1230,
+          "visits": 163177
+        }
+      ],
+      "latest_ccu": 1230,
+      "latest_visits": 163177,
+      "last_seen": "2026-10-17T05:42:32.347059+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

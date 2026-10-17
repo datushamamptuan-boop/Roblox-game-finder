@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T19:16:18.957497+00:00",
-  "count": 54,
+  "generated_at": "2026-10-17T21:33:02.828688+00:00",
+  "count": 55,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4741,6 +4741,29 @@
       "latest_ccu": 2228,
       "latest_visits": 199615,
       "last_seen": "2026-10-17T19:16:18.957497+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Last Stand [\u26f1\ufe0f]",
+      "universeId": "10769802973",
+      "rootPlaceId": 120293323710237,
+      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
+      "genre": "All",
+      "created": "2026-10-07T23:33:43.141Z",
+      "creatorName": "Gordrow",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-17T21:33:02.828688+00:00",
+          "ccu": 1499,
+          "visits": 63091
+        }
+      ],
+      "latest_ccu": 1499,
+      "latest_visits": 63091,
+      "last_seen": "2026-10-17T21:33:02.828688+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

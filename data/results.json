@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T05:42:32.347059+00:00",
-  "count": 52,
+  "generated_at": "2026-10-17T10:29:57.806790+00:00",
+  "count": 53,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4675,11 +4675,39 @@
           "t": "2026-10-17T05:42:32.347059+00:00",
           "ccu": 1230,
           "visits": 163177
+        },
+        {
+          "t": "2026-10-17T10:29:57.806790+00:00",
+          "ccu": 1018,
+          "visits": 183525
         }
       ],
-      "latest_ccu": 1230,
-      "latest_visits": 163177,
-      "last_seen": "2026-10-17T05:42:32.347059+00:00",
+      "latest_ccu": 1018,
+      "latest_visits": 183525,
+      "last_seen": "2026-10-17T10:29:57.806790+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83c\udf83 HALLOWEEN] Rust Blaster",
+      "universeId": "10769547438",
+      "rootPlaceId": 138184603444006,
+      "description": "\ud83c\udf83 SPOOKY SEASON until Nov 1! \ud83c\udf83\n\ud83c\udf6c Earn CANDY from every relic you clean\n\ud83d\udc7b HAUNTED CRATE: spooky gems + the numbered Halloween Gem\n\ud83e\udddf FRANKENSTEIN GEM: redeem 2.5M Candy for +100% everything\n\ud83d\udd6f\ufe0f NEW: the NIGHTMARE CRATE for Frankenstein owners. Can YOU pull the HEADLESS HORSEMAN? (1 in 100,000!)\n\n\ud83c\udfea THE MARKET IS OPEN!\nBuy, sell and BID on gems with players in every server, with live RAP prices.\n\n\ud83d\udd25 BLA",
+      "genre": "All",
+      "created": "2026-10-05T22:04:34.831Z",
+      "creatorName": "Zucchini Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-17T10:29:57.806790+00:00",
+          "ccu": 2254,
+          "visits": 146529
+        }
+      ],
+      "latest_ccu": 2254,
+      "latest_visits": 146529,
+      "last_seen": "2026-10-17T10:29:57.806790+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:36:27.691080+00:00",
+  "generated_at": "2026-10-18T11:44:09.919966+00:00",
   "count": 58,
   "games": [
     {
@@ -3965,6 +3965,49 @@
       "growth_ratio": 0.77
     },
     {
+      "name": "Last Stand [\u26f1\ufe0f]",
+      "universeId": "10769802973",
+      "rootPlaceId": 120293323710237,
+      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
+      "genre": "All",
+      "created": "2026-10-07T23:33:43.141Z",
+      "creatorName": "Gordrow",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-17T21:33:02.828688+00:00",
+          "ccu": 1499,
+          "visits": 63091
+        },
+        {
+          "t": "2026-10-17T23:25:58.564826+00:00",
+          "ccu": 1246,
+          "visits": 68780
+        },
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1136,
+          "visits": 74041
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 951,
+          "visits": 86961
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 1161,
+          "visits": 99062
+        }
+      ],
+      "latest_ccu": 1161,
+      "latest_visits": 99062,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
+      "trend_score": 1.6,
+      "trend_label": "declining",
+      "growth_ratio": 0.79
+    },
+    {
       "name": "Nuclear Reactor Simulator",
       "universeId": "10767441669",
       "rootPlaceId": 76469117685884,
@@ -4006,44 +4049,6 @@
       "trend_score": 1.0,
       "trend_label": "declining",
       "growth_ratio": 0.78
-    },
-    {
-      "name": "Last Stand [\u26f1\ufe0f]",
-      "universeId": "10769802973",
-      "rootPlaceId": 120293323710237,
-      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
-      "genre": "All",
-      "created": "2026-10-07T23:33:43.141Z",
-      "creatorName": "Gordrow",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-17T21:33:02.828688+00:00",
-          "ccu": 1499,
-          "visits": 63091
-        },
-        {
-          "t": "2026-10-17T23:25:58.564826+00:00",
-          "ccu": 1246,
-          "visits": 68780
-        },
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1136,
-          "visits": 74041
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 951,
-          "visits": 86961
-        }
-      ],
-      "latest_ccu": 951,
-      "latest_visits": 86961,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
-      "trend_score": 0.4,
-      "trend_label": "declining",
-      "growth_ratio": 0.76
     },
     {
       "name": "Des Hood [BACK!]",
@@ -4802,11 +4807,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 407,
           "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
         }
       ],
-      "latest_ccu": 407,
-      "latest_visits": 144385,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 561,
+      "latest_visits": 152144,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4830,11 +4840,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 753,
           "visits": 160055
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 929,
+          "visits": 173383
         }
       ],
-      "latest_ccu": 753,
-      "latest_visits": 160055,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 929,
+      "latest_visits": 173383,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4858,11 +4873,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 1049,
           "visits": 139557
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 723,
+          "visits": 146265
         }
       ],
-      "latest_ccu": 1049,
-      "latest_visits": 139557,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 723,
+      "latest_visits": 146265,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

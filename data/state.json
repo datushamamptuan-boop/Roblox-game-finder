@@ -4772,14 +4772,19 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 951,
           "visits": 86961
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 1161,
+          "visits": 99062
         }
       ],
-      "latest_ccu": 951,
-      "latest_visits": 86961,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
-      "trend_score": 0.4,
+      "latest_ccu": 1161,
+      "latest_visits": 99062,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
+      "trend_score": 1.6,
       "trend_label": "declining",
-      "growth_ratio": 0.76
+      "growth_ratio": 0.79
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4800,11 +4805,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 407,
           "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
         }
       ],
-      "latest_ccu": 407,
-      "latest_visits": 144385,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 561,
+      "latest_visits": 152144,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4828,11 +4838,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 753,
           "visits": 160055
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 929,
+          "visits": 173383
         }
       ],
-      "latest_ccu": 753,
-      "latest_visits": 160055,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 929,
+      "latest_visits": 173383,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4856,11 +4871,16 @@
           "t": "2026-10-18T06:36:27.691080+00:00",
           "ccu": 1049,
           "visits": 139557
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 723,
+          "visits": 146265
         }
       ],
-      "latest_ccu": 1049,
-      "latest_visits": 139557,
-      "last_seen": "2026-10-18T06:36:27.691080+00:00",
+      "latest_ccu": 723,
+      "latest_visits": 146265,
+      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

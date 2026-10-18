@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T21:03:15.723610+00:00",
-  "count": 59,
+  "generated_at": "2026-10-18T23:24:07.707704+00:00",
+  "count": 60,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -335,54 +335,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.57
-    },
-    {
-      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
-      "universeId": "10766745701",
-      "rootPlaceId": 97576917444381,
-      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
-      "genre": "All",
-      "created": "2026-09-17T01:37:50.072Z",
-      "creatorName": "stravant",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 670,
-          "visits": 135892
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 407,
-          "visits": 144385
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 561,
-          "visits": 152144
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 770,
-          "visits": 161958
-        },
-        {
-          "t": "2026-10-18T18:34:20.973934+00:00",
-          "ccu": 920,
-          "visits": 170779
-        },
-        {
-          "t": "2026-10-18T21:03:15.723610+00:00",
-          "ccu": 800,
-          "visits": 178554
-        }
-      ],
-      "latest_ccu": 800,
-      "latest_visits": 178554,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.52
     },
     {
       "name": "[\ud83d\udea8] SWAT Manager",
@@ -1214,6 +1166,59 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
+      "universeId": "10766745701",
+      "rootPlaceId": 97576917444381,
+      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
+      "genre": "All",
+      "created": "2026-09-17T01:37:50.072Z",
+      "creatorName": "stravant",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 670,
+          "visits": 135892
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 407,
+          "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 770,
+          "visits": 161958
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 920,
+          "visits": 170779
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 800,
+          "visits": 178554
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 591,
+          "visits": 184585
+        }
+      ],
+      "latest_ccu": 591,
+      "latest_visits": 184585,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": 90.5,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.41
     },
     {
       "name": "Horde Defenders",
@@ -3452,14 +3457,19 @@
           "t": "2026-10-18T21:03:15.723610+00:00",
           "ccu": 1067,
           "visits": 127688
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 877,
+          "visits": 132822
         }
       ],
-      "latest_ccu": 1067,
-      "latest_visits": 127688,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
-      "trend_score": 41.5,
+      "latest_ccu": 877,
+      "latest_visits": 132822,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": 32.1,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.01
+      "growth_ratio": 0.95
     },
     {
       "name": "Zee",
@@ -4956,11 +4966,39 @@
           "t": "2026-10-18T21:03:15.723610+00:00",
           "ccu": 1558,
           "visits": 160754
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 1289,
+          "visits": 171009
         }
       ],
-      "latest_ccu": 1558,
-      "latest_visits": 160754,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
+      "latest_ccu": 1289,
+      "latest_visits": 171009,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Zee : ZHD",
+      "universeId": "10766105611",
+      "rootPlaceId": 104769030382243,
+      "description": "ZHD Entertainment made this.\n\nanother day another zee ;3",
+      "genre": "All",
+      "created": "2026-09-12T07:33:48.403Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 599,
+          "visits": 161721
+        }
+      ],
+      "latest_ccu": 599,
+      "latest_visits": 161721,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

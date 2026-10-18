@@ -4792,14 +4792,19 @@
           "t": "2026-10-18T21:03:15.723610+00:00",
           "ccu": 1067,
           "visits": 127688
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 877,
+          "visits": 132822
         }
       ],
-      "latest_ccu": 1067,
-      "latest_visits": 127688,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
-      "trend_score": 41.5,
+      "latest_ccu": 877,
+      "latest_visits": 132822,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": 32.1,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.01
+      "growth_ratio": 0.95
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4840,14 +4845,19 @@
           "t": "2026-10-18T21:03:15.723610+00:00",
           "ccu": 800,
           "visits": 178554
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 591,
+          "visits": 184585
         }
       ],
-      "latest_ccu": 800,
-      "latest_visits": 178554,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
-      "trend_score": 100,
+      "latest_ccu": 591,
+      "latest_visits": 184585,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": 90.5,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.52
+      "growth_ratio": 1.41
     },
     "10768544078": {
       "name": "[\ud83d\udea8] SWAT Manager",
@@ -4954,11 +4964,39 @@
           "t": "2026-10-18T21:03:15.723610+00:00",
           "ccu": 1558,
           "visits": 160754
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 1289,
+          "visits": 171009
         }
       ],
-      "latest_ccu": 1558,
-      "latest_visits": 160754,
-      "last_seen": "2026-10-18T21:03:15.723610+00:00",
+      "latest_ccu": 1289,
+      "latest_visits": 171009,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10766105611": {
+      "name": "Zee : ZHD",
+      "universeId": "10766105611",
+      "rootPlaceId": 104769030382243,
+      "description": "ZHD Entertainment made this.\n\nanother day another zee ;3",
+      "genre": "All",
+      "created": "2026-09-12T07:33:48.403Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 599,
+          "visits": 161721
+        }
+      ],
+      "latest_ccu": 599,
+      "latest_visits": 161721,
+      "last_seen": "2026-10-18T23:24:07.707704+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

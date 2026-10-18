@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:44:29.749464+00:00",
+  "generated_at": "2026-10-18T18:34:20.973934+00:00",
   "count": 58,
   "games": [
     {
@@ -337,6 +337,49 @@
       "growth_ratio": 1.57
     },
     {
+      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
+      "universeId": "10766745701",
+      "rootPlaceId": 97576917444381,
+      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
+      "genre": "All",
+      "created": "2026-09-17T01:37:50.072Z",
+      "creatorName": "stravant",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 670,
+          "visits": 135892
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 407,
+          "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 770,
+          "visits": 161958
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 920,
+          "visits": 170779
+        }
+      ],
+      "latest_ccu": 920,
+      "latest_visits": 170779,
+      "last_seen": "2026-10-18T18:34:20.973934+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.39
+    },
+    {
       "name": "[\ud83d\udea8] SWAT Manager",
       "universeId": "10768544078",
       "rootPlaceId": 94127562270073,
@@ -365,14 +408,62 @@
           "t": "2026-10-18T15:44:29.749464+00:00",
           "ccu": 1169,
           "visits": 187353
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 1086,
+          "visits": 197886
         }
       ],
-      "latest_ccu": 1169,
-      "latest_visits": 187353,
-      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "latest_ccu": 1086,
+      "latest_visits": 197886,
+      "last_seen": "2026-10-18T18:34:20.973934+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.33
+      "growth_ratio": 1.35
+    },
+    {
+      "name": "Bit Tensei [SPELL FORGE\ud83d\udd25]",
+      "universeId": "10767911858",
+      "rootPlaceId": 135768209230536,
+      "description": "\u2694\ufe0f BIT TENSEI \u2728\nBe reborn in a world of magic and swords, and live a whole life one year at a time.\n\nEvery life is different. You could be born a noble elf or an orphan in a war zone. Train with the sword or awaken your magic, and chase fame, love, gold or power. Every choice shapes who you become.\n\n\ud83c\udf1f FEATURES\n\nLive from birth to old age as a Human, Elf, Dwarf and more\nMaster magic, swordsmanship ",
+      "genre": "All",
+      "created": "2026-09-24T20:57:15.225Z",
+      "creatorName": "themoneymanzz",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1417,
+          "visits": 127482
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 1049,
+          "visits": 139557
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 723,
+          "visits": 146265
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1723,
+          "visits": 161027
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 2112,
+          "visits": 174500
+        }
+      ],
+      "latest_ccu": 2112,
+      "latest_visits": 174500,
+      "last_seen": "2026-10-18T18:34:20.973934+00:00",
+      "trend_score": 99.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.23
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -431,44 +522,6 @@
       "trend_score": 98.7,
       "trend_label": "strong_upward",
       "growth_ratio": 1.22
-    },
-    {
-      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
-      "universeId": "10766745701",
-      "rootPlaceId": 97576917444381,
-      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
-      "genre": "All",
-      "created": "2026-09-17T01:37:50.072Z",
-      "creatorName": "stravant",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 670,
-          "visits": 135892
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 407,
-          "visits": 144385
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 561,
-          "visits": 152144
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 770,
-          "visits": 161958
-        }
-      ],
-      "latest_ccu": 770,
-      "latest_visits": 161958,
-      "last_seen": "2026-10-18T15:44:29.749464+00:00",
-      "trend_score": 97.1,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.24
     },
     {
       "name": "DUCTWORKS",
@@ -1209,44 +1262,6 @@
       "trend_score": 78.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
-    },
-    {
-      "name": "Bit Tensei [SPELL FORGE\ud83d\udd25]",
-      "universeId": "10767911858",
-      "rootPlaceId": 135768209230536,
-      "description": "\u2694\ufe0f BIT TENSEI \u2728\nBe reborn in a world of magic and swords, and live a whole life one year at a time.\n\nEvery life is different. You could be born a noble elf or an orphan in a war zone. Train with the sword or awaken your magic, and chase fame, love, gold or power. Every choice shapes who you become.\n\n\ud83c\udf1f FEATURES\n\nLive from birth to old age as a Human, Elf, Dwarf and more\nMaster magic, swordsmanship ",
-      "genre": "All",
-      "created": "2026-09-24T20:57:15.225Z",
-      "creatorName": "themoneymanzz",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1417,
-          "visits": 127482
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 1049,
-          "visits": 139557
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 723,
-          "visits": 146265
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 1723,
-          "visits": 161027
-        }
-      ],
-      "latest_ccu": 1723,
-      "latest_visits": 161027,
-      "last_seen": "2026-10-18T15:44:29.749464+00:00",
-      "trend_score": 73.8,
-      "trend_label": "strong_upward",
-      "growth_ratio": 0.99
     },
     {
       "name": "Weather Sandbox",
@@ -3417,14 +3432,19 @@
           "t": "2026-10-18T15:44:29.749464+00:00",
           "ccu": 1318,
           "visits": 111406
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 1335,
+          "visits": 120530
         }
       ],
-      "latest_ccu": 1318,
-      "latest_visits": 111406,
-      "last_seen": "2026-10-18T15:44:29.749464+00:00",
-      "trend_score": 29.6,
-      "trend_label": "declining",
-      "growth_ratio": 0.88
+      "latest_ccu": 1335,
+      "latest_visits": 120530,
+      "last_seen": "2026-10-18T18:34:20.973934+00:00",
+      "trend_score": 42.2,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.92
     },
     {
       "name": "Zee",

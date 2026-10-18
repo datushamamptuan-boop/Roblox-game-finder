@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:44:09.919966+00:00",
+  "generated_at": "2026-10-18T15:44:29.749464+00:00",
   "count": 58,
   "games": [
     {
@@ -337,6 +337,44 @@
       "growth_ratio": 1.57
     },
     {
+      "name": "[\ud83d\udea8] SWAT Manager",
+      "universeId": "10768544078",
+      "rootPlaceId": 94127562270073,
+      "description": "\ud83d\udea8 BUILD YOUR OWN SWAT DEPARTMENT\n\nStart with a tiny headquarters, one officer, and an old patrol vehicle. Respond to incidents, earn cash, collect tactical gear, and build your department into an elite SWAT force.\n\n\ud83d\ude94 RESPOND TO INCIDENTS\nDispatch your units to robberies, pursuits, raids, and emergencies across the city.\n\n\ud83d\udc6e BUILD YOUR TEAM\nRecruit officers with different rarities, stats, roles, and",
+      "genre": "All",
+      "created": "2026-09-29T02:08:23.094Z",
+      "creatorName": "Speedy Robbers",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 824,
+          "visits": 147520
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 753,
+          "visits": 160055
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 929,
+          "visits": 173383
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1169,
+          "visits": 187353
+        }
+      ],
+      "latest_ccu": 1169,
+      "latest_visits": 187353,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.33
+    },
+    {
       "name": "Mitosis [UPD 1]",
       "universeId": "10768689412",
       "rootPlaceId": 134829968203846,
@@ -393,6 +431,44 @@
       "trend_score": 98.7,
       "trend_label": "strong_upward",
       "growth_ratio": 1.22
+    },
+    {
+      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
+      "universeId": "10766745701",
+      "rootPlaceId": 97576917444381,
+      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
+      "genre": "All",
+      "created": "2026-09-17T01:37:50.072Z",
+      "creatorName": "stravant",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 670,
+          "visits": 135892
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 407,
+          "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 770,
+          "visits": 161958
+        }
+      ],
+      "latest_ccu": 770,
+      "latest_visits": 161958,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 97.1,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.24
     },
     {
       "name": "DUCTWORKS",
@@ -1133,6 +1209,44 @@
       "trend_score": 78.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
+    },
+    {
+      "name": "Bit Tensei [SPELL FORGE\ud83d\udd25]",
+      "universeId": "10767911858",
+      "rootPlaceId": 135768209230536,
+      "description": "\u2694\ufe0f BIT TENSEI \u2728\nBe reborn in a world of magic and swords, and live a whole life one year at a time.\n\nEvery life is different. You could be born a noble elf or an orphan in a war zone. Train with the sword or awaken your magic, and chase fame, love, gold or power. Every choice shapes who you become.\n\n\ud83c\udf1f FEATURES\n\nLive from birth to old age as a Human, Elf, Dwarf and more\nMaster magic, swordsmanship ",
+      "genre": "All",
+      "created": "2026-09-24T20:57:15.225Z",
+      "creatorName": "themoneymanzz",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1417,
+          "visits": 127482
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 1049,
+          "visits": 139557
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 723,
+          "visits": 146265
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1723,
+          "visits": 161027
+        }
+      ],
+      "latest_ccu": 1723,
+      "latest_visits": 161027,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 73.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 0.99
     },
     {
       "name": "Weather Sandbox",
@@ -3265,6 +3379,54 @@
       "growth_ratio": 0.96
     },
     {
+      "name": "Last Stand [\u26f1\ufe0f]",
+      "universeId": "10769802973",
+      "rootPlaceId": 120293323710237,
+      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
+      "genre": "All",
+      "created": "2026-10-07T23:33:43.141Z",
+      "creatorName": "Gordrow",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-17T21:33:02.828688+00:00",
+          "ccu": 1499,
+          "visits": 63091
+        },
+        {
+          "t": "2026-10-17T23:25:58.564826+00:00",
+          "ccu": 1246,
+          "visits": 68780
+        },
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1136,
+          "visits": 74041
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 951,
+          "visits": 86961
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 1161,
+          "visits": 99062
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1318,
+          "visits": 111406
+        }
+      ],
+      "latest_ccu": 1318,
+      "latest_visits": 111406,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 29.6,
+      "trend_label": "declining",
+      "growth_ratio": 0.88
+    },
+    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -3963,49 +4125,6 @@
       "trend_score": 18.4,
       "trend_label": "declining",
       "growth_ratio": 0.77
-    },
-    {
-      "name": "Last Stand [\u26f1\ufe0f]",
-      "universeId": "10769802973",
-      "rootPlaceId": 120293323710237,
-      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
-      "genre": "All",
-      "created": "2026-10-07T23:33:43.141Z",
-      "creatorName": "Gordrow",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-17T21:33:02.828688+00:00",
-          "ccu": 1499,
-          "visits": 63091
-        },
-        {
-          "t": "2026-10-17T23:25:58.564826+00:00",
-          "ccu": 1246,
-          "visits": 68780
-        },
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1136,
-          "visits": 74041
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 951,
-          "visits": 86961
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 1161,
-          "visits": 99062
-        }
-      ],
-      "latest_ccu": 1161,
-      "latest_visits": 99062,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": 1.6,
-      "trend_label": "declining",
-      "growth_ratio": 0.79
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -4784,105 +4903,6 @@
       "latest_ccu": 2228,
       "latest_visits": 199615,
       "last_seen": "2026-10-17T19:16:18.957497+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
-      "universeId": "10766745701",
-      "rootPlaceId": 97576917444381,
-      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
-      "genre": "All",
-      "created": "2026-09-17T01:37:50.072Z",
-      "creatorName": "stravant",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 670,
-          "visits": 135892
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 407,
-          "visits": 144385
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 561,
-          "visits": 152144
-        }
-      ],
-      "latest_ccu": 561,
-      "latest_visits": 152144,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "[\ud83d\udea8] SWAT Manager",
-      "universeId": "10768544078",
-      "rootPlaceId": 94127562270073,
-      "description": "\ud83d\udea8 BUILD YOUR OWN SWAT DEPARTMENT\n\nStart with a tiny headquarters, one officer, and an old patrol vehicle. Respond to incidents, earn cash, collect tactical gear, and build your department into an elite SWAT force.\n\n\ud83d\ude94 RESPOND TO INCIDENTS\nDispatch your units to robberies, pursuits, raids, and emergencies across the city.\n\n\ud83d\udc6e BUILD YOUR TEAM\nRecruit officers with different rarities, stats, roles, and",
-      "genre": "All",
-      "created": "2026-09-29T02:08:23.094Z",
-      "creatorName": "Speedy Robbers",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 824,
-          "visits": 147520
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 753,
-          "visits": 160055
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 929,
-          "visits": 173383
-        }
-      ],
-      "latest_ccu": 929,
-      "latest_visits": 173383,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Bit Tensei [SPELL FORGE\ud83d\udd25]",
-      "universeId": "10767911858",
-      "rootPlaceId": 135768209230536,
-      "description": "\u2694\ufe0f BIT TENSEI \u2728\nBe reborn in a world of magic and swords, and live a whole life one year at a time.\n\nEvery life is different. You could be born a noble elf or an orphan in a war zone. Train with the sword or awaken your magic, and chase fame, love, gold or power. Every choice shapes who you become.\n\n\ud83c\udf1f FEATURES\n\nLive from birth to old age as a Human, Elf, Dwarf and more\nMaster magic, swordsmanship ",
-      "genre": "All",
-      "created": "2026-09-24T20:57:15.225Z",
-      "creatorName": "themoneymanzz",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1417,
-          "visits": 127482
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 1049,
-          "visits": 139557
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 723,
-          "visits": 146265
-        }
-      ],
-      "latest_ccu": 723,
-      "latest_visits": 146265,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

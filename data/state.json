@@ -4777,14 +4777,19 @@
           "t": "2026-10-18T11:44:09.919966+00:00",
           "ccu": 1161,
           "visits": 99062
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1318,
+          "visits": 111406
         }
       ],
-      "latest_ccu": 1161,
-      "latest_visits": 99062,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": 1.6,
+      "latest_ccu": 1318,
+      "latest_visits": 111406,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 29.6,
       "trend_label": "declining",
-      "growth_ratio": 0.79
+      "growth_ratio": 0.88
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4810,14 +4815,19 @@
           "t": "2026-10-18T11:44:09.919966+00:00",
           "ccu": 561,
           "visits": 152144
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 770,
+          "visits": 161958
         }
       ],
-      "latest_ccu": 561,
-      "latest_visits": 152144,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 770,
+      "latest_visits": 161958,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 97.1,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.24
     },
     "10768544078": {
       "name": "[\ud83d\udea8] SWAT Manager",
@@ -4843,14 +4853,19 @@
           "t": "2026-10-18T11:44:09.919966+00:00",
           "ccu": 929,
           "visits": 173383
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1169,
+          "visits": 187353
         }
       ],
-      "latest_ccu": 929,
-      "latest_visits": 173383,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1169,
+      "latest_visits": 187353,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.33
     },
     "10767911858": {
       "name": "Bit Tensei [SPELL FORGE\ud83d\udd25]",
@@ -4876,14 +4891,19 @@
           "t": "2026-10-18T11:44:09.919966+00:00",
           "ccu": 723,
           "visits": 146265
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1723,
+          "visits": 161027
         }
       ],
-      "latest_ccu": 723,
-      "latest_visits": 146265,
-      "last_seen": "2026-10-18T11:44:09.919966+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1723,
+      "latest_visits": 161027,
+      "last_seen": "2026-10-18T15:44:29.749464+00:00",
+      "trend_score": 73.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 0.99
     }
   }
 }

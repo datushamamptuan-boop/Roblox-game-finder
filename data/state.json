@@ -4787,14 +4787,19 @@
           "t": "2026-10-18T18:34:20.973934+00:00",
           "ccu": 1335,
           "visits": 120530
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 1067,
+          "visits": 127688
         }
       ],
-      "latest_ccu": 1335,
-      "latest_visits": 120530,
-      "last_seen": "2026-10-18T18:34:20.973934+00:00",
-      "trend_score": 42.2,
+      "latest_ccu": 1067,
+      "latest_visits": 127688,
+      "last_seen": "2026-10-18T21:03:15.723610+00:00",
+      "trend_score": 41.5,
       "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.92
+      "growth_ratio": 1.01
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4830,14 +4835,19 @@
           "t": "2026-10-18T18:34:20.973934+00:00",
           "ccu": 920,
           "visits": 170779
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 800,
+          "visits": 178554
         }
       ],
-      "latest_ccu": 920,
-      "latest_visits": 170779,
-      "last_seen": "2026-10-18T18:34:20.973934+00:00",
+      "latest_ccu": 800,
+      "latest_visits": 178554,
+      "last_seen": "2026-10-18T21:03:15.723610+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.39
+      "growth_ratio": 1.52
     },
     "10768544078": {
       "name": "[\ud83d\udea8] SWAT Manager",
@@ -4916,14 +4926,42 @@
           "t": "2026-10-18T18:34:20.973934+00:00",
           "ccu": 2112,
           "visits": 174500
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 2317,
+          "visits": 191797
         }
       ],
-      "latest_ccu": 2112,
-      "latest_visits": 174500,
-      "last_seen": "2026-10-18T18:34:20.973934+00:00",
-      "trend_score": 99.3,
+      "latest_ccu": 2317,
+      "latest_visits": 191797,
+      "last_seen": "2026-10-18T21:03:15.723610+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.23
+      "growth_ratio": 1.93
+    },
+    "10764256384": {
+      "name": "[\ud83c\udf83EVENT] Plinky Plonky",
+      "universeId": "10764256384",
+      "rootPlaceId": 87503271985688,
+      "description": "\ud83c\udfaf DROP. ROLL. REBIRTH. \ud83c\udfaf\n\nthis game is basically an incremental but 100x more fun\nDrop balls down boards and chase the JACKPOT slot in the middle!\n\ud83c\udf81 CODE: RELEASE (500 coins)\n\n\ud83c\udfb2 ROLL for better balls. Better balls = more luck = more jackpots.\n\u2692\ufe0f FORGE balls together to combine them into rarer balls!\n\ud83d\udd13 BUY new boards, upgrades and gadgets!\n\ud83d\udc80 Reach the FINAL CHANCE and hit the jackpot to unlock the ",
+      "genre": "All",
+      "created": "2026-08-28T21:02:57.849Z",
+      "creatorName": "Plinky Community",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 1558,
+          "visits": 160754
+        }
+      ],
+      "latest_ccu": 1558,
+      "latest_visits": 160754,
+      "last_seen": "2026-10-18T21:03:15.723610+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

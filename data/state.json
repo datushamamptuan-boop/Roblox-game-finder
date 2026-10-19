@@ -4797,14 +4797,19 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 877,
           "visits": 132822
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 766,
+          "visits": 136902
         }
       ],
-      "latest_ccu": 877,
-      "latest_visits": 132822,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
-      "trend_score": 32.1,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.95
+      "latest_ccu": 766,
+      "latest_visits": 136902,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "trend_score": 23.9,
+      "trend_label": "declining",
+      "growth_ratio": 0.89
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4850,14 +4855,19 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 591,
           "visits": 184585
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 640,
+          "visits": 189061
         }
       ],
-      "latest_ccu": 591,
-      "latest_visits": 184585,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
-      "trend_score": 90.5,
+      "latest_ccu": 640,
+      "latest_visits": 189061,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "trend_score": 73.0,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.41
+      "growth_ratio": 1.23
     },
     "10768544078": {
       "name": "[\ud83d\udea8] SWAT Manager",
@@ -4969,11 +4979,16 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 1289,
           "visits": 171009
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 1152,
+          "visits": 177254
         }
       ],
-      "latest_ccu": 1289,
-      "latest_visits": 171009,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "latest_ccu": 1152,
+      "latest_visits": 177254,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4992,11 +5007,16 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 599,
           "visits": 161721
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 456,
+          "visits": 167627
         }
       ],
-      "latest_ccu": 599,
-      "latest_visits": 161721,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "latest_ccu": 456,
+      "latest_visits": 167627,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

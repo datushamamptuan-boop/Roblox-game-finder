@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:24:07.707704+00:00",
+  "generated_at": "2026-10-19T01:43:01.667784+00:00",
   "count": 60,
   "games": [
     {
@@ -1168,59 +1168,6 @@
       "growth_ratio": 1.77
     },
     {
-      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
-      "universeId": "10766745701",
-      "rootPlaceId": 97576917444381,
-      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
-      "genre": "All",
-      "created": "2026-09-17T01:37:50.072Z",
-      "creatorName": "stravant",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 670,
-          "visits": 135892
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 407,
-          "visits": 144385
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 561,
-          "visits": 152144
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 770,
-          "visits": 161958
-        },
-        {
-          "t": "2026-10-18T18:34:20.973934+00:00",
-          "ccu": 920,
-          "visits": 170779
-        },
-        {
-          "t": "2026-10-18T21:03:15.723610+00:00",
-          "ccu": 800,
-          "visits": 178554
-        },
-        {
-          "t": "2026-10-18T23:24:07.707704+00:00",
-          "ccu": 591,
-          "visits": 184585
-        }
-      ],
-      "latest_ccu": 591,
-      "latest_visits": 184585,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
-      "trend_score": 90.5,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.41
-    },
-    {
       "name": "Horde Defenders",
       "universeId": "10766114988",
       "rootPlaceId": 93237333081860,
@@ -1277,6 +1224,64 @@
       "trend_score": 78.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
+    },
+    {
+      "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
+      "universeId": "10766745701",
+      "rootPlaceId": 97576917444381,
+      "description": "\u20ac\ud83d\udcb6 Euros available now, get free rolls this weekend!\n\nBuild a collection of coins by opening coin rolls. What rare coins will you find? Rip right through round rolls with reckless rancor!\n\nCurrent series:\n* US Pennies [Shield, Bicentennial, Memorial, Wheat, Indian]\n* US Nickels [Monticello, Westward Journey, Jefferson, Buffalo, Liberty]\n* US Dimes [Roosevelt, Mercury, Barber]\n* US Quarters [Women,",
+      "genre": "All",
+      "created": "2026-09-17T01:37:50.072Z",
+      "creatorName": "stravant",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 670,
+          "visits": 135892
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 407,
+          "visits": 144385
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 561,
+          "visits": 152144
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 770,
+          "visits": 161958
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 920,
+          "visits": 170779
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 800,
+          "visits": 178554
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 591,
+          "visits": 184585
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 640,
+          "visits": 189061
+        }
+      ],
+      "latest_ccu": 640,
+      "latest_visits": 189061,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "trend_score": 73.0,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.23
     },
     {
       "name": "Weather Sandbox",
@@ -3409,69 +3414,6 @@
       "growth_ratio": 0.96
     },
     {
-      "name": "Last Stand [\u26f1\ufe0f]",
-      "universeId": "10769802973",
-      "rootPlaceId": 120293323710237,
-      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
-      "genre": "All",
-      "created": "2026-10-07T23:33:43.141Z",
-      "creatorName": "Gordrow",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-17T21:33:02.828688+00:00",
-          "ccu": 1499,
-          "visits": 63091
-        },
-        {
-          "t": "2026-10-17T23:25:58.564826+00:00",
-          "ccu": 1246,
-          "visits": 68780
-        },
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1136,
-          "visits": 74041
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 951,
-          "visits": 86961
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 1161,
-          "visits": 99062
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 1318,
-          "visits": 111406
-        },
-        {
-          "t": "2026-10-18T18:34:20.973934+00:00",
-          "ccu": 1335,
-          "visits": 120530
-        },
-        {
-          "t": "2026-10-18T21:03:15.723610+00:00",
-          "ccu": 1067,
-          "visits": 127688
-        },
-        {
-          "t": "2026-10-18T23:24:07.707704+00:00",
-          "ccu": 877,
-          "visits": 132822
-        }
-      ],
-      "latest_ccu": 877,
-      "latest_visits": 132822,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
-      "trend_score": 32.1,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.95
-    },
-    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -3723,6 +3665,74 @@
       "trend_score": 25.3,
       "trend_label": "declining",
       "growth_ratio": 0.61
+    },
+    {
+      "name": "Last Stand [\u26f1\ufe0f]",
+      "universeId": "10769802973",
+      "rootPlaceId": 120293323710237,
+      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
+      "genre": "All",
+      "created": "2026-10-07T23:33:43.141Z",
+      "creatorName": "Gordrow",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-17T21:33:02.828688+00:00",
+          "ccu": 1499,
+          "visits": 63091
+        },
+        {
+          "t": "2026-10-17T23:25:58.564826+00:00",
+          "ccu": 1246,
+          "visits": 68780
+        },
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1136,
+          "visits": 74041
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 951,
+          "visits": 86961
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 1161,
+          "visits": 99062
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1318,
+          "visits": 111406
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 1335,
+          "visits": 120530
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 1067,
+          "visits": 127688
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 877,
+          "visits": 132822
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 766,
+          "visits": 136902
+        }
+      ],
+      "latest_ccu": 766,
+      "latest_visits": 136902,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "trend_score": 23.9,
+      "trend_label": "declining",
+      "growth_ratio": 0.89
     },
     {
       "name": "Strikeborn",
@@ -4971,11 +4981,16 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 1289,
           "visits": 171009
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 1152,
+          "visits": 177254
         }
       ],
-      "latest_ccu": 1289,
-      "latest_visits": 171009,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "latest_ccu": 1152,
+      "latest_visits": 177254,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -4994,11 +5009,16 @@
           "t": "2026-10-18T23:24:07.707704+00:00",
           "ccu": 599,
           "visits": 161721
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 456,
+          "visits": 167627
         }
       ],
-      "latest_ccu": 599,
-      "latest_visits": 161721,
-      "last_seen": "2026-10-18T23:24:07.707704+00:00",
+      "latest_ccu": 456,
+      "latest_visits": 167627,
+      "last_seen": "2026-10-19T01:43:01.667784+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

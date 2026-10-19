@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:32:21.378716+00:00",
+  "generated_at": "2026-10-19T23:57:10.585269+00:00",
   "count": 63,
   "games": [
     {
@@ -4187,14 +4187,19 @@
           "t": "2026-10-19T20:32:21.378716+00:00",
           "ccu": 830,
           "visits": 169100
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 682,
+          "visits": 175636
         }
       ],
-      "latest_ccu": 830,
-      "latest_visits": 169100,
-      "last_seen": "2026-10-19T20:32:21.378716+00:00",
-      "trend_score": 13.6,
+      "latest_ccu": 682,
+      "latest_visits": 175636,
+      "last_seen": "2026-10-19T23:57:10.585269+00:00",
+      "trend_score": 9.7,
       "trend_label": "declining",
-      "growth_ratio": 0.73
+      "growth_ratio": 0.65
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -5077,11 +5082,16 @@
           "t": "2026-10-19T20:32:21.378716+00:00",
           "ccu": 1789,
           "visits": 158484
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 915,
+          "visits": 173175
         }
       ],
-      "latest_ccu": 1789,
-      "latest_visits": 158484,
-      "last_seen": "2026-10-19T20:32:21.378716+00:00",
+      "latest_ccu": 915,
+      "latest_visits": 173175,
+      "last_seen": "2026-10-19T23:57:10.585269+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5105,11 +5115,16 @@
           "t": "2026-10-19T20:32:21.378716+00:00",
           "ccu": 514,
           "visits": 179190
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 660,
+          "visits": 187874
         }
       ],
-      "latest_ccu": 514,
-      "latest_visits": 179190,
-      "last_seen": "2026-10-19T20:32:21.378716+00:00",
+      "latest_ccu": 660,
+      "latest_visits": 187874,
+      "last_seen": "2026-10-19T23:57:10.585269+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5128,11 +5143,16 @@
           "t": "2026-10-19T20:32:21.378716+00:00",
           "ccu": 783,
           "visits": 170860
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 1163,
+          "visits": 181017
         }
       ],
-      "latest_ccu": 783,
-      "latest_visits": 170860,
-      "last_seen": "2026-10-19T20:32:21.378716+00:00",
+      "latest_ccu": 1163,
+      "latest_visits": 181017,
+      "last_seen": "2026-10-19T23:57:10.585269+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

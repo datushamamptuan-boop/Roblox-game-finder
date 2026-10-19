@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T07:37:10.095529+00:00",
-  "count": 60,
+  "generated_at": "2026-10-19T15:00:01.756737+00:00",
+  "count": 62,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4177,14 +4177,19 @@
           "t": "2026-10-19T07:37:10.095529+00:00",
           "ccu": 538,
           "visits": 144736
+        },
+        {
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 846,
+          "visits": 157254
         }
       ],
-      "latest_ccu": 538,
-      "latest_visits": 144736,
-      "last_seen": "2026-10-19T07:37:10.095529+00:00",
-      "trend_score": 13.0,
+      "latest_ccu": 846,
+      "latest_visits": 157254,
+      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "trend_score": 12.1,
       "trend_label": "declining",
-      "growth_ratio": 0.82
+      "growth_ratio": 0.74
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -4395,6 +4400,44 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.64
+    },
+    {
+      "name": "Zee : ZHD",
+      "universeId": "10766105611",
+      "rootPlaceId": 104769030382243,
+      "description": "ZHD Entertainment made this.\n\nanother day another zee ;3",
+      "genre": "All",
+      "created": "2026-09-12T07:33:48.403Z",
+      "creatorName": "ZHD Entertainment",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 599,
+          "visits": 161721
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 456,
+          "visits": 167627
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 195,
+          "visits": 179141
+        },
+        {
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 233,
+          "visits": 185921
+        }
+      ],
+      "latest_ccu": 233,
+      "latest_visits": 185921,
+      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.41
     },
     {
       "name": "The Cosalazo 2 ",
@@ -5006,34 +5049,47 @@
       "growth_ratio": null
     },
     {
-      "name": "Zee : ZHD",
-      "universeId": "10766105611",
-      "rootPlaceId": 104769030382243,
-      "description": "ZHD Entertainment made this.\n\nanother day another zee ;3",
+      "name": "Bullets VS Everything",
+      "universeId": "10769501542",
+      "rootPlaceId": 131488313787599,
+      "description": "\ud83d\udd2b How far can ONE bullet go? \ud83d\udd2b\n\nLine up paper, burgers, fridges, cars\u2026 all the way to the Moon, the Sun and even a BLACK HOLE, then fire a single shot straight through ALL of it! Every object your bullet breaks pays out cash.\n\n\ud83c\udfb0 Pull the lever to roll new objects, some as rare as 1 in a TRILLION\n\ud83c\udf08 Collect mutations: Gold, Rainbow, Frozen, Galaxy and more\n\ud83c\udf29\ufe0f Weather events boost your rolls: Thunder",
       "genre": "All",
-      "created": "2026-09-12T07:33:48.403Z",
-      "creatorName": "ZHD Entertainment",
+      "created": "2026-10-05T15:57:33.914Z",
+      "creatorName": "CCU Explosion",
       "creatorType": "Group",
       "history": [
         {
-          "t": "2026-10-18T23:24:07.707704+00:00",
-          "ccu": 599,
-          "visits": 161721
-        },
-        {
-          "t": "2026-10-19T01:43:01.667784+00:00",
-          "ccu": 456,
-          "visits": 167627
-        },
-        {
-          "t": "2026-10-19T07:37:10.095529+00:00",
-          "ccu": 195,
-          "visits": 179141
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 1350,
+          "visits": 133092
         }
       ],
-      "latest_ccu": 195,
-      "latest_visits": 179141,
-      "last_seen": "2026-10-19T07:37:10.095529+00:00",
+      "latest_ccu": 1350,
+      "latest_visits": 133092,
+      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Pixel Basketball",
+      "universeId": "10767570793",
+      "rootPlaceId": 140510877927109,
+      "description": "5V5 PIXEL BASKETBALL, FAST PACED AND EASY TO PLAY!\n\nPick any open spot and jump straight in. Play solo, 1v1 or full 5v5 on the beach, in the gym or at the park.\n\nHit the green on your shot meter for a PERFECT release, break ankles with your dribble, posterize defenders and get chase down blocks!\n\nRebind your keys in Settings. Plays on PC, mobile and console!",
+      "genre": "All",
+      "created": "2026-09-22T06:13:47.606Z",
+      "creatorName": "Working 24/7",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 253,
+          "visits": 170874
+        }
+      ],
+      "latest_ccu": 253,
+      "latest_visits": 170874,
+      "last_seen": "2026-10-19T15:00:01.756737+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

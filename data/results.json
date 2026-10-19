@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T15:00:01.756737+00:00",
-  "count": 62,
+  "generated_at": "2026-10-19T20:32:21.378716+00:00",
+  "count": 63,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4182,14 +4182,19 @@
           "t": "2026-10-19T15:00:01.756737+00:00",
           "ccu": 846,
           "visits": 157254
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 830,
+          "visits": 169100
         }
       ],
-      "latest_ccu": 846,
-      "latest_visits": 157254,
-      "last_seen": "2026-10-19T15:00:01.756737+00:00",
-      "trend_score": 12.1,
+      "latest_ccu": 830,
+      "latest_visits": 169100,
+      "last_seen": "2026-10-19T20:32:21.378716+00:00",
+      "trend_score": 13.6,
       "trend_label": "declining",
-      "growth_ratio": 0.74
+      "growth_ratio": 0.73
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -4430,14 +4435,19 @@
           "t": "2026-10-19T15:00:01.756737+00:00",
           "ccu": 233,
           "visits": 185921
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 445,
+          "visits": 196350
         }
       ],
-      "latest_ccu": 233,
-      "latest_visits": 185921,
-      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "latest_ccu": 445,
+      "latest_visits": 196350,
+      "last_seen": "2026-10-19T20:32:21.378716+00:00",
       "trend_score": 0,
       "trend_label": "declining",
-      "growth_ratio": 0.41
+      "growth_ratio": 0.55
     },
     {
       "name": "The Cosalazo 2 ",
@@ -5062,11 +5072,16 @@
           "t": "2026-10-19T15:00:01.756737+00:00",
           "ccu": 1350,
           "visits": 133092
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 1789,
+          "visits": 158484
         }
       ],
-      "latest_ccu": 1350,
-      "latest_visits": 133092,
-      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "latest_ccu": 1789,
+      "latest_visits": 158484,
+      "last_seen": "2026-10-19T20:32:21.378716+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5085,11 +5100,39 @@
           "t": "2026-10-19T15:00:01.756737+00:00",
           "ccu": 253,
           "visits": 170874
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 514,
+          "visits": 179190
         }
       ],
-      "latest_ccu": 253,
-      "latest_visits": 170874,
-      "last_seen": "2026-10-19T15:00:01.756737+00:00",
+      "latest_ccu": 514,
+      "latest_visits": 179190,
+      "last_seen": "2026-10-19T20:32:21.378716+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "PINKIE PROMISE",
+      "universeId": "10769634720",
+      "rootPlaceId": 75815532269840,
+      "description": "Pinkie Pie is throwing you a party \ud83c\udf89\nJust don't break the promise.\n\nA chapter-based Pinkie Pie horror story.\n\n\ud83c\udf88 Chapter 1 out NOW!!\n\u2b50 Favorite to get notified for the next chapters!\n\ud83d\udd27 In active development, expect minor bugs.\n\nGame inspired by My Little Pony. Hasbro, Inc. \u00a9 2026 Hasbro & Fluttershy's Lovely Home!",
+      "genre": "All",
+      "created": "2026-10-06T16:22:56.122Z",
+      "creatorName": "Party Cannon Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 783,
+          "visits": 170860
+        }
+      ],
+      "latest_ccu": 783,
+      "latest_visits": 170860,
+      "last_seen": "2026-10-19T20:32:21.378716+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

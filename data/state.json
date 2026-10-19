@@ -4802,14 +4802,19 @@
           "t": "2026-10-19T01:43:01.667784+00:00",
           "ccu": 766,
           "visits": 136902
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 538,
+          "visits": 144736
         }
       ],
-      "latest_ccu": 766,
-      "latest_visits": 136902,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
-      "trend_score": 23.9,
+      "latest_ccu": 538,
+      "latest_visits": 144736,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
+      "trend_score": 13.0,
       "trend_label": "declining",
-      "growth_ratio": 0.89
+      "growth_ratio": 0.82
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -4984,14 +4989,19 @@
           "t": "2026-10-19T01:43:01.667784+00:00",
           "ccu": 1152,
           "visits": 177254
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 661,
+          "visits": 191488
         }
       ],
-      "latest_ccu": 1152,
-      "latest_visits": 177254,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 661,
+      "latest_visits": 191488,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.64
     },
     "10766105611": {
       "name": "Zee : ZHD",
@@ -5012,11 +5022,16 @@
           "t": "2026-10-19T01:43:01.667784+00:00",
           "ccu": 456,
           "visits": 167627
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 195,
+          "visits": 179141
         }
       ],
-      "latest_ccu": 456,
-      "latest_visits": 167627,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "latest_ccu": 195,
+      "latest_visits": 179141,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

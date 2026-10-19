@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:43:01.667784+00:00",
+  "generated_at": "2026-10-19T07:37:10.095529+00:00",
   "count": 60,
   "games": [
     {
@@ -3667,74 +3667,6 @@
       "growth_ratio": 0.61
     },
     {
-      "name": "Last Stand [\u26f1\ufe0f]",
-      "universeId": "10769802973",
-      "rootPlaceId": 120293323710237,
-      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
-      "genre": "All",
-      "created": "2026-10-07T23:33:43.141Z",
-      "creatorName": "Gordrow",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-17T21:33:02.828688+00:00",
-          "ccu": 1499,
-          "visits": 63091
-        },
-        {
-          "t": "2026-10-17T23:25:58.564826+00:00",
-          "ccu": 1246,
-          "visits": 68780
-        },
-        {
-          "t": "2026-10-18T01:32:57.800828+00:00",
-          "ccu": 1136,
-          "visits": 74041
-        },
-        {
-          "t": "2026-10-18T06:36:27.691080+00:00",
-          "ccu": 951,
-          "visits": 86961
-        },
-        {
-          "t": "2026-10-18T11:44:09.919966+00:00",
-          "ccu": 1161,
-          "visits": 99062
-        },
-        {
-          "t": "2026-10-18T15:44:29.749464+00:00",
-          "ccu": 1318,
-          "visits": 111406
-        },
-        {
-          "t": "2026-10-18T18:34:20.973934+00:00",
-          "ccu": 1335,
-          "visits": 120530
-        },
-        {
-          "t": "2026-10-18T21:03:15.723610+00:00",
-          "ccu": 1067,
-          "visits": 127688
-        },
-        {
-          "t": "2026-10-18T23:24:07.707704+00:00",
-          "ccu": 877,
-          "visits": 132822
-        },
-        {
-          "t": "2026-10-19T01:43:01.667784+00:00",
-          "ccu": 766,
-          "visits": 136902
-        }
-      ],
-      "latest_ccu": 766,
-      "latest_visits": 136902,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
-      "trend_score": 23.9,
-      "trend_label": "declining",
-      "growth_ratio": 0.89
-    },
-    {
       "name": "Strikeborn",
       "universeId": "10761884278",
       "rootPlaceId": 80167904212435,
@@ -4182,6 +4114,79 @@
       "growth_ratio": 0.77
     },
     {
+      "name": "Last Stand [\u26f1\ufe0f]",
+      "universeId": "10769802973",
+      "rootPlaceId": 120293323710237,
+      "description": "THIS GAME WILL NOT BE CRAZILY p2w no matter what\n\nA silent outbreak has hit Manhattan. Can you contain it before the city falls?\n\nZombies ARE Real is a top-down zombie outbreak strategy game. Thousands of New Yorkers go about their day while the infected hide among them, until they turn.\n\nBuild quarantine walls and checkpoint gates, send recon drones to expose hidden carriers, and deploy medics to",
+      "genre": "All",
+      "created": "2026-10-07T23:33:43.141Z",
+      "creatorName": "Gordrow",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-17T21:33:02.828688+00:00",
+          "ccu": 1499,
+          "visits": 63091
+        },
+        {
+          "t": "2026-10-17T23:25:58.564826+00:00",
+          "ccu": 1246,
+          "visits": 68780
+        },
+        {
+          "t": "2026-10-18T01:32:57.800828+00:00",
+          "ccu": 1136,
+          "visits": 74041
+        },
+        {
+          "t": "2026-10-18T06:36:27.691080+00:00",
+          "ccu": 951,
+          "visits": 86961
+        },
+        {
+          "t": "2026-10-18T11:44:09.919966+00:00",
+          "ccu": 1161,
+          "visits": 99062
+        },
+        {
+          "t": "2026-10-18T15:44:29.749464+00:00",
+          "ccu": 1318,
+          "visits": 111406
+        },
+        {
+          "t": "2026-10-18T18:34:20.973934+00:00",
+          "ccu": 1335,
+          "visits": 120530
+        },
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 1067,
+          "visits": 127688
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 877,
+          "visits": 132822
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 766,
+          "visits": 136902
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 538,
+          "visits": 144736
+        }
+      ],
+      "latest_ccu": 538,
+      "latest_visits": 144736,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
+      "trend_score": 13.0,
+      "trend_label": "declining",
+      "growth_ratio": 0.82
+    },
+    {
       "name": "Nuclear Reactor Simulator",
       "universeId": "10767441669",
       "rootPlaceId": 76469117685884,
@@ -4352,6 +4357,44 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.4
+    },
+    {
+      "name": "[\ud83c\udf83EVENT] Plinky Plonky",
+      "universeId": "10764256384",
+      "rootPlaceId": 87503271985688,
+      "description": "\ud83c\udfaf DROP. ROLL. REBIRTH. \ud83c\udfaf\n\nthis game is basically an incremental but 100x more fun\nDrop balls down boards and chase the JACKPOT slot in the middle!\n\ud83c\udf81 CODE: RELEASE (500 coins)\n\n\ud83c\udfb2 ROLL for better balls. Better balls = more luck = more jackpots.\n\u2692\ufe0f FORGE balls together to combine them into rarer balls!\n\ud83d\udd13 BUY new boards, upgrades and gadgets!\n\ud83d\udc80 Reach the FINAL CHANCE and hit the jackpot to unlock the ",
+      "genre": "All",
+      "created": "2026-08-28T21:02:57.849Z",
+      "creatorName": "Plinky Community",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-18T21:03:15.723610+00:00",
+          "ccu": 1558,
+          "visits": 160754
+        },
+        {
+          "t": "2026-10-18T23:24:07.707704+00:00",
+          "ccu": 1289,
+          "visits": 171009
+        },
+        {
+          "t": "2026-10-19T01:43:01.667784+00:00",
+          "ccu": 1152,
+          "visits": 177254
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 661,
+          "visits": 191488
+        }
+      ],
+      "latest_ccu": 661,
+      "latest_visits": 191488,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.64
     },
     {
       "name": "The Cosalazo 2 ",
@@ -4963,39 +5006,6 @@
       "growth_ratio": null
     },
     {
-      "name": "[\ud83c\udf83EVENT] Plinky Plonky",
-      "universeId": "10764256384",
-      "rootPlaceId": 87503271985688,
-      "description": "\ud83c\udfaf DROP. ROLL. REBIRTH. \ud83c\udfaf\n\nthis game is basically an incremental but 100x more fun\nDrop balls down boards and chase the JACKPOT slot in the middle!\n\ud83c\udf81 CODE: RELEASE (500 coins)\n\n\ud83c\udfb2 ROLL for better balls. Better balls = more luck = more jackpots.\n\u2692\ufe0f FORGE balls together to combine them into rarer balls!\n\ud83d\udd13 BUY new boards, upgrades and gadgets!\n\ud83d\udc80 Reach the FINAL CHANCE and hit the jackpot to unlock the ",
-      "genre": "All",
-      "created": "2026-08-28T21:02:57.849Z",
-      "creatorName": "Plinky Community",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-18T21:03:15.723610+00:00",
-          "ccu": 1558,
-          "visits": 160754
-        },
-        {
-          "t": "2026-10-18T23:24:07.707704+00:00",
-          "ccu": 1289,
-          "visits": 171009
-        },
-        {
-          "t": "2026-10-19T01:43:01.667784+00:00",
-          "ccu": 1152,
-          "visits": 177254
-        }
-      ],
-      "latest_ccu": 1152,
-      "latest_visits": 177254,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Zee : ZHD",
       "universeId": "10766105611",
       "rootPlaceId": 104769030382243,
@@ -5014,11 +5024,16 @@
           "t": "2026-10-19T01:43:01.667784+00:00",
           "ccu": 456,
           "visits": 167627
+        },
+        {
+          "t": "2026-10-19T07:37:10.095529+00:00",
+          "ccu": 195,
+          "visits": 179141
         }
       ],
-      "latest_ccu": 456,
-      "latest_visits": 167627,
-      "last_seen": "2026-10-19T01:43:01.667784+00:00",
+      "latest_ccu": 195,
+      "latest_visits": 179141,
+      "last_seen": "2026-10-19T07:37:10.095529+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

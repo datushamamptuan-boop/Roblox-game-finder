@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T23:57:10.585269+00:00",
+  "generated_at": "2026-10-20T04:36:57.947437+00:00",
   "count": 63,
   "games": [
     {
@@ -426,6 +426,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.93
+    },
+    {
+      "name": "Pixel Basketball",
+      "universeId": "10767570793",
+      "rootPlaceId": 140510877927109,
+      "description": "5V5 PIXEL BASKETBALL, FAST PACED AND EASY TO PLAY!\n\nPick any open spot and jump straight in. Play solo, 1v1 or full 5v5 on the beach, in the gym or at the park.\n\nHit the green on your shot meter for a PERFECT release, break ankles with your dribble, posterize defenders and get chase down blocks!\n\nRebind your keys in Settings. Plays on PC, mobile and console!",
+      "genre": "All",
+      "created": "2026-09-22T06:13:47.606Z",
+      "creatorName": "Working 24/7",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 253,
+          "visits": 170874
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 514,
+          "visits": 179190
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 660,
+          "visits": 187874
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 487,
+          "visits": 199926
+        }
+      ],
+      "latest_ccu": 487,
+      "latest_visits": 199926,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.5
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -4192,14 +4230,19 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 682,
           "visits": 175636
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 531,
+          "visits": 182380
         }
       ],
-      "latest_ccu": 682,
-      "latest_visits": 175636,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": 9.7,
+      "latest_ccu": 531,
+      "latest_visits": 182380,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 6.7,
       "trend_label": "declining",
-      "growth_ratio": 0.65
+      "growth_ratio": 0.62
     },
     {
       "name": "Nuclear Reactor Simulator",
@@ -4453,6 +4496,44 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.55
+    },
+    {
+      "name": "Bullets VS Everything",
+      "universeId": "10769501542",
+      "rootPlaceId": 131488313787599,
+      "description": "\ud83d\udd2b How far can ONE bullet go? \ud83d\udd2b\n\nLine up paper, burgers, fridges, cars\u2026 all the way to the Moon, the Sun and even a BLACK HOLE, then fire a single shot straight through ALL of it! Every object your bullet breaks pays out cash.\n\n\ud83c\udfb0 Pull the lever to roll new objects, some as rare as 1 in a TRILLION\n\ud83c\udf08 Collect mutations: Gold, Rainbow, Frozen, Galaxy and more\n\ud83c\udf29\ufe0f Weather events boost your rolls: Thunder",
+      "genre": "All",
+      "created": "2026-10-05T15:57:33.914Z",
+      "creatorName": "CCU Explosion",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-19T15:00:01.756737+00:00",
+          "ccu": 1350,
+          "visits": 133092
+        },
+        {
+          "t": "2026-10-19T20:32:21.378716+00:00",
+          "ccu": 1789,
+          "visits": 158484
+        },
+        {
+          "t": "2026-10-19T23:57:10.585269+00:00",
+          "ccu": 915,
+          "visits": 173175
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 1054,
+          "visits": 187794
+        }
+      ],
+      "latest_ccu": 1054,
+      "latest_visits": 187794,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.63
     },
     {
       "name": "The Cosalazo 2 ",
@@ -5064,72 +5145,6 @@
       "growth_ratio": null
     },
     {
-      "name": "Bullets VS Everything",
-      "universeId": "10769501542",
-      "rootPlaceId": 131488313787599,
-      "description": "\ud83d\udd2b How far can ONE bullet go? \ud83d\udd2b\n\nLine up paper, burgers, fridges, cars\u2026 all the way to the Moon, the Sun and even a BLACK HOLE, then fire a single shot straight through ALL of it! Every object your bullet breaks pays out cash.\n\n\ud83c\udfb0 Pull the lever to roll new objects, some as rare as 1 in a TRILLION\n\ud83c\udf08 Collect mutations: Gold, Rainbow, Frozen, Galaxy and more\n\ud83c\udf29\ufe0f Weather events boost your rolls: Thunder",
-      "genre": "All",
-      "created": "2026-10-05T15:57:33.914Z",
-      "creatorName": "CCU Explosion",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-19T15:00:01.756737+00:00",
-          "ccu": 1350,
-          "visits": 133092
-        },
-        {
-          "t": "2026-10-19T20:32:21.378716+00:00",
-          "ccu": 1789,
-          "visits": 158484
-        },
-        {
-          "t": "2026-10-19T23:57:10.585269+00:00",
-          "ccu": 915,
-          "visits": 173175
-        }
-      ],
-      "latest_ccu": 915,
-      "latest_visits": 173175,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Pixel Basketball",
-      "universeId": "10767570793",
-      "rootPlaceId": 140510877927109,
-      "description": "5V5 PIXEL BASKETBALL, FAST PACED AND EASY TO PLAY!\n\nPick any open spot and jump straight in. Play solo, 1v1 or full 5v5 on the beach, in the gym or at the park.\n\nHit the green on your shot meter for a PERFECT release, break ankles with your dribble, posterize defenders and get chase down blocks!\n\nRebind your keys in Settings. Plays on PC, mobile and console!",
-      "genre": "All",
-      "created": "2026-09-22T06:13:47.606Z",
-      "creatorName": "Working 24/7",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-19T15:00:01.756737+00:00",
-          "ccu": 253,
-          "visits": 170874
-        },
-        {
-          "t": "2026-10-19T20:32:21.378716+00:00",
-          "ccu": 514,
-          "visits": 179190
-        },
-        {
-          "t": "2026-10-19T23:57:10.585269+00:00",
-          "ccu": 660,
-          "visits": 187874
-        }
-      ],
-      "latest_ccu": 660,
-      "latest_visits": 187874,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "PINKIE PROMISE",
       "universeId": "10769634720",
       "rootPlaceId": 75815532269840,
@@ -5148,11 +5163,16 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 1163,
           "visits": 181017
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 803,
+          "visits": 196878
         }
       ],
-      "latest_ccu": 1163,
-      "latest_visits": 181017,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
+      "latest_ccu": 803,
+      "latest_visits": 196878,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

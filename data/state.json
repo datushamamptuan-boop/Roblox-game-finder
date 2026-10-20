@@ -4822,14 +4822,19 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 682,
           "visits": 175636
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 531,
+          "visits": 182380
         }
       ],
-      "latest_ccu": 682,
-      "latest_visits": 175636,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": 9.7,
+      "latest_ccu": 531,
+      "latest_visits": 182380,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 6.7,
       "trend_label": "declining",
-      "growth_ratio": 0.65
+      "growth_ratio": 0.62
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",
@@ -5085,14 +5090,19 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 915,
           "visits": 173175
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 1054,
+          "visits": 187794
         }
       ],
-      "latest_ccu": 915,
-      "latest_visits": 173175,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1054,
+      "latest_visits": 187794,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.63
     },
     "10767570793": {
       "name": "Pixel Basketball",
@@ -5118,14 +5128,19 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 660,
           "visits": 187874
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 487,
+          "visits": 199926
         }
       ],
-      "latest_ccu": 660,
-      "latest_visits": 187874,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 487,
+      "latest_visits": 199926,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.5
     },
     "10769634720": {
       "name": "PINKIE PROMISE",
@@ -5146,11 +5161,16 @@
           "t": "2026-10-19T23:57:10.585269+00:00",
           "ccu": 1163,
           "visits": 181017
+        },
+        {
+          "t": "2026-10-20T04:36:57.947437+00:00",
+          "ccu": 803,
+          "visits": 196878
         }
       ],
-      "latest_ccu": 1163,
-      "latest_visits": 181017,
-      "last_seen": "2026-10-19T23:57:10.585269+00:00",
+      "latest_ccu": 803,
+      "latest_visits": 196878,
+      "last_seen": "2026-10-20T04:36:57.947437+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

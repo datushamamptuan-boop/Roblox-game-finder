@@ -4832,14 +4832,19 @@
           "t": "2026-10-20T09:39:05.084192+00:00",
           "ccu": 551,
           "visits": 187755
+        },
+        {
+          "t": "2026-10-20T14:31:11.790348+00:00",
+          "ccu": 801,
+          "visits": 195889
         }
       ],
-      "latest_ccu": 551,
-      "latest_visits": 187755,
-      "last_seen": "2026-10-20T09:39:05.084192+00:00",
-      "trend_score": 4.3,
+      "latest_ccu": 801,
+      "latest_visits": 195889,
+      "last_seen": "2026-10-20T14:31:11.790348+00:00",
+      "trend_score": 7.6,
       "trend_label": "declining",
-      "growth_ratio": 0.58
+      "growth_ratio": 0.59
     },
     "10766745701": {
       "name": "CoinHunt [\u20ac\ud83d\udcb6Euros Batch #1]",

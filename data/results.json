@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T16:07:27.763657+00:00",
-  "count": 69,
+  "generated_at": "2026-10-21T20:16:12.598092+00:00",
+  "count": 70,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -464,6 +464,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.5
+    },
+    {
+      "name": "PERIPHERAL (BETA)",
+      "universeId": "10768473690",
+      "rootPlaceId": 120912658283903,
+      "description": "You are not alone in these halls.\n\nWake up in an abandoned facility that changes every match. Restore the power, find the key, memorize the code and escape before it finds you.\n\nA single creature lives here. It doesn't chase you all the time. It watches, waits and picks the right moment. Look back and it retreats. Stare too long and it loses its patience.\n\nHOW IT WORKS\n- Procedural map: every matc",
+      "genre": "All",
+      "created": "2026-09-28T17:02:17.17Z",
+      "creatorName": "Cloversky Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T05:52:15.355339+00:00",
+          "ccu": 416,
+          "visits": 124785
+        },
+        {
+          "t": "2026-10-21T11:36:11.496052+00:00",
+          "ccu": 295,
+          "visits": 130408
+        },
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 401,
+          "visits": 135743
+        },
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 931,
+          "visits": 148402
+        }
+      ],
+      "latest_ccu": 931,
+      "latest_visits": 148402,
+      "last_seen": "2026-10-21T20:16:12.598092+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.87
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5221,39 +5259,6 @@
       "growth_ratio": null
     },
     {
-      "name": "PERIPHERAL (BETA)",
-      "universeId": "10768473690",
-      "rootPlaceId": 120912658283903,
-      "description": "You are not alone in these halls.\n\nWake up in an abandoned facility that changes every match. Restore the power, find the key, memorize the code and escape before it finds you.\n\nA single creature lives here. It doesn't chase you all the time. It watches, waits and picks the right moment. Look back and it retreats. Stare too long and it loses its patience.\n\nHOW IT WORKS\n- Procedural map: every matc",
-      "genre": "All",
-      "created": "2026-09-28T17:02:17.17Z",
-      "creatorName": "Cloversky Studios",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-21T05:52:15.355339+00:00",
-          "ccu": 416,
-          "visits": 124785
-        },
-        {
-          "t": "2026-10-21T11:36:11.496052+00:00",
-          "ccu": 295,
-          "visits": 130408
-        },
-        {
-          "t": "2026-10-21T16:07:27.763657+00:00",
-          "ccu": 401,
-          "visits": 135743
-        }
-      ],
-      "latest_ccu": 401,
-      "latest_visits": 135743,
-      "last_seen": "2026-10-21T16:07:27.763657+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Build a PC Empire",
       "universeId": "10769452915",
       "rootPlaceId": 111955331745911,
@@ -5295,11 +5300,16 @@
           "t": "2026-10-21T16:07:27.763657+00:00",
           "ccu": 776,
           "visits": 180625
+        },
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 858,
+          "visits": 193873
         }
       ],
-      "latest_ccu": 776,
-      "latest_visits": 180625,
-      "last_seen": "2026-10-21T16:07:27.763657+00:00",
+      "latest_ccu": 858,
+      "latest_visits": 193873,
+      "last_seen": "2026-10-21T20:16:12.598092+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5318,11 +5328,16 @@
           "t": "2026-10-21T16:07:27.763657+00:00",
           "ccu": 386,
           "visits": 178896
+        },
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 782,
+          "visits": 192843
         }
       ],
-      "latest_ccu": 386,
-      "latest_visits": 178896,
-      "last_seen": "2026-10-21T16:07:27.763657+00:00",
+      "latest_ccu": 782,
+      "latest_visits": 192843,
+      "last_seen": "2026-10-21T20:16:12.598092+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5341,11 +5356,39 @@
           "t": "2026-10-21T16:07:27.763657+00:00",
           "ccu": 280,
           "visits": 147275
+        },
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 520,
+          "visits": 159768
         }
       ],
-      "latest_ccu": 280,
-      "latest_visits": 147275,
-      "last_seen": "2026-10-21T16:07:27.763657+00:00",
+      "latest_ccu": 520,
+      "latest_visits": 159768,
+      "last_seen": "2026-10-21T20:16:12.598092+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Build The Strongest Football Team! \ud83c\udfc8 ",
+      "universeId": "10768680127",
+      "rootPlaceId": 128203789513624,
+      "description": "\ud83c\udfc8 Build Your Dream Football Team And Dominate The Draft Challenge!\n\ud83d\udcb5 1v1 Players Or Bots On A Bidding War While Managing Your Budget \n\ud83c\udfc6 Win Money From The Bidding Battle And Build Your Ultimate Football Team \n\ud83c\udfc3\u200d\u2642\ufe0f Collect Over 750+ Players All Time\n\ud83d\udcc5 Predict Football Schedules And Playoffs, See If You're Right At The End Of The Week \n\nStart Your Own Football League With Anybody Or With Bots!\nBuild",
+      "genre": "All",
+      "created": "2026-09-30T03:11:16.651Z",
+      "creatorName": "Peytons Sports Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 896,
+          "visits": 129366
+        }
+      ],
+      "latest_ccu": 896,
+      "latest_visits": 129366,
+      "last_seen": "2026-10-21T20:16:12.598092+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

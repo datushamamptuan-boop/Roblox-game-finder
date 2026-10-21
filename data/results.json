@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T20:16:12.598092+00:00",
+  "generated_at": "2026-10-21T23:28:18.561398+00:00",
   "count": 70,
   "games": [
     {
@@ -494,14 +494,19 @@
           "t": "2026-10-21T20:16:12.598092+00:00",
           "ccu": 931,
           "visits": 148402
+        },
+        {
+          "t": "2026-10-21T23:28:18.561398+00:00",
+          "ccu": 1610,
+          "visits": 165096
         }
       ],
-      "latest_ccu": 931,
-      "latest_visits": 148402,
-      "last_seen": "2026-10-21T20:16:12.598092+00:00",
+      "latest_ccu": 1610,
+      "latest_visits": 165096,
+      "last_seen": "2026-10-21T23:28:18.561398+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.87
+      "growth_ratio": 2.76
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5361,11 +5366,16 @@
           "t": "2026-10-21T20:16:12.598092+00:00",
           "ccu": 520,
           "visits": 159768
+        },
+        {
+          "t": "2026-10-21T23:28:18.561398+00:00",
+          "ccu": 820,
+          "visits": 174311
         }
       ],
-      "latest_ccu": 520,
-      "latest_visits": 159768,
-      "last_seen": "2026-10-21T20:16:12.598092+00:00",
+      "latest_ccu": 820,
+      "latest_visits": 174311,
+      "last_seen": "2026-10-21T23:28:18.561398+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5384,11 +5394,16 @@
           "t": "2026-10-21T20:16:12.598092+00:00",
           "ccu": 896,
           "visits": 129366
+        },
+        {
+          "t": "2026-10-21T23:28:18.561398+00:00",
+          "ccu": 1497,
+          "visits": 149143
         }
       ],
-      "latest_ccu": 896,
-      "latest_visits": 129366,
-      "last_seen": "2026-10-21T20:16:12.598092+00:00",
+      "latest_ccu": 1497,
+      "latest_visits": 149143,
+      "last_seen": "2026-10-21T23:28:18.561398+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

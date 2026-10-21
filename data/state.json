@@ -5204,11 +5204,16 @@
           "t": "2026-10-21T11:36:11.496052+00:00",
           "ccu": 1286,
           "visits": 178996
+        },
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 1697,
+          "visits": 197279
         }
       ],
-      "latest_ccu": 1286,
-      "latest_visits": 178996,
-      "last_seen": "2026-10-21T11:36:11.496052+00:00",
+      "latest_ccu": 1697,
+      "latest_visits": 197279,
+      "last_seen": "2026-10-21T16:07:27.763657+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5232,11 +5237,16 @@
           "t": "2026-10-21T11:36:11.496052+00:00",
           "ccu": 295,
           "visits": 130408
+        },
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 401,
+          "visits": 135743
         }
       ],
-      "latest_ccu": 295,
-      "latest_visits": 130408,
-      "last_seen": "2026-10-21T11:36:11.496052+00:00",
+      "latest_ccu": 401,
+      "latest_visits": 135743,
+      "last_seen": "2026-10-21T16:07:27.763657+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5278,11 +5288,62 @@
           "t": "2026-10-21T11:36:11.496052+00:00",
           "ccu": 470,
           "visits": 169701
+        },
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 776,
+          "visits": 180625
         }
       ],
-      "latest_ccu": 470,
-      "latest_visits": 169701,
-      "last_seen": "2026-10-21T11:36:11.496052+00:00",
+      "latest_ccu": 776,
+      "latest_visits": 180625,
+      "last_seen": "2026-10-21T16:07:27.763657+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769578217": {
+      "name": "[HALLOWEEN] R1 Battle Royale",
+      "universeId": "10769578217",
+      "rootPlaceId": 114690486941238,
+      "description": "CODE \"R1LAUNCH\" FOR SKULLS, CROWNS, AND 5 ALPHA CRATES\n\nHALLOWEEN EVENT IS NOW LIVE!!\n\nBRAND NEW LTM - MIDNIGHT CANDY RUSH\n\nHALLOWEEN CRATE\n\n\nLOOT\n\nFIGHT\n\nWIN!\n\nMake sure to find a Helmet! They Block the first Head tap. No Helmet? You are one shot away from game over.\n\nAIRDROPS HAVE A CHANCE TO CONTAIN A HUNTING RIFLE!\n",
+      "genre": "All",
+      "created": "2026-10-06T04:14:43.116Z",
+      "creatorName": "SafeGameZ",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 386,
+          "visits": 178896
+        }
+      ],
+      "latest_ccu": 386,
+      "latest_visits": 178896,
+      "last_seen": "2026-10-21T16:07:27.763657+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769857262": {
+      "name": "REALISTIC HOME DEFENSE",
+      "universeId": "10769857262",
+      "rootPlaceId": 105527962898452,
+      "description": "WELCOME TO REALISTIC HOME DEFENSE\n\nExperience realistic weapon mechanics, tactical movement, and intense home-defense action! Master your aim, use your equipment, and defend your home under pressure.\n\n\ud83c\udf89 Check out our Socials! Join giveaways, share feedback, and report cheaters!\n\n\ud83d\udcb8 MONEY MULTIPLIERS\n- \ud83d\udc65 Play with friends to earn bonus cash!\n- \ud83c\udfc6 Join our Roblox group for an extra money multiplier!\n\n",
+      "genre": "All",
+      "created": "2026-10-08T12:28:59.479Z",
+      "creatorName": "IBA Community",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 280,
+          "visits": 147275
+        }
+      ],
+      "latest_ccu": 280,
+      "latest_visits": 147275,
+      "last_seen": "2026-10-21T16:07:27.763657+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

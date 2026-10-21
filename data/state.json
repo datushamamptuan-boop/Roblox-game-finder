@@ -5199,11 +5199,16 @@
           "t": "2026-10-21T05:52:15.355339+00:00",
           "ccu": 909,
           "visits": 165357
+        },
+        {
+          "t": "2026-10-21T11:36:11.496052+00:00",
+          "ccu": 1286,
+          "visits": 178996
         }
       ],
-      "latest_ccu": 909,
-      "latest_visits": 165357,
-      "last_seen": "2026-10-21T05:52:15.355339+00:00",
+      "latest_ccu": 1286,
+      "latest_visits": 178996,
+      "last_seen": "2026-10-21T11:36:11.496052+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5222,11 +5227,16 @@
           "t": "2026-10-21T05:52:15.355339+00:00",
           "ccu": 416,
           "visits": 124785
+        },
+        {
+          "t": "2026-10-21T11:36:11.496052+00:00",
+          "ccu": 295,
+          "visits": 130408
         }
       ],
-      "latest_ccu": 416,
-      "latest_visits": 124785,
-      "last_seen": "2026-10-21T05:52:15.355339+00:00",
+      "latest_ccu": 295,
+      "latest_visits": 130408,
+      "last_seen": "2026-10-21T11:36:11.496052+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5250,6 +5260,29 @@
       "latest_ccu": 626,
       "latest_visits": 194487,
       "last_seen": "2026-10-21T05:52:15.355339+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769542070": {
+      "name": "[RETRO] Build and Burn",
+      "universeId": "10769542070",
+      "rootPlaceId": 76696411717679,
+      "description": "\ud83d\udd27 BUILD your engine. \ud83d\udd25 BURN the strip. Dont forget to like :)\n\nStart with a scrapyard four-banger and build it into a 6,000 hp monster. Pick every part yourself, tune your gears, paint your car, then line up and race!\n\n\ud83c\udfc1 50 levels of rivals and 11 bosses with attitude\n\ud83d\ude97 10 cars to unlock\n\u2699\ufe0f Over 100 engine and car parts\n\ud83c\udfc6 Quarter-mile and half-mile races\n\ud83d\udcb0 Climb the Richest Racers leaderboard\n\nDRA",
+      "genre": "All",
+      "created": "2026-10-05T21:10:19.863Z",
+      "creatorName": "Sensiblehead studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T11:36:11.496052+00:00",
+          "ccu": 470,
+          "visits": 169701
+        }
+      ],
+      "latest_ccu": 470,
+      "latest_visits": 169701,
+      "last_seen": "2026-10-21T11:36:11.496052+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

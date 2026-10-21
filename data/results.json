@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T00:42:14.930285+00:00",
-  "count": 63,
+  "generated_at": "2026-10-21T05:52:15.355339+00:00",
+  "count": 66,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -5183,6 +5183,75 @@
       "latest_ccu": 803,
       "latest_visits": 196878,
       "last_seen": "2026-10-20T04:36:57.947437+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Gladiator Life",
+      "universeId": "10768105757",
+      "rootPlaceId": 136567192786299,
+      "description": "Every legend starts in the dirt.\n\nFight your way from country cups to Rome through nineteen champions, each one built to break you. Win the crowd and they might spare you. Lose them and the thumb goes down. Forge your gear, build a ludus, climb the ranked ladder or band together to bring down a giant. Beat the Emperor's champion and win your freedom.\n\nPlay Hardcore, and one bad day is your last.\n\n",
+      "genre": "All",
+      "created": "2026-09-26T09:27:50.816Z",
+      "creatorName": "BERKOK Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T05:52:15.355339+00:00",
+          "ccu": 909,
+          "visits": 165357
+        }
+      ],
+      "latest_ccu": 909,
+      "latest_visits": 165357,
+      "last_seen": "2026-10-21T05:52:15.355339+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "PERIPHERAL (BETA)",
+      "universeId": "10768473690",
+      "rootPlaceId": 120912658283903,
+      "description": "You are not alone in these halls.\n\nWake up in an abandoned facility that changes every match. Restore the power, find the key, memorize the code and escape before it finds you.\n\nA single creature lives here. It doesn't chase you all the time. It watches, waits and picks the right moment. Look back and it retreats. Stare too long and it loses its patience.\n\nHOW IT WORKS\n- Procedural map: every matc",
+      "genre": "All",
+      "created": "2026-09-28T17:02:17.17Z",
+      "creatorName": "Cloversky Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T05:52:15.355339+00:00",
+          "ccu": 416,
+          "visits": 124785
+        }
+      ],
+      "latest_ccu": 416,
+      "latest_visits": 124785,
+      "last_seen": "2026-10-21T05:52:15.355339+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Build a PC Empire",
+      "universeId": "10769452915",
+      "rootPlaceId": 111955331745911,
+      "description": " Start in your bedroom in 1995 and build the biggest PC company in the world.\n\n\ud83c\udfa8 DESIGN every PC: case, processor, graphics, memory, cooling, colours and RGB lighting. Set the price and hand it to your team.\n\n\ud83c\udfd7\ufe0f BUILD your office your way: walls, floors, desks, labs and decor, from a bedroom to a Headquarters.\n\n\ud83d\udc65 HIRE a team. Your Roblox friends show up as candidates with their real avatars.\n\n\ud83d\udd2c RE",
+      "genre": "All",
+      "created": "2026-10-05T06:19:44.926Z",
+      "creatorName": "My PC Empire",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T05:52:15.355339+00:00",
+          "ccu": 626,
+          "visits": 194487
+        }
+      ],
+      "latest_ccu": 626,
+      "latest_visits": 194487,
+      "last_seen": "2026-10-21T05:52:15.355339+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

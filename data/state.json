@@ -5262,14 +5262,19 @@
           "t": "2026-10-22T07:25:24.343707+00:00",
           "ccu": 256,
           "visits": 186156
+        },
+        {
+          "t": "2026-10-22T13:12:59.478366+00:00",
+          "ccu": 334,
+          "visits": 191084
         }
       ],
-      "latest_ccu": 256,
-      "latest_visits": 186156,
-      "last_seen": "2026-10-22T07:25:24.343707+00:00",
-      "trend_score": 100,
+      "latest_ccu": 334,
+      "latest_visits": 191084,
+      "last_seen": "2026-10-22T13:12:59.478366+00:00",
+      "trend_score": 83.0,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.48
+      "growth_ratio": 1.51
     },
     "10769452915": {
       "name": "Build a PC Empire",
@@ -5427,14 +5432,19 @@
           "t": "2026-10-22T07:25:24.343707+00:00",
           "ccu": 124,
           "visits": 182826
+        },
+        {
+          "t": "2026-10-22T13:12:59.478366+00:00",
+          "ccu": 196,
+          "visits": 187667
         }
       ],
-      "latest_ccu": 124,
-      "latest_visits": 182826,
-      "last_seen": "2026-10-22T07:25:24.343707+00:00",
+      "latest_ccu": 196,
+      "latest_visits": 187667,
+      "last_seen": "2026-10-22T13:12:59.478366+00:00",
       "trend_score": 0,
       "trend_label": "declining",
-      "growth_ratio": 0.71
+      "growth_ratio": 0.53
     },
     "10769551499": {
       "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
@@ -5455,11 +5465,16 @@
           "t": "2026-10-22T07:25:24.343707+00:00",
           "ccu": 313,
           "visits": 115942
+        },
+        {
+          "t": "2026-10-22T13:12:59.478366+00:00",
+          "ccu": 626,
+          "visits": 124140
         }
       ],
-      "latest_ccu": 313,
-      "latest_visits": 115942,
-      "last_seen": "2026-10-22T07:25:24.343707+00:00",
+      "latest_ccu": 626,
+      "latest_visits": 124140,
+      "last_seen": "2026-10-22T13:12:59.478366+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

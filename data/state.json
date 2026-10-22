@@ -5257,14 +5257,19 @@
           "t": "2026-10-22T01:52:31.621119+00:00",
           "ccu": 885,
           "visits": 174353
+        },
+        {
+          "t": "2026-10-22T07:25:24.343707+00:00",
+          "ccu": 256,
+          "visits": 186156
         }
       ],
-      "latest_ccu": 885,
-      "latest_visits": 174353,
-      "last_seen": "2026-10-22T01:52:31.621119+00:00",
+      "latest_ccu": 256,
+      "latest_visits": 186156,
+      "last_seen": "2026-10-22T07:25:24.343707+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 3.08
+      "growth_ratio": 2.48
     },
     "10769452915": {
       "name": "Build a PC Empire",
@@ -5379,14 +5384,19 @@
           "t": "2026-10-22T01:52:31.621119+00:00",
           "ccu": 587,
           "visits": 185418
+        },
+        {
+          "t": "2026-10-22T07:25:24.343707+00:00",
+          "ccu": 226,
+          "visits": 198465
         }
       ],
-      "latest_ccu": 587,
-      "latest_visits": 185418,
-      "last_seen": "2026-10-22T01:52:31.621119+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.76
+      "latest_ccu": 226,
+      "latest_visits": 198465,
+      "last_seen": "2026-10-22T07:25:24.343707+00:00",
+      "trend_score": 60.2,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.36
     },
     "10768680127": {
       "name": "Build The Strongest Football Team! \ud83c\udfc8 ",
@@ -5412,14 +5422,19 @@
           "t": "2026-10-22T01:52:31.621119+00:00",
           "ccu": 1584,
           "visits": 167670
+        },
+        {
+          "t": "2026-10-22T07:25:24.343707+00:00",
+          "ccu": 124,
+          "visits": 182826
         }
       ],
-      "latest_ccu": 1584,
-      "latest_visits": 167670,
-      "last_seen": "2026-10-22T01:52:31.621119+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 124,
+      "latest_visits": 182826,
+      "last_seen": "2026-10-22T07:25:24.343707+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.71
     },
     "10769551499": {
       "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
@@ -5435,11 +5450,16 @@
           "t": "2026-10-22T01:52:31.621119+00:00",
           "ccu": 342,
           "visits": 110891
+        },
+        {
+          "t": "2026-10-22T07:25:24.343707+00:00",
+          "ccu": 313,
+          "visits": 115942
         }
       ],
-      "latest_ccu": 342,
-      "latest_visits": 110891,
-      "last_seen": "2026-10-22T01:52:31.621119+00:00",
+      "latest_ccu": 313,
+      "latest_visits": 115942,
+      "last_seen": "2026-10-22T07:25:24.343707+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

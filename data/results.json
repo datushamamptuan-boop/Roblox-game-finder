@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T23:28:18.561398+00:00",
-  "count": 70,
+  "generated_at": "2026-10-22T01:52:31.621119+00:00",
+  "count": 71,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -499,14 +499,57 @@
           "t": "2026-10-21T23:28:18.561398+00:00",
           "ccu": 1610,
           "visits": 165096
+        },
+        {
+          "t": "2026-10-22T01:52:31.621119+00:00",
+          "ccu": 885,
+          "visits": 174353
         }
       ],
-      "latest_ccu": 1610,
-      "latest_visits": 165096,
-      "last_seen": "2026-10-21T23:28:18.561398+00:00",
+      "latest_ccu": 885,
+      "latest_visits": 174353,
+      "last_seen": "2026-10-22T01:52:31.621119+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.76
+      "growth_ratio": 3.08
+    },
+    {
+      "name": "REALISTIC HOME DEFENSE",
+      "universeId": "10769857262",
+      "rootPlaceId": 105527962898452,
+      "description": "WELCOME TO REALISTIC HOME DEFENSE\n\nExperience realistic weapon mechanics, tactical movement, and intense home-defense action! Master your aim, use your equipment, and defend your home under pressure.\n\n\ud83c\udf89 Check out our Socials! Join giveaways, share feedback, and report cheaters!\n\n\ud83d\udcb8 MONEY MULTIPLIERS\n- \ud83d\udc65 Play with friends to earn bonus cash!\n- \ud83c\udfc6 Join our Roblox group for an extra money multiplier!\n\n",
+      "genre": "All",
+      "created": "2026-10-08T12:28:59.479Z",
+      "creatorName": "IBA Community",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-21T16:07:27.763657+00:00",
+          "ccu": 280,
+          "visits": 147275
+        },
+        {
+          "t": "2026-10-21T20:16:12.598092+00:00",
+          "ccu": 520,
+          "visits": 159768
+        },
+        {
+          "t": "2026-10-21T23:28:18.561398+00:00",
+          "ccu": 820,
+          "visits": 174311
+        },
+        {
+          "t": "2026-10-22T01:52:31.621119+00:00",
+          "ccu": 587,
+          "visits": 185418
+        }
+      ],
+      "latest_ccu": 587,
+      "latest_visits": 185418,
+      "last_seen": "2026-10-22T01:52:31.621119+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.76
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5348,39 +5391,6 @@
       "growth_ratio": null
     },
     {
-      "name": "REALISTIC HOME DEFENSE",
-      "universeId": "10769857262",
-      "rootPlaceId": 105527962898452,
-      "description": "WELCOME TO REALISTIC HOME DEFENSE\n\nExperience realistic weapon mechanics, tactical movement, and intense home-defense action! Master your aim, use your equipment, and defend your home under pressure.\n\n\ud83c\udf89 Check out our Socials! Join giveaways, share feedback, and report cheaters!\n\n\ud83d\udcb8 MONEY MULTIPLIERS\n- \ud83d\udc65 Play with friends to earn bonus cash!\n- \ud83c\udfc6 Join our Roblox group for an extra money multiplier!\n\n",
-      "genre": "All",
-      "created": "2026-10-08T12:28:59.479Z",
-      "creatorName": "IBA Community",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-21T16:07:27.763657+00:00",
-          "ccu": 280,
-          "visits": 147275
-        },
-        {
-          "t": "2026-10-21T20:16:12.598092+00:00",
-          "ccu": 520,
-          "visits": 159768
-        },
-        {
-          "t": "2026-10-21T23:28:18.561398+00:00",
-          "ccu": 820,
-          "visits": 174311
-        }
-      ],
-      "latest_ccu": 820,
-      "latest_visits": 174311,
-      "last_seen": "2026-10-21T23:28:18.561398+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Build The Strongest Football Team! \ud83c\udfc8 ",
       "universeId": "10768680127",
       "rootPlaceId": 128203789513624,
@@ -5399,11 +5409,39 @@
           "t": "2026-10-21T23:28:18.561398+00:00",
           "ccu": 1497,
           "visits": 149143
+        },
+        {
+          "t": "2026-10-22T01:52:31.621119+00:00",
+          "ccu": 1584,
+          "visits": 167670
         }
       ],
-      "latest_ccu": 1497,
-      "latest_visits": 149143,
-      "last_seen": "2026-10-21T23:28:18.561398+00:00",
+      "latest_ccu": 1584,
+      "latest_visits": 167670,
+      "last_seen": "2026-10-22T01:52:31.621119+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
+      "universeId": "10769551499",
+      "rootPlaceId": 135886039021201,
+      "description": "\ud83c\udf0d **GOD SIMULATION** \u2694\ufe0f **AGE OF HEROES UPDATE!**\n\n\ud83d\udc51 **BECOME A GOD. CREATE A WORLD. CONTROL ITS DESTINY.**\n\nCreate your own living world, build civilizations, watch kingdoms rise and fall, and unleash incredible god powers! Will you protect your people or destroy everything?\n\n\u2694\ufe0f **NEW! AGE OF HEROES**\n- \ud83d\udee1\ufe0f **Human Champion** \u2014 Shield Bash, Rally Troops & Divine Strike!\n- \ud83e\ude93 **Orc Warlord** \u2014 Groun",
+      "genre": "All",
+      "created": "2026-10-05T22:48:10.3Z",
+      "creatorName": "WorldBox Project",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-22T01:52:31.621119+00:00",
+          "ccu": 342,
+          "visits": 110891
+        }
+      ],
+      "latest_ccu": 342,
+      "latest_visits": 110891,
+      "last_seen": "2026-10-22T01:52:31.621119+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

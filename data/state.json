@@ -5437,14 +5437,19 @@
           "t": "2026-10-22T13:12:59.478366+00:00",
           "ccu": 196,
           "visits": 187667
+        },
+        {
+          "t": "2026-10-22T18:04:11.144622+00:00",
+          "ccu": 317,
+          "visits": 194582
         }
       ],
-      "latest_ccu": 196,
-      "latest_visits": 187667,
-      "last_seen": "2026-10-22T13:12:59.478366+00:00",
+      "latest_ccu": 317,
+      "latest_visits": 194582,
+      "last_seen": "2026-10-22T18:04:11.144622+00:00",
       "trend_score": 0,
       "trend_label": "declining",
-      "growth_ratio": 0.53
+      "growth_ratio": 0.16
     },
     "10769551499": {
       "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
@@ -5470,14 +5475,19 @@
           "t": "2026-10-22T13:12:59.478366+00:00",
           "ccu": 626,
           "visits": 124140
+        },
+        {
+          "t": "2026-10-22T18:04:11.144622+00:00",
+          "ccu": 635,
+          "visits": 134087
         }
       ],
-      "latest_ccu": 626,
-      "latest_visits": 124140,
-      "last_seen": "2026-10-22T13:12:59.478366+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 635,
+      "latest_visits": 134087,
+      "last_seen": "2026-10-22T18:04:11.144622+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.93
     }
   }
 }

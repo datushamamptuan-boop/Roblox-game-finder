@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T13:12:59.478366+00:00",
+  "generated_at": "2026-10-22T18:04:11.144622+00:00",
   "count": 71,
   "games": [
     {
@@ -464,6 +464,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.5
+    },
+    {
+      "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
+      "universeId": "10769551499",
+      "rootPlaceId": 135886039021201,
+      "description": "\ud83c\udf0d **GOD SIMULATION** \u2694\ufe0f **AGE OF HEROES UPDATE!**\n\n\ud83d\udc51 **BECOME A GOD. CREATE A WORLD. CONTROL ITS DESTINY.**\n\nCreate your own living world, build civilizations, watch kingdoms rise and fall, and unleash incredible god powers! Will you protect your people or destroy everything?\n\n\u2694\ufe0f **NEW! AGE OF HEROES**\n- \ud83d\udee1\ufe0f **Human Champion** \u2014 Shield Bash, Rally Troops & Divine Strike!\n- \ud83e\ude93 **Orc Warlord** \u2014 Groun",
+      "genre": "All",
+      "created": "2026-10-05T22:48:10.3Z",
+      "creatorName": "WorldBox Project",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-22T01:52:31.621119+00:00",
+          "ccu": 342,
+          "visits": 110891
+        },
+        {
+          "t": "2026-10-22T07:25:24.343707+00:00",
+          "ccu": 313,
+          "visits": 115942
+        },
+        {
+          "t": "2026-10-22T13:12:59.478366+00:00",
+          "ccu": 626,
+          "visits": 124140
+        },
+        {
+          "t": "2026-10-22T18:04:11.144622+00:00",
+          "ccu": 635,
+          "visits": 134087
+        }
+      ],
+      "latest_ccu": 635,
+      "latest_visits": 134087,
+      "last_seen": "2026-10-22T18:04:11.144622+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.93
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -4680,14 +4718,19 @@
           "t": "2026-10-22T13:12:59.478366+00:00",
           "ccu": 196,
           "visits": 187667
+        },
+        {
+          "t": "2026-10-22T18:04:11.144622+00:00",
+          "ccu": 317,
+          "visits": 194582
         }
       ],
-      "latest_ccu": 196,
-      "latest_visits": 187667,
-      "last_seen": "2026-10-22T13:12:59.478366+00:00",
+      "latest_ccu": 317,
+      "latest_visits": 194582,
+      "last_seen": "2026-10-22T18:04:11.144622+00:00",
       "trend_score": 0,
       "trend_label": "declining",
-      "growth_ratio": 0.53
+      "growth_ratio": 0.16
     },
     {
       "name": "The Cosalazo 2 ",
@@ -5444,39 +5487,6 @@
       "latest_ccu": 782,
       "latest_visits": 192843,
       "last_seen": "2026-10-21T20:16:12.598092+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "\ud83c\udf0d God Simulation SandBox [\u2694\ufe0f AGE OF HEROES]",
-      "universeId": "10769551499",
-      "rootPlaceId": 135886039021201,
-      "description": "\ud83c\udf0d **GOD SIMULATION** \u2694\ufe0f **AGE OF HEROES UPDATE!**\n\n\ud83d\udc51 **BECOME A GOD. CREATE A WORLD. CONTROL ITS DESTINY.**\n\nCreate your own living world, build civilizations, watch kingdoms rise and fall, and unleash incredible god powers! Will you protect your people or destroy everything?\n\n\u2694\ufe0f **NEW! AGE OF HEROES**\n- \ud83d\udee1\ufe0f **Human Champion** \u2014 Shield Bash, Rally Troops & Divine Strike!\n- \ud83e\ude93 **Orc Warlord** \u2014 Groun",
-      "genre": "All",
-      "created": "2026-10-05T22:48:10.3Z",
-      "creatorName": "WorldBox Project",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-22T01:52:31.621119+00:00",
-          "ccu": 342,
-          "visits": 110891
-        },
-        {
-          "t": "2026-10-22T07:25:24.343707+00:00",
-          "ccu": 313,
-          "visits": 115942
-        },
-        {
-          "t": "2026-10-22T13:12:59.478366+00:00",
-          "ccu": 626,
-          "visits": 124140
-        }
-      ],
-      "latest_ccu": 626,
-      "latest_visits": 124140,
-      "last_seen": "2026-10-22T13:12:59.478366+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

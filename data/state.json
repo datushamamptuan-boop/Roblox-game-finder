@@ -5533,11 +5533,16 @@
           "t": "2026-10-23T19:33:01.194291+00:00",
           "ccu": 2065,
           "visits": 166934
+        },
+        {
+          "t": "2026-10-23T22:39:07.601229+00:00",
+          "ccu": 1548,
+          "visits": 195573
         }
       ],
-      "latest_ccu": 2065,
-      "latest_visits": 166934,
-      "last_seen": "2026-10-23T19:33:01.194291+00:00",
+      "latest_ccu": 1548,
+      "latest_visits": 195573,
+      "last_seen": "2026-10-23T22:39:07.601229+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

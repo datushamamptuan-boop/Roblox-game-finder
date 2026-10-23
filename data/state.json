@@ -5500,14 +5500,42 @@
           "t": "2026-10-23T10:31:21.339110+00:00",
           "ccu": 787,
           "visits": 170640
+        },
+        {
+          "t": "2026-10-23T15:29:00.968430+00:00",
+          "ccu": 1210,
+          "visits": 187368
         }
       ],
-      "latest_ccu": 787,
-      "latest_visits": 170640,
-      "last_seen": "2026-10-23T10:31:21.339110+00:00",
+      "latest_ccu": 1210,
+      "latest_visits": 187368,
+      "last_seen": "2026-10-23T15:29:00.968430+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.54
+      "growth_ratio": 1.74
+    },
+    "10767619742": {
+      "name": "Portal Sandbox",
+      "universeId": "10767619742",
+      "rootPlaceId": 75108253383447,
+      "description": "Portal Sandbox is inspired by the show Rick And Morty (Game is still in beta and may have bugs)I also have other feautures planned as well so stay tuned\n\n\ud83d\udcbb Controls\nT - Portal Gun\nQ - Knife  (swipe to cut off limbs)\nE - Regenerate\nF  - Blender Dimension (Press before entering a portal)\nX - Laser Pistol\n\nTags: RickAndMorty, Portals, PvP, Sandbox, Freeroam",
+      "genre": "All",
+      "created": "2026-09-22T16:17:22.517Z",
+      "creatorName": "D3wsie",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-23T15:29:00.968430+00:00",
+          "ccu": 1575,
+          "visits": 136111
+        }
+      ],
+      "latest_ccu": 1575,
+      "latest_visits": 136111,
+      "last_seen": "2026-10-23T15:29:00.968430+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

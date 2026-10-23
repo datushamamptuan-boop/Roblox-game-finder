@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T05:23:20.530115+00:00",
+  "generated_at": "2026-10-23T10:31:21.339110+00:00",
   "count": 71,
   "games": [
     {
@@ -509,14 +509,19 @@
           "t": "2026-10-23T05:23:20.530115+00:00",
           "ccu": 565,
           "visits": 161082
+        },
+        {
+          "t": "2026-10-23T10:31:21.339110+00:00",
+          "ccu": 787,
+          "visits": 170640
         }
       ],
-      "latest_ccu": 565,
-      "latest_visits": 161082,
-      "last_seen": "2026-10-23T05:23:20.530115+00:00",
+      "latest_ccu": 787,
+      "latest_visits": 170640,
+      "last_seen": "2026-10-23T10:31:21.339110+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.64
+      "growth_ratio": 1.54
     },
     {
       "name": "Mitosis [UPD 1]",

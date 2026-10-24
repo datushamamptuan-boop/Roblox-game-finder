@@ -5546,6 +5546,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10768941680": {
+      "name": "[\u231b8H] Build A Striker \u26bd",
+      "universeId": "10768941680",
+      "rootPlaceId": 98256320592611,
+      "description": "\ud83c\udf81 CODES: RELEASE, STRIKER, EGOIST, AWAKENED, BALLTAG, QUEUES\n\n\u26bdBuild the ultimate striker, one part at a time! \u26bd\n\n\ud83c\udfb2 Roll a random team, from First Selection all the way up to Pros\n\ud83d\udee1\ufe0fGet a random player from that team\n\ud83e\udde0 Choose ONE of their 10 attributes: Shooting, Speed, Dribbling, Passing, Physical, Defense, Vision, IQ, Ego or Weapon\n\ud83c\udfc610 rounds. Climb the LEADERBOARD and prove you're the #1 Egoist",
+      "genre": "All",
+      "created": "2026-10-02T03:33:45.089Z",
+      "creatorName": "Wild Card.",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-24T06:01:19.068702+00:00",
+          "ccu": 1685,
+          "visits": 167318
+        }
+      ],
+      "latest_ccu": 1685,
+      "latest_visits": 167318,
+      "last_seen": "2026-10-24T06:01:19.068702+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

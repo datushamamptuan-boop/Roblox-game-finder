@@ -5599,14 +5599,19 @@
           "t": "2026-10-24T17:39:01.846597+00:00",
           "ccu": 1322,
           "visits": 152421
+        },
+        {
+          "t": "2026-10-24T19:50:22.017348+00:00",
+          "ccu": 1402,
+          "visits": 159207
         }
       ],
-      "latest_ccu": 1322,
-      "latest_visits": 152421,
-      "last_seen": "2026-10-24T17:39:01.846597+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1402,
+      "latest_visits": 159207,
+      "last_seen": "2026-10-24T19:50:22.017348+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.42
     }
   }
 }

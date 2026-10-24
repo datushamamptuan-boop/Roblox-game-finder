@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T06:01:19.068702+00:00",
-  "count": 73,
+  "generated_at": "2026-10-24T11:18:12.462230+00:00",
+  "count": 74,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -5563,11 +5563,39 @@
           "t": "2026-10-24T06:01:19.068702+00:00",
           "ccu": 1685,
           "visits": 167318
+        },
+        {
+          "t": "2026-10-24T11:18:12.462230+00:00",
+          "ccu": 1909,
+          "visits": 194787
         }
       ],
-      "latest_ccu": 1685,
-      "latest_visits": 167318,
-      "last_seen": "2026-10-24T06:01:19.068702+00:00",
+      "latest_ccu": 1909,
+      "latest_visits": 194787,
+      "last_seen": "2026-10-24T11:18:12.462230+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83c\udf83 PART 2] Own a Catboy Caf\u00e9",
+      "universeId": "10769074808",
+      "rootPlaceId": 83048080568449,
+      "description": "Codes:\nHalloweenPt2\n700likes!\n\n\ud83d\udc31\u2615 OWN A CATBOY CAFE! \u2615\n\nBuild your own caf\u00e9, collect adorable Catboys, and become the richest caf\u00e9 owner! \ud83d\udc3e\n\n\ud83c\udfd7\ufe0f Build and upgrade your caf\u00e9.\n\ud83c\udf7d\ufe0f Equip Catboys to serve your friends!\n\ud83d\udcb0 Earn tips from customers.\n\ud83c\udf53 Buy better food and drinks to boost your Catboys' income.\n\ud83c\udf81 Open Catboy Pods to discover new Catboys!\n\n\u2728 Collect Catboys from Common to Mythical and discover",
+      "genre": "All",
+      "created": "2026-10-03T01:58:47.352Z",
+      "creatorName": "Catboy Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-24T11:18:12.462230+00:00",
+          "ccu": 803,
+          "visits": 136295
+        }
+      ],
+      "latest_ccu": 803,
+      "latest_visits": 136295,
+      "last_seen": "2026-10-24T11:18:12.462230+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

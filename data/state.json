@@ -5614,14 +5614,19 @@
           "t": "2026-10-25T00:32:24.518145+00:00",
           "ccu": 1106,
           "visits": 172098
+        },
+        {
+          "t": "2026-10-25T05:19:01.656241+00:00",
+          "ccu": 1238,
+          "visits": 186207
         }
       ],
-      "latest_ccu": 1106,
-      "latest_visits": 172098,
-      "last_seen": "2026-10-25T00:32:24.518145+00:00",
-      "trend_score": 85.6,
+      "latest_ccu": 1238,
+      "latest_visits": 186207,
+      "last_seen": "2026-10-25T05:19:01.656241+00:00",
+      "trend_score": 76.8,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.19
+      "growth_ratio": 1.18
     }
   }
 }

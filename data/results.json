@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:20:57.345738+00:00",
+  "generated_at": "2026-10-27T15:57:15.520649+00:00",
   "count": 75,
   "games": [
     {
@@ -527,6 +527,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.74
+    },
+    {
+      "name": "[UPD\ud83c\udf83] BRASS HELL [INCREMENTAL]",
+      "universeId": "10769266554",
+      "rootPlaceId": 104347694974983,
+      "description": "Welcome to BRASS HELL.\n\nClock in at a remote ammunition factory buried in a blizzard. Pack rounds, fill crates, and earn your next upgrade. The orders never stop.\n\n\u2699\ufe0f Work the press through hands-on crafting\n\ud83d\udce6 Deliver shipments and upgrade your workshop\n\ud83d\udd13 Unlock new rounds as you build\n\ud83d\udc65 Share the factory with up to 4 players\n\ud83d\udcc4 Find scattered documents and uncover what happened here\n\nStay warm. Ke",
+      "genre": "All",
+      "created": "2026-10-04T03:51:49.938Z",
+      "creatorName": "earlymoto102",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-10-26T23:58:12.696615+00:00",
+          "ccu": 655,
+          "visits": 86871
+        },
+        {
+          "t": "2026-10-27T04:50:07.852848+00:00",
+          "ccu": 490,
+          "visits": 92556
+        },
+        {
+          "t": "2026-10-27T10:20:57.345738+00:00",
+          "ccu": 605,
+          "visits": 97749
+        },
+        {
+          "t": "2026-10-27T15:57:15.520649+00:00",
+          "ccu": 1085,
+          "visits": 105555
+        }
+      ],
+      "latest_ccu": 1085,
+      "latest_visits": 105555,
+      "last_seen": "2026-10-27T15:57:15.520649+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.48
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5626,39 +5664,6 @@
       "latest_ccu": 1909,
       "latest_visits": 194787,
       "last_seen": "2026-10-24T11:18:12.462230+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "[UPD\ud83c\udf83] BRASS HELL [INCREMENTAL]",
-      "universeId": "10769266554",
-      "rootPlaceId": 104347694974983,
-      "description": "Welcome to BRASS HELL.\n\nClock in at a remote ammunition factory buried in a blizzard. Pack rounds, fill crates, and earn your next upgrade. The orders never stop.\n\n\u2699\ufe0f Work the press through hands-on crafting\n\ud83d\udce6 Deliver shipments and upgrade your workshop\n\ud83d\udd13 Unlock new rounds as you build\n\ud83d\udc65 Share the factory with up to 4 players\n\ud83d\udcc4 Find scattered documents and uncover what happened here\n\nStay warm. Ke",
-      "genre": "All",
-      "created": "2026-10-04T03:51:49.938Z",
-      "creatorName": "earlymoto102",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-10-26T23:58:12.696615+00:00",
-          "ccu": 655,
-          "visits": 86871
-        },
-        {
-          "t": "2026-10-27T04:50:07.852848+00:00",
-          "ccu": 490,
-          "visits": 92556
-        },
-        {
-          "t": "2026-10-27T10:20:57.345738+00:00",
-          "ccu": 605,
-          "visits": 97749
-        }
-      ],
-      "latest_ccu": 605,
-      "latest_visits": 97749,
-      "last_seen": "2026-10-27T10:20:57.345738+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

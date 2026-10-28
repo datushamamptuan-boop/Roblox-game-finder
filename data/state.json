@@ -5672,14 +5672,65 @@
           "t": "2026-10-28T05:57:15.391621+00:00",
           "ccu": 2121,
           "visits": 175725
+        },
+        {
+          "t": "2026-10-28T12:39:59.292251+00:00",
+          "ccu": 2407,
+          "visits": 199680
         }
       ],
-      "latest_ccu": 2121,
-      "latest_visits": 175725,
-      "last_seen": "2026-10-28T05:57:15.391621+00:00",
+      "latest_ccu": 2407,
+      "latest_visits": 199680,
+      "last_seen": "2026-10-28T12:39:59.292251+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 3.89
+      "growth_ratio": 3.67
+    },
+    "10770563082": {
+      "name": "join the group to play",
+      "universeId": "10770563082",
+      "rootPlaceId": 129019396299239,
+      "description": "Group Link: https://www.roblox.com/communities/508213614/TAKEOFF-INTERACTIVE\n\nCreated by @Acetul as a personal passion project and an exploration of the capabilities of the Roblox Engine.\n\nThis is an unofficial, fan-made project inspired by Counter-Strike 2. It is developed for entertainment and educational purposes only, with no monetization, no intention of generating profit, and no commercial p",
+      "genre": "All",
+      "created": "2026-10-12T18:36:53.642Z",
+      "creatorName": "TAKEOFF INTERACTIVE",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-28T12:39:59.292251+00:00",
+          "ccu": 268,
+          "visits": 60764
+        }
+      ],
+      "latest_ccu": 268,
+      "latest_visits": 60764,
+      "last_seen": "2026-10-28T12:39:59.292251+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769753268": {
+      "name": "House of Guilt [ALPHA]",
+      "universeId": "10769753268",
+      "rootPlaceId": 92351675237029,
+      "description": "You decided to investigate the abandoned house, but you \nend up trapped in someone\u2019s long-lost memories. Escape the Guilt.\n\nGuilt (the boy and the bath) character is originally created by DoctorNowhere.\n!! Story of this game is not canon.\n\n\ud83d\udeaa Features 3 Endings (1/3) \n\ud83d\udcf1 Available on Mobile, PC, and Console  \n\ud83d\udd0d Story-focused Horror Experience",
+      "genre": "All",
+      "created": "2026-10-07T15:39:20.026Z",
+      "creatorName": "OP horror experiences",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-28T12:39:59.292251+00:00",
+          "ccu": 329,
+          "visits": 192532
+        }
+      ],
+      "latest_ccu": 329,
+      "latest_visits": 192532,
+      "last_seen": "2026-10-28T12:39:59.292251+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

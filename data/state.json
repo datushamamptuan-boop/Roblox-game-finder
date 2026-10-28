@@ -5736,6 +5736,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10768645719": {
+      "name": "[UPDATE\ud83c\udf83] Farming Incremental",
+      "universeId": "10768645719",
+      "rootPlaceId": 112643270710584,
+      "description": "\ud83c\udf3e Welcome to Farming Incremental!\n\nRelax on your very own cozy farm and enjoy the satisfying feeling of harvesting endless fields of wheat! \ud83c\udf3b\n\n\ud83c\udf3e Harvest wheat and earn coins!\n\ud83d\udcaa Upgrade your stats to farm even faster!\n\ud83d\ude9c Unlock and collect new tractors!\n\ud83c\udfc6 Become the ultimate farmer!\n\n\u2728 Harvest, Upgrade, Collect & Repeat!\n\n\ud83d\udc4d Like the game and \u2b50 Favorite for more updates!",
+      "genre": "All",
+      "created": "2026-09-29T21:24:22.512Z",
+      "creatorName": "Winrz",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-28T22:52:11.867452+00:00",
+          "ccu": 917,
+          "visits": 142758
+        }
+      ],
+      "latest_ccu": 917,
+      "latest_visits": 142758,
+      "last_seen": "2026-10-28T22:52:11.867452+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

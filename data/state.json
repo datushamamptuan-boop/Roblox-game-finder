@@ -5667,14 +5667,19 @@
           "t": "2026-10-28T00:01:58.766835+00:00",
           "ccu": 2431,
           "visits": 147064
+        },
+        {
+          "t": "2026-10-28T05:57:15.391621+00:00",
+          "ccu": 2121,
+          "visits": 175725
         }
       ],
-      "latest_ccu": 2431,
-      "latest_visits": 147064,
-      "last_seen": "2026-10-28T00:01:58.766835+00:00",
+      "latest_ccu": 2121,
+      "latest_visits": 175725,
+      "last_seen": "2026-10-28T05:57:15.391621+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 3.98
+      "growth_ratio": 3.89
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:41:10.119772+00:00",
+  "generated_at": "2026-10-29T15:37:31.402989+00:00",
   "count": 78,
   "games": [
     {
@@ -587,6 +587,44 @@
       "growth_ratio": 3.67
     },
     {
+      "name": "[UPDATE\ud83c\udf83] Farming Incremental",
+      "universeId": "10768645719",
+      "rootPlaceId": 112643270710584,
+      "description": "\ud83c\udf3e Welcome to Farming Incremental!\n\nRelax on your very own cozy farm and enjoy the satisfying feeling of harvesting endless fields of wheat! \ud83c\udf3b\n\n\ud83c\udf3e Harvest wheat and earn coins!\n\ud83d\udcaa Upgrade your stats to farm even faster!\n\ud83d\ude9c Unlock and collect new tractors!\n\ud83c\udfc6 Become the ultimate farmer!\n\n\u2728 Harvest, Upgrade, Collect & Repeat!\n\n\ud83d\udc4d Like the game and \u2b50 Favorite for more updates!",
+      "genre": "All",
+      "created": "2026-09-29T21:24:22.512Z",
+      "creatorName": "Winrz",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-28T22:52:11.867452+00:00",
+          "ccu": 917,
+          "visits": 142758
+        },
+        {
+          "t": "2026-10-29T02:17:10.989737+00:00",
+          "ccu": 665,
+          "visits": 150424
+        },
+        {
+          "t": "2026-10-29T08:41:10.119772+00:00",
+          "ccu": 611,
+          "visits": 160778
+        },
+        {
+          "t": "2026-10-29T15:37:31.402989+00:00",
+          "ccu": 1380,
+          "visits": 183640
+        }
+      ],
+      "latest_ccu": 1380,
+      "latest_visits": 183640,
+      "last_seen": "2026-10-29T15:37:31.402989+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.26
+    },
+    {
       "name": "Mitosis [UPD 1]",
       "universeId": "10768689412",
       "rootPlaceId": 134829968203846,
@@ -1082,6 +1120,44 @@
       "trend_score": 95.3,
       "trend_label": "strong_upward",
       "growth_ratio": 1.13
+    },
+    {
+      "name": "join the group to play",
+      "universeId": "10770563082",
+      "rootPlaceId": 129019396299239,
+      "description": "Group Link: https://www.roblox.com/communities/508213614/TAKEOFF-INTERACTIVE\n\nCreated by @Acetul as a personal passion project and an exploration of the capabilities of the Roblox Engine.\n\nThis is an unofficial, fan-made project inspired by Counter-Strike 2. It is developed for entertainment and educational purposes only, with no monetization, no intention of generating profit, and no commercial p",
+      "genre": "All",
+      "created": "2026-10-12T18:36:53.642Z",
+      "creatorName": "TAKEOFF INTERACTIVE",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-28T12:39:59.292251+00:00",
+          "ccu": 268,
+          "visits": 60764
+        },
+        {
+          "t": "2026-10-28T18:32:05.372171+00:00",
+          "ccu": 681,
+          "visits": 86176
+        },
+        {
+          "t": "2026-10-29T08:41:10.119772+00:00",
+          "ccu": 361,
+          "visits": 156264
+        },
+        {
+          "t": "2026-10-29T15:37:31.402989+00:00",
+          "ccu": 697,
+          "visits": 190661
+        }
+      ],
+      "latest_ccu": 697,
+      "latest_visits": 190661,
+      "last_seen": "2026-10-29T15:37:31.402989+00:00",
+      "trend_score": 94.6,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.11
     },
     {
       "name": "Zee [TEMP!]",
@@ -5689,39 +5765,6 @@
       "growth_ratio": null
     },
     {
-      "name": "join the group to play",
-      "universeId": "10770563082",
-      "rootPlaceId": 129019396299239,
-      "description": "Group Link: https://www.roblox.com/communities/508213614/TAKEOFF-INTERACTIVE\n\nCreated by @Acetul as a personal passion project and an exploration of the capabilities of the Roblox Engine.\n\nThis is an unofficial, fan-made project inspired by Counter-Strike 2. It is developed for entertainment and educational purposes only, with no monetization, no intention of generating profit, and no commercial p",
-      "genre": "All",
-      "created": "2026-10-12T18:36:53.642Z",
-      "creatorName": "TAKEOFF INTERACTIVE",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-28T12:39:59.292251+00:00",
-          "ccu": 268,
-          "visits": 60764
-        },
-        {
-          "t": "2026-10-28T18:32:05.372171+00:00",
-          "ccu": 681,
-          "visits": 86176
-        },
-        {
-          "t": "2026-10-29T08:41:10.119772+00:00",
-          "ccu": 361,
-          "visits": 156264
-        }
-      ],
-      "latest_ccu": 361,
-      "latest_visits": 156264,
-      "last_seen": "2026-10-29T08:41:10.119772+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "House of Guilt [ALPHA]",
       "universeId": "10769753268",
       "rootPlaceId": 92351675237029,
@@ -5740,39 +5783,6 @@
       "latest_ccu": 329,
       "latest_visits": 192532,
       "last_seen": "2026-10-28T12:39:59.292251+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "[UPDATE\ud83c\udf83] Farming Incremental",
-      "universeId": "10768645719",
-      "rootPlaceId": 112643270710584,
-      "description": "\ud83c\udf3e Welcome to Farming Incremental!\n\nRelax on your very own cozy farm and enjoy the satisfying feeling of harvesting endless fields of wheat! \ud83c\udf3b\n\n\ud83c\udf3e Harvest wheat and earn coins!\n\ud83d\udcaa Upgrade your stats to farm even faster!\n\ud83d\ude9c Unlock and collect new tractors!\n\ud83c\udfc6 Become the ultimate farmer!\n\n\u2728 Harvest, Upgrade, Collect & Repeat!\n\n\ud83d\udc4d Like the game and \u2b50 Favorite for more updates!",
-      "genre": "All",
-      "created": "2026-09-29T21:24:22.512Z",
-      "creatorName": "Winrz",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-28T22:52:11.867452+00:00",
-          "ccu": 917,
-          "visits": 142758
-        },
-        {
-          "t": "2026-10-29T02:17:10.989737+00:00",
-          "ccu": 665,
-          "visits": 150424
-        },
-        {
-          "t": "2026-10-29T08:41:10.119772+00:00",
-          "ccu": 611,
-          "visits": 160778
-        }
-      ],
-      "latest_ccu": 611,
-      "latest_visits": 160778,
-      "last_seen": "2026-10-29T08:41:10.119772+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

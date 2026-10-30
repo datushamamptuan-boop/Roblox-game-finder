@@ -5804,11 +5804,62 @@
           "t": "2026-10-30T13:35:12.972113+00:00",
           "ccu": 686,
           "visits": 107881
+        },
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 1434,
+          "visits": 118029
         }
       ],
-      "latest_ccu": 686,
-      "latest_visits": 107881,
-      "last_seen": "2026-10-30T13:35:12.972113+00:00",
+      "latest_ccu": 1434,
+      "latest_visits": 118029,
+      "last_seen": "2026-10-30T18:52:58.517720+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10770046212": {
+      "name": "\ud83c\udf83 Brawlbox",
+      "universeId": "10770046212",
+      "rootPlaceId": 134710545534005,
+      "description": "Brawlbox is a free 2D platform fighter. Knock your opponents off the stage in fast matches, solo against CPUs or online with up to 8 players.\n\nPlay on PC, console, phone and tablet (touch controls included).\n\n- 70 legends, each with their own weapons and moves\n- Casual online matches and ranked ladders (1v1 and 2v2)\n- Party up with friends or host a custom lobby\n- Join tournaments with a code\n- Tr",
+      "genre": "All",
+      "created": "2026-10-09T19:59:30.463Z",
+      "creatorName": "Temp's Workshop",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 505,
+          "visits": 88495
+        }
+      ],
+      "latest_ccu": 505,
+      "latest_visits": 88495,
+      "last_seen": "2026-10-30T18:52:58.517720+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769593960": {
+      "name": "911 Dispatch ",
+      "universeId": "10769593960",
+      "rootPlaceId": 139792610299212,
+      "description": "911 dispatcher game set in downtown Chicago. You sit at the dispatch computer, pick up calls and send police, fire trucks and ambulances where they need to go.\n\nHow it works:\n1. Phone rings, you answer it\n2. Ask the caller where they are and what happened\n3. Put the incident in and send units\n4. Watch them drive there on the map. If they need backup they radio you\n\nNot every caller is helpful. Som",
+      "genre": "All",
+      "created": "2026-10-06T08:36:53.414Z",
+      "creatorName": "Dispatch Interactive",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 716,
+          "visits": 118218
+        }
+      ],
+      "latest_ccu": 716,
+      "latest_visits": 118218,
+      "last_seen": "2026-10-30T18:52:58.517720+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

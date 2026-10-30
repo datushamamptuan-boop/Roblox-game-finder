@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:52:58.517720+00:00",
+  "generated_at": "2026-10-30T22:56:10.245506+00:00",
   "count": 81,
   "games": [
     {
@@ -623,6 +623,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
+    },
+    {
+      "name": "\ud83e\udd40Drain All Life",
+      "universeId": "10770784203",
+      "rootPlaceId": 115369271316070,
+      "description": "Touch a golden field and watch it rot, plant by plant, until nothing is left.\n\n\ud83c\udf3e Touch plants to wither them and earn Life\n\ud83c\udf42 Grow your rot tree: touch wider, spread faster, land LUCKY crits\n\ud83c\udf15 BLOOD MOON every day at 8:05 PM EDT (00:05 UTC): x2 Life for 20 minutes!\n\u26a1 Unlock 4 rot powers: Swarm, Rot Nova, Blight Bolt and Blight Seed\n\ud83d\udc65 Rot one huge field with up to 8 friends: it saves, and any of you",
+      "genre": "All",
+      "created": "2026-10-14T04:03:54.277Z",
+      "creatorName": "Indie-Velopers Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T06:27:22.872675+00:00",
+          "ccu": 486,
+          "visits": 101829
+        },
+        {
+          "t": "2026-10-30T13:35:12.972113+00:00",
+          "ccu": 686,
+          "visits": 107881
+        },
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 1434,
+          "visits": 118029
+        },
+        {
+          "t": "2026-10-30T22:56:10.245506+00:00",
+          "ccu": 2255,
+          "visits": 132192
+        }
+      ],
+      "latest_ccu": 2255,
+      "latest_visits": 132192,
+      "last_seen": "2026-10-30T22:56:10.245506+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 3.15
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5788,39 +5826,6 @@
       "growth_ratio": null
     },
     {
-      "name": "\ud83e\udd40Drain All Life",
-      "universeId": "10770784203",
-      "rootPlaceId": 115369271316070,
-      "description": "Touch a golden field and watch it rot, plant by plant, until nothing is left.\n\n\ud83c\udf3e Touch plants to wither them and earn Life\n\ud83c\udf42 Grow your rot tree: touch wider, spread faster, land LUCKY crits\n\ud83c\udf15 BLOOD MOON every day at 8:05 PM EDT (00:05 UTC): x2 Life for 20 minutes!\n\u26a1 Unlock 4 rot powers: Swarm, Rot Nova, Blight Bolt and Blight Seed\n\ud83d\udc65 Rot one huge field with up to 8 friends: it saves, and any of you",
-      "genre": "All",
-      "created": "2026-10-14T04:03:54.277Z",
-      "creatorName": "Indie-Velopers Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-30T06:27:22.872675+00:00",
-          "ccu": 486,
-          "visits": 101829
-        },
-        {
-          "t": "2026-10-30T13:35:12.972113+00:00",
-          "ccu": 686,
-          "visits": 107881
-        },
-        {
-          "t": "2026-10-30T18:52:58.517720+00:00",
-          "ccu": 1434,
-          "visits": 118029
-        }
-      ],
-      "latest_ccu": 1434,
-      "latest_visits": 118029,
-      "last_seen": "2026-10-30T18:52:58.517720+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "\ud83c\udf83 Brawlbox",
       "universeId": "10770046212",
       "rootPlaceId": 134710545534005,
@@ -5834,11 +5839,16 @@
           "t": "2026-10-30T18:52:58.517720+00:00",
           "ccu": 505,
           "visits": 88495
+        },
+        {
+          "t": "2026-10-30T22:56:10.245506+00:00",
+          "ccu": 687,
+          "visits": 103080
         }
       ],
-      "latest_ccu": 505,
-      "latest_visits": 88495,
-      "last_seen": "2026-10-30T18:52:58.517720+00:00",
+      "latest_ccu": 687,
+      "latest_visits": 103080,
+      "last_seen": "2026-10-30T22:56:10.245506+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5857,11 +5867,16 @@
           "t": "2026-10-30T18:52:58.517720+00:00",
           "ccu": 716,
           "visits": 118218
+        },
+        {
+          "t": "2026-10-30T22:56:10.245506+00:00",
+          "ccu": 915,
+          "visits": 141248
         }
       ],
-      "latest_ccu": 716,
-      "latest_visits": 118218,
-      "last_seen": "2026-10-30T18:52:58.517720+00:00",
+      "latest_ccu": 915,
+      "latest_visits": 141248,
+      "last_seen": "2026-10-30T22:56:10.245506+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T00:25:00.486076+00:00",
-  "count": 78,
+  "generated_at": "2026-10-30T06:27:22.872675+00:00",
+  "count": 79,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -5783,6 +5783,29 @@
       "latest_ccu": 329,
       "latest_visits": 192532,
       "last_seen": "2026-10-28T12:39:59.292251+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "\ud83e\udd40Drain All Life",
+      "universeId": "10770784203",
+      "rootPlaceId": 115369271316070,
+      "description": "Touch a golden field and watch it rot, plant by plant, until nothing is left.\n\n\ud83c\udf3e Touch plants to wither them and earn Life\n\ud83c\udf42 Grow your rot tree: touch wider, spread faster, land LUCKY crits\n\ud83c\udf15 BLOOD MOON every day at 8:05 PM EDT (00:05 UTC): x2 Life for 20 minutes!\n\u26a1 Unlock 4 rot powers: Swarm, Rot Nova, Blight Bolt and Blight Seed\n\ud83d\udc65 Rot one huge field with up to 8 friends: it saves, and any of you",
+      "genre": "All",
+      "created": "2026-10-14T04:03:54.277Z",
+      "creatorName": "Indie-Velopers Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T06:27:22.872675+00:00",
+          "ccu": 486,
+          "visits": 101829
+        }
+      ],
+      "latest_ccu": 486,
+      "latest_visits": 101829,
+      "last_seen": "2026-10-30T06:27:22.872675+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

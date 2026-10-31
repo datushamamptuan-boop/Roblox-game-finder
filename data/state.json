@@ -5824,14 +5824,19 @@
           "t": "2026-10-31T08:34:01.514404+00:00",
           "ccu": 569,
           "visits": 153607
+        },
+        {
+          "t": "2026-10-31T14:46:08.542754+00:00",
+          "ccu": 1328,
+          "visits": 163305
         }
       ],
-      "latest_ccu": 569,
-      "latest_visits": 153607,
-      "last_seen": "2026-10-31T08:34:01.514404+00:00",
+      "latest_ccu": 1328,
+      "latest_visits": 163305,
+      "last_seen": "2026-10-31T14:46:08.542754+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.57
+      "growth_ratio": 1.56
     },
     "10770046212": {
       "name": "\ud83c\udf83 Brawlbox",

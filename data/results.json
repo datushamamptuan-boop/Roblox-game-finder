@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:14:02.530700+00:00",
+  "generated_at": "2026-10-31T08:34:01.514404+00:00",
   "count": 81,
   "games": [
     {
@@ -658,14 +658,19 @@
           "t": "2026-10-31T02:14:02.530700+00:00",
           "ccu": 1275,
           "visits": 144184
+        },
+        {
+          "t": "2026-10-31T08:34:01.514404+00:00",
+          "ccu": 569,
+          "visits": 153607
         }
       ],
-      "latest_ccu": 1275,
-      "latest_visits": 144184,
-      "last_seen": "2026-10-31T02:14:02.530700+00:00",
+      "latest_ccu": 569,
+      "latest_visits": 153607,
+      "last_seen": "2026-10-31T08:34:01.514404+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.82
+      "growth_ratio": 1.57
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -4988,6 +4993,44 @@
       "growth_ratio": 0.16
     },
     {
+      "name": "911 Dispatch ",
+      "universeId": "10769593960",
+      "rootPlaceId": 139792610299212,
+      "description": "911 dispatcher game set in downtown Chicago. You sit at the dispatch computer, pick up calls and send police, fire trucks and ambulances where they need to go.\n\nHow it works:\n1. Phone rings, you answer it\n2. Ask the caller where they are and what happened\n3. Put the incident in and send units\n4. Watch them drive there on the map. If they need backup they radio you\n\nNot every caller is helpful. Som",
+      "genre": "All",
+      "created": "2026-10-06T08:36:53.414Z",
+      "creatorName": "Dispatch Interactive",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 716,
+          "visits": 118218
+        },
+        {
+          "t": "2026-10-30T22:56:10.245506+00:00",
+          "ccu": 915,
+          "visits": 141248
+        },
+        {
+          "t": "2026-10-31T02:14:02.530700+00:00",
+          "ccu": 695,
+          "visits": 157368
+        },
+        {
+          "t": "2026-10-31T08:34:01.514404+00:00",
+          "ccu": 312,
+          "visits": 171972
+        }
+      ],
+      "latest_ccu": 312,
+      "latest_visits": 171972,
+      "last_seen": "2026-10-31T08:34:01.514404+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.62
+    },
+    {
       "name": "The Cosalazo 2 ",
       "universeId": "10739137760",
       "rootPlaceId": 133473642879498,
@@ -5858,39 +5901,6 @@
       ],
       "latest_ccu": 639,
       "latest_visits": 114019,
-      "last_seen": "2026-10-31T02:14:02.530700+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "911 Dispatch ",
-      "universeId": "10769593960",
-      "rootPlaceId": 139792610299212,
-      "description": "911 dispatcher game set in downtown Chicago. You sit at the dispatch computer, pick up calls and send police, fire trucks and ambulances where they need to go.\n\nHow it works:\n1. Phone rings, you answer it\n2. Ask the caller where they are and what happened\n3. Put the incident in and send units\n4. Watch them drive there on the map. If they need backup they radio you\n\nNot every caller is helpful. Som",
-      "genre": "All",
-      "created": "2026-10-06T08:36:53.414Z",
-      "creatorName": "Dispatch Interactive",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-30T18:52:58.517720+00:00",
-          "ccu": 716,
-          "visits": 118218
-        },
-        {
-          "t": "2026-10-30T22:56:10.245506+00:00",
-          "ccu": 915,
-          "visits": 141248
-        },
-        {
-          "t": "2026-10-31T02:14:02.530700+00:00",
-          "ccu": 695,
-          "visits": 157368
-        }
-      ],
-      "latest_ccu": 695,
-      "latest_visits": 157368,
       "last_seen": "2026-10-31T02:14:02.530700+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",

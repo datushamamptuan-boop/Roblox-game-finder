@@ -5829,14 +5829,19 @@
           "t": "2026-10-31T14:46:08.542754+00:00",
           "ccu": 1328,
           "visits": 163305
+        },
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 2023,
+          "visits": 177313
         }
       ],
-      "latest_ccu": 1328,
-      "latest_visits": 163305,
-      "last_seen": "2026-10-31T14:46:08.542754+00:00",
-      "trend_score": 100,
+      "latest_ccu": 2023,
+      "latest_visits": 177313,
+      "last_seen": "2026-10-31T19:13:04.900002+00:00",
+      "trend_score": 92.7,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.56
+      "growth_ratio": 1.07
     },
     "10770046212": {
       "name": "\ud83c\udf83 Brawlbox",
@@ -5908,6 +5913,29 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.62
+    },
+    "10769787444": {
+      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
+      "universeId": "10769787444",
+      "rootPlaceId": 124357835578554,
+      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
+      "genre": "All",
+      "created": "2026-10-07T20:40:14.935Z",
+      "creatorName": "Above Game",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 912,
+          "visits": 114234
+        }
+      ],
+      "latest_ccu": 912,
+      "latest_visits": 114234,
+      "last_seen": "2026-10-31T19:13:04.900002+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-31T14:46:08.542754+00:00",
-  "count": 81,
+  "generated_at": "2026-10-31T19:13:04.900002+00:00",
+  "count": 82,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -623,59 +623,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.26
-    },
-    {
-      "name": "\ud83e\udd40Drain All Life",
-      "universeId": "10770784203",
-      "rootPlaceId": 115369271316070,
-      "description": "Touch a golden field and watch it rot, plant by plant, until nothing is left.\n\n\ud83c\udf3e Touch plants to wither them and earn Life\n\ud83c\udf42 Grow your rot tree: touch wider, spread faster, land LUCKY crits\n\ud83c\udf15 BLOOD MOON every day at 8:05 PM EDT (00:05 UTC): x2 Life for 20 minutes!\n\u26a1 Unlock 4 rot powers: Swarm, Rot Nova, Blight Bolt and Blight Seed\n\ud83d\udc65 Rot one huge field with up to 8 friends: it saves, and any of you",
-      "genre": "All",
-      "created": "2026-10-14T04:03:54.277Z",
-      "creatorName": "Indie-Velopers Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-30T06:27:22.872675+00:00",
-          "ccu": 486,
-          "visits": 101829
-        },
-        {
-          "t": "2026-10-30T13:35:12.972113+00:00",
-          "ccu": 686,
-          "visits": 107881
-        },
-        {
-          "t": "2026-10-30T18:52:58.517720+00:00",
-          "ccu": 1434,
-          "visits": 118029
-        },
-        {
-          "t": "2026-10-30T22:56:10.245506+00:00",
-          "ccu": 2255,
-          "visits": 132192
-        },
-        {
-          "t": "2026-10-31T02:14:02.530700+00:00",
-          "ccu": 1275,
-          "visits": 144184
-        },
-        {
-          "t": "2026-10-31T08:34:01.514404+00:00",
-          "ccu": 569,
-          "visits": 153607
-        },
-        {
-          "t": "2026-10-31T14:46:08.542754+00:00",
-          "ccu": 1328,
-          "visits": 163305
-        }
-      ],
-      "latest_ccu": 1328,
-      "latest_visits": 163305,
-      "last_seen": "2026-10-31T14:46:08.542754+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.56
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -1454,6 +1401,64 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "\ud83e\udd40Drain All Life",
+      "universeId": "10770784203",
+      "rootPlaceId": 115369271316070,
+      "description": "Touch a golden field and watch it rot, plant by plant, until nothing is left.\n\n\ud83c\udf3e Touch plants to wither them and earn Life\n\ud83c\udf42 Grow your rot tree: touch wider, spread faster, land LUCKY crits\n\ud83c\udf15 BLOOD MOON every day at 8:05 PM EDT (00:05 UTC): x2 Life for 20 minutes!\n\u26a1 Unlock 4 rot powers: Swarm, Rot Nova, Blight Bolt and Blight Seed\n\ud83d\udc65 Rot one huge field with up to 8 friends: it saves, and any of you",
+      "genre": "All",
+      "created": "2026-10-14T04:03:54.277Z",
+      "creatorName": "Indie-Velopers Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-30T06:27:22.872675+00:00",
+          "ccu": 486,
+          "visits": 101829
+        },
+        {
+          "t": "2026-10-30T13:35:12.972113+00:00",
+          "ccu": 686,
+          "visits": 107881
+        },
+        {
+          "t": "2026-10-30T18:52:58.517720+00:00",
+          "ccu": 1434,
+          "visits": 118029
+        },
+        {
+          "t": "2026-10-30T22:56:10.245506+00:00",
+          "ccu": 2255,
+          "visits": 132192
+        },
+        {
+          "t": "2026-10-31T02:14:02.530700+00:00",
+          "ccu": 1275,
+          "visits": 144184
+        },
+        {
+          "t": "2026-10-31T08:34:01.514404+00:00",
+          "ccu": 569,
+          "visits": 153607
+        },
+        {
+          "t": "2026-10-31T14:46:08.542754+00:00",
+          "ccu": 1328,
+          "visits": 163305
+        },
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 2023,
+          "visits": 177313
+        }
+      ],
+      "latest_ccu": 2023,
+      "latest_visits": 177313,
+      "last_seen": "2026-10-31T19:13:04.900002+00:00",
+      "trend_score": 92.7,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.07
     },
     {
       "name": "PERIPHERAL (BETA)",
@@ -5907,6 +5912,29 @@
       "latest_ccu": 639,
       "latest_visits": 114019,
       "last_seen": "2026-10-31T02:14:02.530700+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
+      "universeId": "10769787444",
+      "rootPlaceId": 124357835578554,
+      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
+      "genre": "All",
+      "created": "2026-10-07T20:40:14.935Z",
+      "creatorName": "Above Game",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 912,
+          "visits": 114234
+        }
+      ],
+      "latest_ccu": 912,
+      "latest_visits": 114234,
+      "last_seen": "2026-10-31T19:13:04.900002+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

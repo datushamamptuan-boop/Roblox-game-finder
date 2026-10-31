@@ -5814,14 +5814,19 @@
           "t": "2026-10-30T22:56:10.245506+00:00",
           "ccu": 2255,
           "visits": 132192
+        },
+        {
+          "t": "2026-10-31T02:14:02.530700+00:00",
+          "ccu": 1275,
+          "visits": 144184
         }
       ],
-      "latest_ccu": 2255,
-      "latest_visits": 132192,
-      "last_seen": "2026-10-30T22:56:10.245506+00:00",
+      "latest_ccu": 1275,
+      "latest_visits": 144184,
+      "last_seen": "2026-10-31T02:14:02.530700+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 3.15
+      "growth_ratio": 2.82
     },
     "10770046212": {
       "name": "\ud83c\udf83 Brawlbox",
@@ -5842,11 +5847,16 @@
           "t": "2026-10-30T22:56:10.245506+00:00",
           "ccu": 687,
           "visits": 103080
+        },
+        {
+          "t": "2026-10-31T02:14:02.530700+00:00",
+          "ccu": 639,
+          "visits": 114019
         }
       ],
-      "latest_ccu": 687,
-      "latest_visits": 103080,
-      "last_seen": "2026-10-30T22:56:10.245506+00:00",
+      "latest_ccu": 639,
+      "latest_visits": 114019,
+      "last_seen": "2026-10-31T02:14:02.530700+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -5870,11 +5880,16 @@
           "t": "2026-10-30T22:56:10.245506+00:00",
           "ccu": 915,
           "visits": 141248
+        },
+        {
+          "t": "2026-10-31T02:14:02.530700+00:00",
+          "ccu": 695,
+          "visits": 157368
         }
       ],
-      "latest_ccu": 915,
-      "latest_visits": 141248,
-      "last_seen": "2026-10-30T22:56:10.245506+00:00",
+      "latest_ccu": 695,
+      "latest_visits": 157368,
+      "last_seen": "2026-10-31T02:14:02.530700+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

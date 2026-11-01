@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T08:09:32.516513+00:00",
-  "count": 83,
+  "generated_at": "2026-11-01T15:18:58.924646+00:00",
+  "count": 85,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -1464,6 +1464,49 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
+      "universeId": "10769787444",
+      "rootPlaceId": 124357835578554,
+      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
+      "genre": "All",
+      "created": "2026-10-07T20:40:14.935Z",
+      "creatorName": "Above Game",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 912,
+          "visits": 114234
+        },
+        {
+          "t": "2026-10-31T22:37:08.826252+00:00",
+          "ccu": 819,
+          "visits": 119907
+        },
+        {
+          "t": "2026-11-01T01:29:17.707814+00:00",
+          "ccu": 843,
+          "visits": 123851
+        },
+        {
+          "t": "2026-11-01T08:09:32.516513+00:00",
+          "ccu": 863,
+          "visits": 133180
+        },
+        {
+          "t": "2026-11-01T15:18:58.924646+00:00",
+          "ccu": 1225,
+          "visits": 144882
+        }
+      ],
+      "latest_ccu": 1225,
+      "latest_visits": 144882,
+      "last_seen": "2026-11-01T15:18:58.924646+00:00",
+      "trend_score": 91.1,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.13
     },
     {
       "name": "PERIPHERAL (BETA)",
@@ -3866,44 +3909,6 @@
       "growth_ratio": 0.96
     },
     {
-      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
-      "universeId": "10769787444",
-      "rootPlaceId": 124357835578554,
-      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
-      "genre": "All",
-      "created": "2026-10-07T20:40:14.935Z",
-      "creatorName": "Above Game",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-31T19:13:04.900002+00:00",
-          "ccu": 912,
-          "visits": 114234
-        },
-        {
-          "t": "2026-10-31T22:37:08.826252+00:00",
-          "ccu": 819,
-          "visits": 119907
-        },
-        {
-          "t": "2026-11-01T01:29:17.707814+00:00",
-          "ccu": 843,
-          "visits": 123851
-        },
-        {
-          "t": "2026-11-01T08:09:32.516513+00:00",
-          "ccu": 863,
-          "visits": 133180
-        }
-      ],
-      "latest_ccu": 863,
-      "latest_visits": 133180,
-      "last_seen": "2026-11-01T08:09:32.516513+00:00",
-      "trend_score": 42.3,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 0.99
-    },
-    {
       "name": "Zee",
       "universeId": "10765699106",
       "rootPlaceId": 71136648011095,
@@ -5978,6 +5983,52 @@
       "latest_ccu": 558,
       "latest_visits": 185266,
       "last_seen": "2026-11-01T01:29:17.707814+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "HEISTBLOX",
+      "universeId": "10768934595",
+      "rootPlaceId": 87930012790262,
+      "description": "\u26a0\ufe0f HEISTBLOX is in early development. Join the group to report bugs & share feedback!\n\n\ud83d\udca5HEISTBLOX is a unique Cops VS Robbers PVP shooter where Criminals must complete various heists while engaging in shootouts with Police players.\n\n\ud83d\udcb0CRIMINALS - Rob the Bank, grab the loot and escape before the law catches up to you.\n\ud83d\udc64CIVILIANS - Run the clock down by completing tasks. Every task you finish brings",
+      "genre": "All",
+      "created": "2026-10-02T01:59:31.881Z",
+      "creatorName": "k//eleison",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-01T15:18:58.924646+00:00",
+          "ccu": 823,
+          "visits": 163053
+        }
+      ],
+      "latest_ccu": 823,
+      "latest_visits": 163053,
+      "last_seen": "2026-11-01T15:18:58.924646+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "30 Floors Up",
+      "universeId": "10772879271",
+      "rootPlaceId": 124063493943486,
+      "description": "\ud83c\udfe2 Stranded 30 floors above a zombie apocalypse. Can you survive 100 days?\n\n\ud83e\udd6b Scavenge food, store water, and barricade your apartment.\n\ud83e\udddf Stay quiet as zombies fill the hallways.\n\ud83e\udd1d Play solo or team up with up to 3 friends.\n\ud83d\udd28 Build rooftop shelters, craft escape plans, and discover new routes.\n\ud83d\udcfb Help your neighbors, uncover secrets, and choose your escape.\n\nWill you wait for rescue\u2014or risk everythi",
+      "genre": "All",
+      "created": "2026-10-25T06:10:18.211Z",
+      "creatorName": "Dateline NBC",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-01T15:18:58.924646+00:00",
+          "ccu": 6297,
+          "visits": 183676
+        }
+      ],
+      "latest_ccu": 6297,
+      "latest_visits": 183676,
+      "last_seen": "2026-11-01T15:18:58.924646+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

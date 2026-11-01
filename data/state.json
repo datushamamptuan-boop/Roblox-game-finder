@@ -5938,11 +5938,39 @@
           "t": "2026-10-31T22:37:08.826252+00:00",
           "ccu": 819,
           "visits": 119907
+        },
+        {
+          "t": "2026-11-01T01:29:17.707814+00:00",
+          "ccu": 843,
+          "visits": 123851
         }
       ],
-      "latest_ccu": 819,
-      "latest_visits": 119907,
-      "last_seen": "2026-10-31T22:37:08.826252+00:00",
+      "latest_ccu": 843,
+      "latest_visits": 123851,
+      "last_seen": "2026-11-01T01:29:17.707814+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769969724": {
+      "name": "Shibuya [Beta]",
+      "universeId": "10769969724",
+      "rootPlaceId": 92832059482592,
+      "description": "NEXT CODE AT 1000 LIKES!\n\nShibuya is a Jujutsu Kaisen inspired fighting game set 1000 years after the original story. Climb the sorcerer grades, earn cursed techniques through hard trials, contain curses instead of exorcising them, and fight in virtual Tube Simulations. The game has hardcore elements, and the stronger you get, the more a careless death can cost you.\n\nL to equip your weapon\nTab to ",
+      "genre": "All",
+      "created": "2026-10-09T08:53:07.262Z",
+      "creatorName": "Project M\u1160",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-01T01:29:17.707814+00:00",
+          "ccu": 558,
+          "visits": 185266
+        }
+      ],
+      "latest_ccu": 558,
+      "latest_visits": 185266,
+      "last_seen": "2026-11-01T01:29:17.707814+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

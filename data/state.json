@@ -5943,14 +5943,19 @@
           "t": "2026-11-01T01:29:17.707814+00:00",
           "ccu": 843,
           "visits": 123851
+        },
+        {
+          "t": "2026-11-01T08:09:32.516513+00:00",
+          "ccu": 863,
+          "visits": 133180
         }
       ],
-      "latest_ccu": 843,
-      "latest_visits": 123851,
-      "last_seen": "2026-11-01T01:29:17.707814+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 863,
+      "latest_visits": 133180,
+      "last_seen": "2026-11-01T08:09:32.516513+00:00",
+      "trend_score": 42.3,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.99
     },
     "10769969724": {
       "name": "Shibuya [Beta]",

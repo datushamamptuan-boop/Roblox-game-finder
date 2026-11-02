@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:45:16.791931+00:00",
+  "generated_at": "2026-11-02T10:50:44.589319+00:00",
   "count": 85,
   "games": [
     {
@@ -686,64 +686,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.27
-    },
-    {
-      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
-      "universeId": "10769787444",
-      "rootPlaceId": 124357835578554,
-      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
-      "genre": "All",
-      "created": "2026-10-07T20:40:14.935Z",
-      "creatorName": "Above Game",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-10-31T19:13:04.900002+00:00",
-          "ccu": 912,
-          "visits": 114234
-        },
-        {
-          "t": "2026-10-31T22:37:08.826252+00:00",
-          "ccu": 819,
-          "visits": 119907
-        },
-        {
-          "t": "2026-11-01T01:29:17.707814+00:00",
-          "ccu": 843,
-          "visits": 123851
-        },
-        {
-          "t": "2026-11-01T08:09:32.516513+00:00",
-          "ccu": 863,
-          "visits": 133180
-        },
-        {
-          "t": "2026-11-01T15:18:58.924646+00:00",
-          "ccu": 1225,
-          "visits": 144882
-        },
-        {
-          "t": "2026-11-01T19:49:13.985009+00:00",
-          "ccu": 1306,
-          "visits": 156021
-        },
-        {
-          "t": "2026-11-01T23:29:10.937095+00:00",
-          "ccu": 1179,
-          "visits": 164653
-        },
-        {
-          "t": "2026-11-02T02:45:16.791931+00:00",
-          "ccu": 1219,
-          "visits": 172031
-        }
-      ],
-      "latest_ccu": 1219,
-      "latest_visits": 172031,
-      "last_seen": "2026-11-02T02:45:16.791931+00:00",
-      "trend_score": 99.8,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.43
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -1522,6 +1464,69 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
+      "universeId": "10769787444",
+      "rootPlaceId": 124357835578554,
+      "description": "Farm, mine and craft your way from a small farm to a fully automated factory island in the sky. Build cool auto farms, visit friend islands and sign their guestbooks. \n\nAbove is still in early beta testing so there may be bugs. We appreciate feedback!\n\nControls (PC)\n[LMB] break & place blocks, chop, mine or attack\n[1-9] select a hotbar slot (press again to put it away)\n[E] Backpack\n[R] Rotate \n[F]",
+      "genre": "All",
+      "created": "2026-10-07T20:40:14.935Z",
+      "creatorName": "Above Game",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-10-31T19:13:04.900002+00:00",
+          "ccu": 912,
+          "visits": 114234
+        },
+        {
+          "t": "2026-10-31T22:37:08.826252+00:00",
+          "ccu": 819,
+          "visits": 119907
+        },
+        {
+          "t": "2026-11-01T01:29:17.707814+00:00",
+          "ccu": 843,
+          "visits": 123851
+        },
+        {
+          "t": "2026-11-01T08:09:32.516513+00:00",
+          "ccu": 863,
+          "visits": 133180
+        },
+        {
+          "t": "2026-11-01T15:18:58.924646+00:00",
+          "ccu": 1225,
+          "visits": 144882
+        },
+        {
+          "t": "2026-11-01T19:49:13.985009+00:00",
+          "ccu": 1306,
+          "visits": 156021
+        },
+        {
+          "t": "2026-11-01T23:29:10.937095+00:00",
+          "ccu": 1179,
+          "visits": 164653
+        },
+        {
+          "t": "2026-11-02T02:45:16.791931+00:00",
+          "ccu": 1219,
+          "visits": 172031
+        },
+        {
+          "t": "2026-11-02T10:50:44.589319+00:00",
+          "ccu": 1112,
+          "visits": 187152
+        }
+      ],
+      "latest_ccu": 1112,
+      "latest_visits": 187152,
+      "last_seen": "2026-11-02T10:50:44.589319+00:00",
+      "trend_score": 90.9,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.41
     },
     {
       "name": "PERIPHERAL (BETA)",

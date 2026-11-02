@@ -5963,14 +5963,19 @@
           "t": "2026-11-01T23:29:10.937095+00:00",
           "ccu": 1179,
           "visits": 164653
+        },
+        {
+          "t": "2026-11-02T02:45:16.791931+00:00",
+          "ccu": 1219,
+          "visits": 172031
         }
       ],
-      "latest_ccu": 1179,
-      "latest_visits": 164653,
-      "last_seen": "2026-11-01T23:29:10.937095+00:00",
-      "trend_score": 100,
+      "latest_ccu": 1219,
+      "latest_visits": 172031,
+      "last_seen": "2026-11-02T02:45:16.791931+00:00",
+      "trend_score": 99.8,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.33
+      "growth_ratio": 1.43
     },
     "10769969724": {
       "name": "Shibuya [Beta]",
@@ -6019,14 +6024,19 @@
           "t": "2026-11-01T23:29:10.937095+00:00",
           "ccu": 816,
           "visits": 187666
+        },
+        {
+          "t": "2026-11-02T02:45:16.791931+00:00",
+          "ccu": 703,
+          "visits": 196118
         }
       ],
-      "latest_ccu": 816,
-      "latest_visits": 187666,
-      "last_seen": "2026-11-01T23:29:10.937095+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 703,
+      "latest_visits": 196118,
+      "last_seen": "2026-11-02T02:45:16.791931+00:00",
+      "trend_score": 12.6,
+      "trend_label": "declining",
+      "growth_ratio": 0.85
     },
     "10772879271": {
       "name": "30 Floors Up",

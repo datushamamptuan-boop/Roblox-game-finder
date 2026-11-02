@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:29:10.937095+00:00",
+  "generated_at": "2026-11-02T02:45:16.791931+00:00",
   "count": 85,
   "games": [
     {
@@ -731,14 +731,19 @@
           "t": "2026-11-01T23:29:10.937095+00:00",
           "ccu": 1179,
           "visits": 164653
+        },
+        {
+          "t": "2026-11-02T02:45:16.791931+00:00",
+          "ccu": 1219,
+          "visits": 172031
         }
       ],
-      "latest_ccu": 1179,
-      "latest_visits": 164653,
-      "last_seen": "2026-11-01T23:29:10.937095+00:00",
-      "trend_score": 100,
+      "latest_ccu": 1219,
+      "latest_visits": 172031,
+      "last_seen": "2026-11-02T02:45:16.791931+00:00",
+      "trend_score": 99.8,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.33
+      "growth_ratio": 1.43
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -4619,6 +4624,44 @@
       "growth_ratio": 0.77
     },
     {
+      "name": "HEISTBLOX",
+      "universeId": "10768934595",
+      "rootPlaceId": 87930012790262,
+      "description": "\u26a0\ufe0f HEISTBLOX is in early development. Join the group to report bugs & share feedback!\n\n\ud83d\udca5HEISTBLOX is a unique Cops VS Robbers PVP shooter where Criminals must complete various heists while engaging in shootouts with Police players.\n\n\ud83d\udcb0CRIMINALS - Rob the Bank, grab the loot and escape before the law catches up to you.\n\ud83d\udc64CIVILIANS - Run the clock down by completing tasks. Every task you finish brings",
+      "genre": "All",
+      "created": "2026-10-02T01:59:31.881Z",
+      "creatorName": "k//eleison",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-01T15:18:58.924646+00:00",
+          "ccu": 823,
+          "visits": 163053
+        },
+        {
+          "t": "2026-11-01T19:49:13.985009+00:00",
+          "ccu": 974,
+          "visits": 176896
+        },
+        {
+          "t": "2026-11-01T23:29:10.937095+00:00",
+          "ccu": 816,
+          "visits": 187666
+        },
+        {
+          "t": "2026-11-02T02:45:16.791931+00:00",
+          "ccu": 703,
+          "visits": 196118
+        }
+      ],
+      "latest_ccu": 703,
+      "latest_visits": 196118,
+      "last_seen": "2026-11-02T02:45:16.791931+00:00",
+      "trend_score": 12.6,
+      "trend_label": "declining",
+      "growth_ratio": 0.85
+    },
+    {
       "name": "Last Stand [\u26f1\ufe0f]",
       "universeId": "10769802973",
       "rootPlaceId": 120293323710237,
@@ -5993,39 +6036,6 @@
       "latest_ccu": 558,
       "latest_visits": 185266,
       "last_seen": "2026-11-01T01:29:17.707814+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "HEISTBLOX",
-      "universeId": "10768934595",
-      "rootPlaceId": 87930012790262,
-      "description": "\u26a0\ufe0f HEISTBLOX is in early development. Join the group to report bugs & share feedback!\n\n\ud83d\udca5HEISTBLOX is a unique Cops VS Robbers PVP shooter where Criminals must complete various heists while engaging in shootouts with Police players.\n\n\ud83d\udcb0CRIMINALS - Rob the Bank, grab the loot and escape before the law catches up to you.\n\ud83d\udc64CIVILIANS - Run the clock down by completing tasks. Every task you finish brings",
-      "genre": "All",
-      "created": "2026-10-02T01:59:31.881Z",
-      "creatorName": "k//eleison",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-01T15:18:58.924646+00:00",
-          "ccu": 823,
-          "visits": 163053
-        },
-        {
-          "t": "2026-11-01T19:49:13.985009+00:00",
-          "ccu": 974,
-          "visits": 176896
-        },
-        {
-          "t": "2026-11-01T23:29:10.937095+00:00",
-          "ccu": 816,
-          "visits": 187666
-        }
-      ],
-      "latest_ccu": 816,
-      "latest_visits": 187666,
-      "last_seen": "2026-11-01T23:29:10.937095+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

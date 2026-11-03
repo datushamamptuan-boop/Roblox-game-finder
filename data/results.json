@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:42:21.694618+00:00",
+  "generated_at": "2026-11-03T18:21:26.347829+00:00",
   "count": 87,
   "games": [
     {
@@ -6082,11 +6082,16 @@
           "t": "2026-11-03T10:42:21.694618+00:00",
           "ccu": 1170,
           "visits": 114029
+        },
+        {
+          "t": "2026-11-03T18:21:26.347829+00:00",
+          "ccu": 2491,
+          "visits": 142432
         }
       ],
-      "latest_ccu": 1170,
-      "latest_visits": 114029,
-      "last_seen": "2026-11-03T10:42:21.694618+00:00",
+      "latest_ccu": 2491,
+      "latest_visits": 142432,
+      "last_seen": "2026-11-03T18:21:26.347829+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6105,11 +6110,16 @@
           "t": "2026-11-03T10:42:21.694618+00:00",
           "ccu": 250,
           "visits": 119069
+        },
+        {
+          "t": "2026-11-03T18:21:26.347829+00:00",
+          "ccu": 726,
+          "visits": 131280
         }
       ],
-      "latest_ccu": 250,
-      "latest_visits": 119069,
-      "last_seen": "2026-11-03T10:42:21.694618+00:00",
+      "latest_ccu": 726,
+      "latest_visits": 131280,
+      "last_seen": "2026-11-03T18:21:26.347829+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

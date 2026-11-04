@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T23:33:18.060892+00:00",
+  "generated_at": "2026-11-04T03:17:27.232735+00:00",
   "count": 87,
   "games": [
     {
@@ -686,6 +686,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.27
+    },
+    {
+      "name": "[\ud83e\udde0] Ball Knowledge",
+      "universeId": "10770915307",
+      "rootPlaceId": 110147623465822,
+      "description": "\ud83e\udde0 BALL KNOWLEDGE \ud83e\udde0\nGrab a seat, get a question and type ONE answer. Everyone at the table gets the same prompt, but the rarer your answer, the more points you score!\n\n\ud83d\udc36 \"Name a pet\" \u2192 Dog = 10 pts\n\ud83e\udd8a Fennec Fox = 90 pts!\n\n\u2b50 HOW IT WORKS\n\u2022 Walk up to a table and press E to sit\n\u2022 7 rounds, 20 seconds each \u2014 no speed bonus, just knowledge\n\u2022 Answers are revealed together, from Common to LEGENDARY (100 ",
+      "genre": "All",
+      "created": "2026-10-14T19:00:45.915Z",
+      "creatorName": "Gray Games Official",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-03T10:42:21.694618+00:00",
+          "ccu": 250,
+          "visits": 119069
+        },
+        {
+          "t": "2026-11-03T18:21:26.347829+00:00",
+          "ccu": 726,
+          "visits": 131280
+        },
+        {
+          "t": "2026-11-03T23:33:18.060892+00:00",
+          "ccu": 840,
+          "visits": 151060
+        },
+        {
+          "t": "2026-11-04T03:17:27.232735+00:00",
+          "ccu": 1018,
+          "visits": 164885
+        }
+      ],
+      "latest_ccu": 1018,
+      "latest_visits": 164885,
+      "last_seen": "2026-11-04T03:17:27.232735+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.9
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -5147,6 +5185,44 @@
       "growth_ratio": 0.62
     },
     {
+      "name": "Itty Bitty Circuit \ud83c\udf83\ud83c\udfc1 [BETA]",
+      "universeId": "10766373552",
+      "rootPlaceId": 125660167015046,
+      "description": "NOTE: This game is in BETA so please there may be bugs, please report them in the Discord!\n\nDesign and build your own racing circuit, expand your facilities, and work your way up from club racing to the biggest events in motorsport.\n\n\ud83c\udfce\ufe0f Build custom circuits with a variety of corners and layouts\n\ud83c\udfd7\ufe0f Expand your venue with garages, paddocks and facilities\n\ud83c\udfc1 Host events across multiple racing classes",
+      "genre": "All",
+      "created": "2026-09-13T21:33:39.415Z",
+      "creatorName": "ogm10_endea",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-03T10:42:21.694618+00:00",
+          "ccu": 1170,
+          "visits": 114029
+        },
+        {
+          "t": "2026-11-03T18:21:26.347829+00:00",
+          "ccu": 2491,
+          "visits": 142432
+        },
+        {
+          "t": "2026-11-03T23:33:18.060892+00:00",
+          "ccu": 1586,
+          "visits": 167488
+        },
+        {
+          "t": "2026-11-04T03:17:27.232735+00:00",
+          "ccu": 1056,
+          "visits": 176501
+        }
+      ],
+      "latest_ccu": 1056,
+      "latest_visits": 176501,
+      "last_seen": "2026-11-04T03:17:27.232735+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.72
+    },
+    {
       "name": "The Cosalazo 2 ",
       "universeId": "10739137760",
       "rootPlaceId": 133473642879498,
@@ -6064,72 +6140,6 @@
       "latest_ccu": 6297,
       "latest_visits": 183676,
       "last_seen": "2026-11-01T15:18:58.924646+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Itty Bitty Circuit \ud83c\udf83\ud83c\udfc1 [BETA]",
-      "universeId": "10766373552",
-      "rootPlaceId": 125660167015046,
-      "description": "NOTE: This game is in BETA so please there may be bugs, please report them in the Discord!\n\nDesign and build your own racing circuit, expand your facilities, and work your way up from club racing to the biggest events in motorsport.\n\n\ud83c\udfce\ufe0f Build custom circuits with a variety of corners and layouts\n\ud83c\udfd7\ufe0f Expand your venue with garages, paddocks and facilities\n\ud83c\udfc1 Host events across multiple racing classes",
-      "genre": "All",
-      "created": "2026-09-13T21:33:39.415Z",
-      "creatorName": "ogm10_endea",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-11-03T10:42:21.694618+00:00",
-          "ccu": 1170,
-          "visits": 114029
-        },
-        {
-          "t": "2026-11-03T18:21:26.347829+00:00",
-          "ccu": 2491,
-          "visits": 142432
-        },
-        {
-          "t": "2026-11-03T23:33:18.060892+00:00",
-          "ccu": 1586,
-          "visits": 167488
-        }
-      ],
-      "latest_ccu": 1586,
-      "latest_visits": 167488,
-      "last_seen": "2026-11-03T23:33:18.060892+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "[\ud83e\udde0] Ball Knowledge",
-      "universeId": "10770915307",
-      "rootPlaceId": 110147623465822,
-      "description": "\ud83e\udde0 BALL KNOWLEDGE \ud83e\udde0\nGrab a seat, get a question and type ONE answer. Everyone at the table gets the same prompt, but the rarer your answer, the more points you score!\n\n\ud83d\udc36 \"Name a pet\" \u2192 Dog = 10 pts\n\ud83e\udd8a Fennec Fox = 90 pts!\n\n\u2b50 HOW IT WORKS\n\u2022 Walk up to a table and press E to sit\n\u2022 7 rounds, 20 seconds each \u2014 no speed bonus, just knowledge\n\u2022 Answers are revealed together, from Common to LEGENDARY (100 ",
-      "genre": "All",
-      "created": "2026-10-14T19:00:45.915Z",
-      "creatorName": "Gray Games Official",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-03T10:42:21.694618+00:00",
-          "ccu": 250,
-          "visits": 119069
-        },
-        {
-          "t": "2026-11-03T18:21:26.347829+00:00",
-          "ccu": 726,
-          "visits": 131280
-        },
-        {
-          "t": "2026-11-03T23:33:18.060892+00:00",
-          "ccu": 840,
-          "visits": 151060
-        }
-      ],
-      "latest_ccu": 840,
-      "latest_visits": 151060,
-      "last_seen": "2026-11-03T23:33:18.060892+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

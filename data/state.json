@@ -6090,14 +6090,19 @@
           "t": "2026-11-03T23:33:18.060892+00:00",
           "ccu": 1586,
           "visits": 167488
+        },
+        {
+          "t": "2026-11-04T03:17:27.232735+00:00",
+          "ccu": 1056,
+          "visits": 176501
         }
       ],
-      "latest_ccu": 1586,
-      "latest_visits": 167488,
-      "last_seen": "2026-11-03T23:33:18.060892+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1056,
+      "latest_visits": 176501,
+      "last_seen": "2026-11-04T03:17:27.232735+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.72
     },
     "10770915307": {
       "name": "[\ud83e\udde0] Ball Knowledge",
@@ -6123,14 +6128,19 @@
           "t": "2026-11-03T23:33:18.060892+00:00",
           "ccu": 840,
           "visits": 151060
+        },
+        {
+          "t": "2026-11-04T03:17:27.232735+00:00",
+          "ccu": 1018,
+          "visits": 164885
         }
       ],
-      "latest_ccu": 840,
-      "latest_visits": 151060,
-      "last_seen": "2026-11-03T23:33:18.060892+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1018,
+      "latest_visits": 164885,
+      "last_seen": "2026-11-04T03:17:27.232735+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.9
     }
   }
 }

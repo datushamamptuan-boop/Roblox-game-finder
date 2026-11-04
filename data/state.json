@@ -6095,14 +6095,19 @@
           "t": "2026-11-04T03:17:27.232735+00:00",
           "ccu": 1056,
           "visits": 176501
+        },
+        {
+          "t": "2026-11-04T11:15:00.044804+00:00",
+          "ccu": 1597,
+          "visits": 194820
         }
       ],
-      "latest_ccu": 1056,
-      "latest_visits": 176501,
-      "last_seen": "2026-11-04T03:17:27.232735+00:00",
-      "trend_score": 0,
+      "latest_ccu": 1597,
+      "latest_visits": 194820,
+      "last_seen": "2026-11-04T11:15:00.044804+00:00",
+      "trend_score": 22.5,
       "trend_label": "declining",
-      "growth_ratio": 0.72
+      "growth_ratio": 0.77
     },
     "10770915307": {
       "name": "[\ud83e\udde0] Ball Knowledge",
@@ -6133,14 +6138,42 @@
           "t": "2026-11-04T03:17:27.232735+00:00",
           "ccu": 1018,
           "visits": 164885
+        },
+        {
+          "t": "2026-11-04T11:15:00.044804+00:00",
+          "ccu": 362,
+          "visits": 180881
         }
       ],
-      "latest_ccu": 1018,
-      "latest_visits": 164885,
-      "last_seen": "2026-11-04T03:17:27.232735+00:00",
+      "latest_ccu": 362,
+      "latest_visits": 180881,
+      "last_seen": "2026-11-04T11:15:00.044804+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.9
+      "growth_ratio": 1.52
+    },
+    "10772618968": {
+      "name": "Break Glass If Bored",
+      "universeId": "10772618968",
+      "rootPlaceId": 139016063432102,
+      "description": "\ud83d\udca5 Smash statues, vases, chandeliers, chess sets and organ pipes with real physics, so no two breaks look the same.\n\n\u267e\ufe0f THE INFINITE MUSEUM\nNew wings and weapons are being added all the time, so check back in to see what's new!\n\n\ud83d\udd28 OVER 25 WEAPONS\nEarn money for every piece of property you destroy and spend it on pistols, shotguns, a sledgehammer, a laser cutter, grenades, a singularity, a nuke \u2622\ufe0f, ",
+      "genre": "All",
+      "created": "2026-10-23T20:36:55.278Z",
+      "creatorName": "Nebula",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-04T11:15:00.044804+00:00",
+          "ccu": 421,
+          "visits": 188510
+        }
+      ],
+      "latest_ccu": 421,
+      "latest_visits": 188510,
+      "last_seen": "2026-11-04T11:15:00.044804+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

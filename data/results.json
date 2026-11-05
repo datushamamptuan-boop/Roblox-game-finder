@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T15:38:10.256453+00:00",
-  "count": 91,
+  "generated_at": "2026-11-05T21:35:19.012204+00:00",
+  "count": 92,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6201,11 +6201,16 @@
           "t": "2026-11-05T15:38:10.256453+00:00",
           "ccu": 248,
           "visits": 129015
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 329,
+          "visits": 134429
         }
       ],
-      "latest_ccu": 248,
-      "latest_visits": 129015,
-      "last_seen": "2026-11-05T15:38:10.256453+00:00",
+      "latest_ccu": 329,
+      "latest_visits": 134429,
+      "last_seen": "2026-11-05T21:35:19.012204+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6224,11 +6229,16 @@
           "t": "2026-11-05T15:38:10.256453+00:00",
           "ccu": 350,
           "visits": 133659
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 338,
+          "visits": 138968
         }
       ],
-      "latest_ccu": 350,
-      "latest_visits": 133659,
-      "last_seen": "2026-11-05T15:38:10.256453+00:00",
+      "latest_ccu": 338,
+      "latest_visits": 138968,
+      "last_seen": "2026-11-05T21:35:19.012204+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6247,11 +6257,39 @@
           "t": "2026-11-05T15:38:10.256453+00:00",
           "ccu": 386,
           "visits": 82676
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 500,
+          "visits": 94599
         }
       ],
-      "latest_ccu": 386,
-      "latest_visits": 82676,
-      "last_seen": "2026-11-05T15:38:10.256453+00:00",
+      "latest_ccu": 500,
+      "latest_visits": 94599,
+      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83e\udd16TITAN] Villain City: Destroy Everything \ud83d\udca5",
+      "universeId": "10772546773",
+      "rootPlaceId": 84163768822012,
+      "description": "\ud83e\udd16 NEW: TITAN UPDATE! The OMEGA TITAN stomps, fires its eye laser and missiles, and gets ENRAGED when hurt. Team up and bring it down for a huge payout!\n\u2622\ufe0f NUKE THE CITY straight from the missile silo at spawn!\n\u2694\ufe0f PVP: turn it on and fight other villains for cash. Spawn is always safe.\n\u26a1 POWERS: Thunder God, Meteor Storm & Orbital Laser. Try any of them FREE!\n\n\ud83d\ude08 Become the villain and DESTROY EVERY",
+      "genre": "All",
+      "created": "2026-10-23T12:12:13.322Z",
+      "creatorName": "MessiGuy9",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 524,
+          "visits": 177756
+        }
+      ],
+      "latest_ccu": 524,
+      "latest_visits": 177756,
+      "last_seen": "2026-11-05T21:35:19.012204+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

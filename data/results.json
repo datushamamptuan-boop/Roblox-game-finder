@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T07:03:11.532910+00:00",
-  "count": 89,
+  "generated_at": "2026-11-05T15:38:10.256453+00:00",
+  "count": 91,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6196,11 +6196,62 @@
           "t": "2026-11-05T07:03:11.532910+00:00",
           "ccu": 255,
           "visits": 123505
+        },
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 248,
+          "visits": 129015
         }
       ],
-      "latest_ccu": 255,
-      "latest_visits": 123505,
-      "last_seen": "2026-11-05T07:03:11.532910+00:00",
+      "latest_ccu": 248,
+      "latest_visits": 129015,
+      "last_seen": "2026-11-05T15:38:10.256453+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Hounds of Marrow County (Alpha V1.7)",
+      "universeId": "10770339917",
+      "rootPlaceId": 111485709209409,
+      "description": "HOUNDS OF MARROW COUNTY - ALPHA 1.7, HALLOWEEN COSMETICS AND THE ALL HALLOW\u2019S CRATE WILL BE AVAILABLE UP UNTIL NOV 6\n\nA game about hunting in the haunted forest of Marrow County, deep in the Appalachian mountains. Only with a mutt by your side, do you start the journey across the adversity of Marrow County, night doesn\u2019t tax you, like the day does, but be careful, it\u2019s not just animals that are ou",
+      "genre": "All",
+      "created": "2026-10-11T10:20:15.563Z",
+      "creatorName": "pileofsheep",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 350,
+          "visits": 133659
+        }
+      ],
+      "latest_ccu": 350,
+      "latest_visits": 133659,
+      "last_seen": "2026-11-05T15:38:10.256453+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Survive a Psycho",
+      "universeId": "10773259496",
+      "rootPlaceId": 90249274732038,
+      "description": "\ud83e\udd16 A ROGUE AI AGENT CALLED \"CAPRI\" HAS BEEN GOING AROUND ATTACKING EVERYONE- \n\ud83d\udea8SURVIVE ADAM SMASHER AND CAPRI AND MORE. \n\ud83d\udea7 MORE SCENARIO'S COMING SOON. \n\nSurvive a Pyscho , Survive a Physcho .",
+      "genre": "All",
+      "created": "2026-10-27T10:38:13.756Z",
+      "creatorName": "riding the edge",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 386,
+          "visits": 82676
+        }
+      ],
+      "latest_ccu": 386,
+      "latest_visits": 82676,
+      "last_seen": "2026-11-05T15:38:10.256453+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

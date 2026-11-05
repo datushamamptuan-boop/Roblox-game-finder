@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T00:17:06.084242+00:00",
-  "count": 88,
+  "generated_at": "2026-11-05T07:03:11.532910+00:00",
+  "count": 89,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6178,6 +6178,29 @@
       "latest_ccu": 421,
       "latest_visits": 188510,
       "last_seen": "2026-11-04T11:15:00.044804+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[BID BATTLES] \ud83c\udfc082-0!",
+      "universeId": "10769963980",
+      "rootPlaceId": 93460063575611,
+      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
+      "genre": "All",
+      "created": "2026-10-09T07:30:01.902Z",
+      "creatorName": "Gunkmech Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T07:03:11.532910+00:00",
+          "ccu": 255,
+          "visits": 123505
+        }
+      ],
+      "latest_ccu": 255,
+      "latest_visits": 123505,
+      "last_seen": "2026-11-05T07:03:11.532910+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

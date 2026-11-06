@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:35:19.012204+00:00",
+  "generated_at": "2026-11-06T01:49:11.758780+00:00",
   "count": 92,
   "games": [
     {
@@ -734,6 +734,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.41
+    },
+    {
+      "name": "[BID BATTLES] \ud83c\udfc082-0!",
+      "universeId": "10769963980",
+      "rootPlaceId": 93460063575611,
+      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
+      "genre": "All",
+      "created": "2026-10-09T07:30:01.902Z",
+      "creatorName": "Gunkmech Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T07:03:11.532910+00:00",
+          "ccu": 255,
+          "visits": 123505
+        },
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 248,
+          "visits": 129015
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 329,
+          "visits": 134429
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 555,
+          "visits": 140801
+        }
+      ],
+      "latest_ccu": 555,
+      "latest_visits": 140801,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.76
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -6183,39 +6221,6 @@
       "growth_ratio": null
     },
     {
-      "name": "[BID BATTLES] \ud83c\udfc082-0!",
-      "universeId": "10769963980",
-      "rootPlaceId": 93460063575611,
-      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
-      "genre": "All",
-      "created": "2026-10-09T07:30:01.902Z",
-      "creatorName": "Gunkmech Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-05T07:03:11.532910+00:00",
-          "ccu": 255,
-          "visits": 123505
-        },
-        {
-          "t": "2026-11-05T15:38:10.256453+00:00",
-          "ccu": 248,
-          "visits": 129015
-        },
-        {
-          "t": "2026-11-05T21:35:19.012204+00:00",
-          "ccu": 329,
-          "visits": 134429
-        }
-      ],
-      "latest_ccu": 329,
-      "latest_visits": 134429,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Hounds of Marrow County (Alpha V1.7)",
       "universeId": "10770339917",
       "rootPlaceId": 111485709209409,
@@ -6234,11 +6239,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 338,
           "visits": 138968
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 357,
+          "visits": 141895
         }
       ],
-      "latest_ccu": 338,
-      "latest_visits": 138968,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 357,
+      "latest_visits": 141895,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6262,11 +6272,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 500,
           "visits": 94599
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 668,
+          "visits": 104603
         }
       ],
-      "latest_ccu": 500,
-      "latest_visits": 94599,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 668,
+      "latest_visits": 104603,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6285,11 +6300,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 524,
           "visits": 177756
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 689,
+          "visits": 190346
         }
       ],
-      "latest_ccu": 524,
-      "latest_visits": 177756,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 689,
+      "latest_visits": 190346,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

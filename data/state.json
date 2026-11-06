@@ -6204,14 +6204,19 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 329,
           "visits": 134429
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 555,
+          "visits": 140801
         }
       ],
-      "latest_ccu": 329,
-      "latest_visits": 134429,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 555,
+      "latest_visits": 140801,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.76
     },
     "10770339917": {
       "name": "Hounds of Marrow County (Alpha V1.7)",
@@ -6232,11 +6237,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 338,
           "visits": 138968
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 357,
+          "visits": 141895
         }
       ],
-      "latest_ccu": 338,
-      "latest_visits": 138968,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 357,
+      "latest_visits": 141895,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6260,11 +6270,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 500,
           "visits": 94599
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 668,
+          "visits": 104603
         }
       ],
-      "latest_ccu": 500,
-      "latest_visits": 94599,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 668,
+      "latest_visits": 104603,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6283,11 +6298,16 @@
           "t": "2026-11-05T21:35:19.012204+00:00",
           "ccu": 524,
           "visits": 177756
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 689,
+          "visits": 190346
         }
       ],
-      "latest_ccu": 524,
-      "latest_visits": 177756,
-      "last_seen": "2026-11-05T21:35:19.012204+00:00",
+      "latest_ccu": 689,
+      "latest_visits": 190346,
+      "last_seen": "2026-11-06T01:49:11.758780+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

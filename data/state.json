@@ -6209,14 +6209,19 @@
           "t": "2026-11-06T01:49:11.758780+00:00",
           "ccu": 555,
           "visits": 140801
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 227,
+          "visits": 150025
         }
       ],
-      "latest_ccu": 555,
-      "latest_visits": 140801,
-      "last_seen": "2026-11-06T01:49:11.758780+00:00",
+      "latest_ccu": 227,
+      "latest_visits": 150025,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.76
+      "growth_ratio": 1.47
     },
     "10770339917": {
       "name": "Hounds of Marrow County (Alpha V1.7)",
@@ -6242,14 +6247,19 @@
           "t": "2026-11-06T01:49:11.758780+00:00",
           "ccu": 357,
           "visits": 141895
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 153,
+          "visits": 146359
         }
       ],
-      "latest_ccu": 357,
-      "latest_visits": 141895,
-      "last_seen": "2026-11-06T01:49:11.758780+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 153,
+      "latest_visits": 146359,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.74
     },
     "10773259496": {
       "name": "Survive a Psycho",
@@ -6275,14 +6285,19 @@
           "t": "2026-11-06T01:49:11.758780+00:00",
           "ccu": 668,
           "visits": 104603
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 117774
         }
       ],
-      "latest_ccu": 668,
-      "latest_visits": 104603,
-      "last_seen": "2026-11-06T01:49:11.758780+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 300,
+      "latest_visits": 117774,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "trend_score": 44.0,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.09
     },
     "10772546773": {
       "name": "[\ud83e\udd16TITAN] Villain City: Destroy Everything \ud83d\udca5",
@@ -6308,6 +6323,75 @@
       "latest_ccu": 689,
       "latest_visits": 190346,
       "last_seen": "2026-11-06T01:49:11.758780+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10770972757": {
+      "name": "[\ud83d\ude80] Draw a Rocket",
+      "universeId": "10770972757",
+      "rootPlaceId": 106660730008378,
+      "description": "Draw your own rocket and race your friends through space! \ud83d\ude80\n\nTurn your drawing into a 3D rocket and blast off into space. Will your creation make it to the next planet?\n\n\u270f\ufe0f Draw and customize your own rocket\n\ud83c\udfc1 Dodge obstacles and bump your friends in space races\n\ud83e\udd5a Catch eggs during your flight and hatch space pets\n\ud83d\udc3e Put pets in your pen to earn coins, or bring one along as your co-pilot\n\ud83e\ude90 Land on ",
+      "genre": "All",
+      "created": "2026-10-15T02:22:42.248Z",
+      "creatorName": "Wilted_Watermelon",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 280,
+          "visits": 175549
+        }
+      ],
+      "latest_ccu": 280,
+      "latest_visits": 175549,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10770118942": {
+      "name": " \ud83d\udd28 Blueprint Company",
+      "universeId": "10770118942",
+      "rootPlaceId": 102337309628220,
+      "description": "* Design Blueprints\n* Build Houses\n* Create Buildings\n* Earn Money\n* Upgrade Your Company\n* Become a Building Tycoon!\n\nTags: Blueprint, Building, Construction, House, Simulator, Architecture, Build, Creative, Business, Money",
+      "genre": "All",
+      "created": "2026-10-10T05:20:43.692Z",
+      "creatorName": "GoandLive_StayandDie",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 296,
+          "visits": 160086
+        }
+      ],
+      "latest_ccu": 296,
+      "latest_visits": 160086,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10774646539": {
+      "name": "Run a Christmas Tree Lot",
+      "universeId": "10774646539",
+      "rootPlaceId": 112146301142141,
+      "description": "\ud83c\udf84 Welcome to Run a Christmas Tree Lot! \n\n\ud83c\udf85 Get ready for Christmas by starting your very own Christmas tree business!\n [HOW TO PLAY]\n\ud83c\udf32 Order and stock different types of Christmas trees\n\ud83d\udcb0 Sell trees to customers and earn cash\n\ud83d\udc77 Hire workers to help run your business\n\ud83c\udfe1 Expand and upgrade your Christmas tree lot!\n\n",
+      "genre": "All",
+      "created": "2026-11-04T12:07:14.241Z",
+      "creatorName": "Mr. Grinchmas",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 50856
+        }
+      ],
+      "latest_ccu": 300,
+      "latest_visits": 50856,
+      "last_seen": "2026-11-06T09:12:27.171999+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

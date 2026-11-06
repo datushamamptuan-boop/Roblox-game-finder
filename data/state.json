@@ -6219,14 +6219,19 @@
           "t": "2026-11-06T16:50:24.831853+00:00",
           "ccu": 259,
           "visits": 156840
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 286,
+          "visits": 162118
         }
       ],
-      "latest_ccu": 259,
-      "latest_visits": 156840,
-      "last_seen": "2026-11-06T16:50:24.831853+00:00",
-      "trend_score": 68.4,
+      "latest_ccu": 286,
+      "latest_visits": 162118,
+      "last_seen": "2026-11-06T22:01:09.155317+00:00",
+      "trend_score": 58.6,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.25
+      "growth_ratio": 1.2
     },
     "10770339917": {
       "name": "Hounds of Marrow County (Alpha V1.7)",
@@ -6300,14 +6305,19 @@
           "t": "2026-11-06T16:50:24.831853+00:00",
           "ccu": 655,
           "visits": 134990
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 656,
+          "visits": 151951
         }
       ],
-      "latest_ccu": 655,
-      "latest_visits": 134990,
-      "last_seen": "2026-11-06T16:50:24.831853+00:00",
-      "trend_score": 92.5,
+      "latest_ccu": 656,
+      "latest_visits": 151951,
+      "last_seen": "2026-11-06T22:01:09.155317+00:00",
+      "trend_score": 90.7,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.22
+      "growth_ratio": 1.04
     },
     "10772546773": {
       "name": "[\ud83e\udd16TITAN] Villain City: Destroy Everything \ud83d\udca5",
@@ -6379,11 +6389,16 @@
           "t": "2026-11-06T16:50:24.831853+00:00",
           "ccu": 683,
           "visits": 175422
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 680,
+          "visits": 191437
         }
       ],
-      "latest_ccu": 683,
-      "latest_visits": 175422,
-      "last_seen": "2026-11-06T16:50:24.831853+00:00",
+      "latest_ccu": 680,
+      "latest_visits": 191437,
+      "last_seen": "2026-11-06T22:01:09.155317+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6407,11 +6422,16 @@
           "t": "2026-11-06T16:50:24.831853+00:00",
           "ccu": 1383,
           "visits": 66373
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 2010,
+          "visits": 89759
         }
       ],
-      "latest_ccu": 1383,
-      "latest_visits": 66373,
-      "last_seen": "2026-11-06T16:50:24.831853+00:00",
+      "latest_ccu": 2010,
+      "latest_visits": 89759,
+      "last_seen": "2026-11-06T22:01:09.155317+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:12:27.171999+00:00",
+  "generated_at": "2026-11-06T16:50:24.831853+00:00",
   "count": 95,
   "games": [
     {
@@ -734,49 +734,6 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.41
-    },
-    {
-      "name": "[BID BATTLES] \ud83c\udfc082-0!",
-      "universeId": "10769963980",
-      "rootPlaceId": 93460063575611,
-      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
-      "genre": "All",
-      "created": "2026-10-09T07:30:01.902Z",
-      "creatorName": "Gunkmech Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-05T07:03:11.532910+00:00",
-          "ccu": 255,
-          "visits": 123505
-        },
-        {
-          "t": "2026-11-05T15:38:10.256453+00:00",
-          "ccu": 248,
-          "visits": 129015
-        },
-        {
-          "t": "2026-11-05T21:35:19.012204+00:00",
-          "ccu": 329,
-          "visits": 134429
-        },
-        {
-          "t": "2026-11-06T01:49:11.758780+00:00",
-          "ccu": 555,
-          "visits": 140801
-        },
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 227,
-          "visits": 150025
-        }
-      ],
-      "latest_ccu": 227,
-      "latest_visits": 150025,
-      "last_seen": "2026-11-06T09:12:27.171999+00:00",
-      "trend_score": 100,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.47
     },
     {
       "name": "Mitosis [UPD 1]",
@@ -1557,6 +1514,49 @@
       "growth_ratio": 1.77
     },
     {
+      "name": "Survive a Psycho",
+      "universeId": "10773259496",
+      "rootPlaceId": 90249274732038,
+      "description": "\ud83e\udd16 A ROGUE AI AGENT CALLED \"CAPRI\" HAS BEEN GOING AROUND ATTACKING EVERYONE- \n\ud83d\udea8SURVIVE ADAM SMASHER AND CAPRI AND MORE. \n\ud83d\udea7 MORE SCENARIO'S COMING SOON. \n\nSurvive a Pyscho , Survive a Physcho .",
+      "genre": "All",
+      "created": "2026-10-27T10:38:13.756Z",
+      "creatorName": "riding the edge",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 386,
+          "visits": 82676
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 500,
+          "visits": 94599
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 668,
+          "visits": 104603
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 117774
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 655,
+          "visits": 134990
+        }
+      ],
+      "latest_ccu": 655,
+      "latest_visits": 134990,
+      "last_seen": "2026-11-06T16:50:24.831853+00:00",
+      "trend_score": 92.5,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.22
+    },
+    {
       "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
       "universeId": "10769787444",
       "rootPlaceId": 124357835578554,
@@ -1933,6 +1933,54 @@
       "trend_score": 68.9,
       "trend_label": "mild_upward",
       "growth_ratio": 1.14
+    },
+    {
+      "name": "[BID BATTLES] \ud83c\udfc082-0!",
+      "universeId": "10769963980",
+      "rootPlaceId": 93460063575611,
+      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
+      "genre": "All",
+      "created": "2026-10-09T07:30:01.902Z",
+      "creatorName": "Gunkmech Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T07:03:11.532910+00:00",
+          "ccu": 255,
+          "visits": 123505
+        },
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 248,
+          "visits": 129015
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 329,
+          "visits": 134429
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 555,
+          "visits": 140801
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 227,
+          "visits": 150025
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 259,
+          "visits": 156840
+        }
+      ],
+      "latest_ccu": 259,
+      "latest_visits": 156840,
+      "last_seen": "2026-11-06T16:50:24.831853+00:00",
+      "trend_score": 68.4,
+      "trend_label": "mild_upward",
+      "growth_ratio": 1.25
     },
     {
       "name": "[SANDWORM] Journey to the Watchtower",
@@ -4018,44 +4066,6 @@
       "trend_score": 47.1,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 0.96
-    },
-    {
-      "name": "Survive a Psycho",
-      "universeId": "10773259496",
-      "rootPlaceId": 90249274732038,
-      "description": "\ud83e\udd16 A ROGUE AI AGENT CALLED \"CAPRI\" HAS BEEN GOING AROUND ATTACKING EVERYONE- \n\ud83d\udea8SURVIVE ADAM SMASHER AND CAPRI AND MORE. \n\ud83d\udea7 MORE SCENARIO'S COMING SOON. \n\nSurvive a Pyscho , Survive a Physcho .",
-      "genre": "All",
-      "created": "2026-10-27T10:38:13.756Z",
-      "creatorName": "riding the edge",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-05T15:38:10.256453+00:00",
-          "ccu": 386,
-          "visits": 82676
-        },
-        {
-          "t": "2026-11-05T21:35:19.012204+00:00",
-          "ccu": 500,
-          "visits": 94599
-        },
-        {
-          "t": "2026-11-06T01:49:11.758780+00:00",
-          "ccu": 668,
-          "visits": 104603
-        },
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 300,
-          "visits": 117774
-        }
-      ],
-      "latest_ccu": 300,
-      "latest_visits": 117774,
-      "last_seen": "2026-11-06T09:12:27.171999+00:00",
-      "trend_score": 44.0,
-      "trend_label": "flat_or_mixed",
-      "growth_ratio": 1.09
     },
     {
       "name": "Zee",
@@ -6366,11 +6376,16 @@
           "t": "2026-11-06T09:12:27.171999+00:00",
           "ccu": 296,
           "visits": 160086
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 683,
+          "visits": 175422
         }
       ],
-      "latest_ccu": 296,
-      "latest_visits": 160086,
-      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "latest_ccu": 683,
+      "latest_visits": 175422,
+      "last_seen": "2026-11-06T16:50:24.831853+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6389,11 +6404,16 @@
           "t": "2026-11-06T09:12:27.171999+00:00",
           "ccu": 300,
           "visits": 50856
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 1383,
+          "visits": 66373
         }
       ],
-      "latest_ccu": 300,
-      "latest_visits": 50856,
-      "last_seen": "2026-11-06T09:12:27.171999+00:00",
+      "latest_ccu": 1383,
+      "latest_visits": 66373,
+      "last_seen": "2026-11-06T16:50:24.831853+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

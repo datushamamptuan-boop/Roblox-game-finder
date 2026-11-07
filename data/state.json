@@ -6462,14 +6462,19 @@
           "t": "2026-11-07T15:10:00.594771+00:00",
           "ccu": 1980,
           "visits": 151051
+        },
+        {
+          "t": "2026-11-07T19:30:58.537535+00:00",
+          "ccu": 2339,
+          "visits": 180674
         }
       ],
-      "latest_ccu": 1980,
-      "latest_visits": 151051,
-      "last_seen": "2026-11-07T15:10:00.594771+00:00",
-      "trend_score": 94.7,
+      "latest_ccu": 2339,
+      "latest_visits": 180674,
+      "last_seen": "2026-11-07T19:30:58.537535+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.12
+      "growth_ratio": 1.31
     },
     "10772005732": {
       "name": "(UPD) Dirt",

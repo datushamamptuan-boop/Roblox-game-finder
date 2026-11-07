@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T15:10:00.594771+00:00",
+  "generated_at": "2026-11-07T19:30:58.537535+00:00",
   "count": 96,
   "games": [
     {
@@ -736,6 +736,59 @@
       "growth_ratio": 1.41
     },
     {
+      "name": "Run a Christmas Tree Lot",
+      "universeId": "10774646539",
+      "rootPlaceId": 112146301142141,
+      "description": "\ud83c\udf84 Welcome to Run a Christmas Tree Lot! \n\n\ud83c\udf85 Get ready for Christmas by starting your very own Christmas tree business!\n [HOW TO PLAY]\n\ud83c\udf32 Order and stock different types of Christmas trees\n\ud83d\udcb0 Sell trees to customers and earn cash\n\ud83d\udc77 Hire workers to help run your business\n\ud83c\udfe1 Expand and upgrade your Christmas tree lot!\n\n",
+      "genre": "All",
+      "created": "2026-11-04T12:07:14.241Z",
+      "creatorName": "Mr. Grinchmas",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 50856
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 1383,
+          "visits": 66373
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 2010,
+          "visits": 89759
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 1506,
+          "visits": 108907
+        },
+        {
+          "t": "2026-11-07T08:38:19.441950+00:00",
+          "ccu": 637,
+          "visits": 128003
+        },
+        {
+          "t": "2026-11-07T15:10:00.594771+00:00",
+          "ccu": 1980,
+          "visits": 151051
+        },
+        {
+          "t": "2026-11-07T19:30:58.537535+00:00",
+          "ccu": 2339,
+          "visits": 180674
+        }
+      ],
+      "latest_ccu": 2339,
+      "latest_visits": 180674,
+      "last_seen": "2026-11-07T19:30:58.537535+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.31
+    },
+    {
       "name": "Survive a Psycho",
       "universeId": "10773259496",
       "rootPlaceId": 90249274732038,
@@ -1327,54 +1380,6 @@
       "trend_score": 95.3,
       "trend_label": "strong_upward",
       "growth_ratio": 1.13
-    },
-    {
-      "name": "Run a Christmas Tree Lot",
-      "universeId": "10774646539",
-      "rootPlaceId": 112146301142141,
-      "description": "\ud83c\udf84 Welcome to Run a Christmas Tree Lot! \n\n\ud83c\udf85 Get ready for Christmas by starting your very own Christmas tree business!\n [HOW TO PLAY]\n\ud83c\udf32 Order and stock different types of Christmas trees\n\ud83d\udcb0 Sell trees to customers and earn cash\n\ud83d\udc77 Hire workers to help run your business\n\ud83c\udfe1 Expand and upgrade your Christmas tree lot!\n\n",
-      "genre": "All",
-      "created": "2026-11-04T12:07:14.241Z",
-      "creatorName": "Mr. Grinchmas",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 300,
-          "visits": 50856
-        },
-        {
-          "t": "2026-11-06T16:50:24.831853+00:00",
-          "ccu": 1383,
-          "visits": 66373
-        },
-        {
-          "t": "2026-11-06T22:01:09.155317+00:00",
-          "ccu": 2010,
-          "visits": 89759
-        },
-        {
-          "t": "2026-11-07T01:51:04.799262+00:00",
-          "ccu": 1506,
-          "visits": 108907
-        },
-        {
-          "t": "2026-11-07T08:38:19.441950+00:00",
-          "ccu": 637,
-          "visits": 128003
-        },
-        {
-          "t": "2026-11-07T15:10:00.594771+00:00",
-          "ccu": 1980,
-          "visits": 151051
-        }
-      ],
-      "latest_ccu": 1980,
-      "latest_visits": 151051,
-      "last_seen": "2026-11-07T15:10:00.594771+00:00",
-      "trend_score": 94.7,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.12
     },
     {
       "name": "join the group to play",

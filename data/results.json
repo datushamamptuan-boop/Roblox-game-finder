@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T22:01:09.155317+00:00",
+  "generated_at": "2026-11-07T01:51:04.799262+00:00",
   "count": 95,
   "games": [
     {
@@ -736,6 +736,44 @@
       "growth_ratio": 1.41
     },
     {
+      "name": "Run a Christmas Tree Lot",
+      "universeId": "10774646539",
+      "rootPlaceId": 112146301142141,
+      "description": "\ud83c\udf84 Welcome to Run a Christmas Tree Lot! \n\n\ud83c\udf85 Get ready for Christmas by starting your very own Christmas tree business!\n [HOW TO PLAY]\n\ud83c\udf32 Order and stock different types of Christmas trees\n\ud83d\udcb0 Sell trees to customers and earn cash\n\ud83d\udc77 Hire workers to help run your business\n\ud83c\udfe1 Expand and upgrade your Christmas tree lot!\n\n",
+      "genre": "All",
+      "created": "2026-11-04T12:07:14.241Z",
+      "creatorName": "Mr. Grinchmas",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 50856
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 1383,
+          "visits": 66373
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 2010,
+          "visits": 89759
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 1506,
+          "visits": 108907
+        }
+      ],
+      "latest_ccu": 1506,
+      "latest_visits": 108907,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 2.09
+    },
+    {
       "name": "Mitosis [UPD 1]",
       "universeId": "10768689412",
       "rootPlaceId": 134829968203846,
@@ -794,6 +832,59 @@
       "growth_ratio": 1.22
     },
     {
+      "name": "Survive a Psycho",
+      "universeId": "10773259496",
+      "rootPlaceId": 90249274732038,
+      "description": "\ud83e\udd16 A ROGUE AI AGENT CALLED \"CAPRI\" HAS BEEN GOING AROUND ATTACKING EVERYONE- \n\ud83d\udea8SURVIVE ADAM SMASHER AND CAPRI AND MORE. \n\ud83d\udea7 MORE SCENARIO'S COMING SOON. \n\nSurvive a Pyscho , Survive a Physcho .",
+      "genre": "All",
+      "created": "2026-10-27T10:38:13.756Z",
+      "creatorName": "riding the edge",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 386,
+          "visits": 82676
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 500,
+          "visits": 94599
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 668,
+          "visits": 104603
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 300,
+          "visits": 117774
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 655,
+          "visits": 134990
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 656,
+          "visits": 151951
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 884,
+          "visits": 166650
+        }
+      ],
+      "latest_ccu": 884,
+      "latest_visits": 166650,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 98.2,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.2
+    },
+    {
       "name": "DUCTWORKS",
       "universeId": "10765951887",
       "rootPlaceId": 111702513024754,
@@ -850,6 +941,44 @@
       "trend_score": 96.4,
       "trend_label": "strong_upward",
       "growth_ratio": 1.17
+    },
+    {
+      "name": " \ud83d\udd28 Blueprint Company",
+      "universeId": "10770118942",
+      "rootPlaceId": 102337309628220,
+      "description": "* Design Blueprints\n* Build Houses\n* Create Buildings\n* Earn Money\n* Upgrade Your Company\n* Become a Building Tycoon!\n\nTags: Blueprint, Building, Construction, House, Simulator, Architecture, Build, Creative, Business, Money",
+      "genre": "All",
+      "created": "2026-10-10T05:20:43.692Z",
+      "creatorName": "GoandLive_StayandDie",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 296,
+          "visits": 160086
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 683,
+          "visits": 175422
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 680,
+          "visits": 191437
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 444,
+          "visits": 199767
+        }
+      ],
+      "latest_ccu": 444,
+      "latest_visits": 199767,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 95.9,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.15
     },
     {
       "name": "[Beta] Bloxrooms",
@@ -1575,54 +1704,6 @@
       "trend_score": 90.9,
       "trend_label": "strong_upward",
       "growth_ratio": 1.41
-    },
-    {
-      "name": "Survive a Psycho",
-      "universeId": "10773259496",
-      "rootPlaceId": 90249274732038,
-      "description": "\ud83e\udd16 A ROGUE AI AGENT CALLED \"CAPRI\" HAS BEEN GOING AROUND ATTACKING EVERYONE- \n\ud83d\udea8SURVIVE ADAM SMASHER AND CAPRI AND MORE. \n\ud83d\udea7 MORE SCENARIO'S COMING SOON. \n\nSurvive a Pyscho , Survive a Physcho .",
-      "genre": "All",
-      "created": "2026-10-27T10:38:13.756Z",
-      "creatorName": "riding the edge",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-05T15:38:10.256453+00:00",
-          "ccu": 386,
-          "visits": 82676
-        },
-        {
-          "t": "2026-11-05T21:35:19.012204+00:00",
-          "ccu": 500,
-          "visits": 94599
-        },
-        {
-          "t": "2026-11-06T01:49:11.758780+00:00",
-          "ccu": 668,
-          "visits": 104603
-        },
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 300,
-          "visits": 117774
-        },
-        {
-          "t": "2026-11-06T16:50:24.831853+00:00",
-          "ccu": 655,
-          "visits": 134990
-        },
-        {
-          "t": "2026-11-06T22:01:09.155317+00:00",
-          "ccu": 656,
-          "visits": 151951
-        }
-      ],
-      "latest_ccu": 656,
-      "latest_visits": 151951,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": 90.7,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.04
     },
     {
       "name": "PERIPHERAL (BETA)",
@@ -3190,59 +3271,6 @@
       "growth_ratio": 1.13
     },
     {
-      "name": "[BID BATTLES] \ud83c\udfc082-0!",
-      "universeId": "10769963980",
-      "rootPlaceId": 93460063575611,
-      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
-      "genre": "All",
-      "created": "2026-10-09T07:30:01.902Z",
-      "creatorName": "Gunkmech Games",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-05T07:03:11.532910+00:00",
-          "ccu": 255,
-          "visits": 123505
-        },
-        {
-          "t": "2026-11-05T15:38:10.256453+00:00",
-          "ccu": 248,
-          "visits": 129015
-        },
-        {
-          "t": "2026-11-05T21:35:19.012204+00:00",
-          "ccu": 329,
-          "visits": 134429
-        },
-        {
-          "t": "2026-11-06T01:49:11.758780+00:00",
-          "ccu": 555,
-          "visits": 140801
-        },
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 227,
-          "visits": 150025
-        },
-        {
-          "t": "2026-11-06T16:50:24.831853+00:00",
-          "ccu": 259,
-          "visits": 156840
-        },
-        {
-          "t": "2026-11-06T22:01:09.155317+00:00",
-          "ccu": 286,
-          "visits": 162118
-        }
-      ],
-      "latest_ccu": 286,
-      "latest_visits": 162118,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": 58.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.2
-    },
-    {
       "name": "Zee ",
       "universeId": "10765344821",
       "rootPlaceId": 85002796582175,
@@ -3667,6 +3695,64 @@
       "trend_score": 55.2,
       "trend_label": "mild_upward",
       "growth_ratio": 1.09
+    },
+    {
+      "name": "[BID BATTLES] \ud83c\udfc082-0!",
+      "universeId": "10769963980",
+      "rootPlaceId": 93460063575611,
+      "description": "Build a ten-man team from basketball history and try to go 82-0.\n\nSpin an era and a team, then pick your players from any season of that team in that decade. Fill five starters and a bench, play a full 82-game season, then make your run through the playoffs.\n\nVERSUS\nAfter every season you keep one player. Ten keepers unlock versus, where you take your best ten against anyone in the server or the C",
+      "genre": "All",
+      "created": "2026-10-09T07:30:01.902Z",
+      "creatorName": "Gunkmech Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-05T07:03:11.532910+00:00",
+          "ccu": 255,
+          "visits": 123505
+        },
+        {
+          "t": "2026-11-05T15:38:10.256453+00:00",
+          "ccu": 248,
+          "visits": 129015
+        },
+        {
+          "t": "2026-11-05T21:35:19.012204+00:00",
+          "ccu": 329,
+          "visits": 134429
+        },
+        {
+          "t": "2026-11-06T01:49:11.758780+00:00",
+          "ccu": 555,
+          "visits": 140801
+        },
+        {
+          "t": "2026-11-06T09:12:27.171999+00:00",
+          "ccu": 227,
+          "visits": 150025
+        },
+        {
+          "t": "2026-11-06T16:50:24.831853+00:00",
+          "ccu": 259,
+          "visits": 156840
+        },
+        {
+          "t": "2026-11-06T22:01:09.155317+00:00",
+          "ccu": 286,
+          "visits": 162118
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 389,
+          "visits": 166421
+        }
+      ],
+      "latest_ccu": 389,
+      "latest_visits": 166421,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 54.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.84
     },
     {
       "name": "[New Rebirth] Pay Your Debts!",
@@ -6368,72 +6454,6 @@
       "latest_ccu": 280,
       "latest_visits": 175549,
       "last_seen": "2026-11-06T09:12:27.171999+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": " \ud83d\udd28 Blueprint Company",
-      "universeId": "10770118942",
-      "rootPlaceId": 102337309628220,
-      "description": "* Design Blueprints\n* Build Houses\n* Create Buildings\n* Earn Money\n* Upgrade Your Company\n* Become a Building Tycoon!\n\nTags: Blueprint, Building, Construction, House, Simulator, Architecture, Build, Creative, Business, Money",
-      "genre": "All",
-      "created": "2026-10-10T05:20:43.692Z",
-      "creatorName": "GoandLive_StayandDie",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 296,
-          "visits": 160086
-        },
-        {
-          "t": "2026-11-06T16:50:24.831853+00:00",
-          "ccu": 683,
-          "visits": 175422
-        },
-        {
-          "t": "2026-11-06T22:01:09.155317+00:00",
-          "ccu": 680,
-          "visits": 191437
-        }
-      ],
-      "latest_ccu": 680,
-      "latest_visits": 191437,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Run a Christmas Tree Lot",
-      "universeId": "10774646539",
-      "rootPlaceId": 112146301142141,
-      "description": "\ud83c\udf84 Welcome to Run a Christmas Tree Lot! \n\n\ud83c\udf85 Get ready for Christmas by starting your very own Christmas tree business!\n [HOW TO PLAY]\n\ud83c\udf32 Order and stock different types of Christmas trees\n\ud83d\udcb0 Sell trees to customers and earn cash\n\ud83d\udc77 Hire workers to help run your business\n\ud83c\udfe1 Expand and upgrade your Christmas tree lot!\n\n",
-      "genre": "All",
-      "created": "2026-11-04T12:07:14.241Z",
-      "creatorName": "Mr. Grinchmas",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-06T09:12:27.171999+00:00",
-          "ccu": 300,
-          "visits": 50856
-        },
-        {
-          "t": "2026-11-06T16:50:24.831853+00:00",
-          "ccu": 1383,
-          "visits": 66373
-        },
-        {
-          "t": "2026-11-06T22:01:09.155317+00:00",
-          "ccu": 2010,
-          "visits": 89759
-        }
-      ],
-      "latest_ccu": 2010,
-      "latest_visits": 89759,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

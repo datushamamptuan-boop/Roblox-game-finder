@@ -6224,14 +6224,19 @@
           "t": "2026-11-06T22:01:09.155317+00:00",
           "ccu": 286,
           "visits": 162118
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 389,
+          "visits": 166421
         }
       ],
-      "latest_ccu": 286,
-      "latest_visits": 162118,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": 58.6,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.2
+      "latest_ccu": 389,
+      "latest_visits": 166421,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 54.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 0.84
     },
     "10770339917": {
       "name": "Hounds of Marrow County (Alpha V1.7)",
@@ -6310,14 +6315,19 @@
           "t": "2026-11-06T22:01:09.155317+00:00",
           "ccu": 656,
           "visits": 151951
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 884,
+          "visits": 166650
         }
       ],
-      "latest_ccu": 656,
-      "latest_visits": 151951,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": 90.7,
+      "latest_ccu": 884,
+      "latest_visits": 166650,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 98.2,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.04
+      "growth_ratio": 1.2
     },
     "10772546773": {
       "name": "[\ud83e\udd16TITAN] Villain City: Destroy Everything \ud83d\udca5",
@@ -6394,14 +6404,19 @@
           "t": "2026-11-06T22:01:09.155317+00:00",
           "ccu": 680,
           "visits": 191437
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 444,
+          "visits": 199767
         }
       ],
-      "latest_ccu": 680,
-      "latest_visits": 191437,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 444,
+      "latest_visits": 199767,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 95.9,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.15
     },
     "10774646539": {
       "name": "Run a Christmas Tree Lot",
@@ -6427,14 +6442,19 @@
           "t": "2026-11-06T22:01:09.155317+00:00",
           "ccu": 2010,
           "visits": 89759
+        },
+        {
+          "t": "2026-11-07T01:51:04.799262+00:00",
+          "ccu": 1506,
+          "visits": 108907
         }
       ],
-      "latest_ccu": 2010,
-      "latest_visits": 89759,
-      "last_seen": "2026-11-06T22:01:09.155317+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1506,
+      "latest_visits": 108907,
+      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 2.09
     }
   }
 }

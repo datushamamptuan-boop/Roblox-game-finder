@@ -6320,14 +6320,19 @@
           "t": "2026-11-07T01:51:04.799262+00:00",
           "ccu": 884,
           "visits": 166650
+        },
+        {
+          "t": "2026-11-07T08:38:19.441950+00:00",
+          "ccu": 498,
+          "visits": 188273
         }
       ],
-      "latest_ccu": 884,
-      "latest_visits": 166650,
-      "last_seen": "2026-11-07T01:51:04.799262+00:00",
-      "trend_score": 98.2,
+      "latest_ccu": 498,
+      "latest_visits": 188273,
+      "last_seen": "2026-11-07T08:38:19.441950+00:00",
+      "trend_score": 99.8,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.2
+      "growth_ratio": 1.45
     },
     "10772546773": {
       "name": "[\ud83e\udd16TITAN] Villain City: Destroy Everything \ud83d\udca5",
@@ -6447,14 +6452,42 @@
           "t": "2026-11-07T01:51:04.799262+00:00",
           "ccu": 1506,
           "visits": 108907
+        },
+        {
+          "t": "2026-11-07T08:38:19.441950+00:00",
+          "ccu": 637,
+          "visits": 128003
         }
       ],
-      "latest_ccu": 1506,
-      "latest_visits": 108907,
-      "last_seen": "2026-11-07T01:51:04.799262+00:00",
+      "latest_ccu": 637,
+      "latest_visits": 128003,
+      "last_seen": "2026-11-07T08:38:19.441950+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 2.09
+      "growth_ratio": 1.65
+    },
+    "10772005732": {
+      "name": "(UPD) Dirt",
+      "universeId": "10772005732",
+      "rootPlaceId": 73832891834669,
+      "description": "\ud83c\udf31 Welcome to Dirt!\nStart with a spoon and build your own dirt digging empire!\n\ud83e\udd44 Hover over your spoon to start digging!\n\ud83d\udfe4 Collect Dirt and uncover hidden treasures!\n\ud83d\udee0\ufe0f Spend your Dirt on new tools, Pals, and upgrades!\n\u2728 Rebirth, ascend, and come back stronger!\nThere\u2019s always more beneath the surface. Keep digging and collecting DIRT! \u26cf\ufe0f\n\nNew Codes\nSpookyUPD!\nUPD1!\nHalloween\nUPDATE",
+      "genre": "All",
+      "created": "2026-10-20T01:00:02.075Z",
+      "creatorName": "Super Cool Insane Games and Whatnot",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-07T08:38:19.441950+00:00",
+          "ccu": 483,
+          "visits": 189830
+        }
+      ],
+      "latest_ccu": 483,
+      "latest_visits": 189830,
+      "last_seen": "2026-11-07T08:38:19.441950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

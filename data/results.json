@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T00:05:23.496827+00:00",
-  "count": 96,
+  "generated_at": "2026-11-09T06:54:17.349579+00:00",
+  "count": 97,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6497,6 +6497,29 @@
       "latest_ccu": 483,
       "latest_visits": 189830,
       "last_seen": "2026-11-07T08:38:19.441950+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Tavern Town",
+      "universeId": "10771350522",
+      "rootPlaceId": 113180301776530,
+      "description": "Use code: DECOR \nFor a free crate!!\n\n\ud83c\udff0 BUILD THE COZIEST TAVERN IN TOWN! \ud83c\udff0\n\nDesign your own tavern from the ground up, serve hungry travelers and grow from a tiny shack into the grandest hall in the realm.\n\n\ud83d\udd28 BUILD\n\u2022 Walls, roofs, stairs and floors, piece by piece\n\u2022 Hundreds of decorations to unlock\n\u2022 Sell your designs on the Build Market\n\n\ud83c\udf72 SERVE & COOK\n\u2022 Pour drinks and hand out meals yourself\n\u2022",
+      "genre": "All",
+      "created": "2026-10-16T22:19:48.342Z",
+      "creatorName": "FaeDarliing",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-09T06:54:17.349579+00:00",
+          "ccu": 1590,
+          "visits": 198473
+        }
+      ],
+      "latest_ccu": 1590,
+      "latest_visits": 198473,
+      "last_seen": "2026-11-09T06:54:17.349579+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

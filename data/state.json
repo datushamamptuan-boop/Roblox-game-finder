@@ -6521,6 +6521,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10770608130": {
+      "name": "Escape The Matrix",
+      "universeId": "10770608130",
+      "rootPlaceId": 90088244419227,
+      "description": "You got kicked out with $20 and an old PC. Make a billion dollars.\n\nStart with $5 gigs, end up owning companies. There\u2019s dropshipping, stocks, crypto, game dev, reselling, and a fake influencer life if you want it. Most of it is a scam. Some of it actually works.\n\n7 endings to find. Mom is watching.\n\nProgress saves automatically. New update: Holdings and store upgrades.",
+      "genre": "All",
+      "created": "2026-10-13T01:15:25.858Z",
+      "creatorName": "Xdeyfa",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T08:13:06.854653+00:00",
+          "ccu": 1637,
+          "visits": 101897
+        }
+      ],
+      "latest_ccu": 1637,
+      "latest_visits": 101897,
+      "last_seen": "2026-11-10T08:13:06.854653+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

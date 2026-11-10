@@ -6536,11 +6536,39 @@
           "t": "2026-11-10T08:13:06.854653+00:00",
           "ccu": 1637,
           "visits": 101897
+        },
+        {
+          "t": "2026-11-10T16:30:04.637111+00:00",
+          "ccu": 3036,
+          "visits": 143979
         }
       ],
-      "latest_ccu": 1637,
-      "latest_visits": 101897,
-      "last_seen": "2026-11-10T08:13:06.854653+00:00",
+      "latest_ccu": 3036,
+      "latest_visits": 143979,
+      "last_seen": "2026-11-10T16:30:04.637111+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10771340918": {
+      "name": "[\ud83c\udf83] Everveil",
+      "universeId": "10771340918",
+      "rootPlaceId": 88206180860518,
+      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
+      "genre": "All",
+      "created": "2026-10-16T21:04:19.256Z",
+      "creatorName": "Everveil official",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T16:30:04.637111+00:00",
+          "ccu": 611,
+          "visits": 99498
+        }
+      ],
+      "latest_ccu": 611,
+      "latest_visits": 99498,
+      "last_seen": "2026-11-10T16:30:04.637111+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

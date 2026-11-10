@@ -6541,11 +6541,16 @@
           "t": "2026-11-10T16:30:04.637111+00:00",
           "ccu": 3036,
           "visits": 143979
+        },
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 2998,
+          "visits": 180238
         }
       ],
-      "latest_ccu": 3036,
-      "latest_visits": 143979,
-      "last_seen": "2026-11-10T16:30:04.637111+00:00",
+      "latest_ccu": 2998,
+      "latest_visits": 180238,
+      "last_seen": "2026-11-10T21:58:09.601238+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6564,11 +6569,39 @@
           "t": "2026-11-10T16:30:04.637111+00:00",
           "ccu": 611,
           "visits": 99498
+        },
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 599,
+          "visits": 108442
         }
       ],
-      "latest_ccu": 611,
-      "latest_visits": 99498,
-      "last_seen": "2026-11-10T16:30:04.637111+00:00",
+      "latest_ccu": 599,
+      "latest_visits": 108442,
+      "last_seen": "2026-11-10T21:58:09.601238+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10775491401": {
+      "name": "Light Up Christmas!",
+      "universeId": "10775491401",
+      "rootPlaceId": 92458743685236,
+      "description": "\ud83c\udf84 Light up your house for Christmas! \ud83c\udf84\n\nDecorate your house with Christmas lights, inflatables and decorations. Cars drive by every night to see your lights, and the brighter your house, the more cash you make!\n\n\u2b50 Buy lights and decorations to earn more\n\ud83c\udf81 Open presents for rare exclusive inflatables\n\u2b06 Upgrade your house and rebirth to go even bigger\n\ud83c\udf85 Santa visits with gifts\n\ud83c\udfc6 Climb the leaderboar",
+      "genre": "All",
+      "created": "2026-11-09T05:17:55.206Z",
+      "creatorName": "The Chunkies!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 1511,
+          "visits": 67422
+        }
+      ],
+      "latest_ccu": 1511,
+      "latest_visits": 67422,
+      "last_seen": "2026-11-10T21:58:09.601238+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

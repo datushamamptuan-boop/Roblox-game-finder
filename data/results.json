@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T01:51:17.969332+00:00",
-  "count": 100,
+  "generated_at": "2026-11-11T09:11:10.785347+00:00",
+  "count": 102,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -4965,6 +4965,44 @@
       "growth_ratio": 0.85
     },
     {
+      "name": "[\ud83c\udf83] Everveil",
+      "universeId": "10771340918",
+      "rootPlaceId": 88206180860518,
+      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
+      "genre": "All",
+      "created": "2026-10-16T21:04:19.256Z",
+      "creatorName": "Everveil official",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T16:30:04.637111+00:00",
+          "ccu": 611,
+          "visits": 99498
+        },
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 599,
+          "visits": 108442
+        },
+        {
+          "t": "2026-11-11T01:51:17.969332+00:00",
+          "ccu": 603,
+          "visits": 114641
+        },
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 477,
+          "visits": 125030
+        }
+      ],
+      "latest_ccu": 477,
+      "latest_visits": 125030,
+      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "trend_score": 10.9,
+      "trend_label": "declining",
+      "growth_ratio": 0.89
+    },
+    {
       "name": "Last Stand [\u26f1\ufe0f]",
       "universeId": "10769802973",
       "rootPlaceId": 120293323710237,
@@ -6558,39 +6596,6 @@
       "growth_ratio": null
     },
     {
-      "name": "[\ud83c\udf83] Everveil",
-      "universeId": "10771340918",
-      "rootPlaceId": 88206180860518,
-      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
-      "genre": "All",
-      "created": "2026-10-16T21:04:19.256Z",
-      "creatorName": "Everveil official",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-10T16:30:04.637111+00:00",
-          "ccu": 611,
-          "visits": 99498
-        },
-        {
-          "t": "2026-11-10T21:58:09.601238+00:00",
-          "ccu": 599,
-          "visits": 108442
-        },
-        {
-          "t": "2026-11-11T01:51:17.969332+00:00",
-          "ccu": 603,
-          "visits": 114641
-        }
-      ],
-      "latest_ccu": 603,
-      "latest_visits": 114641,
-      "last_seen": "2026-11-11T01:51:17.969332+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Light Up Christmas!",
       "universeId": "10775491401",
       "rootPlaceId": 92458743685236,
@@ -6609,11 +6614,62 @@
           "t": "2026-11-11T01:51:17.969332+00:00",
           "ccu": 2035,
           "visits": 96007
+        },
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 619,
+          "visits": 133161
         }
       ],
-      "latest_ccu": 2035,
-      "latest_visits": 96007,
-      "last_seen": "2026-11-11T01:51:17.969332+00:00",
+      "latest_ccu": 619,
+      "latest_visits": 133161,
+      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Symphony Orchestra Simulator",
+      "universeId": "10772237634",
+      "rootPlaceId": 120009540834199,
+      "description": "JOIN THE NEW DISCORD BELOW!\n\n\ud83c\udfbb Join a real orchestra and play classical music with friends in a grand concert hall!\n\n\ud83c\udfb5 PICK YOUR INSTRUMENT\nViolin, cello, trumpet, flute, harp, timpani and more: 16 instruments. Keep your seat song after song.\n\n\u2728 PLAY YOUR SOLO\nThe spotlight can land on YOU. The orchestra stops, the camera swoops in, and the crowd decides: cheers and roses\u2026 or boos and tomatoes! \ud83c\udf45\n",
+      "genre": "All",
+      "created": "2026-10-21T13:27:03.262Z",
+      "creatorName": "merpug01",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 119,
+          "visits": 172676
+        }
+      ],
+      "latest_ccu": 119,
+      "latest_visits": 172676,
+      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Control a Ragdoll Together! [1-4 Players]",
+      "universeId": "10774557211",
+      "rootPlaceId": 135073285528385,
+      "description": "CONTROL ONE PUPPET WITH YOUR FRIENDS 1-4 PLAYER CO-OP OBBY\n\nGet one puppet through a dangerous obstacle course in Control a Ragdoll, a 1-4 player co-op obby where you and your friends each control different limbs of the same body.\n\nCoordinate every step, swing across monkey bars, climb rock walls and dodge spikes, hammers and falling meteors on the way to the finish. One wrong move from anyone can",
+      "genre": "All",
+      "created": "2026-11-03T19:43:54.382Z",
+      "creatorName": "Ragdoll Obby Games",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 506,
+          "visits": 125853
+        }
+      ],
+      "latest_ccu": 506,
+      "latest_visits": 125853,
+      "last_seen": "2026-11-11T09:11:10.785347+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

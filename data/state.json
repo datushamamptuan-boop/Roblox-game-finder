@@ -6584,14 +6584,19 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 477,
           "visits": 125030
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 805,
+          "visits": 138693
         }
       ],
-      "latest_ccu": 477,
-      "latest_visits": 125030,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
-      "trend_score": 10.9,
-      "trend_label": "declining",
-      "growth_ratio": 0.89
+      "latest_ccu": 805,
+      "latest_visits": 138693,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
+      "trend_score": 73.0,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.04
     },
     "10775491401": {
       "name": "Light Up Christmas!",
@@ -6617,14 +6622,19 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 619,
           "visits": 133161
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 2647,
+          "visits": 181128
         }
       ],
-      "latest_ccu": 619,
-      "latest_visits": 133161,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 2647,
+      "latest_visits": 181128,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
+      "trend_score": 86.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 0.92
     },
     "10772237634": {
       "name": "Symphony Orchestra Simulator",
@@ -6640,11 +6650,16 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 119,
           "visits": 172676
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 652,
+          "visits": 181819
         }
       ],
-      "latest_ccu": 119,
-      "latest_visits": 172676,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "latest_ccu": 652,
+      "latest_visits": 181819,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6663,11 +6678,16 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 506,
           "visits": 125853
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 1428,
+          "visits": 177093
         }
       ],
-      "latest_ccu": 506,
-      "latest_visits": 125853,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "latest_ccu": 1428,
+      "latest_visits": 177093,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

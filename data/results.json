@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:11:10.785347+00:00",
+  "generated_at": "2026-11-11T17:18:11.401098+00:00",
   "count": 102,
   "games": [
     {
@@ -1726,6 +1726,44 @@
       "growth_ratio": 1.41
     },
     {
+      "name": "Light Up Christmas!",
+      "universeId": "10775491401",
+      "rootPlaceId": 92458743685236,
+      "description": "\ud83c\udf84 Light up your house for Christmas! \ud83c\udf84\n\nDecorate your house with Christmas lights, inflatables and decorations. Cars drive by every night to see your lights, and the brighter your house, the more cash you make!\n\n\u2b50 Buy lights and decorations to earn more\n\ud83c\udf81 Open presents for rare exclusive inflatables\n\u2b06 Upgrade your house and rebirth to go even bigger\n\ud83c\udf85 Santa visits with gifts\n\ud83c\udfc6 Climb the leaderboar",
+      "genre": "All",
+      "created": "2026-11-09T05:17:55.206Z",
+      "creatorName": "The Chunkies!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 1511,
+          "visits": 67422
+        },
+        {
+          "t": "2026-11-11T01:51:17.969332+00:00",
+          "ccu": 2035,
+          "visits": 96007
+        },
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 619,
+          "visits": 133161
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 2647,
+          "visits": 181128
+        }
+      ],
+      "latest_ccu": 2647,
+      "latest_visits": 181128,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
+      "trend_score": 86.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 0.92
+    },
+    {
       "name": "PERIPHERAL (BETA)",
       "universeId": "10768473690",
       "rootPlaceId": 120912658283903,
@@ -1951,6 +1989,49 @@
       "trend_score": 73.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.23
+    },
+    {
+      "name": "[\ud83c\udf83] Everveil",
+      "universeId": "10771340918",
+      "rootPlaceId": 88206180860518,
+      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
+      "genre": "All",
+      "created": "2026-10-16T21:04:19.256Z",
+      "creatorName": "Everveil official",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T16:30:04.637111+00:00",
+          "ccu": 611,
+          "visits": 99498
+        },
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 599,
+          "visits": 108442
+        },
+        {
+          "t": "2026-11-11T01:51:17.969332+00:00",
+          "ccu": 603,
+          "visits": 114641
+        },
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 477,
+          "visits": 125030
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 805,
+          "visits": 138693
+        }
+      ],
+      "latest_ccu": 805,
+      "latest_visits": 138693,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
+      "trend_score": 73.0,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.04
     },
     {
       "name": "Weather Sandbox",
@@ -4965,44 +5046,6 @@
       "growth_ratio": 0.85
     },
     {
-      "name": "[\ud83c\udf83] Everveil",
-      "universeId": "10771340918",
-      "rootPlaceId": 88206180860518,
-      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
-      "genre": "All",
-      "created": "2026-10-16T21:04:19.256Z",
-      "creatorName": "Everveil official",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-10T16:30:04.637111+00:00",
-          "ccu": 611,
-          "visits": 99498
-        },
-        {
-          "t": "2026-11-10T21:58:09.601238+00:00",
-          "ccu": 599,
-          "visits": 108442
-        },
-        {
-          "t": "2026-11-11T01:51:17.969332+00:00",
-          "ccu": 603,
-          "visits": 114641
-        },
-        {
-          "t": "2026-11-11T09:11:10.785347+00:00",
-          "ccu": 477,
-          "visits": 125030
-        }
-      ],
-      "latest_ccu": 477,
-      "latest_visits": 125030,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
-      "trend_score": 10.9,
-      "trend_label": "declining",
-      "growth_ratio": 0.89
-    },
-    {
       "name": "Last Stand [\u26f1\ufe0f]",
       "universeId": "10769802973",
       "rootPlaceId": 120293323710237,
@@ -6596,39 +6639,6 @@
       "growth_ratio": null
     },
     {
-      "name": "Light Up Christmas!",
-      "universeId": "10775491401",
-      "rootPlaceId": 92458743685236,
-      "description": "\ud83c\udf84 Light up your house for Christmas! \ud83c\udf84\n\nDecorate your house with Christmas lights, inflatables and decorations. Cars drive by every night to see your lights, and the brighter your house, the more cash you make!\n\n\u2b50 Buy lights and decorations to earn more\n\ud83c\udf81 Open presents for rare exclusive inflatables\n\u2b06 Upgrade your house and rebirth to go even bigger\n\ud83c\udf85 Santa visits with gifts\n\ud83c\udfc6 Climb the leaderboar",
-      "genre": "All",
-      "created": "2026-11-09T05:17:55.206Z",
-      "creatorName": "The Chunkies!",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-10T21:58:09.601238+00:00",
-          "ccu": 1511,
-          "visits": 67422
-        },
-        {
-          "t": "2026-11-11T01:51:17.969332+00:00",
-          "ccu": 2035,
-          "visits": 96007
-        },
-        {
-          "t": "2026-11-11T09:11:10.785347+00:00",
-          "ccu": 619,
-          "visits": 133161
-        }
-      ],
-      "latest_ccu": 619,
-      "latest_visits": 133161,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Symphony Orchestra Simulator",
       "universeId": "10772237634",
       "rootPlaceId": 120009540834199,
@@ -6642,11 +6652,16 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 119,
           "visits": 172676
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 652,
+          "visits": 181819
         }
       ],
-      "latest_ccu": 119,
-      "latest_visits": 172676,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "latest_ccu": 652,
+      "latest_visits": 181819,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -6665,11 +6680,16 @@
           "t": "2026-11-11T09:11:10.785347+00:00",
           "ccu": 506,
           "visits": 125853
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 1428,
+          "visits": 177093
         }
       ],
-      "latest_ccu": 506,
-      "latest_visits": 125853,
-      "last_seen": "2026-11-11T09:11:10.785347+00:00",
+      "latest_ccu": 1428,
+      "latest_visits": 177093,
+      "last_seen": "2026-11-11T17:18:11.401098+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

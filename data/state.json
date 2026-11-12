@@ -6594,12 +6594,17 @@
           "t": "2026-11-11T23:33:05.400072+00:00",
           "ccu": 737,
           "visits": 151649
+        },
+        {
+          "t": "2026-11-12T04:15:59.208600+00:00",
+          "ccu": 660,
+          "visits": 160026
         }
       ],
-      "latest_ccu": 737,
-      "latest_visits": 151649,
-      "last_seen": "2026-11-11T23:33:05.400072+00:00",
-      "trend_score": 79.6,
+      "latest_ccu": 660,
+      "latest_visits": 160026,
+      "last_seen": "2026-11-12T04:15:59.208600+00:00",
+      "trend_score": 71.7,
       "trend_label": "strong_upward",
       "growth_ratio": 1.11
     },

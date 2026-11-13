@@ -6721,6 +6721,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10773153092": {
+      "name": "[UPD] lights out",
+      "universeId": "10773153092",
+      "rootPlaceId": 101421882323748,
+      "description": "Build a fort before the lights go out. \ud83d\udd26\n\nYou noclipped into the Backrooms: endless yellow halls, damp carpet, the buzz of the lights. Grab anything you can carry, from couches to fridges, and wall yourself in with your friends.\n\nWhen the lights die, the Facelings hunt.\n\ud83c\udd95 The Hound hunts by sound. Deathmoths are drawn to your light. The Skin-Stealer wears a friend's face.\n\nHow many days can you la",
+      "genre": "All",
+      "created": "2026-10-26T17:48:55.748Z",
+      "creatorName": "we the goats!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-13T17:24:01.184536+00:00",
+          "ccu": 208,
+          "visits": 71457
+        }
+      ],
+      "latest_ccu": 208,
+      "latest_visits": 71457,
+      "last_seen": "2026-11-13T17:24:01.184536+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

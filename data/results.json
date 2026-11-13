@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:45:18.803536+00:00",
+  "generated_at": "2026-11-13T09:23:24.334087+00:00",
   "count": 102,
   "games": [
     {
@@ -3487,74 +3487,6 @@
       "growth_ratio": 1.11
     },
     {
-      "name": "[\ud83c\udf83] Everveil",
-      "universeId": "10771340918",
-      "rootPlaceId": 88206180860518,
-      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
-      "genre": "All",
-      "created": "2026-10-16T21:04:19.256Z",
-      "creatorName": "Everveil official",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-10T16:30:04.637111+00:00",
-          "ccu": 611,
-          "visits": 99498
-        },
-        {
-          "t": "2026-11-10T21:58:09.601238+00:00",
-          "ccu": 599,
-          "visits": 108442
-        },
-        {
-          "t": "2026-11-11T01:51:17.969332+00:00",
-          "ccu": 603,
-          "visits": 114641
-        },
-        {
-          "t": "2026-11-11T09:11:10.785347+00:00",
-          "ccu": 477,
-          "visits": 125030
-        },
-        {
-          "t": "2026-11-11T17:18:11.401098+00:00",
-          "ccu": 805,
-          "visits": 138693
-        },
-        {
-          "t": "2026-11-11T23:33:05.400072+00:00",
-          "ccu": 737,
-          "visits": 151649
-        },
-        {
-          "t": "2026-11-12T04:15:59.208600+00:00",
-          "ccu": 660,
-          "visits": 160026
-        },
-        {
-          "t": "2026-11-12T12:58:09.886342+00:00",
-          "ccu": 481,
-          "visits": 170339
-        },
-        {
-          "t": "2026-11-12T20:45:58.401986+00:00",
-          "ccu": 653,
-          "visits": 181603
-        },
-        {
-          "t": "2026-11-13T01:45:18.803536+00:00",
-          "ccu": 710,
-          "visits": 189592
-        }
-      ],
-      "latest_ccu": 710,
-      "latest_visits": 189592,
-      "last_seen": "2026-11-13T01:45:18.803536+00:00",
-      "trend_score": 57.3,
-      "trend_label": "mild_upward",
-      "growth_ratio": 1.05
-    },
-    {
       "name": "Dropshipping Tycoon",
       "universeId": "10666108087",
       "rootPlaceId": 139186643787547,
@@ -3970,6 +3902,79 @@
       "latest_visits": 168135,
       "last_seen": "2026-08-26T14:29:01.625945+00:00",
       "trend_score": 51.5,
+      "trend_label": "flat_or_mixed",
+      "growth_ratio": 1.01
+    },
+    {
+      "name": "[\ud83c\udf83] Everveil",
+      "universeId": "10771340918",
+      "rootPlaceId": 88206180860518,
+      "description": "Everveil is a calm fantasy RPG about exploring a big world at your own pace. Roll for one of 14 elements and learn its spells, collect armour and swords, forge and enchant your gear, take on quests and bounties, go fishing, find hidden secrets and ride your horse across the land. When you feel ready, face the great bosses of Everveil, like the White Death, Grimhide and Cerberus. Trade with friends",
+      "genre": "All",
+      "created": "2026-10-16T21:04:19.256Z",
+      "creatorName": "Everveil official",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-10T16:30:04.637111+00:00",
+          "ccu": 611,
+          "visits": 99498
+        },
+        {
+          "t": "2026-11-10T21:58:09.601238+00:00",
+          "ccu": 599,
+          "visits": 108442
+        },
+        {
+          "t": "2026-11-11T01:51:17.969332+00:00",
+          "ccu": 603,
+          "visits": 114641
+        },
+        {
+          "t": "2026-11-11T09:11:10.785347+00:00",
+          "ccu": 477,
+          "visits": 125030
+        },
+        {
+          "t": "2026-11-11T17:18:11.401098+00:00",
+          "ccu": 805,
+          "visits": 138693
+        },
+        {
+          "t": "2026-11-11T23:33:05.400072+00:00",
+          "ccu": 737,
+          "visits": 151649
+        },
+        {
+          "t": "2026-11-12T04:15:59.208600+00:00",
+          "ccu": 660,
+          "visits": 160026
+        },
+        {
+          "t": "2026-11-12T12:58:09.886342+00:00",
+          "ccu": 481,
+          "visits": 170339
+        },
+        {
+          "t": "2026-11-12T20:45:58.401986+00:00",
+          "ccu": 653,
+          "visits": 181603
+        },
+        {
+          "t": "2026-11-13T01:45:18.803536+00:00",
+          "ccu": 710,
+          "visits": 189592
+        },
+        {
+          "t": "2026-11-13T09:23:24.334087+00:00",
+          "ccu": 507,
+          "visits": 199716
+        }
+      ],
+      "latest_ccu": 507,
+      "latest_visits": 199716,
+      "last_seen": "2026-11-13T09:23:24.334087+00:00",
+      "trend_score": 49.9,
       "trend_label": "flat_or_mixed",
       "growth_ratio": 1.01
     },

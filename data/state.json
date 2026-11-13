@@ -6609,14 +6609,19 @@
           "t": "2026-11-12T20:45:58.401986+00:00",
           "ccu": 653,
           "visits": 181603
+        },
+        {
+          "t": "2026-11-13T01:45:18.803536+00:00",
+          "ccu": 710,
+          "visits": 189592
         }
       ],
-      "latest_ccu": 653,
-      "latest_visits": 181603,
-      "last_seen": "2026-11-12T20:45:58.401986+00:00",
-      "trend_score": 59.1,
+      "latest_ccu": 710,
+      "latest_visits": 189592,
+      "last_seen": "2026-11-13T01:45:18.803536+00:00",
+      "trend_score": 57.3,
       "trend_label": "mild_upward",
-      "growth_ratio": 1.17
+      "growth_ratio": 1.05
     },
     "10775491401": {
       "name": "Light Up Christmas!",

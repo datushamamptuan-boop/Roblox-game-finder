@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-14T10:11:11.589516+00:00",
-  "count": 105,
+  "generated_at": "2026-11-14T16:40:01.136093+00:00",
+  "count": 106,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6784,11 +6784,39 @@
           "t": "2026-11-14T10:11:11.589516+00:00",
           "ccu": 3,
           "visits": 29329
+        },
+        {
+          "t": "2026-11-14T16:40:01.136093+00:00",
+          "ccu": 3,
+          "visits": 29406
         }
       ],
       "latest_ccu": 3,
-      "latest_visits": 29329,
-      "last_seen": "2026-11-14T10:11:11.589516+00:00",
+      "latest_visits": 29406,
+      "last_seen": "2026-11-14T16:40:01.136093+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "it learns. [HORROR] ",
+      "universeId": "10772629784",
+      "rootPlaceId": 82551713687001,
+      "description": "[EARLY BETA] Please leave feedback to help me improve!\n\nIt watches. It learns. It hunts.\n\nSurvive night after night as the Watcher studies your behavior and adapts to your strategies.\n\nFind a way to escape before it learns too much.\n\nNo two nights are the same.",
+      "genre": "All",
+      "created": "2026-10-23T22:10:24.795Z",
+      "creatorName": "ric made this",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-14T16:40:01.136093+00:00",
+          "ccu": 584,
+          "visits": 135570
+        }
+      ],
+      "latest_ccu": 584,
+      "latest_visits": 135570,
+      "last_seen": "2026-11-14T16:40:01.136093+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

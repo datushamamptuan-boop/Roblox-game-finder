@@ -6744,6 +6744,52 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10774903300": {
+      "name": "[UPD] Patrol Compton",
+      "universeId": "10774903300",
+      "rootPlaceId": 88601475571919,
+      "description": "Patrol Compton\n\nPut on the uniform and work a full shift as a Los Angeles County Sheriff\u2019s deputy in Compton.\n\n\ud83d\ude93 Start your shift. Suit up in the locker room, draw your gear from the armory, attend briefing, then take a cruiser out of the garage.\n\n\ud83d\udcfb Answer calls. Dispatch sends you calls around the city: traffic stops, disturbances, domestics, shots fired and more. Every call is run by AI, so ther",
+      "genre": "All",
+      "created": "2026-11-06T04:39:51.798Z",
+      "creatorName": "Code Three Roleplay",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-14T10:11:11.589516+00:00",
+          "ccu": 627,
+          "visits": 181848
+        }
+      ],
+      "latest_ccu": 627,
+      "latest_visits": 181848,
+      "last_seen": "2026-11-14T10:11:11.589516+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10768215712": {
+      "name": "Build Your Burger Empire",
+      "universeId": "10768215712",
+      "rootPlaceId": 76329437749864,
+      "description": "Sell Burgers \ud83c\udf54. Make \ud83d\udcb5\ud83d\udcb0\ud83e\udd11.\n\n\ud83c\udf54 Sell Burgers\n\ud83d\udcb5 Earn lots of cash\n\ud83c\udfd7\ufe0f Upgrade your broke restaurant\n\ud83d\udc51 Build a ridiculous burger empire\n\ud83c\udf0e Achieve total burger domination\n\n\u2753 Did you know...\nEvery empire starts with one slightly suspicious burger. \ud83c\udf54\n\n\ud83d\udc4d Like the game and join our community please!",
+      "genre": "All",
+      "created": "2026-09-26T23:05:24.5Z",
+      "creatorName": "Mumbo Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-14T10:11:11.589516+00:00",
+          "ccu": 3,
+          "visits": 29329
+        }
+      ],
+      "latest_ccu": 3,
+      "latest_visits": 29329,
+      "last_seen": "2026-11-14T10:11:11.589516+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

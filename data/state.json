@@ -6810,11 +6810,16 @@
           "t": "2026-11-14T16:40:01.136093+00:00",
           "ccu": 584,
           "visits": 135570
+        },
+        {
+          "t": "2026-11-14T20:58:09.391826+00:00",
+          "ccu": 795,
+          "visits": 156035
         }
       ],
-      "latest_ccu": 584,
-      "latest_visits": 135570,
-      "last_seen": "2026-11-14T16:40:01.136093+00:00",
+      "latest_ccu": 795,
+      "latest_visits": 156035,
+      "last_seen": "2026-11-14T20:58:09.391826+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -6828,6 +6828,52 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10774018521": {
+      "name": "Check Your Account Rarity & Stats!",
+      "universeId": "10774018521",
+      "rootPlaceId": 88134791817739,
+      "description": "\ud83d\udd0d Welcome to Check Your Account Rarity & Stats!\n\nCheck your account Rarity, total walk distance, total deaths, total games joined, and your playtime estimation.\n\n\ud83c\udfae Features:\n\ud83d\udd52 Get an estimate of your stats!\n\ud83e\udde0 Simple one-click gameplay!\n\ud83d\udc6b Check how much your friends have played!\n\u2705 100% game-based, no personal data needed!",
+      "genre": "All",
+      "created": "2026-10-31T15:21:02.317Z",
+      "creatorName": "Larp_Squad",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-15T07:46:17.797259+00:00",
+          "ccu": 1631,
+          "visits": 155108
+        }
+      ],
+      "latest_ccu": 1631,
+      "latest_visits": 155108,
+      "last_seen": "2026-11-15T07:46:17.797259+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10774695883": {
+      "name": "My Christmas Market \ud83c\udf81\ud83c\udf84",
+      "universeId": "10774695883",
+      "rootPlaceId": 112449863413011,
+      "description": "\ud83c\udf84 Build the coziest Christmas market in town! \ud83c\udf84\n\nBuy trees, truck them home and sell them to shoppers!\n\n\u2b50 FEATURES \u2b50\n\ud83c\udf32 Rare Fluffy, Giant and Golden trees\n\ud83c\udf31 Plant, water and chop your own trees\n\ud83d\ude9a Drive a truck stacked with trees\n\ud83d\udd28 Build anything: walls, roofs, shelves, lights and decor\n\ud83e\uddd1\u200d\ud83d\udcbc Hire cashiers, restockers and helpers\n\ud83d\udc4d Like other stores and visit the top-rated markets\n\ud83e\udd1d Co-op: run a mark",
+      "genre": "All",
+      "created": "2026-11-04T18:20:53.685Z",
+      "creatorName": "Merry Trees",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-15T07:46:17.797259+00:00",
+          "ccu": 2122,
+          "visits": 182774
+        }
+      ],
+      "latest_ccu": 2122,
+      "latest_visits": 182774,
+      "last_seen": "2026-11-15T07:46:17.797259+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

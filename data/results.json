@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T20:34:50.607477+00:00",
-  "count": 108,
+  "generated_at": "2026-11-16T00:23:14.978230+00:00",
+  "count": 109,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6873,6 +6873,29 @@
       "latest_ccu": 2122,
       "latest_visits": 182774,
       "last_seen": "2026-11-15T07:46:17.797259+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[UPD 7.3] Pleb's Plane Crash Sandbox [ALPHA]",
+      "universeId": "10774313244",
+      "rootPlaceId": 82887321543807,
+      "description": "The most realistic plane crash physics on Roblox - with new updates every day!\n\nSpawn airliners and fighters, set them up, then fly them yourself or press Run and watch them go. Every plane breaks apart piece by piece: wings snap, engines tear off, and the wreckage skids, burns or sinks.\n\n\u2022 Trigger failures: engine fires, flame-outs, bird strikes, engines falling off, wings snapping and more\n\u2022 Loa",
+      "genre": "All",
+      "created": "2026-11-02T06:28:46.936Z",
+      "creatorName": "WhatAPleb9",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-16T00:23:14.978230+00:00",
+          "ccu": 979,
+          "visits": 158906
+        }
+      ],
+      "latest_ccu": 979,
+      "latest_visits": 158906,
+      "last_seen": "2026-11-16T00:23:14.978230+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

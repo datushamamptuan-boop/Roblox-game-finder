@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T07:16:28.796226+00:00",
-  "count": 109,
+  "generated_at": "2026-11-16T17:12:20.614393+00:00",
+  "count": 110,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -6901,6 +6901,29 @@
       "latest_ccu": 395,
       "latest_visits": 174488,
       "last_seen": "2026-11-16T07:16:28.796226+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83c\udf84CHRISTMAS] Pimple Pop Clinic \ud83d\udca5",
+      "universeId": "10773124191",
+      "rootPlaceId": 72905171016695,
+      "description": "\ud83d\udca5 Yk Those satisfying pimple popping ads you could never actually play? NOW YOU CAN! \ud83d\udca5\n\nSqueeze. POP. Relief. Patients roll into your clinic covered in zits. Pop every one, watch the gunk ooze out and the redness slowly fade away. \ud83d\ude0c\n\n\ud83d\udd90\ufe0f Start with your thumbs, then unlock Swabs, the Extractor, Tweezers, a Lancet and Pore Strips\n\ud83c\udf0b MEGA zits that BLAST all over the screen\n\ud83e\uddf4 Rub creams on heat rash, ",
+      "genre": "All",
+      "created": "2026-10-26T14:25:38.076Z",
+      "creatorName": "Injusted inc.",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-16T17:12:20.614393+00:00",
+          "ccu": 1027,
+          "visits": 184871
+        }
+      ],
+      "latest_ccu": 1027,
+      "latest_visits": 184871,
+      "last_seen": "2026-11-16T17:12:20.614393+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

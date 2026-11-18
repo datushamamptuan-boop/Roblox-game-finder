@@ -6955,14 +6955,19 @@
           "t": "2026-11-18T17:37:24.012361+00:00",
           "ccu": 196,
           "visits": 163720
+        },
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 578,
+          "visits": 171140
         }
       ],
-      "latest_ccu": 196,
-      "latest_visits": 163720,
-      "last_seen": "2026-11-18T17:37:24.012361+00:00",
-      "trend_score": 0,
-      "trend_label": "declining",
-      "growth_ratio": 0.59
+      "latest_ccu": 578,
+      "latest_visits": 171140,
+      "last_seen": "2026-11-18T23:37:03.894809+00:00",
+      "trend_score": 91.7,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.04
     },
     "10773836632": {
       "name": "Guess the rarest word \ud83e\udd90",
@@ -6993,6 +6998,29 @@
       "latest_ccu": 446,
       "latest_visits": 186103,
       "last_seen": "2026-11-18T08:41:12.466157+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10772312464": {
+      "name": "Imperial Tycoon [Beta]",
+      "universeId": "10772312464",
+      "rootPlaceId": 129945793487493,
+      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
+      "genre": "All",
+      "created": "2026-10-21T21:40:57.433Z",
+      "creatorName": "Holocron Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 719,
+          "visits": 81416
+        }
+      ],
+      "latest_ccu": 719,
+      "latest_visits": 81416,
+      "last_seen": "2026-11-18T23:37:03.894809+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

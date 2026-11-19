@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T23:37:03.894809+00:00",
+  "generated_at": "2026-11-19T04:31:59.092585+00:00",
   "count": 113,
   "games": [
     {
@@ -787,6 +787,54 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.31
+    },
+    {
+      "name": "[\ud83d\udd35NEW!] Blox Feud!",
+      "universeId": "10773589437",
+      "rootPlaceId": 133199356424852,
+      "description": "\ud83d\udd34 Think you know what everyone\u2019s thinking? \ud83d\udd35\n\nWelcome to BLOX FEUD! Team up, race to the buzzer, and guess the most popular answers. Sounds easy\u2026 until you\u2019re on the spot. \ud83d\ude2d\n\n\ud83d\udd14 Buzz in before the other team\n\ud83d\udcac Guess what the crowd said\n\u274c Watch out for those three strikes\n\ud83c\udfc6 Help your team take the win\n\nBring your friends and find out who has the best answers - and who should\u2019ve stayed quiet. \ud83d\udc40",
+      "genre": "All",
+      "created": "2026-10-29T02:23:51.067Z",
+      "creatorName": "Guest Employment Agency",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-17T18:27:57.073336+00:00",
+          "ccu": 264,
+          "visits": 137791
+        },
+        {
+          "t": "2026-11-18T01:19:10.891219+00:00",
+          "ccu": 329,
+          "visits": 146834
+        },
+        {
+          "t": "2026-11-18T08:41:12.466157+00:00",
+          "ccu": 153,
+          "visits": 157701
+        },
+        {
+          "t": "2026-11-18T17:37:24.012361+00:00",
+          "ccu": 196,
+          "visits": 163720
+        },
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 578,
+          "visits": 171140
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 1061,
+          "visits": 190895
+        }
+      ],
+      "latest_ccu": 1061,
+      "latest_visits": 190895,
+      "last_seen": "2026-11-19T04:31:59.092585+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 2.46
     },
     {
       "name": "Survive a Psycho",
@@ -1661,49 +1709,6 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
-    },
-    {
-      "name": "[\ud83d\udd35NEW!] Blox Feud!",
-      "universeId": "10773589437",
-      "rootPlaceId": 133199356424852,
-      "description": "\ud83d\udd34 Think you know what everyone\u2019s thinking? \ud83d\udd35\n\nWelcome to BLOX FEUD! Team up, race to the buzzer, and guess the most popular answers. Sounds easy\u2026 until you\u2019re on the spot. \ud83d\ude2d\n\n\ud83d\udd14 Buzz in before the other team\n\ud83d\udcac Guess what the crowd said\n\u274c Watch out for those three strikes\n\ud83c\udfc6 Help your team take the win\n\nBring your friends and find out who has the best answers - and who should\u2019ve stayed quiet. \ud83d\udc40",
-      "genre": "All",
-      "created": "2026-10-29T02:23:51.067Z",
-      "creatorName": "Guest Employment Agency",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-17T18:27:57.073336+00:00",
-          "ccu": 264,
-          "visits": 137791
-        },
-        {
-          "t": "2026-11-18T01:19:10.891219+00:00",
-          "ccu": 329,
-          "visits": 146834
-        },
-        {
-          "t": "2026-11-18T08:41:12.466157+00:00",
-          "ccu": 153,
-          "visits": 157701
-        },
-        {
-          "t": "2026-11-18T17:37:24.012361+00:00",
-          "ccu": 196,
-          "visits": 163720
-        },
-        {
-          "t": "2026-11-18T23:37:03.894809+00:00",
-          "ccu": 578,
-          "visits": 171140
-        }
-      ],
-      "latest_ccu": 578,
-      "latest_visits": 171140,
-      "last_seen": "2026-11-18T23:37:03.894809+00:00",
-      "trend_score": 91.7,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.04
     },
     {
       "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
@@ -7018,11 +7023,16 @@
           "t": "2026-11-18T23:37:03.894809+00:00",
           "ccu": 719,
           "visits": 81416
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 457,
+          "visits": 87354
         }
       ],
-      "latest_ccu": 719,
-      "latest_visits": 81416,
-      "last_seen": "2026-11-18T23:37:03.894809+00:00",
+      "latest_ccu": 457,
+      "latest_visits": 87354,
+      "last_seen": "2026-11-19T04:31:59.092585+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

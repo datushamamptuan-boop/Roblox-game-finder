@@ -6960,14 +6960,19 @@
           "t": "2026-11-18T23:37:03.894809+00:00",
           "ccu": 578,
           "visits": 171140
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 1061,
+          "visits": 190895
         }
       ],
-      "latest_ccu": 578,
-      "latest_visits": 171140,
-      "last_seen": "2026-11-18T23:37:03.894809+00:00",
-      "trend_score": 91.7,
+      "latest_ccu": 1061,
+      "latest_visits": 190895,
+      "last_seen": "2026-11-19T04:31:59.092585+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.04
+      "growth_ratio": 2.46
     },
     "10773836632": {
       "name": "Guess the rarest word \ud83e\udd90",
@@ -7016,11 +7021,16 @@
           "t": "2026-11-18T23:37:03.894809+00:00",
           "ccu": 719,
           "visits": 81416
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 457,
+          "visits": 87354
         }
       ],
-      "latest_ccu": 719,
-      "latest_visits": 81416,
-      "last_seen": "2026-11-18T23:37:03.894809+00:00",
+      "latest_ccu": 457,
+      "latest_visits": 87354,
+      "last_seen": "2026-11-19T04:31:59.092585+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

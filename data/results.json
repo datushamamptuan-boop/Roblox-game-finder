@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:55:06.085974+00:00",
-  "count": 113,
+  "generated_at": "2026-11-19T22:05:08.935359+00:00",
+  "count": 115,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -1428,6 +1428,44 @@
       "trend_score": 95.3,
       "trend_label": "strong_upward",
       "growth_ratio": 1.13
+    },
+    {
+      "name": "Imperial Tycoon [Beta]",
+      "universeId": "10772312464",
+      "rootPlaceId": 129945793487493,
+      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
+      "genre": "All",
+      "created": "2026-10-21T21:40:57.433Z",
+      "creatorName": "Holocron Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 719,
+          "visits": 81416
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 457,
+          "visits": 87354
+        },
+        {
+          "t": "2026-11-19T13:55:06.085974+00:00",
+          "ccu": 403,
+          "visits": 93175
+        },
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 913,
+          "visits": 104800
+        }
+      ],
+      "latest_ccu": 913,
+      "latest_visits": 104800,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
+      "trend_score": 94.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.12
     },
     {
       "name": "join the group to play",
@@ -7010,34 +7048,47 @@
       "growth_ratio": null
     },
     {
-      "name": "Imperial Tycoon [Beta]",
-      "universeId": "10772312464",
-      "rootPlaceId": 129945793487493,
-      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
+      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
+      "universeId": "10775452129",
+      "rootPlaceId": 127655305190243,
+      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
       "genre": "All",
-      "created": "2026-10-21T21:40:57.433Z",
-      "creatorName": "Holocron Studio",
+      "created": "2026-11-08T22:12:39.848Z",
+      "creatorName": "ILUVMEIMEI",
       "creatorType": "Group",
       "history": [
         {
-          "t": "2026-11-18T23:37:03.894809+00:00",
-          "ccu": 719,
-          "visits": 81416
-        },
-        {
-          "t": "2026-11-19T04:31:59.092585+00:00",
-          "ccu": 457,
-          "visits": 87354
-        },
-        {
-          "t": "2026-11-19T13:55:06.085974+00:00",
-          "ccu": 403,
-          "visits": 93175
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 860,
+          "visits": 128199
         }
       ],
-      "latest_ccu": 403,
-      "latest_visits": 93175,
-      "last_seen": "2026-11-19T13:55:06.085974+00:00",
+      "latest_ccu": 860,
+      "latest_visits": 128199,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Illegal Chess",
+      "universeId": "10773908096",
+      "rootPlaceId": 129272596992631,
+      "description": "\u265f\ufe0f Welcome to Illegal Chess!\n\n\u2694\ufe0f Challenge friends and players from around the world!\n\ud83e\udd16 Practice against bots, from beginner to expert.\n\ud83e\udde9 Solve puzzles and sharpen your skills.\n\ud83c\udfc6 Climb the ranks and complete quests.\n\ud83c\udfa8 Unlock unique boards, pieces, and emotes.\n\njoin the group and like the game to support us, not like i want you to or anything! Hmph. ",
+      "genre": "All",
+      "created": "2026-10-31T00:41:06.428Z",
+      "creatorName": "friuts den",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 401,
+          "visits": 131431
+        }
+      ],
+      "latest_ccu": 401,
+      "latest_visits": 131431,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

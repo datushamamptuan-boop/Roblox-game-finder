@@ -7031,11 +7031,62 @@
           "t": "2026-11-19T13:55:06.085974+00:00",
           "ccu": 403,
           "visits": 93175
+        },
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 913,
+          "visits": 104800
         }
       ],
-      "latest_ccu": 403,
-      "latest_visits": 93175,
-      "last_seen": "2026-11-19T13:55:06.085974+00:00",
+      "latest_ccu": 913,
+      "latest_visits": 104800,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
+      "trend_score": 94.8,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.12
+    },
+    "10775452129": {
+      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
+      "universeId": "10775452129",
+      "rootPlaceId": 127655305190243,
+      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
+      "genre": "All",
+      "created": "2026-11-08T22:12:39.848Z",
+      "creatorName": "ILUVMEIMEI",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 860,
+          "visits": 128199
+        }
+      ],
+      "latest_ccu": 860,
+      "latest_visits": 128199,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10773908096": {
+      "name": "Illegal Chess",
+      "universeId": "10773908096",
+      "rootPlaceId": 129272596992631,
+      "description": "\u265f\ufe0f Welcome to Illegal Chess!\n\n\u2694\ufe0f Challenge friends and players from around the world!\n\ud83e\udd16 Practice against bots, from beginner to expert.\n\ud83e\udde9 Solve puzzles and sharpen your skills.\n\ud83c\udfc6 Climb the ranks and complete quests.\n\ud83c\udfa8 Unlock unique boards, pieces, and emotes.\n\njoin the group and like the game to support us, not like i want you to or anything! Hmph. ",
+      "genre": "All",
+      "created": "2026-10-31T00:41:06.428Z",
+      "creatorName": "friuts den",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 401,
+          "visits": 131431
+        }
+      ],
+      "latest_ccu": 401,
+      "latest_visits": 131431,
+      "last_seen": "2026-11-19T22:05:08.935359+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

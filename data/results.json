@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T12:11:08.708701+00:00",
+  "generated_at": "2026-11-20T20:33:22.846623+00:00",
   "count": 116,
   "games": [
     {
@@ -835,6 +835,97 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 2.46
+    },
+    {
+      "name": "Imperial Tycoon [Beta]",
+      "universeId": "10772312464",
+      "rootPlaceId": 129945793487493,
+      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
+      "genre": "All",
+      "created": "2026-10-21T21:40:57.433Z",
+      "creatorName": "Holocron Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 719,
+          "visits": 81416
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 457,
+          "visits": 87354
+        },
+        {
+          "t": "2026-11-19T13:55:06.085974+00:00",
+          "ccu": 403,
+          "visits": 93175
+        },
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 913,
+          "visits": 104800
+        },
+        {
+          "t": "2026-11-20T03:33:26.364127+00:00",
+          "ccu": 688,
+          "visits": 114142
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 598,
+          "visits": 123793
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1384,
+          "visits": 144680
+        }
+      ],
+      "latest_ccu": 1384,
+      "latest_visits": 144680,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.7
+    },
+    {
+      "name": "Illegal Chess",
+      "universeId": "10773908096",
+      "rootPlaceId": 129272596992631,
+      "description": "\u265f\ufe0f Welcome to Illegal Chess!\n\n\u2694\ufe0f Challenge friends and players from around the world!\n\ud83e\udd16 Practice against bots, from beginner to expert.\n\ud83e\udde9 Solve puzzles and sharpen your skills.\n\ud83c\udfc6 Climb the ranks and complete quests.\n\ud83c\udfa8 Unlock unique boards, pieces, and emotes.\n\njoin the group and like the game to support us, not like i want you to or anything! Hmph. ",
+      "genre": "All",
+      "created": "2026-10-31T00:41:06.428Z",
+      "creatorName": "friuts den",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 401,
+          "visits": 131431
+        },
+        {
+          "t": "2026-11-20T03:33:26.364127+00:00",
+          "ccu": 490,
+          "visits": 142246
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 431,
+          "visits": 154342
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1137,
+          "visits": 181258
+        }
+      ],
+      "latest_ccu": 1137,
+      "latest_visits": 181258,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.76
     },
     {
       "name": "Survive a Psycho",
@@ -1868,54 +1959,6 @@
       "trend_score": 83.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.51
-    },
-    {
-      "name": "Imperial Tycoon [Beta]",
-      "universeId": "10772312464",
-      "rootPlaceId": 129945793487493,
-      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
-      "genre": "All",
-      "created": "2026-10-21T21:40:57.433Z",
-      "creatorName": "Holocron Studio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-18T23:37:03.894809+00:00",
-          "ccu": 719,
-          "visits": 81416
-        },
-        {
-          "t": "2026-11-19T04:31:59.092585+00:00",
-          "ccu": 457,
-          "visits": 87354
-        },
-        {
-          "t": "2026-11-19T13:55:06.085974+00:00",
-          "ccu": 403,
-          "visits": 93175
-        },
-        {
-          "t": "2026-11-19T22:05:08.935359+00:00",
-          "ccu": 913,
-          "visits": 104800
-        },
-        {
-          "t": "2026-11-20T03:33:26.364127+00:00",
-          "ccu": 688,
-          "visits": 114142
-        },
-        {
-          "t": "2026-11-20T12:11:08.708701+00:00",
-          "ccu": 598,
-          "visits": 123793
-        }
-      ],
-      "latest_ccu": 598,
-      "latest_visits": 123793,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": 79.3,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.39
     },
     {
       "name": "Horde Defenders",
@@ -5690,6 +5733,44 @@
       "growth_ratio": 0.74
     },
     {
+      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
+      "universeId": "10775452129",
+      "rootPlaceId": 127655305190243,
+      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
+      "genre": "All",
+      "created": "2026-11-08T22:12:39.848Z",
+      "creatorName": "ILUVMEIMEI",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 860,
+          "visits": 128199
+        },
+        {
+          "t": "2026-11-20T03:33:26.364127+00:00",
+          "ccu": 565,
+          "visits": 143697
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 268,
+          "visits": 152834
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 579,
+          "visits": 166405
+        }
+      ],
+      "latest_ccu": 579,
+      "latest_visits": 166405,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.59
+    },
+    {
       "name": "The Cosalazo 2 ",
       "universeId": "10739137760",
       "rootPlaceId": 133473642879498,
@@ -7058,72 +7139,6 @@
       "growth_ratio": null
     },
     {
-      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
-      "universeId": "10775452129",
-      "rootPlaceId": 127655305190243,
-      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
-      "genre": "All",
-      "created": "2026-11-08T22:12:39.848Z",
-      "creatorName": "ILUVMEIMEI",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-19T22:05:08.935359+00:00",
-          "ccu": 860,
-          "visits": 128199
-        },
-        {
-          "t": "2026-11-20T03:33:26.364127+00:00",
-          "ccu": 565,
-          "visits": 143697
-        },
-        {
-          "t": "2026-11-20T12:11:08.708701+00:00",
-          "ccu": 268,
-          "visits": 152834
-        }
-      ],
-      "latest_ccu": 268,
-      "latest_visits": 152834,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
-      "name": "Illegal Chess",
-      "universeId": "10773908096",
-      "rootPlaceId": 129272596992631,
-      "description": "\u265f\ufe0f Welcome to Illegal Chess!\n\n\u2694\ufe0f Challenge friends and players from around the world!\n\ud83e\udd16 Practice against bots, from beginner to expert.\n\ud83e\udde9 Solve puzzles and sharpen your skills.\n\ud83c\udfc6 Climb the ranks and complete quests.\n\ud83c\udfa8 Unlock unique boards, pieces, and emotes.\n\njoin the group and like the game to support us, not like i want you to or anything! Hmph. ",
-      "genre": "All",
-      "created": "2026-10-31T00:41:06.428Z",
-      "creatorName": "friuts den",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-19T22:05:08.935359+00:00",
-          "ccu": 401,
-          "visits": 131431
-        },
-        {
-          "t": "2026-11-20T03:33:26.364127+00:00",
-          "ccu": 490,
-          "visits": 142246
-        },
-        {
-          "t": "2026-11-20T12:11:08.708701+00:00",
-          "ccu": 431,
-          "visits": 154342
-        }
-      ],
-      "latest_ccu": 431,
-      "latest_visits": 154342,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "Similarity Test [2 Player Quiz]",
       "universeId": "10775203666",
       "rootPlaceId": 113357348337304,
@@ -7137,11 +7152,16 @@
           "t": "2026-11-20T12:11:08.708701+00:00",
           "ccu": 375,
           "visits": 125415
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1330,
+          "visits": 171403
         }
       ],
-      "latest_ccu": 375,
-      "latest_visits": 125415,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "latest_ccu": 1330,
+      "latest_visits": 171403,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

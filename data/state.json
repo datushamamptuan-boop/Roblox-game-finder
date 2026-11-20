@@ -7046,14 +7046,19 @@
           "t": "2026-11-20T12:11:08.708701+00:00",
           "ccu": 598,
           "visits": 123793
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1384,
+          "visits": 144680
         }
       ],
-      "latest_ccu": 598,
-      "latest_visits": 123793,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": 79.3,
+      "latest_ccu": 1384,
+      "latest_visits": 144680,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.39
+      "growth_ratio": 1.7
     },
     "10775452129": {
       "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
@@ -7079,14 +7084,19 @@
           "t": "2026-11-20T12:11:08.708701+00:00",
           "ccu": 268,
           "visits": 152834
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 579,
+          "visits": 166405
         }
       ],
-      "latest_ccu": 268,
-      "latest_visits": 152834,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 579,
+      "latest_visits": 166405,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 0,
+      "trend_label": "declining",
+      "growth_ratio": 0.59
     },
     "10773908096": {
       "name": "Illegal Chess",
@@ -7112,14 +7122,19 @@
           "t": "2026-11-20T12:11:08.708701+00:00",
           "ccu": 431,
           "visits": 154342
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1137,
+          "visits": 181258
         }
       ],
-      "latest_ccu": 431,
-      "latest_visits": 154342,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 1137,
+      "latest_visits": 181258,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.76
     },
     "10775203666": {
       "name": "Similarity Test [2 Player Quiz]",
@@ -7135,11 +7150,16 @@
           "t": "2026-11-20T12:11:08.708701+00:00",
           "ccu": 375,
           "visits": 125415
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 1330,
+          "visits": 171403
         }
       ],
-      "latest_ccu": 375,
-      "latest_visits": 125415,
-      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "latest_ccu": 1330,
+      "latest_visits": 171403,
+      "last_seen": "2026-11-20T20:33:22.846623+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

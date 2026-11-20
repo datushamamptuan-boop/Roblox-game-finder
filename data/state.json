@@ -7041,14 +7041,19 @@
           "t": "2026-11-20T03:33:26.364127+00:00",
           "ccu": 688,
           "visits": 114142
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 598,
+          "visits": 123793
         }
       ],
-      "latest_ccu": 688,
-      "latest_visits": 114142,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
-      "trend_score": 86.4,
+      "latest_ccu": 598,
+      "latest_visits": 123793,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "trend_score": 79.3,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.14
+      "growth_ratio": 1.39
     },
     "10775452129": {
       "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
@@ -7069,11 +7074,16 @@
           "t": "2026-11-20T03:33:26.364127+00:00",
           "ccu": 565,
           "visits": 143697
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 268,
+          "visits": 152834
         }
       ],
-      "latest_ccu": 565,
-      "latest_visits": 143697,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
+      "latest_ccu": 268,
+      "latest_visits": 152834,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -7097,11 +7107,39 @@
           "t": "2026-11-20T03:33:26.364127+00:00",
           "ccu": 490,
           "visits": 142246
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 431,
+          "visits": 154342
         }
       ],
-      "latest_ccu": 490,
-      "latest_visits": 142246,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
+      "latest_ccu": 431,
+      "latest_visits": 154342,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10775203666": {
+      "name": "Similarity Test [2 Player Quiz]",
+      "universeId": "10775203666",
+      "rootPlaceId": 113357348337304,
+      "description": "SIMILARITY TEST! \n\nThink you and your bestie are the same person? Prove it! \ud83d\udc40\n\n\u2728 Both of you answer real questions about yourselves\n\u2728 Find out how many answers match\n\u2728 Get your similarity score\u2026 are you Total Opposites or Same Brain? \ud83e\udd2f\n\n\ud83d\udce6 Try packs like BFF, Family, Secrets, Hot Takes and more!\n\ud83c\udf81 Claim daily rewards and skip tickets\n\nGrab your bestie and find out how alike you really are! \ud83d\udc9c",
+      "genre": "All",
+      "created": "2026-11-07T18:57:41.088Z",
+      "creatorName": "\u795e\u306e\u624b",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 375,
+          "visits": 125415
+        }
+      ],
+      "latest_ccu": 375,
+      "latest_visits": 125415,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

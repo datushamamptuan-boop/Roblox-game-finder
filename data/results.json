@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T03:33:26.364127+00:00",
-  "count": 115,
+  "generated_at": "2026-11-20T12:11:08.708701+00:00",
+  "count": 116,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -1812,49 +1812,6 @@
       "growth_ratio": 0.92
     },
     {
-      "name": "Imperial Tycoon [Beta]",
-      "universeId": "10772312464",
-      "rootPlaceId": 129945793487493,
-      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
-      "genre": "All",
-      "created": "2026-10-21T21:40:57.433Z",
-      "creatorName": "Holocron Studio",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-18T23:37:03.894809+00:00",
-          "ccu": 719,
-          "visits": 81416
-        },
-        {
-          "t": "2026-11-19T04:31:59.092585+00:00",
-          "ccu": 457,
-          "visits": 87354
-        },
-        {
-          "t": "2026-11-19T13:55:06.085974+00:00",
-          "ccu": 403,
-          "visits": 93175
-        },
-        {
-          "t": "2026-11-19T22:05:08.935359+00:00",
-          "ccu": 913,
-          "visits": 104800
-        },
-        {
-          "t": "2026-11-20T03:33:26.364127+00:00",
-          "ccu": 688,
-          "visits": 114142
-        }
-      ],
-      "latest_ccu": 688,
-      "latest_visits": 114142,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
-      "trend_score": 86.4,
-      "trend_label": "strong_upward",
-      "growth_ratio": 1.14
-    },
-    {
       "name": "PERIPHERAL (BETA)",
       "universeId": "10768473690",
       "rootPlaceId": 120912658283903,
@@ -1911,6 +1868,54 @@
       "trend_score": 83.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.51
+    },
+    {
+      "name": "Imperial Tycoon [Beta]",
+      "universeId": "10772312464",
+      "rootPlaceId": 129945793487493,
+      "description": "\ud83c\udf0c Imperial Tycoon \ud83c\udf0c\n\nStart with an empty plot and a free Credit Tower. Earn credits, build room by room, and create a powerful battle station!\n\n\ud83c\udfd7\ufe0f Build 200+ upgrades: reactors, shields, hangars, command rooms, armories and more.\n\u26a1 Manage power, grow your Credit Vault and fire your station cannon at planets or rival stations.\n\ud83d\ude80 Pilot six unique starfighters, dodge asteroids and make warp jumps.\n\ud83e\ude96 ",
+      "genre": "All",
+      "created": "2026-10-21T21:40:57.433Z",
+      "creatorName": "Holocron Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-18T23:37:03.894809+00:00",
+          "ccu": 719,
+          "visits": 81416
+        },
+        {
+          "t": "2026-11-19T04:31:59.092585+00:00",
+          "ccu": 457,
+          "visits": 87354
+        },
+        {
+          "t": "2026-11-19T13:55:06.085974+00:00",
+          "ccu": 403,
+          "visits": 93175
+        },
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 913,
+          "visits": 104800
+        },
+        {
+          "t": "2026-11-20T03:33:26.364127+00:00",
+          "ccu": 688,
+          "visits": 114142
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 598,
+          "visits": 123793
+        }
+      ],
+      "latest_ccu": 598,
+      "latest_visits": 123793,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "trend_score": 79.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.39
     },
     {
       "name": "Horde Defenders",
@@ -7071,11 +7076,16 @@
           "t": "2026-11-20T03:33:26.364127+00:00",
           "ccu": 565,
           "visits": 143697
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 268,
+          "visits": 152834
         }
       ],
-      "latest_ccu": 565,
-      "latest_visits": 143697,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
+      "latest_ccu": 268,
+      "latest_visits": 152834,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -7099,11 +7109,39 @@
           "t": "2026-11-20T03:33:26.364127+00:00",
           "ccu": 490,
           "visits": 142246
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 431,
+          "visits": 154342
         }
       ],
-      "latest_ccu": 490,
-      "latest_visits": 142246,
-      "last_seen": "2026-11-20T03:33:26.364127+00:00",
+      "latest_ccu": 431,
+      "latest_visits": 154342,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Similarity Test [2 Player Quiz]",
+      "universeId": "10775203666",
+      "rootPlaceId": 113357348337304,
+      "description": "SIMILARITY TEST! \n\nThink you and your bestie are the same person? Prove it! \ud83d\udc40\n\n\u2728 Both of you answer real questions about yourselves\n\u2728 Find out how many answers match\n\u2728 Get your similarity score\u2026 are you Total Opposites or Same Brain? \ud83e\udd2f\n\n\ud83d\udce6 Try packs like BFF, Family, Secrets, Hot Takes and more!\n\ud83c\udf81 Claim daily rewards and skip tickets\n\nGrab your bestie and find out how alike you really are! \ud83d\udc9c",
+      "genre": "All",
+      "created": "2026-11-07T18:57:41.088Z",
+      "creatorName": "\u795e\u306e\u624b",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 375,
+          "visits": 125415
+        }
+      ],
+      "latest_ccu": 375,
+      "latest_visits": 125415,
+      "last_seen": "2026-11-20T12:11:08.708701+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

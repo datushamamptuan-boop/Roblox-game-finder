@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:33:22.846623+00:00",
+  "generated_at": "2026-11-21T01:45:19.299246+00:00",
   "count": 116,
   "games": [
     {
@@ -880,14 +880,19 @@
           "t": "2026-11-20T20:33:22.846623+00:00",
           "ccu": 1384,
           "visits": 144680
+        },
+        {
+          "t": "2026-11-21T01:45:19.299246+00:00",
+          "ccu": 946,
+          "visits": 159525
         }
       ],
-      "latest_ccu": 1384,
-      "latest_visits": 144680,
-      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "latest_ccu": 946,
+      "latest_visits": 159525,
+      "last_seen": "2026-11-21T01:45:19.299246+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.7
+      "growth_ratio": 1.45
     },
     {
       "name": "Illegal Chess",
@@ -1800,6 +1805,49 @@
       "trend_score": 93.0,
       "trend_label": "strong_upward",
       "growth_ratio": 1.77
+    },
+    {
+      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
+      "universeId": "10775452129",
+      "rootPlaceId": 127655305190243,
+      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
+      "genre": "All",
+      "created": "2026-11-08T22:12:39.848Z",
+      "creatorName": "ILUVMEIMEI",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-19T22:05:08.935359+00:00",
+          "ccu": 860,
+          "visits": 128199
+        },
+        {
+          "t": "2026-11-20T03:33:26.364127+00:00",
+          "ccu": 565,
+          "visits": 143697
+        },
+        {
+          "t": "2026-11-20T12:11:08.708701+00:00",
+          "ccu": 268,
+          "visits": 152834
+        },
+        {
+          "t": "2026-11-20T20:33:22.846623+00:00",
+          "ccu": 579,
+          "visits": 166405
+        },
+        {
+          "t": "2026-11-21T01:45:19.299246+00:00",
+          "ccu": 1412,
+          "visits": 179052
+        }
+      ],
+      "latest_ccu": 1412,
+      "latest_visits": 179052,
+      "last_seen": "2026-11-21T01:45:19.299246+00:00",
+      "trend_score": 92.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.06
     },
     {
       "name": "ABOVE [\ud83c\udfedINDUSTRIAL & PUBLISHED]",
@@ -5731,44 +5779,6 @@
       "trend_score": 0,
       "trend_label": "declining",
       "growth_ratio": 0.74
-    },
-    {
-      "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
-      "universeId": "10775452129",
-      "rootPlaceId": 127655305190243,
-      "description": "you just moved into a new house. it came with a cat. her name is mei mei.\n\nnobody knows how, but when mei mei is happy money just kind of appears. so feed her, pet her (as much as you want, she pretends to hate it), clean up after her, and spend the cash on MeowNet, the dial-up cat store on your old computer. get her a cardboard box, a roomba she rides around on, a hamster wheel, a disco ball, her",
-      "genre": "All",
-      "created": "2026-11-08T22:12:39.848Z",
-      "creatorName": "ILUVMEIMEI",
-      "creatorType": "Group",
-      "history": [
-        {
-          "t": "2026-11-19T22:05:08.935359+00:00",
-          "ccu": 860,
-          "visits": 128199
-        },
-        {
-          "t": "2026-11-20T03:33:26.364127+00:00",
-          "ccu": 565,
-          "visits": 143697
-        },
-        {
-          "t": "2026-11-20T12:11:08.708701+00:00",
-          "ccu": 268,
-          "visits": 152834
-        },
-        {
-          "t": "2026-11-20T20:33:22.846623+00:00",
-          "ccu": 579,
-          "visits": 166405
-        }
-      ],
-      "latest_ccu": 579,
-      "latest_visits": 166405,
-      "last_seen": "2026-11-20T20:33:22.846623+00:00",
-      "trend_score": 0,
-      "trend_label": "declining",
-      "growth_ratio": 0.59
     },
     {
       "name": "The Cosalazo 2 ",

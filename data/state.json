@@ -7051,14 +7051,19 @@
           "t": "2026-11-20T20:33:22.846623+00:00",
           "ccu": 1384,
           "visits": 144680
+        },
+        {
+          "t": "2026-11-21T01:45:19.299246+00:00",
+          "ccu": 946,
+          "visits": 159525
         }
       ],
-      "latest_ccu": 1384,
-      "latest_visits": 144680,
-      "last_seen": "2026-11-20T20:33:22.846623+00:00",
+      "latest_ccu": 946,
+      "latest_visits": 159525,
+      "last_seen": "2026-11-21T01:45:19.299246+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.7
+      "growth_ratio": 1.45
     },
     "10775452129": {
       "name": "Raise a Mei Mei [MOON\ud83c\udf19]",
@@ -7089,14 +7094,19 @@
           "t": "2026-11-20T20:33:22.846623+00:00",
           "ccu": 579,
           "visits": 166405
+        },
+        {
+          "t": "2026-11-21T01:45:19.299246+00:00",
+          "ccu": 1412,
+          "visits": 179052
         }
       ],
-      "latest_ccu": 579,
-      "latest_visits": 166405,
-      "last_seen": "2026-11-20T20:33:22.846623+00:00",
-      "trend_score": 0,
-      "trend_label": "declining",
-      "growth_ratio": 0.59
+      "latest_ccu": 1412,
+      "latest_visits": 179052,
+      "last_seen": "2026-11-21T01:45:19.299246+00:00",
+      "trend_score": 92.3,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.06
     },
     "10773908096": {
       "name": "Illegal Chess",

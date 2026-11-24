@@ -7178,6 +7178,52 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10775453729": {
+      "name": "[\ud83d\udc51] ROLL TO LOOKSMAX",
+      "universeId": "10775453729",
+      "rootPlaceId": 84986900845010,
+      "description": "\ud83d\udc51 ROLL TO LOOKSMAX \ud83d\udc51\n\nRoll for better looks, climb the ranks and MOG everyone in the city!\n\n\ud83c\udfb2 Roll for jawlines, eyes, height and more\n\u2694\ufe0f Challenge anyone to a MOG OFF and finish them with a Mog FX\n\ud83c\udfc6 Unbox rare titles and show them off above your head\n\ud83e\uddea Brew serums, rebirth and become a TRUE ADAM or TRUE EVE\n\n\ud83c\udf81 CODES (tap CODES in the left menu)\n\nRELEASE: 2,500 Aura + a Title Crate (ends 27 Nov!)\n",
+      "genre": "All",
+      "created": "2026-11-08T22:26:13.244Z",
+      "creatorName": "MOGGY!",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-24T22:39:12.948696+00:00",
+          "ccu": 1031,
+          "visits": 162679
+        }
+      ],
+      "latest_ccu": 1031,
+      "latest_visits": 162679,
+      "last_seen": "2026-11-24T22:39:12.948696+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10771972206": {
+      "name": "Sparkling",
+      "universeId": "10771972206",
+      "rootPlaceId": 120525873606470,
+      "description": "Game is for fun. Alot of dragon ball inspiration. Not too much hand holding though.\n\nTrain, transform and fight your way across the galaxy.\n\nBuild your power from the ground up. Raise your stats, draw talent cards, master new forms and unlock rare traits as your power level climbs.\n\nTravel between planets like Earth, Vegeta and Namek, each with its own NPCs, quests, bosses and secrets. Train in gr",
+      "genre": "All",
+      "created": "2026-10-19T20:19:32.557Z",
+      "creatorName": "Beyond Lloyd",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-24T22:39:12.948696+00:00",
+          "ccu": 198,
+          "visits": 117298
+        }
+      ],
+      "latest_ccu": 198,
+      "latest_visits": 117298,
+      "last_seen": "2026-11-24T22:39:12.948696+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

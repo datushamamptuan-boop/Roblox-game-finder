@@ -7193,11 +7193,16 @@
           "t": "2026-11-24T22:39:12.948696+00:00",
           "ccu": 1031,
           "visits": 162679
+        },
+        {
+          "t": "2026-11-25T05:03:59.962332+00:00",
+          "ccu": 882,
+          "visits": 177849
         }
       ],
-      "latest_ccu": 1031,
-      "latest_visits": 162679,
-      "last_seen": "2026-11-24T22:39:12.948696+00:00",
+      "latest_ccu": 882,
+      "latest_visits": 177849,
+      "last_seen": "2026-11-25T05:03:59.962332+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
@@ -7216,11 +7221,62 @@
           "t": "2026-11-24T22:39:12.948696+00:00",
           "ccu": 198,
           "visits": 117298
+        },
+        {
+          "t": "2026-11-25T05:03:59.962332+00:00",
+          "ccu": 230,
+          "visits": 120714
         }
       ],
-      "latest_ccu": 198,
-      "latest_visits": 117298,
-      "last_seen": "2026-11-24T22:39:12.948696+00:00",
+      "latest_ccu": 230,
+      "latest_visits": 120714,
+      "last_seen": "2026-11-25T05:03:59.962332+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10769569077": {
+      "name": "Overflow",
+      "universeId": "10769569077",
+      "rootPlaceId": 75535615558301,
+      "description": "\ud83c\udf0a Overflow \ud83c\udf0a\n\nThis game is currently in active development! Our small team is constantly working on new updates, balancing, and fresh content. Join us early on our journey to shape the ultimate combat experience!\n\nEnter the world of Overflow! Master versatile fighting styles, hunt down monstrous beasts, and consume their Monster Essences to claim unique passives. Combine fighting techniques and cr",
+      "genre": "All",
+      "created": "2026-10-06T01:59:09.652Z",
+      "creatorName": "kyo squad",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-25T05:03:59.962332+00:00",
+          "ccu": 753,
+          "visits": 140911
+        }
+      ],
+      "latest_ccu": 753,
+      "latest_visits": 140911,
+      "last_seen": "2026-11-25T05:03:59.962332+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    "10775326124": {
+      "name": "[UPD 2] Cyberpunk: Implant Sandbox",
+      "universeId": "10775326124",
+      "rootPlaceId": 140056740260213,
+      "description": "game based of cyberpunk. still in beta expect updates.\nwill add ragdolls later.\nripperdoc still heavenly w.i.p dont expect flashy cutscenes brody.\nenjoy the game!\nwould love feedback and suggestions i can add in the game I READ ALL SUGGESTIONS AND FEEDBACK\nIF U DO NOT SEE AN UPDATE WHILE THERE SHOULD BE AN UPDATE IM PROBABLY BANNED.\nIF A MODERATOR IS READING THIS : ALL NPCS REPRESENT ROBOTS THAT A",
+      "genre": "All",
+      "created": "2026-11-08T10:29:22.352Z",
+      "creatorName": "pasapashahaha",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-25T05:03:59.962332+00:00",
+          "ccu": 152,
+          "visits": 50446
+        }
+      ],
+      "latest_ccu": 152,
+      "latest_visits": 50446,
+      "last_seen": "2026-11-25T05:03:59.962332+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

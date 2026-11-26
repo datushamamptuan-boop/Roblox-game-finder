@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T00:09:02.598238+00:00",
-  "count": 120,
+  "generated_at": "2026-11-26T08:37:45.546136+00:00",
+  "count": 121,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -7289,6 +7289,29 @@
       "latest_ccu": 215,
       "latest_visits": 58073,
       "last_seen": "2026-11-25T15:48:59.870373+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "[\ud83c\udfb0HAKARI+NANAMI\ud83d\udc54] Jujutsu Ragdoll Sandbox",
+      "universeId": "10777464027",
+      "rootPlaceId": 86120014865160,
+      "description": " JUJUTSU SANDBOX \n\nCODES\nOVERTIME 500 coins + 2x XP for 15 min\nNANAMI\t300 coins\nHATCHET\t250 coins + 2x XP for 10 min\nBLACKFLASH\t400 coins\nRATIO73\t373 coins\n\nA JJK inspired ragdoll sandbox where every cursed technique matters. Unleash devastating abilities, experiment with powerful attacks, and watch dummies react to the overwhelming power of Jujutsu Sorcery!\n\ud83d\udd34 Unleash iconic cursed techniques like",
+      "genre": "All",
+      "created": "2026-11-18T04:10:20.372Z",
+      "creatorName": "Infinite Void Interactive",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-26T08:37:45.546136+00:00",
+          "ccu": 734,
+          "visits": 111608
+        }
+      ],
+      "latest_ccu": 734,
+      "latest_visits": 111608,
+      "last_seen": "2026-11-26T08:37:45.546136+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

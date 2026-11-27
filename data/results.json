@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T01:58:09.910461+00:00",
-  "count": 122,
+  "generated_at": "2026-11-27T10:47:02.187492+00:00",
+  "count": 125,
   "games": [
     {
       "name": "\ud83d\udd25HELL\ud83d\udd25Mog or Die ",
@@ -7340,6 +7340,75 @@
       "latest_ccu": 958,
       "latest_visits": 193465,
       "last_seen": "2026-11-27T01:58:09.910461+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Solve the Case",
+      "universeId": "10776327410",
+      "rootPlaceId": 120996129461918,
+      "description": "\ud83d\udd0e SOLVE THE CASE \ud83d\udd75\ufe0f\n\nThink you have what it takes to be a detective? \ud83d\udd0d\n\n\ud83d\uddc2\ufe0f Investigate mysterious cases\n\ud83d\udcf1 Search phones, messages & hidden clues\n\ud83d\udcbb Examine CCTV footage and secret evidence\n\ud83e\udde9 Connect clues and uncover the truth\n\ud83d\udc65 Play SOLO or with up to 4 friends\n\ud83d\udea8 Question suspects and expose their lies\n\n\ud83d\udcc1 CASE 001: THE MISSING GIRL\n\nA 19-year-old girl has mysteriously disappeared. The suspects hav",
+      "genre": "All",
+      "created": "2026-11-13T10:11:30.578Z",
+      "creatorName": "Cyra Studios",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-27T10:47:02.187492+00:00",
+          "ccu": 809,
+          "visits": 115790
+        }
+      ],
+      "latest_ccu": 809,
+      "latest_visits": 115790,
+      "last_seen": "2026-11-27T10:47:02.187492+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Don't Let Sheldon Be Late",
+      "universeId": "10774789440",
+      "rootPlaceId": 94479384469367,
+      "description": "Don't Let Sheldon Be Late\n\nTry and get to school in one piece!",
+      "genre": "All",
+      "created": "2026-11-05T11:23:58.919Z",
+      "creatorName": "sipnbleech",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-27T10:47:02.187492+00:00",
+          "ccu": 147,
+          "visits": 187533
+        }
+      ],
+      "latest_ccu": 147,
+      "latest_visits": 187533,
+      "last_seen": "2026-11-27T10:47:02.187492+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
+    },
+    {
+      "name": "Proof: Cryptid Cam [UPD2]",
+      "universeId": "10773557013",
+      "rootPlaceId": 105477723680912,
+      "description": "Hollow Pines has a ranger, a lodge, and a forest that people don't come back from. \ud83c\udf32\n\nFive are missing. Ranger Hollis needs proof of what took them, and he'll pay for every photo you bring back. \ud83d\udcf8\n\nTake his camera. Light your lantern. \ud83c\udfee Walk past the hedge.\n\nOut there, things watch from the trees. \ud83d\udc40 Some only watch. Some follow you home. Some will run you down if your light goes out.\n\nPhotograph t",
+      "genre": "All",
+      "created": "2026-10-28T21:07:13.032Z",
+      "creatorName": "LittleB Studio",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-27T10:47:02.187492+00:00",
+          "ccu": 525,
+          "visits": 121128
+        }
+      ],
+      "latest_ccu": 525,
+      "latest_visits": 121128,
+      "last_seen": "2026-11-27T10:47:02.187492+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -7318,6 +7318,29 @@
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
+    },
+    "10774115938": {
+      "name": "[UPDATE] Oakland Psychiatric Facility",
+      "universeId": "10774115938",
+      "rootPlaceId": 116290597432314,
+      "description": "\u26d3\ufe0f ESCAPE the mental asylum or \ud83d\udc6e CONTROL the CHAOS \n\nWelcome to \ud83c\udfe5 OAKLAND PSYCHIATRIC FACILITY, a realistic mental asylum roleplay!\n\n\ud83e\ude79 PATIENTS: take your meds, go to therapy, earn credits.. and PLAN YOUR ESCAPE!\n\ud83e\uddb9 ESCAPEES: Help other patients in the asylum escape and CAUSE CHAOS!\n\ud83d\udc6e SECURITY: Escort patients, run the checkpoint, cuff troublemakers, and RESPOND TO RIOTS!\n\ud83e\ude7a DOCTORS: Treat injuries ",
+      "genre": "All",
+      "created": "2026-11-01T04:27:12.925Z",
+      "creatorName": "Oakland Psychiatric Facility",
+      "creatorType": "Group",
+      "history": [
+        {
+          "t": "2026-11-27T01:58:09.910461+00:00",
+          "ccu": 958,
+          "visits": 193465
+        }
+      ],
+      "latest_ccu": 958,
+      "latest_visits": 193465,
+      "last_seen": "2026-11-27T01:58:09.910461+00:00",
+      "trend_score": null,
+      "trend_label": "insufficient_data",
+      "growth_ratio": null
     }
   }
 }

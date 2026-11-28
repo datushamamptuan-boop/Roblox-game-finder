@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:35:28.085221+00:00",
+  "generated_at": "2026-11-28T10:54:16.878224+00:00",
   "count": 125,
   "games": [
     {
@@ -966,14 +966,19 @@
           "t": "2026-11-28T02:35:28.085221+00:00",
           "ccu": 222,
           "visits": 125649
+        },
+        {
+          "t": "2026-11-28T10:54:16.878224+00:00",
+          "ccu": 238,
+          "visits": 136201
         }
       ],
-      "latest_ccu": 222,
-      "latest_visits": 125649,
-      "last_seen": "2026-11-28T02:35:28.085221+00:00",
+      "latest_ccu": 238,
+      "latest_visits": 136201,
+      "last_seen": "2026-11-28T10:54:16.878224+00:00",
       "trend_score": 100,
       "trend_label": "strong_upward",
-      "growth_ratio": 1.79
+      "growth_ratio": 1.63
     },
     {
       "name": "Survive a Psycho",

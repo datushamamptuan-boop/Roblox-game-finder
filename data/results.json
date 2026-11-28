@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T19:53:03.729755+00:00",
+  "generated_at": "2026-11-28T02:35:28.085221+00:00",
   "count": 125,
   "games": [
     {
@@ -936,6 +936,44 @@
       "trend_score": 100,
       "trend_label": "strong_upward",
       "growth_ratio": 1.76
+    },
+    {
+      "name": "[UPD 2] Cyberpunk: Implant Sandbox",
+      "universeId": "10775326124",
+      "rootPlaceId": 140056740260213,
+      "description": "game based of cyberpunk. still in beta expect updates.\nwill add ragdolls later.\nripperdoc still heavenly w.i.p dont expect flashy cutscenes brody.\nenjoy the game!\nwould love feedback and suggestions i can add in the game I READ ALL SUGGESTIONS AND FEEDBACK\nIF U DO NOT SEE AN UPDATE WHILE THERE SHOULD BE AN UPDATE IM PROBABLY BANNED.\nIF A MODERATOR IS READING THIS : ALL NPCS REPRESENT ROBOTS THAT A",
+      "genre": "All",
+      "created": "2026-11-08T10:29:22.352Z",
+      "creatorName": "pasapashahaha",
+      "creatorType": "User",
+      "history": [
+        {
+          "t": "2026-11-25T05:03:59.962332+00:00",
+          "ccu": 152,
+          "visits": 50446
+        },
+        {
+          "t": "2026-11-25T15:48:59.870373+00:00",
+          "ccu": 215,
+          "visits": 58073
+        },
+        {
+          "t": "2026-11-27T19:53:03.729755+00:00",
+          "ccu": 435,
+          "visits": 113280
+        },
+        {
+          "t": "2026-11-28T02:35:28.085221+00:00",
+          "ccu": 222,
+          "visits": 125649
+        }
+      ],
+      "latest_ccu": 222,
+      "latest_visits": 125649,
+      "last_seen": "2026-11-28T02:35:28.085221+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.79
     },
     {
       "name": "Survive a Psycho",
@@ -7266,39 +7304,6 @@
       "growth_ratio": null
     },
     {
-      "name": "[UPD 2] Cyberpunk: Implant Sandbox",
-      "universeId": "10775326124",
-      "rootPlaceId": 140056740260213,
-      "description": "game based of cyberpunk. still in beta expect updates.\nwill add ragdolls later.\nripperdoc still heavenly w.i.p dont expect flashy cutscenes brody.\nenjoy the game!\nwould love feedback and suggestions i can add in the game I READ ALL SUGGESTIONS AND FEEDBACK\nIF U DO NOT SEE AN UPDATE WHILE THERE SHOULD BE AN UPDATE IM PROBABLY BANNED.\nIF A MODERATOR IS READING THIS : ALL NPCS REPRESENT ROBOTS THAT A",
-      "genre": "All",
-      "created": "2026-11-08T10:29:22.352Z",
-      "creatorName": "pasapashahaha",
-      "creatorType": "User",
-      "history": [
-        {
-          "t": "2026-11-25T05:03:59.962332+00:00",
-          "ccu": 152,
-          "visits": 50446
-        },
-        {
-          "t": "2026-11-25T15:48:59.870373+00:00",
-          "ccu": 215,
-          "visits": 58073
-        },
-        {
-          "t": "2026-11-27T19:53:03.729755+00:00",
-          "ccu": 435,
-          "visits": 113280
-        }
-      ],
-      "latest_ccu": 435,
-      "latest_visits": 113280,
-      "last_seen": "2026-11-27T19:53:03.729755+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
-    },
-    {
       "name": "[\ud83c\udfb0HAKARI+NANAMI\ud83d\udc54] Jujutsu Ragdoll Sandbox",
       "universeId": "10777464027",
       "rootPlaceId": 86120014865160,
@@ -7419,11 +7424,16 @@
           "t": "2026-11-27T19:53:03.729755+00:00",
           "ccu": 2286,
           "visits": 147399
+        },
+        {
+          "t": "2026-11-28T02:35:28.085221+00:00",
+          "ccu": 2592,
+          "visits": 182019
         }
       ],
-      "latest_ccu": 2286,
-      "latest_visits": 147399,
-      "last_seen": "2026-11-27T19:53:03.729755+00:00",
+      "latest_ccu": 2592,
+      "latest_visits": 182019,
+      "last_seen": "2026-11-28T02:35:28.085221+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null

@@ -7287,14 +7287,19 @@
           "t": "2026-11-27T19:53:03.729755+00:00",
           "ccu": 435,
           "visits": 113280
+        },
+        {
+          "t": "2026-11-28T02:35:28.085221+00:00",
+          "ccu": 222,
+          "visits": 125649
         }
       ],
-      "latest_ccu": 435,
-      "latest_visits": 113280,
-      "last_seen": "2026-11-27T19:53:03.729755+00:00",
-      "trend_score": null,
-      "trend_label": "insufficient_data",
-      "growth_ratio": null
+      "latest_ccu": 222,
+      "latest_visits": 125649,
+      "last_seen": "2026-11-28T02:35:28.085221+00:00",
+      "trend_score": 100,
+      "trend_label": "strong_upward",
+      "growth_ratio": 1.79
     },
     "10777464027": {
       "name": "[\ud83c\udfb0HAKARI+NANAMI\ud83d\udc54] Jujutsu Ragdoll Sandbox",
@@ -7417,11 +7422,16 @@
           "t": "2026-11-27T19:53:03.729755+00:00",
           "ccu": 2286,
           "visits": 147399
+        },
+        {
+          "t": "2026-11-28T02:35:28.085221+00:00",
+          "ccu": 2592,
+          "visits": 182019
         }
       ],
-      "latest_ccu": 2286,
-      "latest_visits": 147399,
-      "last_seen": "2026-11-27T19:53:03.729755+00:00",
+      "latest_ccu": 2592,
+      "latest_visits": 182019,
+      "last_seen": "2026-11-28T02:35:28.085221+00:00",
       "trend_score": null,
       "trend_label": "insufficient_data",
       "growth_ratio": null
